@@ -44,14 +44,14 @@ sources:
     type: blog
 
   - name: "3one4 Capital"
-    url: "https://3one4capital.com/feed/"
+    url: "https://3one4capital.com/blog/"
     type: blog
-    disabled: true  # no RSS feed found; custom-built site with no feed endpoint
+    feed_type: scrape_index  # no RSS; scrapes listing page for article links
 
   - name: "Stellaris"
-    url: "https://stellarisvp.com/feed/"
+    url: "https://stellarisvp.com/perspectives/"
     type: blog
-    disabled: true  # no RSS feed found; custom-built site with no feed endpoint
+    feed_type: scrape_index  # no RSS; scrapes listing page for article links
 
   - name: "iSPIRT"
     url: "https://ispirt.in/feed/"
