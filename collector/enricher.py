@@ -4,13 +4,14 @@ import math
 SECTOR_KEYWORDS = {
     "Defence": [
         "defence", "defense", "military", "drdo", "weapons", "drone warfare",
-        "idex", "nato", "pla", "armed forces", "ministry of defence", "mod ",
-        "ballistic", "missile", "combat", "warfighter",
+        "idex", "nato", "people's liberation army", "armed forces",
+        "ministry of defence", "ballistic", "missile", "combat", "warfighter",
+        "pentagon", "air force", "navy seal", "defence procurement",
     ],
     "Robotics": [
-        "robot", "robotics", "autonomous vehicle", "drone delivery", "uav",
-        "automation", "cobots", "industrial robot", "drones", "bvlos",
-        "self-driving", "unmanned",
+        "robot", "robotics", "autonomous vehicle", "drone delivery", "uav ",
+        "cobots", "industrial robot", "bvlos", "self-driving", "unmanned aerial",
+        "humanoid", "legged robot", "robotic",
     ],
     "Climate": [
         "climate", "carbon", "renewable", "agritech", "agriculture",
@@ -19,18 +20,21 @@ SECTOR_KEYWORDS = {
     ],
     "MedTech": [
         "medtech", "healthtech", "telemedicine", "diagnostics", "medical device",
-        "health ai", "clinical", "patient", "hospital", "therapeutics",
+        "health ai", "clinical trial", "therapeutics",
         "drug discovery", "biotech", "genomics", "wearable health",
+        "brain-computer interface", "bci", "gene therapy", "medical implant",
     ],
     "AI Infrastructure": [
-        "ai infrastructure", "gpu cluster", "data centre", "large language model",
-        "llm", "foundation model", "cloud ai", "inference", "training compute",
-        "hyperscaler", "ai chip", "tpu", "nvidia",
+        "ai infrastructure", "gpu cluster", "data centre", "data center",
+        "large language model", "llm", "foundation model", "cloud ai",
+        "training compute", "hyperscaler", "ai chip", "tpu", "nvidia",
+        "inference chip", "ai accelerator",
     ],
     "Semiconductors": [
-        "semiconductor", "chip fab", "vlsi", "tsmc", "fabless", "soc ",
-        "chips act", "wafer", "node process", "eda ", "arm holdings",
-        "integrated circuit", "chip design", "foundry",
+        "semiconductor", "chip fab", "vlsi", "tsmc", "fabless",
+        "chips act", "wafer", "node process", "arm holdings",
+        "integrated circuit", "chip design", "foundry", "system-on-chip",
+        "silicon", "finfet", "logic chip",
     ],
     "Quantum Computing": [
         "quantum computing", "qubit", "quantum communication",
