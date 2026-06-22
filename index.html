@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; object-src 'none'; base-uri 'none';">
+  <title>UIV Deep Reads</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <h1>Deep Reads</h1>
+      <p class="subtitle">Deeptech long-form — Unicorn India Ventures</p>
+    </div>
+  </header>
+
+  <main>
+    <div class="filters">
+      <div class="filter-group">
+        <span class="filter-label">Sector</span>
+        <div id="sector-filters" class="filter-pills"></div>
+      </div>
+      <div class="filter-group">
+        <span class="filter-label">Source type</span>
+        <div id="type-filters" class="filter-pills"></div>
+      </div>
+      <label class="unread-toggle">
+        <input type="checkbox" id="unread-only"> Unread only
+      </label>
+    </div>
+
+    <div id="articles" class="articles"></div>
+    <p id="empty-state" class="empty-state" hidden>No articles match your filters.</p>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

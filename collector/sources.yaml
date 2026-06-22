@@ -1,0 +1,62 @@
+sources:
+  - name: "Sajith Pai"
+    url: "https://sajithpai.substack.com/feed"
+    type: substack
+
+  - name: "Benedict Evans"
+    url: "https://www.ben-evans.com/benedictevans?format=rss"
+    type: blog
+
+  - name: "Not Boring"
+    url: "https://www.notboring.co/feed"
+    type: substack
+
+  - name: "Construction Physics"
+    url: "https://www.construction-physics.com/feed"
+    type: substack
+
+  - name: "Heatmap News"
+    url: "https://heatmap.news/feeds/feed.rss"
+    type: newsletter
+
+  - name: "a16z Bio"
+    url: "https://a16z.com/tag/bio/feed/"
+    type: blog
+
+  - name: "a16z American Dynamism"
+    url: "https://a16z.com/tag/american-dynamism/feed/"
+    type: blog
+
+  - name: "Lux Capital"
+    url: "https://medium.com/feed/lux-capital"
+    type: blog
+
+  - name: "MIT Technology Review"
+    url: "https://www.technologyreview.com/feed/"
+    type: publication
+
+  - name: "IEEE Spectrum"
+    url: "https://spectrum.ieee.org/feeds/feed.rss"
+    type: publication
+
+  - name: "Blume Ventures"
+    url: "https://blume.vc/blog/feed/"
+    type: blog
+
+  - name: "3one4 Capital"
+    url: "https://3one4capital.com/feed/"
+    type: blog
+    disabled: true  # no RSS feed found; custom-built site with no feed endpoint
+
+  - name: "Stellaris"
+    url: "https://stellarisvp.com/feed/"
+    type: blog
+    disabled: true  # no RSS feed found; custom-built site with no feed endpoint
+
+  - name: "iSPIRT"
+    url: "https://ispirt.in/feed/"
+    type: blog
+
+  - name: "Inc42"
+    url: "https://inc42.com/feed/"
+    type: publication
