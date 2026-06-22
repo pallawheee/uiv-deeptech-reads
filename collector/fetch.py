@@ -80,6 +80,10 @@ def fetch_all() -> int:
                 log_error({"url": url, "source": source["name"], "reason": f"enrich_failed: {e}"})
                 continue
 
+            if not enrichment["sectors"]:
+                print(f"  skip (no deeptech sector): {title[:50]}")
+                continue
+
             article = {
                 "id": article_id(url),
                 "title": title,
