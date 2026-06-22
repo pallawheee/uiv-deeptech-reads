@@ -17,6 +17,9 @@ SECTOR_KEYWORDS = {
         "climate", "carbon", "renewable", "agritech", "agriculture",
         "cleantech", "solar", "electric vehicle", "ev battery", "emissions",
         "sustainability", "net zero", "green hydrogen", "fertilizer", "crop",
+        "geoengineering", "wind energy", "wind farm", "offshore wind",
+        "energy transition", "coal plant", "natural gas", "grid-scale",
+        "battery storage", "clean energy", "fossil fuel",
     ],
     "MedTech": [
         "medtech", "healthtech", "telemedicine", "diagnostics", "medical device",
