@@ -41,21 +41,7 @@ def is_too_old(published_at: str) -> bool:
         return False
 
 
-def fetch_all() -> int:
-    sources = load_sources()
-    data = load_articles()
-    added = 0
-
-    for source in sources:
-        print(f"\n[{source['name']}] Checking {source['url']}")
-
-        if source.get("feed_type") == "scrape_index":
-            added += _fetch_scrape_index(source, data)
-        else:
-            added += _fetch_rss(source, data)
-
 def _process_candidate(url: str, title: str, published_at: str, source: dict, data: dict) -> bool:
-    """Scrape, enrich, and append one article. Returns True if added."""
     if is_duplicate(url, data):
         print(f"  skip (duplicate): {title[:50]}")
         return False
