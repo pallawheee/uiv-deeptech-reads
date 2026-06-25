@@ -1,6 +1,237 @@
 {
-  "last_updated": "2026-06-24T04:46:22.244254+00:00",
+  "last_updated": "2026-06-25T04:43:49.634988+00:00",
   "articles": [
+    {
+      "id": "5baddf823fff8852",
+      "title": "Home Broadband Is 5G’s Surprise Killer App",
+      "url": "https://spectrum.ieee.org/fixed-wireless-access",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-06-24T10:00:02+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "But the surprise plot twist came when replacing home cable internet turned into 5G’s most widely adopted new application. Fixed wireless access (FWA) now serves over 14 million U.S. customers, and contributes 28 percent of worldwide wireless traffic.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-06-25T04:43:28.813944+00:00"
+    },
+    {
+      "id": "0ab3d75690d1def1",
+      "title": "AI Is Designing Radio Chips That Humans Couldn’t Even Imagine",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-06-24T13:00:01+00:00",
+      "sectors": [
+        "Robotics",
+        "Semiconductors",
+        "Quantum Computing"
+      ],
+      "excerpt": "- Princeton researchers use reinforcement learning and inverse design to rapidly create RFICs from scratch. - Diffusion models rapidly generate novel or human-interpretable RF layouts, achieving record performance and drastically reducing design time. - Future progress needs large, shared chip design datasets and open ecosystems so AI can learn universal electromagnetic and circuit behaviors.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-06-25T04:43:28.223563+00:00"
+    },
+    {
+      "id": "0e1d1d35022ec4e2",
+      "title": "How IEEE Awardee Karen Panetta Became Bewitched by Engineering",
+      "url": "https://spectrum.ieee.org/ieee-awardee-karen-panetta",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-06-24T18:00:01+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "The sitcoms’ main characters—Samantha Stevens, a witch; and Jeannie, a genie—were “strong, empowered female leads using magic,” Panetta says, and they inspired her to become an engineer, as it was like sorcery to her. Panetta, an IEEE Fellow, is dean of graduate education at the Tufts University engineering school, in Medford, Mass., outside of Boston. Karen Panetta\nEmployer\nTufts University, in Medford, Mass.",
+      "signal": "",
+      "estimated_read_minutes": 11,
+      "fetched_at": "2026-06-25T04:43:27.388645+00:00"
+    },
+    {
+      "id": "d53f3b365ee4de42",
+      "title": "Sharing a love for calculus",
+      "url": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-06-23T21:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI. Whatever your own perspective on that debate, I hope you’ll be glad to know that MIT is also working on a deeply important but comparatively old-fashioned challenge: American high school students’ startlingly uneven access to calculus. According to the National Survey of Science and Mathematics Education, which covers the nation’s more than 13,000 school districts, in almost half of US high schools calculus isn’t even offered.",
+      "signal": "",
+      "estimated_read_minutes": 3,
+      "fetched_at": "2026-06-25T04:43:25.859048+00:00"
+    },
+    {
+      "id": "a304962ed0149faa",
+      "title": "All challenges big and small",
+      "url": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-06-24T09:00:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to no electricity, aside from generator power.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-06-25T04:43:24.932637+00:00"
+    },
+    {
+      "id": "14de5b78db6d0933",
+      "title": "This flying solar-powered platform could deliver better internet from the air",
+      "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-06-24T09:00:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan. Once there, the roughly 200-foot-long craft, built by the New Mexico–based company Sceye, will park some 18 kilometers above the ocean’s surface, in a wispy-thin layer known as the stratosphere. Then it will use a custom-built antenna to supplement Softbank’s 5G network, a test that will include beaming data straight to devices.",
+      "signal": "",
+      "estimated_read_minutes": 3,
+      "fetched_at": "2026-06-25T04:43:24.357318+00:00"
+    },
+    {
+      "id": "9fca72dbae7dafd3",
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-06-24T11:59:54+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "In partnership withBright Data\nAI is booming. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-06-25T04:43:23.786825+00:00"
+    },
+    {
+      "id": "572ef33e5fd7dfef",
+      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
+      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-06-24T12:00:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "The common cold comes for us all—often more than once a year. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new $500 million nonprofit whose goal is preventing both the common cold and the flu.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-06-25T04:43:23.202475+00:00"
+    },
+    {
+      "id": "12190d9820649084",
+      "title": "Europe’s extreme heat is shutting down power plants",
+      "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-06-24T15:25:28+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-06-25T04:43:22.461669+00:00"
+    },
+    {
+      "id": "eeeacc70c0eae484",
+      "title": "How China Saved the World From Trump’s Energy Crisis",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e55-china-iran",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-24T09:10:03+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 65,
+      "fetched_at": "2026-06-25T04:43:20.427068+00:00"
+    },
+    {
+      "id": "80c887d920dada5f",
+      "title": "Walmart Goes Nuclear",
+      "url": "https://heatmap.news/am/walmart-nuclear-constellation",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-24T11:57:50+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 17,
+      "fetched_at": "2026-06-25T04:43:19.432275+00:00"
+    },
+    {
+      "id": "4419ee23b77a6fa4",
+      "title": "Sunrun, Tesla, and Renew Home Have 16 Gigawatts Up for Grabs",
+      "url": "https://heatmap.news/energy/sunrun-tesla-renew-home-vpp",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-24T12:00:02+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 67,
+      "fetched_at": "2026-06-25T04:43:18.846522+00:00"
+    },
+    {
+      "id": "e3c74d3f7e931645",
+      "title": "Transcript: How China Saved the World From Trump’s Energy Crisis",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e55-china-iran-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-24T19:22:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 65,
+      "fetched_at": "2026-06-25T04:43:18.244742+00:00"
+    },
+    {
+      "id": "c8f07fca6545ec0a",
+      "title": "Key House Democrat Calls for a National Data Center Moratorium",
+      "url": "https://heatmap.news/politics/pallone-data-center-moratorium",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-24T20:26:10+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 67,
+      "fetched_at": "2026-06-25T04:43:17.587323+00:00"
+    },
+    {
+      "id": "1c1659ae994fd0ba",
+      "title": "The ‘Most Important Thing’ We Learned From the Iran War",
+      "url": "https://heatmap.news/daily/iran-war-lessons-china",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-24T22:30:06+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 66,
+      "fetched_at": "2026-06-25T04:43:16.946668+00:00"
+    },
     {
       "id": "48ccb6bd96a3ae70",
       "title": "AI Is Learning to Read the Room",
