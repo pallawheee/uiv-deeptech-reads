@@ -1,6 +1,116 @@
 {
-  "last_updated": "2026-06-25T04:43:49.634988+00:00",
+  "last_updated": "2026-06-26T04:49:32.859241+00:00",
   "articles": [
+    {
+      "id": "891ae09767cdafaf",
+      "title": "Why Does a Bank Need a Chief Scientist?",
+      "url": "https://spectrum.ieee.org/capital-one-science-ai-finance-innovation",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-06-25T17:32:32+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "After five years leading natural language understanding and eventually the entire Alexa AI organization at Amazon, Prem Natarajan made a nontraditional move: He became Chief Scientist at a bank. Not just any bank: Capital One, a financial institution serving over 100 million customers, helping everyday Americans manage their financial lives. For Natarajan, a veteran of DARPA-funded research and academia who had watched machine learning evolve from task-specific applications to foundation models, the logic was clear.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-06-26T04:49:03.511983+00:00"
+    },
+    {
+      "id": "9976f622653b5621",
+      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-06-25T10:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to come. For more than half a century, chipmakers have been able to make ever more powerful computers by following the key principle of Moore’s Law: Cram more transistors onto the chip.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-06-26T04:49:02.332594+00:00"
+    },
+    {
+      "id": "aaf024d6b477f16f",
+      "title": "What Europe’s heat wave means for the power grid",
+      "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-06-25T10:00:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event about extreme heat. As the summer ramps up and we see this kind of weather sweep around the Northern Hemisphere, I’m always keeping my eye on the power grid.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-06-26T04:49:01.679882+00:00"
+    },
+    {
+      "id": "20bbdf16a8b7f3ef",
+      "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
+      "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-06-25T12:10:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Europe’s extreme heat is shutting down power plants\nEurope is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. But some power plants won’t be online to help handle the load.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-06-26T04:49:01.048504+00:00"
+    },
+    {
+      "id": "b69eaeec57353913",
+      "title": "Red States Are Seeing Some of the Worst Gas Price Hikes",
+      "url": "https://heatmap.news/am/gas-prices-iran",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-25T11:55:07+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 67,
+      "fetched_at": "2026-06-26T04:48:58.600795+00:00"
+    },
+    {
+      "id": "1113f38d2275b932",
+      "title": "How the Slate Truck Got So Cheap",
+      "url": "https://heatmap.news/electric-vehicles/slate-truck-price",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-25T16:42:44+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-06-26T04:48:57.890214+00:00"
+    },
+    {
+      "id": "91e58369806e7a03",
+      "title": "Heat Waves, Hot Rods, and Mr. Wonderful",
+      "url": "https://heatmap.news/daily/europe-heat-stratos-slate",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-25T22:57:30+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-06-26T04:48:57.213273+00:00"
+    },
     {
       "id": "5baddf823fff8852",
       "title": "Home Broadband Is 5G’s Surprise Killer App",
