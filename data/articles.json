@@ -1,6 +1,132 @@
 {
-  "last_updated": "2026-06-26T04:49:32.859241+00:00",
+  "last_updated": "2026-06-27T04:33:07.521133+00:00",
   "articles": [
+    {
+      "id": "0ed8d377bbafdcb1",
+      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+      "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-06-26T09:00:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Children and people with mental health disorders are especially vulnerable. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F).",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-06-27T04:32:42.149252+00:00"
+    },
+    {
+      "id": "482be67e10193735",
+      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+      "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-06-26T12:10:00+00:00",
+      "sectors": [
+        "Climate",
+        "MedTech",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Scientists are trying to figure out why. —Jessica Hamzelou\nIt’s been hot in London this week.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-06-27T04:32:41.543275+00:00"
+    },
+    {
+      "id": "f959dfd0013a490a",
+      "title": "The U.S. Just Banned Polestar",
+      "url": "https://heatmap.news/am/us-bans-polestar",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-26T12:17:54+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 28,
+      "fetched_at": "2026-06-27T04:32:39.610116+00:00"
+    },
+    {
+      "id": "34d98a288c527385",
+      "title": "Funding Friday: Beyond Carbon Certification",
+      "url": "https://heatmap.news/climate-tech/isometric-series-a",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-26T18:07:11+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 27,
+      "fetched_at": "2026-06-27T04:32:39.005520+00:00"
+    },
+    {
+      "id": "fda496e05433d5a6",
+      "title": "What Solar Developers Can Teach Data Centers About Making Friends at the Local Level",
+      "url": "https://heatmap.news/plus/the-fight/qa/hanson-wood-rwe",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-26T20:06:04+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 12,
+      "fetched_at": "2026-06-27T04:32:38.390569+00:00"
+    },
+    {
+      "id": "33301c16995dcdcf",
+      "title": "Far-Right Wind Foes Call It Quits Against Coastal Virginia",
+      "url": "https://heatmap.news/plus/the-fight/hotspots/coastal-virginia-offshore-wind-lawsuit",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-26T20:12:06+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 12,
+      "fetched_at": "2026-06-27T04:32:37.804000+00:00"
+    },
+    {
+      "id": "6aac6d4a3b279c93",
+      "title": "Data Centers Have a Farmland Problem, Too",
+      "url": "https://heatmap.news/plus/the-fight/spotlight/data-centers-have-a-farmland-problem-too",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-26T20:12:18+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 15,
+      "fetched_at": "2026-06-27T04:32:37.156045+00:00"
+    },
+    {
+      "id": "6960034c69f5d5c7",
+      "title": "6 Facts About Europe and Air Conditioning",
+      "url": "https://heatmap.news/daily/europe-air-conditioning",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-26T22:33:20+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 12,
+      "fetched_at": "2026-06-27T04:32:36.447591+00:00"
+    },
     {
       "id": "891ae09767cdafaf",
       "title": "Why Does a Bank Need a Chief Scientist?",
