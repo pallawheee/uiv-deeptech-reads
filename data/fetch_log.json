@@ -35,5 +35,16 @@
     "source": "Stellaris",
     "reason": "scrape_index_returned_no_links",
     "timestamp": "2026-06-27T04:32:52.479555+00:00"
+  },
+  {
+    "url": "https://blume.vc/commentaries/trust-thesis-understanding-the-foundational-building-blocks-of-the-indian-consumer-internet",
+    "source": "Blume Ventures",
+    "reason": "scrape_failed",
+    "timestamp": "2026-06-28T04:58:49.254451+00:00"
+  },
+  {
+    "source": "Stellaris",
+    "reason": "scrape_index_returned_no_links",
+    "timestamp": "2026-06-28T04:58:52.701651+00:00"
   }
 ]
