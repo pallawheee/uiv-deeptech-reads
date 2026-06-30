@@ -1,6 +1,145 @@
 {
-  "last_updated": "2026-06-29T05:11:42.711673+00:00",
+  "last_updated": "2026-06-30T04:42:56.819477+00:00",
   "articles": [
+    {
+      "id": "50072f96943c3b3c",
+      "title": "Translating Intelligence Into Action 3One4 Capital And Aws Host The Physical Ai Builder Session",
+      "url": "https://3one4capital.com/blogs/translating-intelligence-into-action-3one4-capital-and-aws-host-the-physical-ai-builder-session",
+      "source_name": "3one4 Capital",
+      "source_type": "blog",
+      "published_at": "2026-06-30T04:42:40.570628+00:00",
+      "sectors": [
+        "Robotics",
+        "Semiconductors"
+      ],
+      "excerpt": "Deploying intelligent systems in industrial environments presents complex engineering challenges. 3one4 Capital partnered with Amazon Web Services to host the The Model to Machine: A Builder Session on Physical AI in Bengaluru. The recent closed-door gathering convened founders, engineers, and researchers to examine the practical realities of scaling physical artificial intelligence from research to production.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-06-30T04:42:40.571120+00:00"
+    },
+    {
+      "id": "bdb9d08aaa4c89bb",
+      "title": "How the U.S. Engineered Its Sovereignty",
+      "url": "https://spectrum.ieee.org/us-engineered-sovereignty",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-06-29T11:00:02+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "The image shows a clear moment of change: sail giving way to steam, and with it, a major shift in power. The ship relied on timber, rope, canvas, and Britain’s seafaring towns. The tug depended on coal mines and iron foundries that supplied machine shops in the Midlands.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-06-30T04:42:35.744343+00:00"
+    },
+    {
+      "id": "fc1189db79d8063a",
+      "title": "The Lab Mistake That Might Revolutionize Computing",
+      "url": "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-06-29T13:00:01+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "In other words, you probably used artificial intelligence. But what you might not know is how much energy that interaction consumed or why. AI requires processing massive amounts of data, which is usually done in large data centers populated by thousands of GPUs capable of executing up to trillions of operations per second.",
+      "signal": "",
+      "estimated_read_minutes": 14,
+      "fetched_at": "2026-06-30T04:42:35.166445+00:00"
+    },
+    {
+      "id": "04fc822f835a7be3",
+      "title": "The Download: metric weaknesses and AI elephant warnings",
+      "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-06-29T12:10:00+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. The inevitable weakness of metrics\nThere are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-06-30T04:42:33.966384+00:00"
+    },
+    {
+      "id": "9058bcd27a2443da",
+      "title": "AI agents are not your “coworkers”",
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-06-29T18:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-06-30T04:42:33.279148+00:00"
+    },
+    {
+      "id": "4e24feeb235ad7d0",
+      "title": "The Other Country Losing Offshore Wind Developers",
+      "url": "https://heatmap.news/am/japan-equinor-wind",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-29T12:19:14+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-06-30T04:42:31.633515+00:00"
+    },
+    {
+      "id": "b7aee26cba6dc3e3",
+      "title": "Thinking Like an Engineer Won’t Fix the Grid",
+      "url": "https://heatmap.news/ideas/ai-grid-problem",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-29T14:34:02+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-06-30T04:42:31.004550+00:00"
+    },
+    {
+      "id": "6c304f9b5a931a1c",
+      "title": "FERC Was Already Losing Its Independence. Now It’s Gone.",
+      "url": "https://heatmap.news/politics/supreme-court-ferc",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-29T21:46:33+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-06-30T04:42:30.419499+00:00"
+    },
+    {
+      "id": "f041a3bbc81bcb6b",
+      "title": "An Alternative Theory of Europe’s AC Problems",
+      "url": "https://heatmap.news/daily/europe-air-conditioning-windows",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-29T21:55:44+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-06-30T04:42:29.788647+00:00"
+    },
     {
       "id": "0ed8d377bbafdcb1",
       "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
