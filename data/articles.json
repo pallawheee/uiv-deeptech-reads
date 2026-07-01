@@ -1,6 +1,192 @@
 {
-  "last_updated": "2026-06-30T04:42:56.819477+00:00",
+  "last_updated": "2026-07-01T05:04:36.360100+00:00",
   "articles": [
+    {
+      "id": "cfb17766d4146a75",
+      "title": "Tata Electronics Data Breach Exposed Apple’s iPhone 18 Pro Supply Chain: Report",
+      "url": "https://inc42.com/buzz/tata-electronics-data-breach-exposed-apples-iphone-18-pro-supply-chain-report/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-06-30T08:54:44+00:00",
+      "sectors": [
+        "Cybersecurity"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-07-01T05:04:33.175142+00:00"
+    },
+    {
+      "id": "85ce2a73b326686b",
+      "title": "Finance Ministry Approves ₹1.25 Lakh Cr Outlay For Semiconductor Mission 2.0",
+      "url": "https://inc42.com/buzz/finance-ministry-approves-%e2%82%b91-25-lakh-cr-outlay-for-semiconductor-mission-2-0/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-06-30T11:56:01+00:00",
+      "sectors": [
+        "Semiconductors"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-07-01T05:04:31.020387+00:00"
+    },
+    {
+      "id": "a107d0aeb9abd179",
+      "title": "Building tech in the world’s secret R&D hub",
+      "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-06-30T10:23:30+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "Few places outside Silicon Valley can claim R&D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however, many of the world's most influential technology companies have established R&D operations in and around Zurich, Switzerland.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-07-01T05:04:11.994746+00:00"
+    },
+    {
+      "id": "33f454e5c47a33f2",
+      "title": "Agriculture is ready for AI, but its data isn’t",
+      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-06-30T12:00:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Provided byReltio\nArtificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork. The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop yield by 26%, reduce water use by 41%, and cut chemical usage by 33%.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-07-01T05:04:11.402278+00:00"
+    },
+    {
+      "id": "91cbc9eae5b29c9d",
+      "title": "The Download: AI “coworkers” and stratospheric internet",
+      "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-06-30T12:10:00+00:00",
+      "sectors": [
+        "Climate",
+        "MedTech",
+        "Semiconductors"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. AI agents are not your “coworkers”\nImagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex, an “employee” with a title and defined responsibilities.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-07-01T05:04:10.799628+00:00"
+    },
+    {
+      "id": "59e671b833c3e618",
+      "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
+      "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-06-30T17:36:48+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "Available only for MIT Alumni and subscribers. Listen to the session or watch below\nBillions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments?",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-07-01T05:04:10.139847+00:00"
+    },
+    {
+      "id": "319975cb5f1ba629",
+      "title": "Claude Science is Anthropic’s newest flagship product",
+      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-06-30T21:50:04+00:00",
+      "sectors": [
+        "MedTech",
+        "AI Infrastructure"
+      ],
+      "excerpt": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access to tools that make it particularly useful for research in computational biology and drug development. Along with launching and previewing Claude Science, which is now available to all paid Claude subscribers, Anthropic also announced that it will be using the product to pursue some of its own research into drugs for rare, neglected diseases.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-07-01T05:04:09.549568+00:00"
+    },
+    {
+      "id": "0940985589076057",
+      "title": "Transcript: Why Meta’s Longtime CTO Is Investing in Climate Tech",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e56-gigascale-capital-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-30T09:00:03+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 78,
+      "fetched_at": "2026-07-01T05:04:07.258207+00:00"
+    },
+    {
+      "id": "be3facb3b0c69004",
+      "title": "Why Meta’s Longtime CTO Is Now Investing in Climate Tech",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e56-gigascale-capital",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-30T09:10:03+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-07-01T05:04:06.644589+00:00"
+    },
+    {
+      "id": "34a1600c65c5f784",
+      "title": "Trump Pays Duke Energy $129 Million to Kill Offshore Wind",
+      "url": "https://heatmap.news/am/duke-offshore-wind",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-30T12:13:34+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 75,
+      "fetched_at": "2026-07-01T05:04:06.042134+00:00"
+    },
+    {
+      "id": "47bb0185da4affac",
+      "title": "Indiana’s Governor Is on the Energy Warpath",
+      "url": "https://heatmap.news/politics/mike-braun-indiana-utilities",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-30T18:27:20+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 76,
+      "fetched_at": "2026-07-01T05:04:05.333600+00:00"
+    },
+    {
+      "id": "19a7362538b9ba01",
+      "title": "My Extremely Hot European Vacation",
+      "url": "https://heatmap.news/climate/europe-heat-wave-italy",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-30T20:52:44+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-07-01T05:04:04.722281+00:00"
+    },
     {
       "id": "50072f96943c3b3c",
       "title": "Translating Intelligence Into Action 3One4 Capital And Aws Host The Physical Ai Builder Session",
