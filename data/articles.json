@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-07-01T05:04:36.360100+00:00",
+  "last_updated": "2026-07-02T04:39:08.206483+00:00",
   "articles": [
+    {
+      "id": "a5621f709e7d34ef",
+      "title": "The Orbital Data Center Hype Machine Is Already in Orbit",
+      "url": "https://spectrum.ieee.org/orbital-data-center-hype",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-07-01T12:00:01+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Later that month, SpaceX filed an application with the Federal Communications Commission for an orbital data center constellation of up to 1 million satellites in low Earth orbit, 500 to 2,000 kilometers above Earth. And just three days before the IPO, he discussed some initial design specifications for a new AI-1 satellite data center in a video interview. Musk is prone to hyperbole when it comes to timelines.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-07-02T04:38:43.820884+00:00"
+    },
+    {
+      "id": "02a397e21bbe0fd2",
+      "title": "As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration",
+      "url": "https://spectrum.ieee.org/ai-energy-systems-melbourne",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-07-01T16:01:27+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "As artificial intelligence accelerates global demand for compute, a parallel constraint is emerging with equal urgency: energy. From hyperscale data centers to electrified industries, AI is driving a step change in electricity demand. This is not a future challenge, it is a present, system-level issue requiring coordinated action across energy, infrastructure, and engineering disciplines.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-07-02T04:38:43.220802+00:00"
+    },
+    {
+      "id": "998310298efe60b1",
+      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-01T12:10:00+00:00",
+      "sectors": [
+        "Climate",
+        "MedTech"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Claude Science is Anthropic’s newest flagship product\nAt an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scientific research like Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work from concise, high-level instructions, with tools for computational biology and drug development.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-07-02T04:38:41.926002+00:00"
+    },
+    {
+      "id": "474f7328326cc846",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-01T14:35:16+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "That's fine for research or coding, but it's a problem if you're looking for something new. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Now type “Another” and you’ll get 3 or 4.",
+      "signal": "",
+      "estimated_read_minutes": 9,
+      "fetched_at": "2026-07-02T04:38:41.300516+00:00"
+    },
+    {
+      "id": "a3151d03ff584f76",
+      "title": "Congress Never Meant to Design This",
+      "url": "https://heatmap.news/daily/supreme-court-ferc",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-06-30T23:00:26+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-07-02T04:38:38.941239+00:00"
+    },
+    {
+      "id": "778a16e81aab39e3",
+      "title": "U.S. Weighs Banning Foreign Inverters",
+      "url": "https://heatmap.news/am/us-inverter-ban",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-01T12:08:45+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-07-02T04:38:38.267441+00:00"
+    },
+    {
+      "id": "7d92ebac8e6f9090",
+      "title": "Carbon Removal Buyers Are Pumped About Industrial Waste",
+      "url": "https://heatmap.news/carbon-removal/surficial-mineralization",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-01T20:28:36+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 29,
+      "fetched_at": "2026-07-02T04:38:37.579098+00:00"
+    },
+    {
+      "id": "21452cdc7b00ac43",
+      "title": "New Jersey Lawmakers Just Nixed a 2-Year-Old Data Center Tax Credit",
+      "url": "https://heatmap.news/politics/new-jersey-data-center-taxes",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-01T21:20:08+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-07-02T04:38:36.901799+00:00"
+    },
+    {
+      "id": "e5932fee0d553c0e",
+      "title": "A Progressive Plan to Freeze Electricity Rates Without Starving the Grid",
+      "url": "https://heatmap.news/daily/google-amazon-electricity-rate-freeze",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-01T22:36:21+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 27,
+      "fetched_at": "2026-07-02T04:38:36.207595+00:00"
+    },
     {
       "id": "cfb17766d4146a75",
       "title": "Tata Electronics Data Breach Exposed Apple’s iPhone 18 Pro Supply Chain: Report",
