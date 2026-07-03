@@ -1,6 +1,206 @@
 {
-  "last_updated": "2026-07-02T04:39:08.206483+00:00",
+  "last_updated": "2026-07-03T04:25:12.370368+00:00",
   "articles": [
+    {
+      "id": "e90eadb95f092005",
+      "title": "India Must Not Compete On Borrowed Foundations Sovereign Ai Capability Is Now An Economic Necessity",
+      "url": "https://3one4capital.com/blogs/india-must-not-compete-on-borrowed-foundations-sovereign-ai-capability-is-now-an-economic-necessity",
+      "source_name": "3one4 Capital",
+      "source_type": "blog",
+      "published_at": "2026-07-03T04:24:55.252718+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "Semiconductors"
+      ],
+      "excerpt": "The state must urgently act as mission setter, risk absorber and anchor customer for private champions across the full AI stack. Recently, Washington ordered America's leading artificial intelligence laboratory to cut every foreign national off from its most advanced models, and the company complied within a day. The lesson is not about one company or product.",
+      "signal": "",
+      "estimated_read_minutes": 12,
+      "fetched_at": "2026-07-03T04:24:55.253197+00:00"
+    },
+    {
+      "id": "8877fdb5a2fbc71f",
+      "title": "Why California’s carbon manure math doesn’t add up",
+      "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-02T09:00:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s become wildly popular because the subsidies are extremely lucrative. But a growing body of research suggests the program is a case study in the shortcomings of our preferred approaches to climate action.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-07-03T04:24:46.533309+00:00"
+    },
+    {
+      "id": "1f01612ab0593820",
+      "title": "The Download: a startup has a solution for AI’s groupthink problem",
+      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-02T12:10:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. That won’t work every time—but if it did for you, you may wonder if I have superpowers.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-07-03T04:24:45.891585+00:00"
+    },
+    {
+      "id": "2e6433c4f899a042",
+      "title": "Teaching AI to run with the turbines",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-02T12:51:44+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "In partnership withInfosys\nArtificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational data, the energy sector offers a glimpse into what that future could look like.",
+      "signal": "",
+      "estimated_read_minutes": 22,
+      "fetched_at": "2026-07-03T04:24:45.241051+00:00"
+    },
+    {
+      "id": "df6ee14882ccbac4",
+      "title": "Achieving operational excellence with AI",
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-02T15:37:08+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "In association withTeleperformance\nFrameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to embed habits of measurement, analysis, and accountability into day-to-day company culture.",
+      "signal": "",
+      "estimated_read_minutes": 3,
+      "fetched_at": "2026-07-03T04:24:44.576035+00:00"
+    },
+    {
+      "id": "994f3a29dcb54bd9",
+      "title": "NRC Proposes Overhauling Radiation Rules",
+      "url": "https://heatmap.news/am/nrc-radiation-rules",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-02T12:11:59+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-07-03T04:24:41.889176+00:00"
+    },
+    {
+      "id": "1f125cc8d0a2ffc3",
+      "title": "The Wind and Solar Tax Credits Are About to Expire. Will They Come Back?",
+      "url": "https://heatmap.news/energy/solar-wind-tax-credits",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-02T14:20:47+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-07-03T04:24:41.163576+00:00"
+    },
+    {
+      "id": "36ceb9302b8dbc93",
+      "title": "This Heat Wave Is Just a Test",
+      "url": "https://heatmap.news/adaptation/heat-wave-new-york",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-02T18:38:50+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-07-03T04:24:40.513461+00:00"
+    },
+    {
+      "id": "0a2d7fc48c5a1d74",
+      "title": "Trump Is Trying to Strangle Money-Saving Standards for Appliances",
+      "url": "https://heatmap.news/energy/trump-energy-efficiency-standards",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-02T19:46:47+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-07-03T04:24:39.677421+00:00"
+    },
+    {
+      "id": "0376edd5686c7035",
+      "title": "Some Decent News for EVs, Finally",
+      "url": "https://heatmap.news/daily/solar-wind-evs",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-02T20:07:45+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-07-03T04:24:38.855199+00:00"
+    },
+    {
+      "id": "4045da62f378f3e9",
+      "title": "Why Data Center NDAs Are a Big Mistake",
+      "url": "https://heatmap.news/plus/the-fight/qa/grant-gutierrez-carbon-direct-data-centers",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-02T20:23:54+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 13,
+      "fetched_at": "2026-07-03T04:24:38.141954+00:00"
+    },
+    {
+      "id": "efccd27edbbc566d",
+      "title": "Data Centers Are the Election Year Villain",
+      "url": "https://heatmap.news/plus/the-fight/hotspots/data-centers-election-year-villain",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-02T20:29:19+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 13,
+      "fetched_at": "2026-07-03T04:24:37.430644+00:00"
+    },
+    {
+      "id": "576333678906e387",
+      "title": "Trump Taps Nashville Legend to Fight Solar and Wind Farms",
+      "url": "https://heatmap.news/plus/the-fight/spotlight/john-rich-trump-administration-envoy",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-02T21:13:57+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-07-03T04:24:36.718549+00:00"
+    },
     {
       "id": "a5621f709e7d34ef",
       "title": "The Orbital Data Center Hype Machine Is Already in Orbit",
