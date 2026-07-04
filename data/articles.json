@@ -1,6 +1,97 @@
 {
-  "last_updated": "2026-07-03T04:25:12.370368+00:00",
+  "last_updated": "2026-07-04T04:10:07.992347+00:00",
   "articles": [
+    {
+      "id": "d0775649b47d7d38",
+      "title": "The Economics Behind Structuring Finance Teams For Your Start Up",
+      "url": "https://3one4capital.com/blogs/the-economics-behind-structuring-finance-teams-for-your-start-up",
+      "source_name": "3one4 Capital",
+      "source_type": "blog",
+      "published_at": "2026-07-04T04:09:51.421545+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Global capital poured into companies that could demonstrate traction, user acquisition, and rapid expansion, even if the underlying business model was far from profitable. Today, global investors are re-orienting their focus toward sustainability, governance, and a credible path to profitability. In this new landscape, finance, a function often overlooked in early-stage companies, has become mission critical.",
+      "signal": "",
+      "estimated_read_minutes": 11,
+      "fetched_at": "2026-07-04T04:09:51.422235+00:00"
+    },
+    {
+      "id": "7bada5fd61c0ded6",
+      "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
+      "url": "https://spectrum.ieee.org/data-centers-grid-instability",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-07-03T12:00:01+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Data centers are projected to consume a growing share of global electricity demand: The International Energy Agency estimates they could account for 3 to 4 percent of total global consumption within this decade. Utilities are already adjusting long-term forecasts to accommodate anticipated growth from hyperscale facilities and high-density compute clusters. The emerging issue is not simply how much power large-scale compute systems consume, but how increasingly dense and synchronized computational workloads are beginning to alter the operating characteristics of the electrical grid itself through increasingly unpredictable demand that varies rapidly in both time and location, creating new operational challenges for grid operators.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-07-04T04:09:44.923859+00:00"
+    },
+    {
+      "id": "c0c0f04167351d73",
+      "title": "IEEE’s Global Museum Brings Engineering History to You",
+      "url": "https://spectrum.ieee.org/ieees-global-museum-engineering-history",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-07-03T18:00:02+00:00",
+      "sectors": [
+        "Semiconductors"
+      ],
+      "excerpt": "To bring these artifacts to the public, the group created the IEEE Global Museum, which curates traveling exhibits for display at conferences and in libraries, universities, and other venues. The program educates people about how technological progress has unfolded over generations, and how engineers and researchers build on past achievements to benefit humanity. Curating the exhibits has been rewarding, says Daniel Jon Mitchell, director of the group’s heritage programs.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-07-04T04:09:44.180568+00:00"
+    },
+    {
+      "id": "47f48d538a4d0155",
+      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-03T12:10:00+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. The UK’s generational tobacco ban might not work. —Jessica Hamzelou\nAs the parent of two little girls, I often think about how their childhood is different from mine.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-07-04T04:09:42.670579+00:00"
+    },
+    {
+      "id": "75343a10d7f4a9db",
+      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-03T17:34:37+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "It’s not easy to transplant a whole human eye. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-07-04T04:09:42.076586+00:00"
+    },
+    {
+      "id": "7aeb39e40da96cd5",
+      "title": "America's Next 250",
+      "url": "https://www.notboring.co/p/americas-next-250",
+      "source_name": "Not Boring",
+      "source_type": "substack",
+      "published_at": "2026-07-02T14:06:26+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Join 271,591 smart, curious folks by subscribing here:\nHi friends 👋,\nHappy Thursday, Happy 4th of July, and Happy 250th Birthday, America 🇺🇲\nThe United States Men’s National Team is advancing to the Sweet 16 after beating Bosnia in what is now called Soccer. The sun is shining incredibly hard on America. We are just two days away from the Fourth of July.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-07-04T04:09:37.826025+00:00"
+    },
     {
       "id": "e90eadb95f092005",
       "title": "India Must Not Compete On Borrowed Foundations Sovereign Ai Capability Is Now An Economic Necessity",
