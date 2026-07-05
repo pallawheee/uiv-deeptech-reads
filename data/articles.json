@@ -1,6 +1,21 @@
 {
-  "last_updated": "2026-07-04T04:10:07.992347+00:00",
+  "last_updated": "2026-07-05T04:38:50.668803+00:00",
   "articles": [
+    {
+      "id": "4984a1234f85f282",
+      "title": "Reading List 07/04/26",
+      "url": "https://www.construction-physics.com/p/reading-list-070426",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-07-04T12:03:22+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure and industrial technology. This week we look at households without homeowners insurance, crackdowns on AI chip smuggling, Japan’s two electrical frequencies, Meta’s AI compute business, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber!",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-07-05T04:38:25.861216+00:00"
+    },
     {
       "id": "d0775649b47d7d38",
       "title": "The Economics Behind Structuring Finance Teams For Your Start Up",
