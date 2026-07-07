@@ -1,6 +1,161 @@
 {
-  "last_updated": "2026-07-06T04:50:24.139125+00:00",
+  "last_updated": "2026-07-07T04:32:02.654824+00:00",
   "articles": [
+    {
+      "id": "e71085e3b53d849e",
+      "title": "Kunal Kapoor, Ketto Cofounders Launch Healthtech Startup MetaGO",
+      "url": "https://inc42.com/buzz/kunal-kapoor-ketto-cofounders-launch-healthtech-startup-metago/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-07-06T15:30:19+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-07-07T04:31:56.545341+00:00"
+    },
+    {
+      "id": "493b2676fbef2709",
+      "title": "VHF Propagation: What Every RF Engineer Should Know",
+      "url": "https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-07-06T13:54:01+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "This white paper explains how VHF signals actually propagate in real-world environments. It covers both common and uncommon modes that determine coverage, interference, and long-distance reliability. What you will learn about:\n- Why pure line-of-sight propagation at VHF is rare beyond a few kilometers.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-07-07T04:31:38.235158+00:00"
+    },
+    {
+      "id": "d148dec2e623441e",
+      "title": "South Korea’s hottest new bachelors are chip workers",
+      "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-06T09:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to be referred to by his last name to protect his privacy), he and his coworkers are having better luck finding dates than they used to, perhaps because of the dazzling bonuses they just got.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-07-07T04:31:36.161084+00:00"
+    },
+    {
+      "id": "9c3f22df66cb8edd",
+      "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
+      "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-06T13:00:00+00:00",
+      "sectors": [
+        "Defence",
+        "Robotics",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. South Korea’s hottest new bachelors are chip workers\nBaek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-07-07T04:31:35.570527+00:00"
+    },
+    {
+      "id": "656d0246c92afc74",
+      "title": "Your family’s $300 stake in OpenAI",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-06T18:00:00+00:00",
+      "sectors": [
+        "Defence",
+        "AI Infrastructure"
+      ],
+      "excerpt": "The proposal may be more revealing as a political narrative than as a policy plan. This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-07-07T04:31:34.945282+00:00"
+    },
+    {
+      "id": "91756e8258002cc4",
+      "title": "Transcript: The New Paper Arguing Biden’s Power Sector Emissions Cuts Are Largely Intact — Even Under Trump",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e57-ira-emissions-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-06T09:00:03+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 63,
+      "fetched_at": "2026-07-07T04:31:25.665536+00:00"
+    },
+    {
+      "id": "9918781abb4c9377",
+      "title": "Exclusive: New Report Says Trump Hasn’t Squashed Biden’s Clean Energy Buildout",
+      "url": "https://heatmap.news/energy/clean-energy-buildout-trump",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-06T09:00:03+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-07-07T04:31:24.834916+00:00"
+    },
+    {
+      "id": "3a82c375afd04c16",
+      "title": "The New Paper Arguing Biden’s Power Sector Emissions Cuts Are Largely Intact — Even Under Trump",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e57-ira-emissions",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-06T09:10:03+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-07-07T04:31:24.219577+00:00"
+    },
+    {
+      "id": "aaee82f8fa1989e0",
+      "title": "America’s Next Nuclear Plant Hits a ‘Watershed Moment’",
+      "url": "https://heatmap.news/am/holtec-palisades-restart",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-06T12:21:05+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-07-07T04:31:23.515525+00:00"
+    },
+    {
+      "id": "73c5de0aa1881d11",
+      "title": "Why Biden’s Climate Law Is Stickier Than It Seems",
+      "url": "https://heatmap.news/daily/biden-climate-law",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-06T22:29:55+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-07-07T04:31:22.664649+00:00"
+    },
     {
       "id": "4984a1234f85f282",
       "title": "Reading List 07/04/26",
