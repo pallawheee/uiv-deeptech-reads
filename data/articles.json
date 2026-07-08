@@ -1,6 +1,114 @@
 {
-  "last_updated": "2026-07-07T04:32:02.654824+00:00",
+  "last_updated": "2026-07-08T03:53:36.144239+00:00",
   "articles": [
+    {
+      "id": "3d45c2cf0e6b8dad",
+      "title": "Robotics Startup Mowito Raises $3 Mn To Expand US Presence",
+      "url": "https://inc42.com/buzz/robotics-startup-mowito-raises-3-mn-to-expand-us-presence/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-07-07T10:59:08+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-07-08T03:53:31.593224+00:00"
+    },
+    {
+      "id": "681d9dea60dd4421",
+      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+      "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-07T10:00:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squirming red earthworms. There are likely hundreds of thousands more wriggling just under the surface of the three-foot mound of wood and crushed river rock before us, which stretches across the equivalent of six football fields.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-07-08T03:53:08.497079+00:00"
+    },
+    {
+      "id": "65f527a36efca151",
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-07T11:10:52+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "In partnership withElastic\nWith the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the structural framework required for deploying and managing reliable, integrated AI systems at scale—allows technology leaders to make astute decisions today while supporting a future of AI agents that can retrieve information, make decisions, and execute complex workflows across systems.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-07-08T03:53:07.806753+00:00"
+    },
+    {
+      "id": "d98d89d609ef10a8",
+      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+      "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-07T12:10:00+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Cybersecurity"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Your family’s $300 stake in OpenAI\nSam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving the US government a 5% stake in OpenAI. At the company’s current valuation, that stake would be worth roughly $320 per American household.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-07-08T03:53:07.136069+00:00"
+    },
+    {
+      "id": "c78d95624945684c",
+      "title": "11 Western U.S. States Unite to Expand Grid",
+      "url": "https://heatmap.news/am/western-states-grid",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-07T11:59:48+00:00",
+      "sectors": [
+        "Climate",
+        "Semiconductors"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 27,
+      "fetched_at": "2026-07-08T03:53:04.742191+00:00"
+    },
+    {
+      "id": "3e493525bf876246",
+      "title": "How China and Europe Are Fueling Tesla’s Comeback",
+      "url": "https://heatmap.news/electric-vehicles/tesla-comeback-europe-china",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-07T18:36:35+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 27,
+      "fetched_at": "2026-07-08T03:53:04.054814+00:00"
+    },
+    {
+      "id": "1051fa018abb99df",
+      "title": "Why Europe Still Struggles to Scale Its Homegrown Climate Tech",
+      "url": "https://heatmap.news/climate-tech/europe-scale",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-07T20:04:07+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 27,
+      "fetched_at": "2026-07-08T03:53:03.315064+00:00"
+    },
     {
       "id": "e71085e3b53d849e",
       "title": "Kunal Kapoor, Ketto Cofounders Launch Healthtech Startup MetaGO",
