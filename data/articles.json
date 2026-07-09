@@ -1,6 +1,161 @@
 {
-  "last_updated": "2026-07-08T03:53:36.144239+00:00",
+  "last_updated": "2026-07-09T04:29:22.919718+00:00",
   "articles": [
+    {
+      "id": "d1b9b52ee354a645",
+      "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
+      "url": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-07-07T19:02:42+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "He is considered to be one of the most prolific scholars in robotics, writing more than 2,000 research papers and authoring several books on the field. He’s an influential figure thanks to his pioneering work developing biomedical robotic systems, industrial robots, micro-nano robotics, mechatronics, and AI-driven automation. Fukuda launched one of the first robotics conferences, the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
+      "signal": "",
+      "estimated_read_minutes": 10,
+      "fetched_at": "2026-07-09T04:29:01.079998+00:00"
+    },
+    {
+      "id": "9db6713be77a9b4f",
+      "title": "Inside the Race to Electrify Semi Trailers for Long Haul Freight",
+      "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-07-08T17:58:34+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "The self-powered trailer was handed over to German transport operator Sommer for use in its working fleet. The Nivalis Powered Trailer Kit centers on an electric axle co-developed with Wiehl, Germany–based running gear specialist BPW, rated at 50 kilowatts peak, capable of both propulsion assistance and regenerative braking. That axle draws on a 60-kilowatt-hour, 400-volt lithium-ion battery pack charged from three sources: the axle itself during braking and deceleration, a full-rooftop array of photovoltaic panels generating up to 3.7 kilowatts-peak, and a 32-amp, three-phase AC grid connection available during parking stops.",
+      "signal": "",
+      "estimated_read_minutes": 9,
+      "fetched_at": "2026-07-09T04:29:00.463735+00:00"
+    },
+    {
+      "id": "5b99821b61753466",
+      "title": "The Download: worms fight pollution, and geoengineering faces reality",
+      "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-08T12:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution\nAnthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips to reveal a half-dozen squirming red earthworms. There are likely hundreds of thousands more wriggling just under the surface.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-07-09T04:28:59.409486+00:00"
+    },
+    {
+      "id": "6065cdfde6ae9962",
+      "title": "EmTech AI 2026: The Rise of the AI Platform",
+      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-08T16:26:10+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Keep Reading\nMost Popular\nA startup claims it broke through a bottleneck that’s holding back LLMs\nSubquadratic has now shared more details about its new model. China has approved the world’s first invasive brain-computer chip—here’s what’s next\nThe country wants to become a global leader in brain implants. Strong government support is expected to help accelerate that process.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-07-09T04:28:58.848067+00:00"
+    },
+    {
+      "id": "e5a8466c3f709024",
+      "title": "Rivian’s Stock Is Down, But It’s Kind of a Good Thing?",
+      "url": "https://heatmap.news/daily/rivian-georgia-factory",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-07T22:01:21+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-07-09T04:28:57.277308+00:00"
+    },
+    {
+      "id": "0d47e4ff2505659f",
+      "title": "Europe’s Heat Wave Killed People by the Thousands",
+      "url": "https://heatmap.news/am/europe-heat-deaths",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-08T11:56:19+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 27,
+      "fetched_at": "2026-07-09T04:28:56.566121+00:00"
+    },
+    {
+      "id": "59bef696cfaaf79c",
+      "title": "Electric Vehicles Are a Defense Technology",
+      "url": "https://heatmap.news/ideas/ev-batteries-national-security",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-08T19:07:04+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 29,
+      "fetched_at": "2026-07-09T04:28:55.930327+00:00"
+    },
+    {
+      "id": "fa4b32565f7c450e",
+      "title": "Why the Hottest Summer Days Also Have Dirtier Air",
+      "url": "https://heatmap.news/adaptation/peaker-air-pollution",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-08T21:08:09+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 30,
+      "fetched_at": "2026-07-09T04:28:55.117789+00:00"
+    },
+    {
+      "id": "46ac13e1e1b86789",
+      "title": "Trump Isn’t ‘Looking for Long Term’ in Iran",
+      "url": "https://heatmap.news/daily/trump-iran-bombing",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-08T22:44:04+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 31,
+      "fetched_at": "2026-07-09T04:28:54.482816+00:00"
+    },
+    {
+      "id": "7b3518dda8bced8e",
+      "title": "Better Climate Investments Through Capital Allocation",
+      "url": "https://heatmap.news/climate/transition-acceleration-framework",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-09T04:01:01+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 28,
+      "fetched_at": "2026-07-09T04:28:53.715965+00:00"
+    },
     {
       "id": "3d45c2cf0e6b8dad",
       "title": "Robotics Startup Mowito Raises $3 Mn To Expand US Presence",
