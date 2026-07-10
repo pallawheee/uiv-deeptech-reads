@@ -1,6 +1,179 @@
 {
-  "last_updated": "2026-07-09T04:29:22.919718+00:00",
+  "last_updated": "2026-07-10T04:32:12.115793+00:00",
   "articles": [
+    {
+      "id": "e754ff0110a65cdc",
+      "title": "The Rebirth of High Frequency",
+      "url": "https://content.knowledgehub.wiley.com/the-rebirth-of-high-frequency/",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-07-09T10:00:03+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "This white paper gives communications engineers and defense planners a thorough grounding in HF skywave propagation, the forces driving HF’s strategic resurgence, and the modern technologies — wideband waveforms and automatic link establishment — that are making HF a viable complement to satellite communications. What you will learn about:\n- How signals in the 3–30 MHz range propagate globally via ionospheric refraction, including the distinct roles of the D, E, and F layers, and how time of day, season, and the roughly 11-year solar cycle shape propagation conditions. - Why satellites, despite superior throughput and ease of use, carry significant vulnerabilities — from anti-satellite weapons and jamming to solar storms and incomplete polar coverage — that have renewed demand for an independent global communications layer.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-07-10T04:31:48.423906+00:00"
+    },
+    {
+      "id": "e0c66a14832f3c53",
+      "title": "Four nuclear reactors hit a big milestone in the US",
+      "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-09T08:00:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can sustain a chain reaction, by the nation’s 250th birthday.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-07-10T04:31:45.951385+00:00"
+    },
+    {
+      "id": "50a84fa6b2f3eb33",
+      "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+      "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-09T12:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Four nuclear reactors hit a big milestone in the US\n—Casey Crownhart\nI was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-07-10T04:31:45.325908+00:00"
+    },
+    {
+      "id": "c5eec3a9829875a7",
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-09T20:22:28+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or J-lens) and used it to uncover a hidden area, which they named the J-space, inside Claude Opus 4.6, a version of Anthropic’s flagship LLM released in February. The J-space contains individual words that are related to the words and phrases that the model is most likely to spit out in a response in the near future.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-07-10T04:31:44.714399+00:00"
+    },
+    {
+      "id": "9f6005a23573d941",
+      "title": "Global Nuclear Capacity Set for a 44% Jump by 2036",
+      "url": "https://heatmap.news/am/global-nuclear-2036",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-09T11:52:17+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 29,
+      "fetched_at": "2026-07-10T04:31:41.606182+00:00"
+    },
+    {
+      "id": "7d04fc3df1713231",
+      "title": "The Satellites Hunting Wildfires in Real Time",
+      "url": "https://heatmap.news/climate-tech/firesat-realtime-fire-satellites",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-09T18:01:31+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 22,
+      "fetched_at": "2026-07-10T04:31:40.718325+00:00"
+    },
+    {
+      "id": "3d734c251e75a737",
+      "title": "Fervo Is Drilling Wells Deeper, Faster, and Hotter",
+      "url": "https://heatmap.news/sparks/fervo-sawtooth-7",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-09T18:28:54+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 11,
+      "fetched_at": "2026-07-10T04:31:40.012729+00:00"
+    },
+    {
+      "id": "9e7cb984b478bacb",
+      "title": "How Big of a Problem Is Data Center Noise?",
+      "url": "https://heatmap.news/plus/the-fight/qa/data-center-noise-taxpayers-protection-alliance",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-09T20:14:29+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-07-10T04:31:39.320590+00:00"
+    },
+    {
+      "id": "22b7cb1d392ca0ef",
+      "title": "Meta’s Bacterial Mystery Could Poison the Data Center Well",
+      "url": "https://heatmap.news/plus/the-fight/spotlight/data-center-bacteria-meta",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-09T20:16:58+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-07-10T04:31:38.608515+00:00"
+    },
+    {
+      "id": "dd50f7199bde3dcb",
+      "title": "Microsoft’s Climate Pollution Surged 25% Last Year",
+      "url": "https://heatmap.news/daily/microsoft-emissions-report",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-09T23:00:57+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-07-10T04:31:37.970900+00:00"
+    },
+    {
+      "id": "6003175beca302c5",
+      "title": "Ways to think about token pricing",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "source_name": "Benedict Evans",
+      "source_type": "blog",
+      "published_at": "2026-07-09T14:15:51+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "All of the variables are in play, and the market will get shaken out over the next few years to arrive at a new equilibrium. Right now we have a lot of frantic analysis of ‘time to power’, but the question at the end of that remains whether the foundation models have sustainable pricing power, strategic leverage and value capture, or whether they become low-margin commodity infrastructure providers. At the moment, I think every dynamic we can see points to the latter.",
+      "signal": "",
+      "estimated_read_minutes": 13,
+      "fetched_at": "2026-07-10T04:31:34.387411+00:00"
+    },
     {
       "id": "d1b9b52ee354a645",
       "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
