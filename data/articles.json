@@ -1,6 +1,114 @@
 {
-  "last_updated": "2026-07-10T04:32:12.115793+00:00",
+  "last_updated": "2026-07-11T03:50:52.449316+00:00",
   "articles": [
+    {
+      "id": "905a22baf9b74429",
+      "title": "IEEE Remembers Pioneering Computer Scientist Peter G. Neumann",
+      "url": "https://spectrum.ieee.org/ieee-remembers-peter-g-neumann",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-07-10T18:00:01+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "The renowned computer scientist and respected risk analyst died on 17 May at the age of 93. For almost 70 years, Neumann shaped the computing field through his pioneering work on risks, system dependability, security, and fault tolerance with rare intellectual depth and unwavering ethical clarity. Five of those decades were spent as a principal scientist at SRI International in Menlo Park, Calif., where he worked until his death.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-07-11T03:50:32.495664+00:00"
+    },
+    {
+      "id": "7c72cfe98840606a",
+      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-10T12:10:00+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Anthropic found a hidden space where Claude puzzles over concepts\nThe AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or J-lens) and used it to uncover a hidden area, which they named the J-space, inside its flagship LLM, Claude.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-07-11T03:50:31.504718+00:00"
+    },
+    {
+      "id": "fff53a62bc77c5e9",
+      "title": "PJM Just Shattered Its Peak Demand Record",
+      "url": "https://heatmap.news/am/pjm-record-demand",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-10T11:53:05+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-07-11T03:50:29.981315+00:00"
+    },
+    {
+      "id": "7f412573c0d165d5",
+      "title": "Virginians Are Getting an Electricity Price Doubly-Whammy",
+      "url": "https://heatmap.news/sparks/virginia-dominion-electricity-price",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-10T17:35:15+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 11,
+      "fetched_at": "2026-07-11T03:50:29.391718+00:00"
+    },
+    {
+      "id": "f983b20cbb857c55",
+      "title": "New York City’s Climate Progress Has Hit a Wall",
+      "url": "https://heatmap.news/energy/new-york-july-4-heat-wave",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-10T18:45:10+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-07-11T03:50:28.775728+00:00"
+    },
+    {
+      "id": "4202ac4577788438",
+      "title": "Electricity Isn’t the Only Driver of Big Tech’s Surging Emissions",
+      "url": "https://heatmap.news/daily/google-amazon-microsoft-2026-data",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-10T23:42:55+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-07-11T03:50:28.146190+00:00"
+    },
+    {
+      "id": "c907e6bdf9673f22",
+      "title": "Weekly Dose of Optimism #201",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-201",
+      "source_name": "Not Boring",
+      "source_type": "substack",
+      "published_at": "2026-07-10T12:56:10+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "We’re jam packed again, and you don’t come here for the intro, so…\nLet’s get to it. Today’s Weekly Dose is brought to you by… Mercury\nMost founders understand their finances in spreadsheets, and that’s a problem. But to actually use it — check your cash position, reconcile transactions, understand your burn — you export it, paste it somewhere else, and do the work outside your account.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-07-11T03:50:26.147566+00:00"
+    },
     {
       "id": "e754ff0110a65cdc",
       "title": "The Rebirth of High Frequency",
