@@ -1,6 +1,37 @@
 {
-  "last_updated": "2026-07-11T03:50:52.449316+00:00",
+  "last_updated": "2026-07-12T04:06:35.264149+00:00",
   "articles": [
+    {
+      "id": "d4acbd1059fe1ddd",
+      "title": "Zoho-Backed Genrobotics’ Revenue Jumps 35% YoY In FY26, Eyes ₹150 Cr Series B Round",
+      "url": "https://inc42.com/buzz/zoho-backed-genrobotics-posts-%e2%82%b92-6-cr-profit-in-fy26-eyes-%e2%82%b9150-cr-series-b-round/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-07-11T09:39:24+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-07-12T04:06:33.263843+00:00"
+    },
+    {
+      "id": "a0325e90ab2ea5b4",
+      "title": "Reading List 07/11/26",
+      "url": "https://www.construction-physics.com/p/reading-list-071126",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-07-11T12:01:33+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure, and industrial technology. This week we look at adults living with their parents, Samsung’s profits, Native American data centers, Puerto Rico’s electricity grid, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-07-12T04:06:05.529823+00:00"
+    },
     {
       "id": "905a22baf9b74429",
       "title": "IEEE Remembers Pioneering Computer Scientist Peter G. Neumann",
