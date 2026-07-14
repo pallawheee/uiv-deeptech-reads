@@ -1,6 +1,145 @@
 {
-  "last_updated": "2026-07-13T04:08:48.528815+00:00",
+  "last_updated": "2026-07-14T03:44:14.722203+00:00",
   "articles": [
+    {
+      "id": "1d6e6f5d0679e45b",
+      "title": "MeitY Asks Ministries To Hold Off On OpenAI, Anthropic Models For Cybersecurity: Report",
+      "url": "https://inc42.com/buzz/meity-asks-ministries-to-hold-off-on-openai-anthropic-models-for-cybersecurity-report/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-07-13T06:37:46+00:00",
+      "sectors": [
+        "Cybersecurity"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-07-14T03:44:10.330548+00:00"
+    },
+    {
+      "id": "d56ace988ec4655c",
+      "title": "Building a Foundation Stack for General-Purpose Robots",
+      "url": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-07-13T10:19:51+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics systems have long been assembled from separate perception, planning, and control parts that rarely add up to intelligence a robot can carry from one task to another, or one machine to another.",
+      "signal": "",
+      "estimated_read_minutes": 16,
+      "fetched_at": "2026-07-14T03:43:50.555116+00:00"
+    },
+    {
+      "id": "4de546f30f612709",
+      "title": "Panasonic’s PV-460 Camcorder Stabilized Shaky Videos",
+      "url": "https://spectrum.ieee.org/panasonic-camcorder-ieee-milstone",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-07-13T18:00:02+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "Camcorders combined a camera with a video recorder. They included a rechargeable battery, a slot for a videotape, and a shoulder strap. Most were outfitted with an optical zoom lens and a small, articulating screen—a display mounted on a hinge that could tilt and rotate.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-07-14T03:43:49.842611+00:00"
+    },
+    {
+      "id": "bf0389e8fc991442",
+      "title": "The Download: a donor conception cap and world models for AI",
+      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-13T12:10:00+00:00",
+      "sectors": [
+        "Robotics",
+        "MedTech",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Sperm donors need limits, says a European fertility group\nTies van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm from an anonymous donor.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-07-14T03:43:48.763058+00:00"
+    },
+    {
+      "id": "083560c542d97e23",
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-13T18:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "We spoke with senior editor Will Douglas Heaven about it. This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-07-14T03:43:48.168004+00:00"
+    },
+    {
+      "id": "76fb7639d10b7ae2",
+      "title": "Trump Poised to Shrink Two National Monuments in Utah",
+      "url": "https://heatmap.news/am/trump-national-monuments",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-13T11:54:42+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-07-14T03:43:45.911640+00:00"
+    },
+    {
+      "id": "9bc2e532b961b543",
+      "title": "Could More Aspens Have Stopped the Aspen Acres Fire?",
+      "url": "https://heatmap.news/adaptation/aspen-acres-fire",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-13T15:52:52+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-07-14T03:43:45.277638+00:00"
+    },
+    {
+      "id": "c8446e53d97ea926",
+      "title": "Solar Is Still Pretty Cheap — But Everyone Wants Natural Gas",
+      "url": "https://heatmap.news/energy/lazard-lcoe",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-13T21:47:52+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 22,
+      "fetched_at": "2026-07-14T03:43:44.660579+00:00"
+    },
+    {
+      "id": "a0646962821d9205",
+      "title": "Who Actually Likes Data Centers?",
+      "url": "https://heatmap.news/daily/data-center-yimbys",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-13T22:08:29+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 17,
+      "fetched_at": "2026-07-14T03:43:44.005798+00:00"
+    },
     {
       "id": "d4acbd1059fe1ddd",
       "title": "Zoho-Backed Genrobotics’ Revenue Jumps 35% YoY In FY26, Eyes ₹150 Cr Series B Round",
