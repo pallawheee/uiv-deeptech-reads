@@ -1,6 +1,103 @@
 {
-  "last_updated": "2026-07-14T03:44:14.722203+00:00",
+  "last_updated": "2026-07-15T03:44:09.503627+00:00",
   "articles": [
+    {
+      "id": "ce8c691c5e9e0777",
+      "title": "How I Turned AI to the Dark Side",
+      "url": "https://spectrum.ieee.org/jailbreaking-llms",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-07-14T15:59:35+00:00",
+      "sectors": [
+        "Defence",
+        "AI Infrastructure",
+        "Cybersecurity"
+      ],
+      "excerpt": "- These exploits worked across nearly all major LLMs revealing an industry-wide security problem. - Kuszmar calls for slowing deployment, increasing transparency, and large-scale research into LLM safety before further integrating these systems into society. On a fine bright afternoon last fall, my colleague Matthew Gore-Kormanik (or Zigula, as he prefers to be known) and I decided to unwind with a game of Fortnite.",
+      "signal": "",
+      "estimated_read_minutes": 14,
+      "fetched_at": "2026-07-15T03:43:47.186553+00:00"
+    },
+    {
+      "id": "b01622ec31ff7c53",
+      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-14T08:00:00+00:00",
+      "sectors": [
+        "Defence",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero. Inside those cabinets will be hundreds of chips, and on those, thousands of particles of light flying through a maze of optical switches and beam splitters.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-07-15T03:43:46.078470+00:00"
+    },
+    {
+      "id": "ce791ec1c8b78d8b",
+      "title": "The Download: Claude’s inner workings, and the future of world models",
+      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-14T12:10:00+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show\n—James O'Donnell\nWhen Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers, there was one colleague I had to talk to: senior editor Will Douglas Heaven. Aside from having a PhD in computer science, Will has spent a lot of time digging into what we can say about how AI models work.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-07-15T03:43:45.466914+00:00"
+    },
+    {
+      "id": "f132445008da137d",
+      "title": "The UAE Is Planning a New Port to Bypass the Strait of Hormuz",
+      "url": "https://heatmap.news/am/dubai-hormuz-bypass",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-14T11:37:12+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 17,
+      "fetched_at": "2026-07-15T03:43:43.311108+00:00"
+    },
+    {
+      "id": "85dd38d3b320b6a1",
+      "title": "The Next Big Thing in Hydrogen",
+      "url": "https://heatmap.news/climate-tech/engineered-hydrogen",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-14T13:00:02+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-07-15T03:43:42.423722+00:00"
+    },
+    {
+      "id": "cc1ce96c9620c318",
+      "title": "How Congress’ Biggest Tech Booster Got Wrapped Up in a Data Center Land Deal",
+      "url": "https://heatmap.news/plus/the-fight/spotlight/lummis-microsoft-land-deal",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-14T17:54:05+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-07-15T03:43:41.710890+00:00"
+    },
     {
       "id": "1d6e6f5d0679e45b",
       "title": "MeitY Asks Ministries To Hold Off On OpenAI, Anthropic Models For Cybersecurity: Report",
