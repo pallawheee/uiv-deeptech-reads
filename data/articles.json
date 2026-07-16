@@ -1,6 +1,145 @@
 {
-  "last_updated": "2026-07-15T03:44:09.503627+00:00",
+  "last_updated": "2026-07-16T03:46:43.157921+00:00",
   "articles": [
+    {
+      "id": "6b7358dc47913b71",
+      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+      "url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-15T12:10:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light\nThe machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside, some 100 stainless-steel cabinets each hold hundreds of chips.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-07-16T03:46:21.222887+00:00"
+    },
+    {
+      "id": "dba38c1924d6fe74",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-15T17:09:37+00:00",
+      "sectors": [
+        "Defence",
+        "AI Infrastructure"
+      ],
+      "excerpt": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-07-16T03:46:20.607527+00:00"
+    },
+    {
+      "id": "87045742a18c9bba",
+      "title": "Transcript: The Company That’s Raised $60 Million to Geoengineer the Planet",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e58-stardust-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-15T09:00:04+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 67,
+      "fetched_at": "2026-07-16T03:46:18.470316+00:00"
+    },
+    {
+      "id": "3d1e62d48add7e33",
+      "title": "The Company That’s Raised $60 Million to Geoengineer the Planet",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e58-stardust",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-15T09:10:03+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-07-16T03:46:17.760386+00:00"
+    },
+    {
+      "id": "f1ef51ffe7e78561",
+      "title": "PJM Once Again Hits Its Price Cap at Latest Auction",
+      "url": "https://heatmap.news/am/pjm-capacity-auction",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-15T12:01:18+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 64,
+      "fetched_at": "2026-07-16T03:46:17.064906+00:00"
+    },
+    {
+      "id": "c59713b6d7bf45f3",
+      "title": "Why Heat Waves Are Tricky Killers",
+      "url": "https://heatmap.news/climate/heat-excess-deaths",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-15T12:23:02+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 28,
+      "fetched_at": "2026-07-16T03:46:16.419147+00:00"
+    },
+    {
+      "id": "4fc4784944169e2a",
+      "title": "Orange Skies Are Back",
+      "url": "https://heatmap.news/climate/orange-sky-heat-dome",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-15T19:22:32+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 28,
+      "fetched_at": "2026-07-16T03:46:15.669588+00:00"
+    },
+    {
+      "id": "c390abbd43eee5c5",
+      "title": "New York Governor Kathy Hochul Is Walking a Narrow Lane on Data Centers",
+      "url": "https://heatmap.news/politics/hochul-data-centers-renewables",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-15T22:35:45+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 29,
+      "fetched_at": "2026-07-16T03:46:15.067971+00:00"
+    },
+    {
+      "id": "739f4757a240f027",
+      "title": "AI Data Centers Are a Good Problem for Blue States to Have",
+      "url": "https://heatmap.news/daily/data-centers-blue-states",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-15T22:59:03+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-07-16T03:46:14.320812+00:00"
+    },
     {
       "id": "ce8c691c5e9e0777",
       "title": "How I Turned AI to the Dark Side",
