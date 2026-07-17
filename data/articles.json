@@ -1,6 +1,132 @@
 {
-  "last_updated": "2026-07-16T03:46:43.157921+00:00",
+  "last_updated": "2026-07-17T03:46:29.055142+00:00",
   "articles": [
+    {
+      "id": "f9f3ac48b92adcfd",
+      "title": "Why heat pumps are still so hot in the US",
+      "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-16T10:00:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (For what it’s worth, many heat pumps can also be run in reverse to cool buildings.) In the US, heat pump sales have doubled over the past 15 years, according to a new report.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-07-17T03:46:08.935343+00:00"
+    },
+    {
+      "id": "f641396dab960cd1",
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-16T12:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer\nOpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. It automates a type of safety evaluation for software systems known as red-teaming, which is typically done by a team of human testers.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-07-17T03:46:08.346672+00:00"
+    },
+    {
+      "id": "3de6c764f1319f0c",
+      "title": "The Carbon Removal Buyer the World Has Been Waiting For",
+      "url": "https://heatmap.news/carbon-removal/eu-emissions-trading",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-16T08:55:02+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-07-17T03:46:05.867341+00:00"
+    },
+    {
+      "id": "0e3ea8b0f606c4bf",
+      "title": "Puerto Rico’s Water Crisis Stretches into Another Month",
+      "url": "https://heatmap.news/am/puerto-rico-water",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-16T12:06:30+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-07-17T03:46:05.262741+00:00"
+    },
+    {
+      "id": "2a542294380f2e5b",
+      "title": "5 Things to Keep in Mind When It’s Smoky Outside",
+      "url": "https://heatmap.news/sparks/canada-wildfire-smoke",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-16T19:00:26+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 10,
+      "fetched_at": "2026-07-17T03:46:04.497882+00:00"
+    },
+    {
+      "id": "fcc5c50e369c5a51",
+      "title": "How Bad Is Exercising in Wildfire Smoke?",
+      "url": "https://heatmap.news/climate/smoke-exercise",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-16T23:02:26+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 28,
+      "fetched_at": "2026-07-17T03:46:03.728635+00:00"
+    },
+    {
+      "id": "9af0bac147c50b05",
+      "title": "Scoop: A Key Democrat Wants to Fix the Power Grid, Texas-Style",
+      "url": "https://heatmap.news/daily/heinrich-texas-power-permitting",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-16T23:16:46+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 28,
+      "fetched_at": "2026-07-17T03:46:02.624852+00:00"
+    },
+    {
+      "id": "bc43396d50b78faf",
+      "title": "Senra Systems: Harnessing Human Skill",
+      "url": "https://www.notboring.co/p/senra-systems-harnessing-human-skill",
+      "source_name": "Not Boring",
+      "source_type": "substack",
+      "published_at": "2026-07-16T12:53:19+00:00",
+      "sectors": [
+        "Defence",
+        "Robotics",
+        "Climate"
+      ],
+      "excerpt": "Join 273,329 smart, curious folks by subscribing here:\nHi friends 👋,\nHappy Thursday! Just about three years ago, I was having coffee with another VC, someone whose portfolio I really like, and I asked him which one he was most excited about. He asked, “Do you know what wire harnesses are?” and I said something like “like bundles of wires?” and he said “kinda” and then told me about Jordan Black and Senra Systems.",
+      "signal": "",
+      "estimated_read_minutes": 32,
+      "fetched_at": "2026-07-17T03:46:00.624099+00:00"
+    },
     {
       "id": "6b7358dc47913b71",
       "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
