@@ -1,6 +1,161 @@
 {
-  "last_updated": "2026-07-17T03:46:29.055142+00:00",
+  "last_updated": "2026-07-18T03:41:25.278211+00:00",
   "articles": [
+    {
+      "id": "45f27fd68dfdea80",
+      "title": "Global Enterprises Are Buying Indian Ai Here Is What We See Working",
+      "url": "https://3one4capital.com/blogs/global-enterprises-are-buying-indian-ai-here-is-what-we-see-working",
+      "source_name": "3one4 Capital",
+      "source_type": "blog",
+      "published_at": "2026-07-18T03:41:15.048198+00:00",
+      "sectors": [
+        "Semiconductors"
+      ],
+      "excerpt": "This is the India for the World thesis playing out in real time. The pilots that would not have started a year ago are now being signed inside the same quarter. Global enterprises, including buyers in domains as unforgiving as semiconductor design and embedded firmware, are running production evaluations of AI built in India and converting them into contracts at a speed the enterprise SaaS era rarely permitted.",
+      "signal": "",
+      "estimated_read_minutes": 9,
+      "fetched_at": "2026-07-18T03:41:15.048765+00:00"
+    },
+    {
+      "id": "c21b23b6ab59c796",
+      "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
+      "url": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-07-17T18:00:01+00:00",
+      "sectors": [
+        "Defence",
+        "Robotics"
+      ],
+      "excerpt": "As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell in love with the field, she says. Downs participated in the international robotics program from 2014 to 2016. Watching PBS specials on NASA Mars rovers Spirit and Opportunity, and seeing the live broadcast of the Curiosity rover launch in 2011, inspired the teen to dream of a career working with NASA.",
+      "signal": "",
+      "estimated_read_minutes": 9,
+      "fetched_at": "2026-07-18T03:41:09.102509+00:00"
+    },
+    {
+      "id": "9e7db13d70e8e0fa",
+      "title": "The risk of weather data sabotage is rising",
+      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-17T08:57:32+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Here’s what we can do to safeguard them. Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-07-18T03:41:08.209359+00:00"
+    },
+    {
+      "id": "537fc3e4c58410ed",
+      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
+      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-17T12:10:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. There’s a lot of hype around perimenopause. Perimenopause used to be considered taboo, but not anymore.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-07-18T03:41:07.523534+00:00"
+    },
+    {
+      "id": "39919da008485b51",
+      "title": "Iraq and Chevron Are Planning a Route Through Syria to Evade Strait of Hormuz",
+      "url": "https://heatmap.news/am/chevron-iraq-syria",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-17T11:54:40+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 28,
+      "fetched_at": "2026-07-18T03:41:05.675137+00:00"
+    },
+    {
+      "id": "9109c0cf7de895aa",
+      "title": "When a Rate Freeze Is a Rate Hike in Disguise",
+      "url": "https://heatmap.news/energy/national-grid-rate-stabilization",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-17T19:07:30+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 34,
+      "fetched_at": "2026-07-18T03:41:05.079728+00:00"
+    },
+    {
+      "id": "f339ea89874e17b8",
+      "title": "The East Coast’s New Forever Problem",
+      "url": "https://heatmap.news/adaptation/east-coast-smoke",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-17T20:38:07+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 28,
+      "fetched_at": "2026-07-18T03:41:04.461881+00:00"
+    },
+    {
+      "id": "3afa068f386615c6",
+      "title": "Microsoft Sustainability Chief Hounded by Protestors at Seattle Climate Week",
+      "url": "https://heatmap.news/sparks/microsoft-data-center-protestors",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-17T22:06:53+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 11,
+      "fetched_at": "2026-07-18T03:41:03.264360+00:00"
+    },
+    {
+      "id": "7bf4cf460a628af7",
+      "title": "What Worries Me Most About These Wildfire Smoke Days",
+      "url": "https://heatmap.news/daily/worrying-smoke-climate-change",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-17T22:50:04+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-07-18T03:41:02.661669+00:00"
+    },
+    {
+      "id": "3e07eefa79a6a045",
+      "title": "Weekly Dose of Optimism #202",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-202",
+      "source_name": "Not Boring",
+      "source_type": "substack",
+      "published_at": "2026-07-17T11:43:07+00:00",
+      "sectors": [
+        "Defence",
+        "Robotics"
+      ],
+      "excerpt": "This week, we had a lot of good news come in pairs: two Saronic stories, two Austin stories, two robotics stories, and two open-weight model stories. So I cheated and combined them to squeeze a little extra optimism into your Dose. Today’s Weekly Dose is brought to you by… Not Boring\nAt the bottom of this and every Weekly Dose, we share some extra goodies, including Science Breakthroughs from Ulkar Aghayeva, who I first found through her work with collaborators ranking 2025’s papers and breakthroughs for their potential impact.",
+      "signal": "",
+      "estimated_read_minutes": 11,
+      "fetched_at": "2026-07-18T03:40:59.621614+00:00"
+    },
     {
       "id": "f9f3ac48b92adcfd",
       "title": "Why heat pumps are still so hot in the US",
