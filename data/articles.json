@@ -1,6 +1,21 @@
 {
-  "last_updated": "2026-07-18T03:41:25.278211+00:00",
+  "last_updated": "2026-07-19T04:03:05.902716+00:00",
   "articles": [
+    {
+      "id": "3a2d072bb61c4d95",
+      "title": "Reading List 07/18/26",
+      "url": "https://www.construction-physics.com/p/reading-list-071826",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-07-18T12:01:57+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure and industrial technology. This week we look at a setback for California Forever, a $500 million artillery shell plant not producing any shells, the difficulty of recycling EV batteries, manufacturing wire harnesses, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-07-19T04:02:44.814144+00:00"
+    },
     {
       "id": "45f27fd68dfdea80",
       "title": "Global Enterprises Are Buying Indian Ai Here Is What We See Working",
