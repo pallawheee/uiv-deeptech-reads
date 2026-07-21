@@ -1,6 +1,159 @@
 {
-  "last_updated": "2026-07-20T04:12:45.191562+00:00",
+  "last_updated": "2026-07-21T03:54:55.529013+00:00",
   "articles": [
+    {
+      "id": "4a897f442d707c31",
+      "title": "Exclusive: Redcliffe Labs To Acquire Megavision Diagnostics In ₹40 Cr Deal",
+      "url": "https://inc42.com/buzz/exclusive-redcliffe-labs-to-acquire-megavision-diagnostics-in-%e2%82%b940-cr-deal/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-07-20T10:47:14+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-07-21T03:54:53.419148+00:00"
+    },
+    {
+      "id": "4b36f8c47fb83b1c",
+      "title": "Paytm’s Q1 Show, NVIDIA’s New GPU Game Plan & More",
+      "url": "https://inc42.com/buzz/paytms-q1-show-nvidias-new-gpu-game-plan-more/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-07-21T02:30:52+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-07-21T03:54:43.041472+00:00"
+    },
+    {
+      "id": "98bde9384a6a1f2d",
+      "title": "Indias Trillion Dollar Materials Decade Has Begun India Imported Its Molecules It Will Now Make Them",
+      "url": "https://3one4capital.com/blogs/indias-trillion-dollar-materials-decade-has-begun-india-imported-its-molecules-it-will-now-make-them",
+      "source_name": "3one4 Capital",
+      "source_type": "blog",
+      "published_at": "2026-07-21T03:54:39.276028+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "India is moving from buyer to builder, and a generation of founders is moving with it. The most contested layer of industrial power is no longer the barrel of crude or the finished device. It is the molecule in between, and the chemistry that turns a raw input into something the rest of the world cannot easily reproduce.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-07-21T03:54:39.277024+00:00"
+    },
+    {
+      "id": "35a1b28301c09202",
+      "title": "AI is more likely than humans to form biases when hiring",
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-20T08:39:01+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-07-21T03:54:32.152835+00:00"
+    },
+    {
+      "id": "0ace738400ef1bd9",
+      "title": "The Download: AI hiring biases, and weather data sabotage",
+      "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-20T12:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. AI is more likely than humans to form biases when hiring\nThe next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-07-21T03:54:31.567149+00:00"
+    },
+    {
+      "id": "8be5752a7fada571",
+      "title": "China’s AI models have Trump’s AI world at war with itself",
+      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-20T18:00:00+00:00",
+      "sectors": [
+        "Defence",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-07-21T03:54:30.990508+00:00"
+    },
+    {
+      "id": "de5c9e01d5b35677",
+      "title": "The EU Rides to DAC’s Rescue",
+      "url": "https://heatmap.news/am/eu-carbon-removal",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-20T12:13:45+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-07-21T03:54:29.366179+00:00"
+    },
+    {
+      "id": "8a903a54e05dae32",
+      "title": "How to Unlock Republican Support for Climate Action",
+      "url": "https://heatmap.news/ideas/republican-climate-action",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-20T16:04:47+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-07-21T03:54:28.718897+00:00"
+    },
+    {
+      "id": "415efcd2b0393401",
+      "title": "Why Your Smart EV Still Has a Dumb Battery",
+      "url": "https://heatmap.news/electric-vehicles/12-volt-batteries",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-20T18:50:10+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 22,
+      "fetched_at": "2026-07-21T03:54:28.079613+00:00"
+    },
+    {
+      "id": "9ac8bf74a82f74dc",
+      "title": "Trump Found a New Way to Punish Canada",
+      "url": "https://heatmap.news/daily/trump-canada-tariffs-cement",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-21T01:30:11+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-07-21T03:54:27.444073+00:00"
+    },
     {
       "id": "3a2d072bb61c4d95",
       "title": "Reading List 07/18/26",
