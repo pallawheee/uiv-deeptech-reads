@@ -1,6 +1,115 @@
 {
-  "last_updated": "2026-07-21T03:54:55.529013+00:00",
+  "last_updated": "2026-07-22T03:56:42.300584+00:00",
   "articles": [
+    {
+      "id": "e7726a8f7f8801c4",
+      "title": "MS Dhoni Invests In Rooftop Solar Startup SolarSquare",
+      "url": "https://inc42.com/buzz/ms-dhoni-invests-in-rooftop-solar-startup-solarsquare/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-07-21T07:04:45+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-07-22T03:56:41.262965+00:00"
+    },
+    {
+      "id": "df45f6b149050e80",
+      "title": "Advancing next-gen AI with materials science innovation",
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-21T10:37:34+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "Provided bySyensqo\nThe conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and higher reliability.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-07-22T03:56:20.557339+00:00"
+    },
+    {
+      "id": "e376453ccfb604ad",
+      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-21T12:10:00+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. China’s AI models have Trump’s AI world at war with itself\nLast weekend, several current and former advisers to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks branded Anthropic’s models “lobotomized” and “woke.” Emil Michael, a top Pentagon official, called OpenAI’s new head of strategic futures a “supreme village idiot.”\nIt began because no one can agree on what to do about Kimi, a free, open-source model that Chinese AI company Moonshot launched last week.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-07-22T03:56:19.964063+00:00"
+    },
+    {
+      "id": "6791e960bea4d333",
+      "title": "Trump Made the Renewable Power Market Weird",
+      "url": "https://heatmap.news/energy/q2-2026-solar-wind-ppas",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-21T10:00:04+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-07-22T03:56:16.951288+00:00"
+    },
+    {
+      "id": "eb7ad137c17223ee",
+      "title": "Data Center Electricity Demand Ballooning as Support Collapses",
+      "url": "https://heatmap.news/am/data-center-electricity",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-21T12:13:35+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-07-22T03:56:16.333214+00:00"
+    },
+    {
+      "id": "89276cf5e9ea6099",
+      "title": "Data Centers Will Use Enough Electricity to Power Every U.S. Household by 2035",
+      "url": "https://heatmap.news/sparks/bnef-data-centers-electricity",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-21T21:36:27+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 12,
+      "fetched_at": "2026-07-22T03:56:15.717225+00:00"
+    },
+    {
+      "id": "0f3f1d8eff54c494",
+      "title": "Did Trump’s War Eat His Tax Cut?",
+      "url": "https://heatmap.news/daily/trump-gasoline-tax-cut",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-21T23:49:32+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-07-22T03:56:14.744880+00:00"
+    },
     {
       "id": "4a897f442d707c31",
       "title": "Exclusive: Redcliffe Labs To Acquire Megavision Diagnostics In ₹40 Cr Deal",
