@@ -1,6 +1,114 @@
 {
-  "last_updated": "2026-07-22T03:56:42.300584+00:00",
+  "last_updated": "2026-07-23T03:53:11.580124+00:00",
   "articles": [
+    {
+      "id": "c7c426d79565d9db",
+      "title": "The Computer That Helped Win World War II",
+      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-07-22T18:00:01+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "A later report called it “strange new music.” Sounding unlike the familiar Morse dit-dit-dah of enciphered messages sent over the German Enigma network, the “new music” was a rhythmic warble of binary teletype code being transmitted at high speed. Germany’s wartime engineers had developed a radically new encryption and transmission system. It was way more advanced than Enigma, which was patented in 1920.",
+      "signal": "",
+      "estimated_read_minutes": 11,
+      "fetched_at": "2026-07-23T03:52:49.288998+00:00"
+    },
+    {
+      "id": "9fd8ef74af607a3f",
+      "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
+      "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-22T09:00:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a star during photography. It will allow astronomers to take the first pictures of planets orbiting other stars that are similar to those in our solar system.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-07-23T03:52:47.910394+00:00"
+    },
+    {
+      "id": "4c631b99af105336",
+      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+      "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-22T12:10:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure",
+        "Cybersecurity"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own\nWhen NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. It will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a star during photography.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-07-23T03:52:47.176424+00:00"
+    },
+    {
+      "id": "f09d075bafa19ffe",
+      "title": "A New Guesstimate for Corporate AI Emissions",
+      "url": "https://heatmap.news/energy/watershed-ai-emissions",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-22T12:00:02+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-07-23T03:52:44.707457+00:00"
+    },
+    {
+      "id": "df5ba4a83ac124b9",
+      "title": "U.S. Power Sector Emissions Spiked 4% in 2025",
+      "url": "https://heatmap.news/am/power-sector-emissions",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-22T12:11:07+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-07-23T03:52:44.024456+00:00"
+    },
+    {
+      "id": "1e942205da0efb69",
+      "title": "Exclusive: Inertia’s Roadmap to Commercialize Laser Fusion",
+      "url": "https://heatmap.news/climate-tech/inertia-commercial-roadmap",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-22T16:00:08+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-07-23T03:52:43.335020+00:00"
+    },
+    {
+      "id": "40db8e26424107ac",
+      "title": "Why It’s Still So Hard to Count Heat Wave Deaths",
+      "url": "https://heatmap.news/daily/france-heat-wave-deaths",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-23T01:32:37+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 11,
+      "fetched_at": "2026-07-23T03:52:42.525496+00:00"
+    },
     {
       "id": "e7726a8f7f8801c4",
       "title": "MS Dhoni Invests In Rooftop Solar Startup SolarSquare",
