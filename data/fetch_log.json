@@ -339,5 +339,22 @@
     "source": "Stellaris",
     "reason": "scrape_index_returned_no_links",
     "timestamp": "2026-07-23T03:52:57.935379+00:00"
+  },
+  {
+    "url": "https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207",
+    "source": "IEEE Spectrum",
+    "reason": "scrape_failed",
+    "timestamp": "2026-07-24T03:52:23.407247+00:00"
+  },
+  {
+    "url": "https://blume.vc/commentaries/trust-thesis-understanding-the-foundational-building-blocks-of-the-indian-consumer-internet",
+    "source": "Blume Ventures",
+    "reason": "scrape_failed",
+    "timestamp": "2026-07-24T03:52:26.493418+00:00"
+  },
+  {
+    "source": "Stellaris",
+    "reason": "scrape_index_returned_no_links",
+    "timestamp": "2026-07-24T03:52:30.771608+00:00"
   }
 ]
