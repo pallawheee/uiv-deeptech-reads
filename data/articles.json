@@ -1,6 +1,182 @@
 {
-  "last_updated": "2026-07-24T03:52:42.233943+00:00",
+  "last_updated": "2026-07-25T03:46:33.698424+00:00",
   "articles": [
+    {
+      "id": "87b839503197ad74",
+      "title": "2022 IEEE President K.J. Ray Liu Honored for His Leadership",
+      "url": "https://spectrum.ieee.org/ieee-president-ray-liu-award",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-07-24T18:00:01+00:00",
+      "sectors": [
+        "Semiconductors"
+      ],
+      "excerpt": "Growing up in Taichung, Taiwan, he answered his government’s call for students to become electrical engineers to help manufacture semiconductors in the 1970s, when the country’s economy was struggling. “Students who were good in math, science, and physics all wanted to be an electrical engineer because that was the top priority of the government,” Liu says. Now Taiwan is a world leader in semiconductors.”\nK.J.",
+      "signal": "",
+      "estimated_read_minutes": 10,
+      "fetched_at": "2026-07-25T03:46:13.599020+00:00"
+    },
+    {
+      "id": "9c86db8d4e4adc57",
+      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+      "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-24T12:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Robotics",
+        "Climate",
+        "MedTech",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”\nWhen it comes to organ donation, time is everything. As soon as an organ has been removed from a donor’s body, it starts to deteriorate.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-07-25T03:46:11.680626+00:00"
+    },
+    {
+      "id": "a3b83c1d624825d5",
+      "title": "Transcript: What Barbecue Sauce Has in Common With Carbon Removal",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e59-charm-industrial-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-24T09:00:03+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 74,
+      "fetched_at": "2026-07-25T03:46:10.184541+00:00"
+    },
+    {
+      "id": "2a3c95149b1798fa",
+      "title": "What Barbecue Sauce Has in Common With Carbon Removal",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e59-charm-industrial",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-24T09:10:03+00:00",
+      "sectors": [
+        "Climate",
+        "MedTech"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 15,
+      "fetched_at": "2026-07-25T03:46:09.405690+00:00"
+    },
+    {
+      "id": "6481f07938f84ee2",
+      "title": "China Eyes a Major Increase in Renewable Energy Consumption",
+      "url": "https://heatmap.news/am/china-renewables-goal",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-24T11:37:58+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 22,
+      "fetched_at": "2026-07-25T03:46:08.785108+00:00"
+    },
+    {
+      "id": "38889a0f4145e834",
+      "title": "Is Quantum Computing Climate Tech?",
+      "url": "https://heatmap.news/climate-tech/quantum-computing",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-24T14:14:02+00:00",
+      "sectors": [
+        "Climate",
+        "Quantum Computing"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-07-25T03:46:08.160654+00:00"
+    },
+    {
+      "id": "94d0550d1ac9babd",
+      "title": "How the Trump Administration Turned a Solar Farm Into a Data Center",
+      "url": "https://heatmap.news/plus/the-fight/spotlight/townsite-solar-blm",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-24T18:51:02+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-07-25T03:46:07.416060+00:00"
+    },
+    {
+      "id": "722a97478a1f843d",
+      "title": "Anti-Solar Protests Are the Cool New Campaign Move in Wisconsin",
+      "url": "https://heatmap.news/plus/the-fight/hotspots/meta-wyoming-solar-wisconsin",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-24T19:01:19+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-07-25T03:46:06.793083+00:00"
+    },
+    {
+      "id": "33b90efe6645c8f2",
+      "title": "The Health Researcher Diving into Data Center Policy",
+      "url": "https://heatmap.news/plus/the-fight/qa/emma-uridge-kansas-health",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-24T19:07:26+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-07-25T03:46:06.171129+00:00"
+    },
+    {
+      "id": "5649d54f9a999787",
+      "title": "The U.S. Economy’s Omni-Trend",
+      "url": "https://heatmap.news/daily/us-economy-emissions-ai-google",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-24T21:24:09+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-07-25T03:46:05.422594+00:00"
+    },
+    {
+      "id": "ebe5b7fd7b8ab552",
+      "title": "Weekly Dose of Optimism #203",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-203",
+      "source_name": "Not Boring",
+      "source_type": "substack",
+      "published_at": "2026-07-24T13:07:04+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "At least here in New York City, the weather is 10/10, it’s a summer Friday, and you probably want to spend some time outside. So let’s cut this intro short and here’s an audio version (my AI voice, so please excuse the pronunciation of “a16z”) if you want to pop it in your ears and walk around. Peep the Extra Doses for some wild science, an excellent essay on the Frontier, and an absolutely stellar 50-year land art project.",
+      "signal": "",
+      "estimated_read_minutes": 14,
+      "fetched_at": "2026-07-25T03:46:03.654787+00:00"
+    },
     {
       "id": "0166899465fad3e9",
       "title": "The power line that could reshape New York’s grid is hitting snags",
