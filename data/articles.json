@@ -1,6 +1,38 @@
 {
-  "last_updated": "2026-07-25T03:46:33.698424+00:00",
+  "last_updated": "2026-07-26T04:05:20.389335+00:00",
   "articles": [
+    {
+      "id": "b77bd88ff48cfc58",
+      "title": "Reading List 07/25/26",
+      "url": "https://www.construction-physics.com/p/reading-list-072526",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-07-25T14:01:08+00:00",
+      "sectors": [
+        "Climate",
+        "Semiconductors"
+      ],
+      "excerpt": "Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure, and industrial technology. This week we look at China’s EV subsidies, the future of aeroderivative gas turbines, a US-Saudi nuclear deal, defective roadway guardrails, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-07-26T04:04:54.671830+00:00"
+    },
+    {
+      "id": "954a8d8ee35d3eb7",
+      "title": "AI is Oil, Not God",
+      "url": "https://www.notboring.co/p/ai-is-oil-not-god",
+      "source_name": "Not Boring",
+      "source_type": "substack",
+      "published_at": "2026-07-25T17:25:07+00:00",
+      "sectors": [
+        "Defence",
+        "AI Infrastructure"
+      ],
+      "excerpt": "The past couple of days have been a technology business strategy nerd’s Super Bowl plus a Pro-Progress Person’s Super Bowl. Whenever you combine commoditizing complements with fighting the precautionary principle, I’m not going to be able to stop myself from writing something. This is lightly edited and is just my quick thoughts, so I’m throwing a bunch of it behind the paywall for the real ones (not boring world subscribers).",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-07-26T04:04:53.399272+00:00"
+    },
     {
       "id": "87b839503197ad74",
       "title": "2022 IEEE President K.J. Ray Liu Honored for His Leadership",
