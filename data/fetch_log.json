@@ -390,5 +390,16 @@
     "source": "Stellaris",
     "reason": "scrape_index_returned_no_links",
     "timestamp": "2026-07-26T04:05:07.487453+00:00"
+  },
+  {
+    "url": "https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207",
+    "source": "IEEE Spectrum",
+    "reason": "scrape_failed",
+    "timestamp": "2026-07-27T04:11:59.278970+00:00"
+  },
+  {
+    "source": "Stellaris",
+    "reason": "scrape_index_returned_no_links",
+    "timestamp": "2026-07-27T04:12:04.536777+00:00"
   }
 ]
