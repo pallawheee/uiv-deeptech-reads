@@ -1,6 +1,161 @@
 {
-  "last_updated": "2026-07-27T04:12:19.465805+00:00",
+  "last_updated": "2026-07-28T03:45:24.549800+00:00",
   "articles": [
+    {
+      "id": "d2472d024c1dbbbb",
+      "title": "Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare",
+      "url": "https://content.knowledgehub.wiley.com/improving-the-capabilities-of-cognitive-radar-and-electronic-warfare-systems/",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-07-27T17:54:07+00:00",
+      "sectors": [
+        "Cybersecurity"
+      ],
+      "excerpt": "This White Paper provides engineers and researchers with a comprehensive overview of how mode-agile threats are outpacing traditional static library radar/EW systems — and how cognitive AI/ML architectures enable adaptive, autonomous countermeasures in contested RF environments. What you will learn about:\n- Why mode-agile threat emitters render traditional static threat library systems ineffective, deploying unexpected frequencies, modulation techniques, and hopping schemes that cannot be matched against predefined databases. - How artificial neural networks, deep neural networks, fuzzy logic, and genetic algorithms form the AI/ML foundation of cognitive radar/EW systems capable of autonomous threat classification and real-time countermeasure generation.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-07-28T03:45:05.390210+00:00"
+    },
+    {
+      "id": "cc4e3f6d6e64b2d4",
+      "title": "Building the enterprise environment for agentic AI",
+      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-27T11:32:58+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Provided byIntel\nFor the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the ability to predictably plan and scale agents.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-07-28T03:45:02.566110+00:00"
+    },
+    {
+      "id": "0a9b60fb4c575c08",
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-27T11:40:16+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "But this speed is exposing physical bottlenecks in the lab, and a need for better data. In partnership withCytiva\nDrug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law.",
+      "signal": "",
+      "estimated_read_minutes": 9,
+      "fetched_at": "2026-07-28T03:45:01.946667+00:00"
+    },
+    {
+      "id": "019f99f4d633a5c0",
+      "title": "The path to artificial superintelligence",
+      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-27T12:00:00+00:00",
+      "sectors": [
+        "MedTech",
+        "Semiconductors"
+      ],
+      "excerpt": "In partnership withOutshift by Cisco\nImagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate patient care without a human making the decisions.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-07-28T03:45:01.383795+00:00"
+    },
+    {
+      "id": "3c45661bee203069",
+      "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
+      "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-27T12:10:00+00:00",
+      "sectors": [
+        "MedTech",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. How lasers could help provide fuel for nuclear reactors\nNuclear power provides about 9% of global electricity today, and that fraction could tick up as countries look to build new reactors. New, cheaper methods to obtain fuel could help ensure that those nuclear projects stay on track.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-07-28T03:45:00.823534+00:00"
+    },
+    {
+      "id": "79cfa96755675de3",
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-27T18:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Cybersecurity"
+      ],
+      "excerpt": "A decade-old experiment showed OpenAI how far an AI will go to achieve the goals it’s given. This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-07-28T03:45:00.195054+00:00"
+    },
+    {
+      "id": "f58c59e497d85c24",
+      "title": "France and Spain Are Burning",
+      "url": "https://heatmap.news/am/france-spain-fires",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-27T12:26:54+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-07-28T03:44:58.623776+00:00"
+    },
+    {
+      "id": "9d2b851735700724",
+      "title": "Scoop: Clearway Asks Trump to Swap Solar Farm for Data Center and Gas Plant",
+      "url": "https://heatmap.news/energy/clearway-nevada-data-center-solar",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-27T17:22:58+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-07-28T03:44:57.765620+00:00"
+    },
+    {
+      "id": "c2e2b0255f300e75",
+      "title": "How to Use a Chatbot to Evacuate a City",
+      "url": "https://heatmap.news/adaptation/simplicity-axonis-ai-floods",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-27T20:59:04+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-07-28T03:44:57.140021+00:00"
+    },
+    {
+      "id": "505fa71f68c55291",
+      "title": "The Next Wave of Climate Extremes Is Taking Shape",
+      "url": "https://heatmap.news/daily/climate-politics-wildfires-el-nino",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-28T00:27:29+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-07-28T03:44:56.509295+00:00"
+    },
     {
       "id": "b77bd88ff48cfc58",
       "title": "Reading List 07/25/26",
