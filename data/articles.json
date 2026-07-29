@@ -1,6 +1,132 @@
 {
-  "last_updated": "2026-07-28T03:45:24.549800+00:00",
+  "last_updated": "2026-07-29T03:49:27.243531+00:00",
   "articles": [
+    {
+      "id": "0d4be2729f7a0367",
+      "title": "Centre Sets Up Inter-Ministerial Group To Form Financial Cybersecurity Strategy",
+      "url": "https://inc42.com/buzz/centre-sets-up-inter-ministerial-group-to-form-financial-cybersecurity-strategy/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-07-28T15:12:52+00:00",
+      "sectors": [
+        "Cybersecurity"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-07-29T03:49:19.751548+00:00"
+    },
+    {
+      "id": "316929e6bc033bd1",
+      "title": "AI Data Centres To Consumer 26.3 GW Power By FY32: MoS Power",
+      "url": "https://inc42.com/buzz/ai-data-centres-to-consumer-26-3-gw-power-by-fy32-mos-power/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-07-28T22:33:05+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-07-29T03:49:15.743828+00:00"
+    },
+    {
+      "id": "8980e8ef2e88a0cd",
+      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-28T09:18:57+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on how to draft a stellar personal statement.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-07-29T03:49:03.642112+00:00"
+    },
+    {
+      "id": "ae2fe667073979a9",
+      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-28T12:10:00+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "OpenAI called the Hugging Face attack unprecedented. —Will Douglas Heaven, senior AI editor\nReading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got genuine chills about what large language models are now able to do. But this is a case of human hubris, not rogue AI.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-07-29T03:49:03.048251+00:00"
+    },
+    {
+      "id": "f4c28102eaf83760",
+      "title": "Europe’s ‘Hardest’ Challenge ‘Since World War II’",
+      "url": "https://heatmap.news/am/europe-wildfires-heatwave",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-28T12:49:40+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-07-29T03:49:00.512503+00:00"
+    },
+    {
+      "id": "d85fbdba48888787",
+      "title": "The Tesla Diner Is a Runaway Success. But Not for the Reason You’d Think.",
+      "url": "https://heatmap.news/electric-vehicles/tesla-diner-defense",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-28T16:16:29+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-07-29T03:48:59.758219+00:00"
+    },
+    {
+      "id": "906c03fad42d08f6",
+      "title": "America’s Largest Electricity Market Lurches Towards Reform",
+      "url": "https://heatmap.news/energy/pjm-interconnection-reforms",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-28T21:21:19+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-07-29T03:48:59.023514+00:00"
+    },
+    {
+      "id": "b5dc0067a84a8223",
+      "title": "The Data Center Backlash Is Splitting MAGA",
+      "url": "https://heatmap.news/daily/data-center-backlash-maga",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-28T23:22:44+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-07-29T03:48:58.386983+00:00"
+    },
     {
       "id": "d2472d024c1dbbbb",
       "title": "Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare",
