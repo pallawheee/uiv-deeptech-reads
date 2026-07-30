@@ -1,6 +1,149 @@
 {
-  "last_updated": "2026-07-29T03:49:27.243531+00:00",
+  "last_updated": "2026-07-30T03:40:46.412446+00:00",
   "articles": [
+    {
+      "id": "62ef58c30416a271",
+      "title": "AI Is Hyper-Scaling Digital Inequality",
+      "url": "https://spectrum.ieee.org/ai-digital-divide",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-07-29T11:00:04+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, health care, finance, and public administration. Industry leaders talk about “AI for everyone,” while governments rush to publish national AI strategies and build sovereign compute. Yet over the past decade, working on digital inclusion and digital literacy projects in regions from Europe to sub-Saharan Africa and Southeast Asia, I’ve seen the same pattern repeat: Each new wave of “transformative” technology lands on a landscape already stratified by connectivity, skills, and institutional capacity.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-07-30T03:40:23.567802+00:00"
+    },
+    {
+      "id": "e012bc9b22d358bb",
+      "title": "The AI Hype Index: Unsexy AI",
+      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-29T08:42:57+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "The fact it may soon be better than you at making dinner? But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some, oddly sexy?) robotic hands in a July demo. While the tech community was sharply divided over the appeal of those disembodied hands, almost everyone can agree that a few things are decidedly not sexy: Grok’s porn-pilled translation feature, Meta’s creepy glasses (which may soon get even creepier), and Big Tech’s emissions (which continue to skyrocket).",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-07-30T03:40:22.108446+00:00"
+    },
+    {
+      "id": "8c061c713937680c",
+      "title": "The Download: a chip talent battle, and deflating AI hype",
+      "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-29T12:10:00+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix\nLee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-07-30T03:40:21.518790+00:00"
+    },
+    {
+      "id": "71258d9f6a7e044a",
+      "title": "How an overlooked geothermal plant got a second chance",
+      "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-29T17:58:44+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again, thanks to a new well. With the help of advanced modeling and modern drilling technology, the company was able to identify a better potential well site, drill down thousands of feet, and revive the entire operation.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-07-30T03:40:20.924710+00:00"
+    },
+    {
+      "id": "9fdb80d78c47181f",
+      "title": "What a Permitting Reform Deal Could Look Like",
+      "url": "https://heatmap.news/podcast/permitting-reform-arnold-ventures-daniel-palken",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-29T09:00:02+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 28,
+      "fetched_at": "2026-07-30T03:40:18.173953+00:00"
+    },
+    {
+      "id": "1d1d4c3f7de21a17",
+      "title": "Transcript: What a Permitting Reform Deal Could Look Like",
+      "url": "https://heatmap.news/podcast/permitting-reform-arnold-ventures-daniel-palken-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-29T09:15:05+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 103,
+      "fetched_at": "2026-07-30T03:40:17.513123+00:00"
+    },
+    {
+      "id": "fd85e13377b09b1d",
+      "title": "One Corporate Emissions Standard to Rule Them All",
+      "url": "https://heatmap.news/sustainability/ghg-protocol-iso-update-scope-2",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-29T12:00:04+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 92,
+      "fetched_at": "2026-07-30T03:40:16.650078+00:00"
+    },
+    {
+      "id": "f38de946b2914f23",
+      "title": "Trump Bans Chinese Inverters",
+      "url": "https://heatmap.news/am/chinese-inverter-ban",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-29T12:41:03+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate",
+        "AI Infrastructure",
+        "Cybersecurity"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 104,
+      "fetched_at": "2026-07-30T03:40:15.953909+00:00"
+    },
+    {
+      "id": "60e98bddd9f4db3b",
+      "title": "Meta Down, Permitting Odds Up",
+      "url": "https://heatmap.news/daily/meta-microsoft-permitting-reform",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-29T23:09:47+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 103,
+      "fetched_at": "2026-07-30T03:40:15.138569+00:00"
+    },
     {
       "id": "0d4be2729f7a0367",
       "title": "Centre Sets Up Inter-Ministerial Group To Form Financial Cybersecurity Strategy",
