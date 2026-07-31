@@ -428,5 +428,15 @@
     "source": "Stellaris",
     "reason": "scrape_index_returned_no_links",
     "timestamp": "2026-07-30T03:40:33.357952+00:00"
+  },
+  {
+    "source": "3one4 Capital",
+    "reason": "scrape_index_returned_no_links",
+    "timestamp": "2026-07-31T03:59:34.163499+00:00"
+  },
+  {
+    "source": "Stellaris",
+    "reason": "scrape_index_returned_no_links",
+    "timestamp": "2026-07-31T03:59:34.547290+00:00"
   }
 ]

@@ -1,6 +1,132 @@
 {
-  "last_updated": "2026-07-30T03:40:46.412446+00:00",
+  "last_updated": "2026-07-31T03:59:48.383549+00:00",
   "articles": [
+    {
+      "id": "b53b0936eba10915",
+      "title": "Detect Dark Matter’s Mark From Your Backyard",
+      "url": "https://spectrum.ieee.org/dark-matter",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-07-30T14:00:03+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "But they’ve determined that this invisible material must be far more abundant than the stars and nebulas that they can see. They’ve surmised as much from observing the gravitational effects of all this perplexing dark stuff, launching a decades-long campaign to understand its nature. I recently learned that it is possible to sense the presence of dark matter using a small radio telescope such as the Discovery Dish covered in these pages last year.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-07-31T03:59:30.520979+00:00"
+    },
+    {
+      "id": "4feed46575317f68",
+      "title": "IEEE Publishing Ethics Team Upholds Research Integrity",
+      "url": "https://spectrum.ieee.org/ieee-publishing-ethics-research-integrity",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-07-30T18:00:03+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "The group also works to increase the organization’s visibility in the broader publishing ethics area and helps IEEE volunteers write new policies. Here are some highlights of the team’s activities last year. New detection tools\nIEEE conducted a pilot program in 2024 to integrate tools from the International Association of Scientific, Technical, and Medical Publishers (STM) Integrity Hub into the peer-review workflow of IEEE Access.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-07-31T03:59:29.938486+00:00"
+    },
+    {
+      "id": "94e9e4b193c20066",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-30T10:15:19+00:00",
+      "sectors": [
+        "Defence",
+        "AI Infrastructure"
+      ],
+      "excerpt": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which is being used in more and more applications, from government and military systems to online shopping and health care. By taking advantage of this flaw, which concerns how LLMs identify who or what is giving them instructions, the researchers were able to make popular LLMs spit out information they had been trained not to provide, such as how to synthesize cocaine and how to sabotage a commercial aircraft’s navigation system.",
+      "signal": "",
+      "estimated_read_minutes": 9,
+      "fetched_at": "2026-07-31T03:59:28.326631+00:00"
+    },
+    {
+      "id": "7cb09c16dd6dcdb3",
+      "title": "The Download: tricking LLMs, and reviving geothermal plants",
+      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-30T12:10:00+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack\nIt is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at a top AI conference earlier this month. The flaw concerns how LLMs identify who or what is giving them instructions.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-07-31T03:59:27.767715+00:00"
+    },
+    {
+      "id": "b12eb2c800c90cd7",
+      "title": "Montana’s plan to become an experimental medical hub just pushed forward",
+      "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-30T17:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "MedTech"
+      ],
+      "excerpt": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the company can set the price of the drug and sell it via experimental treatment clinics, the first of which is likely to be up and running around the end of this year.",
+      "signal": "",
+      "estimated_read_minutes": 12,
+      "fetched_at": "2026-07-31T03:59:27.206833+00:00"
+    },
+    {
+      "id": "8d4b985de4bd959f",
+      "title": "Commonwealth Fusion Systems Wins Over New Class of Investors With $1 Billion Raise",
+      "url": "https://heatmap.news/energy/commonwealth-fusion-systems-new-raise-investors",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-30T04:09:33+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 28,
+      "fetched_at": "2026-07-31T03:59:25.512913+00:00"
+    },
+    {
+      "id": "c8104e5ab9292bc4",
+      "title": "Commonwealth Fusion Systems’ Big Raise",
+      "url": "https://heatmap.news/am/commonwealth-fusion-billion",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-30T12:30:37+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 27,
+      "fetched_at": "2026-07-31T03:59:24.768471+00:00"
+    },
+    {
+      "id": "357921ea2ff00973",
+      "title": "Exclusive: Over 530 Local Laws Now Seek to Ban or Restrict Data Centers",
+      "url": "https://heatmap.news/politics/data-center-local-laws-bans-total",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-30T23:35:13+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-07-31T03:59:24.123155+00:00"
+    },
     {
       "id": "62ef58c30416a271",
       "title": "AI Is Hyper-Scaling Digital Inequality",
