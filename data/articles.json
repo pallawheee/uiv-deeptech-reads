@@ -1,6 +1,148 @@
 {
-  "last_updated": "2026-07-31T03:59:48.383549+00:00",
+  "last_updated": "2026-08-01T03:59:47.973186+00:00",
   "articles": [
+    {
+      "id": "277599f0924a5bf2",
+      "title": "Montana’s new “right to try” law can’t come soon enough for some",
+      "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-31T09:00:00+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "He’s desperate to try an experimental drug, even though it has not been through clinical trials. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-08-01T03:59:26.177595+00:00"
+    },
+    {
+      "id": "75f986bbd1e7408f",
+      "title": "The Download: Montana’s new experimental drug rules",
+      "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-07-31T12:16:00+00:00",
+      "sectors": [
+        "Defence",
+        "MedTech"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward\nAs of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the company can sell it via experimental treatment clinics, the first of which is likely to be up and running around the end of this year.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-01T03:59:25.582269+00:00"
+    },
+    {
+      "id": "1fa643e73312b1f1",
+      "title": "Europe Braces for Energy Cuts as Rivers Heat and Dry Up",
+      "url": "https://heatmap.news/am/europe-rivers-energy",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-31T12:27:57+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-08-01T03:59:23.440927+00:00"
+    },
+    {
+      "id": "60bf7ba8f25496c5",
+      "title": "Is Trump to Blame When Data Centers Choose Gas?",
+      "url": "https://heatmap.news/plus/the-fight/qa/peter-gardett-noreva-gas-data-centers",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-31T16:25:10+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-08-01T03:59:22.800282+00:00"
+    },
+    {
+      "id": "85622e5cb58f13da",
+      "title": "The Data Center Most Likely to Get Investigated by a Democratic Congress",
+      "url": "https://heatmap.news/plus/the-fight/hotspots/meta-hyperion-xai-colossus-congress-oversight",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-31T16:38:08+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-08-01T03:59:22.167485+00:00"
+    },
+    {
+      "id": "9511c8e880644328",
+      "title": "Inside the Data Center Lobby’s Quiet Ad Blitz",
+      "url": "https://heatmap.news/plus/the-fight/spotlight/data-center-coalition-advertising-america-connects",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-31T16:43:25+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-08-01T03:59:21.553161+00:00"
+    },
+    {
+      "id": "27f8a19866a289dd",
+      "title": "3 Takeaways from a Blowout Quarter for Oil Companies",
+      "url": "https://heatmap.news/energy/chevron-shell-exxonmobil-profits",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-31T19:57:13+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-08-01T03:59:20.779638+00:00"
+    },
+    {
+      "id": "f35ea48cd3a35f82",
+      "title": "Why Rivian Is So Optimistic",
+      "url": "https://heatmap.news/daily/rivian-second-quarter-deliveries",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-07-31T20:57:35+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 15,
+      "fetched_at": "2026-08-01T03:59:20.139196+00:00"
+    },
+    {
+      "id": "c2c7859da0442d2c",
+      "title": "Weekly Dose of Optimism #204",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-204",
+      "source_name": "Not Boring",
+      "source_type": "substack",
+      "published_at": "2026-07-31T12:47:27+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "excerpt": "The pace of all of this good stuff continues to blow my mind. “How can things get any better than this?” I asked myself. And then the big tech companies came out in favor of open-weight models out of pure self-interest, which I wrote about in AI is Oil, Not God.",
+      "signal": "",
+      "estimated_read_minutes": 10,
+      "fetched_at": "2026-08-01T03:59:18.124508+00:00"
+    },
     {
       "id": "b53b0936eba10915",
       "title": "Detect Dark Matter’s Mark From Your Backyard",
