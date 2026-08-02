@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-08-01T03:59:47.973186+00:00",
+  "last_updated": "2026-08-02T04:03:15.488222+00:00",
   "articles": [
+    {
+      "id": "8ffa86af98dabfce",
+      "title": "Reading List 08/01/26",
+      "url": "https://www.construction-physics.com/p/reading-list-080126",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-08-01T12:04:01+00:00",
+      "sectors": [
+        "Defence",
+        "Semiconductors"
+      ],
+      "excerpt": "Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure, industrial technology. This week we look at pepper-spray drones, China’s chip Manhattan Project, Commonwealth Fusion’s fundraise, and a proposed Dulles Airport renovation. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-08-02T04:02:51.714370+00:00"
+    },
     {
       "id": "277599f0924a5bf2",
       "title": "Montana’s new “right to try” law can’t come soon enough for some",
