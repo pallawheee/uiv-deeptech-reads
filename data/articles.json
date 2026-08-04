@@ -1,6 +1,183 @@
 {
-  "last_updated": "2026-08-03T04:05:36.964626+00:00",
+  "last_updated": "2026-08-04T03:47:15.626546+00:00",
   "articles": [
+    {
+      "id": "5128b57e81cc4156",
+      "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
+      "url": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-08-03T11:38:22+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "In pursuit of improved range, greater reliability, and faster charging, electric vehicles are driving the demand for high-voltage electronics. Other applications driving this demand include wind farms, data centers, and server farms, to name a few. As the interest for high-voltage electronics increases, the risks associated with their sudden failure must be considered.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-08-04T03:46:57.098412+00:00"
+    },
+    {
+      "id": "033e1c0032813295",
+      "title": "The System That Turned Paper Charts Into Digital Medical Records",
+      "url": "https://spectrum.ieee.org/ieee-milestone-digital-medical-records",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-08-03T18:00:02+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "AthenaOne, Epic, and Oracle Health are some of the systems employed around the world. Many patients can access their electronic medical records from home. The platforms exist thanks to pioneering efforts such as the Medical Information System (MIS-I).",
+      "signal": "",
+      "estimated_read_minutes": 9,
+      "fetched_at": "2026-08-04T03:46:56.397347+00:00"
+    },
+    {
+      "id": "d0601037cbc8406a",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-03T08:30:05+00:00",
+      "sectors": [
+        "Cybersecurity"
+      ],
+      "excerpt": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers to a test question. According to a postmortem from OpenAI, the models, which had been stripped of their typical security features for testing, decided to solve a cybersecurity exercise by hacking out of the isolated environment in which OpenAI had attempted to contain them and into Hugging Face’s databases, where—they reasoned—the correct answer to the problem might be stored.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-08-04T03:46:55.398172+00:00"
+    },
+    {
+      "id": "86ce9cd795f7d9ca",
+      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-03T12:08:00+00:00",
+      "sectors": [
+        "Climate",
+        "Semiconductors",
+        "Cybersecurity"
+      ],
+      "excerpt": "Here’s why AI agents lie and cheat to reach their goals\nWhen two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were just looking for answers to a test question. According to OpenAI, the models decided to solve a cybersecurity exercise by hacking out of the environment in which OpenAI had attempted to contain them and into Hugging Face’s databases, where—they reasoned—the correct answer to the problem might be stored. The incident has attracted intense attention over the past couple of weeks.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-04T03:46:54.793510+00:00"
+    },
+    {
+      "id": "17cca23a6da3db5e",
+      "title": "Trump’s AI protectionism has come for robotics",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-03T18:43:30+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate",
+        "Cybersecurity"
+      ],
+      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-08-04T03:46:54.179344+00:00"
+    },
+    {
+      "id": "5af526e2d11db8e7",
+      "title": "Permitting Reform, Data Centers, and More With Senator Heinrich and Secretary Granholm",
+      "url": "https://heatmap.news/podcast/shift-key-heinrich-granholm",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-03T09:00:05+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-08-04T03:46:52.173429+00:00"
+    },
+    {
+      "id": "26575df2bd08e194",
+      "title": "Transcript: Permitting Reform, Data Centers, and More With Senator Heinrich and Secretary Granholm",
+      "url": "https://heatmap.news/podcast/shift-key-heinrich-granholm-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-03T09:05:10+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 48,
+      "fetched_at": "2026-08-04T03:46:51.191657+00:00"
+    },
+    {
+      "id": "81653fb1cd9011ce",
+      "title": "Washington State Faces Its Worst Fire in Memory",
+      "url": "https://heatmap.news/am/washington-state-wildfires",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-03T12:32:59+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 44,
+      "fetched_at": "2026-08-04T03:46:50.398593+00:00"
+    },
+    {
+      "id": "d1fd8142397d2fcb",
+      "title": "Scoop: Clearway Cancels Plan to Swap Solar Farm for Data Center and Gas Plant",
+      "url": "https://heatmap.news/sparks/clearway-energy-data-center-gas-solar",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-03T19:03:48+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 14,
+      "fetched_at": "2026-08-04T03:46:49.630770+00:00"
+    },
+    {
+      "id": "4a27f62c6ae2557d",
+      "title": "How Clean Cement Startups Are Riding the AI Boom",
+      "url": "https://heatmap.news/climate-tech/clean-concrete-data-centers",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-03T20:50:27+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 50,
+      "fetched_at": "2026-08-04T03:46:48.894380+00:00"
+    },
+    {
+      "id": "4226c60187c37603",
+      "title": "Trump “Isn’t Happy” About Exxon and Chevron’s Monster Profits",
+      "url": "https://heatmap.news/daily/chevron-exxonmobil-profits-trump",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-03T22:10:26+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-08-04T03:46:47.959352+00:00"
+    },
     {
       "id": "8ffa86af98dabfce",
       "title": "Reading List 08/01/26",
