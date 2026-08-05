@@ -1,6 +1,100 @@
 {
-  "last_updated": "2026-08-04T03:47:15.626546+00:00",
+  "last_updated": "2026-08-05T03:43:01.063355+00:00",
   "articles": [
+    {
+      "id": "b8a457cbb989f4fa",
+      "title": "How Octobotics Is Saving Human Lives By Placing Robots In Hazardous Industrial Jobs",
+      "url": "https://inc42.com/startups/how-octobotics-is-saving-human-lives-by-placing-robots-in-hazardous-industrial-jobs/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-08-04T13:09:19+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-08-05T03:42:55.259861+00:00"
+    },
+    {
+      "id": "4603fca6ccab714c",
+      "title": "The Black Box Is Losing The Boardroom Enterprise Ai On The Customers Terms Is The Next Great Opportunity",
+      "url": "https://3one4capital.com/blogs/the-black-box-is-losing-the-boardroom-enterprise-ai-on-the-customers-terms-is-the-next-great-opportunity",
+      "source_name": "3one4 Capital",
+      "source_type": "blog",
+      "published_at": "2026-08-05T03:42:42.604101+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "The next is over ownership of data, weights, and competitive advantage, and regulators are already picking a side. The winners of the next phase will deliver outcomes on infrastructure the customer controls, and India is well placed to build them. The next phase of enterprise AI will be decided by control, not just capability.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-08-05T03:42:42.604641+00:00"
+    },
+    {
+      "id": "3b3e807c0785dd0b",
+      "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+      "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-04T12:14:00+00:00",
+      "sectors": [
+        "Robotics",
+        "MedTech",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Trump’s AI protectionism has come for robotics\n—James O’Donnell\nHumanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots are more commonly seen in viral videos than real workplaces or homes. It was a surprise, then, when last week the Federal Trade Commission issued a sweeping ban on foreign imports of advanced robots, including humanoids, quadrupeds, and wheeled robots.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-08-05T03:42:34.250008+00:00"
+    },
+    {
+      "id": "d9bb8f9ded943bd1",
+      "title": "The Rhine River’s Water Levels Drop to Lowest Level Since 1880",
+      "url": "https://heatmap.news/am/rhine-river-low",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-04T12:35:59+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 22,
+      "fetched_at": "2026-08-05T03:42:32.359197+00:00"
+    },
+    {
+      "id": "63af1562c05250a8",
+      "title": "How Cyanobacteria Swamped New Hampshire",
+      "url": "https://heatmap.news/climate/cyanobacteria-lakes-new-hampshire",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-04T21:57:04+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 27,
+      "fetched_at": "2026-08-05T03:42:31.719154+00:00"
+    },
+    {
+      "id": "2c871ff5b5caee71",
+      "title": "How Different Is Anyone’s Data Center Plan, Really?",
+      "url": "https://heatmap.news/daily/how-different-is-anyones-data-center-plan-really",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-04T23:07:10+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-08-05T03:42:30.907750+00:00"
+    },
     {
       "id": "5128b57e81cc4156",
       "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
