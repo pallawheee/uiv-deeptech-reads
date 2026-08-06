@@ -463,5 +463,10 @@
     "source": "Stellaris",
     "reason": "scrape_index_returned_no_links",
     "timestamp": "2026-08-05T03:42:43.509146+00:00"
+  },
+  {
+    "source": "Stellaris",
+    "reason": "scrape_index_returned_no_links",
+    "timestamp": "2026-08-06T03:48:26.941411+00:00"
   }
 ]

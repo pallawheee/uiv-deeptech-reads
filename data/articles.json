@@ -1,6 +1,118 @@
 {
-  "last_updated": "2026-08-05T03:43:01.063355+00:00",
+  "last_updated": "2026-08-06T03:48:38.550369+00:00",
   "articles": [
+    {
+      "id": "7ee15b010b037053",
+      "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
+      "url": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-08-05T18:00:03+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure",
+        "Cybersecurity"
+      ],
+      "excerpt": "The combination of rapid industrial growth, more frequent extreme weather, and a record surge in electricity use has pushed the grid to its breaking point, according to the U.S. Built decades ago for a more predictable world in which power came mostly from centralized coal or gas plants and electricity use grew at a steady pace, the grid faces unanticipated strain due in part to growing demand from data centers. The jobs of professionals managing the infrastructure have evolved from traditional engineering tasks to complex, fast-moving challenges.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-08-06T03:48:18.841185+00:00"
+    },
+    {
+      "id": "b2e52adeaa3ade8d",
+      "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-05T08:06:40+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos. But Roman could also serve another purpose: defending Earth from killer asteroids.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-08-06T03:48:17.999302+00:00"
+    },
+    {
+      "id": "151d2e2e5bc72e06",
+      "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
+      "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-05T12:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Robotics",
+        "AI Infrastructure",
+        "Cybersecurity"
+      ],
+      "excerpt": "NASA’s new dark energy space telescope can also detect killer asteroids\nAt the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its quest is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos. But Roman could also serve another purpose: defending Earth from killer asteroids.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-06T03:48:17.412961+00:00"
+    },
+    {
+      "id": "a0605b59a268c363",
+      "title": "Puzzle Corner",
+      "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-05T14:56:29+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June issue.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-08-06T03:48:16.828458+00:00"
+    },
+    {
+      "id": "61bcb26848cc1c39",
+      "title": "The American EV Industry Is Dazed and Confused",
+      "url": "https://heatmap.news/electric-vehicles/new-electric-vehicle-advancements",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-05T10:35:06+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-08-06T03:48:14.856032+00:00"
+    },
+    {
+      "id": "77c4824439fcf23e",
+      "title": "U.S. Diesel Prices Under Trump Surpass Biden-Era Average",
+      "url": "https://heatmap.news/am/us-diesel-prices",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-05T11:56:01+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-08-06T03:48:14.187924+00:00"
+    },
+    {
+      "id": "7de749b13325d5b2",
+      "title": "A Second Act for Biden’s Green Banks?",
+      "url": "https://heatmap.news/daily/trump-green-banks-appeal",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-05T22:43:01+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-08-06T03:48:13.521523+00:00"
+    },
     {
       "id": "b8a457cbb989f4fa",
       "title": "How Octobotics Is Saving Human Lives By Placing Robots In Hazardous Industrial Jobs",
