@@ -1,6 +1,131 @@
 {
-  "last_updated": "2026-08-06T03:48:38.550369+00:00",
+  "last_updated": "2026-08-07T03:26:20.122742+00:00",
   "articles": [
+    {
+      "id": "29f6dec0065a9276",
+      "title": "Smallest Ai Raises 13M Series A To Break The Turing Test",
+      "url": "https://3one4capital.com/blogs/smallest-ai-raises-13m-series-a-to-break-the-turing-test",
+      "source_name": "3one4 Capital",
+      "source_type": "blog",
+      "published_at": "2026-08-07T03:26:03.949554+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "excerpt": "We first backed Sudarshan Kamath and Akshat Mandloi when Smallest was merely a research direction, and today we are proud to participate in their $13 million Series A round led by Seligman Ventures. Watching a focused team transition from a pre-seed stage thesis to an enterprise-grade platform powering millions of voice interactions within a year validates our conviction in their vertical-stack approach to applied artificial intelligence. The Series A round brings the company's total funding to over $21 million.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-08-07T03:26:03.950196+00:00"
+    },
+    {
+      "id": "2d1bfbc2708d5c01",
+      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+      "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-06T12:10:00+00:00",
+      "sectors": [
+        "Climate",
+        "Cybersecurity"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. After a wave of painful losses in the tech talent wars, delays to its next flagship model, and murmurings of poor morale, Google has announced a major shake-up to its AI operations. Here's a quick rundown of what’s happened and why it matters.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-07T03:25:57.251833+00:00"
+    },
+    {
+      "id": "dcf0e68cd51c1e68",
+      "title": "Transcript: The Big — But Fixable! — Problems in America’s R&D Ecosystem",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e62-engine-ventures-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-06T04:07:51+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 52,
+      "fetched_at": "2026-08-07T03:25:55.082412+00:00"
+    },
+    {
+      "id": "2eeec8476ebfebd3",
+      "title": "The Big — But Fixable! — Problems in America’s R&D Ecosystem",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e62-engine-ventures",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-06T09:10:03+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 14,
+      "fetched_at": "2026-08-07T03:25:54.488531+00:00"
+    },
+    {
+      "id": "d8591bbb57a728f0",
+      "title": "Trump May Be Forced to Resume Wind Project Permits",
+      "url": "https://heatmap.news/am/trump-wind-pause",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-06T12:15:19+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "Semiconductors"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 17,
+      "fetched_at": "2026-08-07T03:25:53.679953+00:00"
+    },
+    {
+      "id": "c5f0a3825367dba0",
+      "title": "Ford’s Latest EV Is a Pickup Truck Called Fathom",
+      "url": "https://heatmap.news/electric-vehicles/ford-fathom",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-06T13:00:05+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 57,
+      "fetched_at": "2026-08-07T03:25:53.048855+00:00"
+    },
+    {
+      "id": "829c308bfab44517",
+      "title": "Electricity Bills Were Higher Than Ever in July",
+      "url": "https://heatmap.news/sparks/average-electricity-bills-july-2026",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-06T16:00:45+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 13,
+      "fetched_at": "2026-08-07T03:25:52.395751+00:00"
+    },
+    {
+      "id": "c6a0766c193d8baf",
+      "title": "Another $1.2 Billion to Not Build Wind Farms",
+      "url": "https://heatmap.news/daily/rwe-offshore-wind-deal",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-06T21:53:58+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 17,
+      "fetched_at": "2026-08-07T03:25:51.782274+00:00"
+    },
     {
       "id": "7ee15b010b037053",
       "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
