@@ -1,6 +1,223 @@
 {
-  "last_updated": "2026-08-07T03:26:20.122742+00:00",
+  "last_updated": "2026-08-08T02:27:46.989573+00:00",
   "articles": [
+    {
+      "id": "8f51f154af1fba0d",
+      "title": "New Tax Laws Amendment Bill Clears Path For Simpler Data Centre Incentive Regime",
+      "url": "https://inc42.com/features/new-tax-laws-amendment-bill-clears-path-for-simpler-data-centre-incentive-regime/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-08-07T09:07:46+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-08-08T02:27:46.489228+00:00"
+    },
+    {
+      "id": "f178390f22b73764",
+      "title": "Cars Communicating Badly Is an Already-Solved Problem",
+      "url": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-08-07T13:00:01+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Wi-Fi’s origins trace back, in part, to a team of Australian radio astronomers trying to detect signals from evaporating black holes. But the data-processing tools they’d developed also proved capable at extracting clean messages from any chaotic, echoing signal environment. Echoes are echoes, after all, whether from distant star systems or from the far corner of the house.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-08-08T02:27:25.409178+00:00"
+    },
+    {
+      "id": "f5a63672f84affb0",
+      "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
+      "url": "https://spectrum.ieee.org/navigating-pivot-tech-expert-leader",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-08-07T18:00:01+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "It requires moving away from relying solely on technical excellence toward mastering systems thinking, adaptive leadership, and team alignment. To help mid-career professionals navigate the shift, the inaugural IEEE International Leadership Conference is designed to provide attendees with practical tools to step into broader responsibility and champion an entrepreneurial mindset. The ILC event is scheduled for 3 and 4 October in Budapest.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-08-08T02:27:24.816759+00:00"
+    },
+    {
+      "id": "6c85a8efb5c2a9cd",
+      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-07T14:00:00+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading. For months, Elon Musk’s Department of Government Efficiency had been cutting a wide swath through federal agencies, gutting teams that worked on everything from scientific research to Social Security to international aid.",
+      "signal": "",
+      "estimated_read_minutes": 36,
+      "fetched_at": "2026-08-08T02:27:23.874972+00:00"
+    },
+    {
+      "id": "6ac697dbf33aba0b",
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-07T14:20:00+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy\nFor years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under the guise of combating disinformation, a sprawling constellation of government agencies, academics, civil society groups, and Big Tech platforms was suppressing conservative and populist speech online.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-08T02:27:23.091425+00:00"
+    },
+    {
+      "id": "94cfdef814bec9b4",
+      "title": "Trump Throws Solar Manufacturers a Lifeline",
+      "url": "https://heatmap.news/economy/polysilicon-tariff",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-06T22:22:05+00:00",
+      "sectors": [
+        "Climate",
+        "Semiconductors"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-08-08T02:27:20.118847+00:00"
+    },
+    {
+      "id": "f9dabc55775b0fd3",
+      "title": "Trump Tosses Solar Factories a Lifeline",
+      "url": "https://heatmap.news/am/trump-solar-polysilicon",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-07T12:20:19+00:00",
+      "sectors": [
+        "Climate",
+        "Semiconductors"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-08-08T02:27:19.506749+00:00"
+    },
+    {
+      "id": "57c574e3fd26ab1f",
+      "title": "How the National Park Service Wound Up in a Data Center Deal",
+      "url": "https://heatmap.news/plus/the-fight/spotlight/prince-william-park-data-center",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-07T17:27:17+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-08-08T02:27:18.838838+00:00"
+    },
+    {
+      "id": "1fe3c3d22d78330e",
+      "title": "The Most Important Data Center Vote You Haven’t Heard About",
+      "url": "https://heatmap.news/plus/the-fight/hotspots/michigan-data-center-referendum",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-07T17:32:42+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-08-08T02:27:18.128200+00:00"
+    },
+    {
+      "id": "7c327c5db053221b",
+      "title": "How to Talk to Climate-Minded Investors About Data Centers",
+      "url": "https://heatmap.news/plus/the-fight/qa/ceres-colette-lamontagne",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-07T17:34:47+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-08-08T02:27:17.411576+00:00"
+    },
+    {
+      "id": "b5c307967a6fe000",
+      "title": "Why the Fix Our Forests Act Is Still Stuck in Congress",
+      "url": "https://heatmap.news/politics/fix-our-forests-spokane-fires",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-07T18:22:46+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 27,
+      "fetched_at": "2026-08-08T02:27:16.812181+00:00"
+    },
+    {
+      "id": "8183075d03a55cc8",
+      "title": "Which Wildfire Smoke Is Worst?",
+      "url": "https://heatmap.news/climate/spokane-fires-smoke",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-07T19:56:30+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 27,
+      "fetched_at": "2026-08-08T02:27:16.141544+00:00"
+    },
+    {
+      "id": "fd446cf4da6cb3a4",
+      "title": "Amazon Is Building America’s Biggest Fossil Fuel Plant to Power AI",
+      "url": "https://heatmap.news/energy/amazon-gw-ranch",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-07T22:07:16+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 30,
+      "fetched_at": "2026-08-08T02:27:15.418543+00:00"
+    },
+    {
+      "id": "401df7eef3397de8",
+      "title": "Weekly Dose of Optimism #205",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-205",
+      "source_name": "Not Boring",
+      "source_type": "substack",
+      "published_at": "2026-08-07T12:50:11+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Yesterday was my daughter Maya’s 4th birthday and we took the kids to the beach to spend time with family and celebrate, so I’m going short on the writeups. Lots to cover, with lots more in the Extras, including cancer-fighting psychedelics? Today’s Weekly Dose is brought to you by… Lightwork\nYour environment can make you dumber or smarter, healthier or less healthy.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-08-08T02:27:13.741111+00:00"
+    },
     {
       "id": "29f6dec0065a9276",
       "title": "Smallest Ai Raises 13M Series A To Break The Turing Test",
