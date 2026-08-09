@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-08-08T02:27:46.989573+00:00",
+  "last_updated": "2026-08-09T02:34:58.678924+00:00",
   "articles": [
+    {
+      "id": "32c114e60d0406e9",
+      "title": "Reading List 08/08/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-08082026",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-08-08T12:01:03+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure, and industrial technology. This week we look at the Endangered Species Act and housing production, why it’s hard for LEGO to use 3D printing, robotic welding and shipbuilding, modular data centers, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-08-09T02:34:32.625973+00:00"
+    },
     {
       "id": "8f51f154af1fba0d",
       "title": "New Tax Laws Amendment Bill Clears Path For Simpler Data Centre Incentive Regime",
