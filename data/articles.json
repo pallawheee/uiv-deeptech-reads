@@ -1,6 +1,142 @@
 {
-  "last_updated": "2026-08-10T02:40:37.097661+00:00",
+  "last_updated": "2026-08-11T02:34:19.944438+00:00",
   "articles": [
+    {
+      "id": "837b81d5ae07cf2d",
+      "title": "These startups are chasing the next big thing in LLMs",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-10T09:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new type of neural network called a transformer. It proved to be very good at processing long sequences of data, especially text.",
+      "signal": "",
+      "estimated_read_minutes": 13,
+      "fetched_at": "2026-08-11T02:33:59.006370+00:00"
+    },
+    {
+      "id": "9ac1031d1b2cd096",
+      "title": "AI for science needs reasoning, not just data",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-10T09:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the feeling is in the air again—this time accompanied by a Nobel Prize.",
+      "signal": "",
+      "estimated_read_minutes": 9,
+      "fetched_at": "2026-08-11T02:33:58.398641+00:00"
+    },
+    {
+      "id": "9da75428fd46d315",
+      "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+      "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-10T12:10:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. AI for science needs reasoning, not just data\n—Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work at the AI Center of Schmidt Sciences\nIn 2024, Google DeepMind scientists shared the Nobel Prize in Chemistry for a neural network, AlphaFold, which predicts the structures of proteins. It showed that AI could make groundbreaking scientific discoveries, but AlphaFold may not be the best template for accelerating science.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-11T02:33:57.804646+00:00"
+    },
+    {
+      "id": "037ba625aad7534e",
+      "title": "AI professors are negotiating the new realities of academic research",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-10T20:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI researchers in the world.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-11T02:33:57.211145+00:00"
+    },
+    {
+      "id": "1dd527b56fa76e70",
+      "title": "Ford’s Fathom? Drive!",
+      "url": "https://heatmap.news/daily/ford-fathom-ev-pickup",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-07T22:09:51+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-08-11T02:33:55.217131+00:00"
+    },
+    {
+      "id": "6a8d25e0f70a88f7",
+      "title": "Trump Puts Up $2 Billion for Critical Minerals",
+      "url": "https://heatmap.news/am/trump-critical-minerals-dod",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-10T12:25:52+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 15,
+      "fetched_at": "2026-08-11T02:33:54.484357+00:00"
+    },
+    {
+      "id": "120cf5a07878d763",
+      "title": "Trump’s USDA Using Farmland Rule to Go After Energy Companies, Democrats Say",
+      "url": "https://heatmap.news/sparks/agricultural-land-rule",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-10T18:09:53+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 12,
+      "fetched_at": "2026-08-11T02:33:53.676762+00:00"
+    },
+    {
+      "id": "6b861471e48f26e2",
+      "title": "Governors Are Ratepayer Advocates Now",
+      "url": "https://heatmap.news/politics/spanberger-sherrill-electricity-rates",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-10T20:59:56+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 17,
+      "fetched_at": "2026-08-11T02:33:53.057260+00:00"
+    },
+    {
+      "id": "23e6f8bcbd9ca4cb",
+      "title": "What’s So Weird About Trump’s Offshore Wind Payouts",
+      "url": "https://heatmap.news/daily/offshore-wind-james-sallee",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-10T23:50:30+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-08-11T02:33:52.395938+00:00"
+    },
     {
       "id": "32c114e60d0406e9",
       "title": "Reading List 08/08/2026",
