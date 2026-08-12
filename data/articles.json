@@ -1,6 +1,131 @@
 {
-  "last_updated": "2026-08-11T02:34:19.944438+00:00",
+  "last_updated": "2026-08-12T03:04:01.498629+00:00",
   "articles": [
+    {
+      "id": "d8aa826fc3659222",
+      "title": "Zap Rocks. Add Water. Get Clean Hydrogen",
+      "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-08-11T13:00:01+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "The electrode, a half-meter-long cylinder with copper-tipped arms to ensure good contact with the borehole walls, descends—deeper, deeper—through layers of spongy sandstone to the hard, marbled roots of an ancient mountain range hundreds of meters below ground. Here the rock is tight; there are few cracks for water or gases to flow. A stone’s throw away, a second electrode—a twin of the first—has been fixed in another borehole at the same depth.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-08-12T03:03:31.684742+00:00"
+    },
+    {
+      "id": "eb1ab67c942e7c0d",
+      "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
+      "url": "https://spectrum.ieee.org/ieee-summit-bhutan-digital-transformation",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-08-11T19:50:54+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Held on 9 and 10 June in Paro, in the eastern Himalayas, the event was designed to help Bhutan navigate its digital transformation by focusing on the critical intersection of digital transformation, engineering education, and sustainable development. The summit brought together global academic leaders, technology experts, and Bhutanese government officials to discuss how modern engineering curricula can evolve from theory-centric models into application- and skills-based frameworks. Discussions focused on how to build high-value research capabilities in the country, integrate artificial intelligence into higher education, and address foundational infrastructure challenges to ensure equitable, nationwide digital readiness.",
+      "signal": "",
+      "estimated_read_minutes": 3,
+      "fetched_at": "2026-08-12T03:03:31.020395+00:00"
+    },
+    {
+      "id": "36d15d70fc2443c8",
+      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-11T12:10:00+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. These startups are chasing the next big thing in LLMs\nNine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large language model. But transformers are starting to show their age.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-12T03:03:30.160693+00:00"
+    },
+    {
+      "id": "c6a6a1a96cf15329",
+      "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
+      "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-11T17:58:57+00:00",
+      "sectors": [
+        "Defence",
+        "AI Infrastructure"
+      ],
+      "excerpt": "That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the next day. R/FIMI, as the office was called, was accused of serving as the State Department’s central hub in the so-called censorship-industrial complex—a sprawling constellation of government agencies, academics, civil society groups, and Big Tech platforms allegedly conspiring to suppress conservative and populist speech online under the guise of combating disinformation.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-08-12T03:03:29.534019+00:00"
+    },
+    {
+      "id": "f1ec4f6ad179c3b8",
+      "title": "America’s Hottest Month Ever",
+      "url": "https://heatmap.news/am/july-2026-record",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-11T11:25:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-08-12T03:03:27.097850+00:00"
+    },
+    {
+      "id": "3d5cc94e924d4655",
+      "title": "Data Centers Are Fueling a Tiny Nuclear Hype Cycle",
+      "url": "https://heatmap.news/climate-tech/tiny-nuclear-hype-cycle",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-11T20:17:47+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-08-12T03:03:26.463064+00:00"
+    },
+    {
+      "id": "74aceeec7db668ee",
+      "title": "What the Subway Heat Guy Thinks About Mamdani’s Cooling Plan",
+      "url": "https://heatmap.news/adaptation/subway-heat-jack-klein",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-11T21:25:46+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 28,
+      "fetched_at": "2026-08-12T03:03:25.864581+00:00"
+    },
+    {
+      "id": "1cfdbe2491d94403",
+      "title": "The U.S. Battery Industry Is Averaging 20% Annual Growth",
+      "url": "https://heatmap.news/daily/batteries-70-growth-boom",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-11T22:45:56+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-08-12T03:03:25.122676+00:00"
+    },
     {
       "id": "837b81d5ae07cf2d",
       "title": "These startups are chasing the next big thing in LLMs",
