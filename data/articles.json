@@ -1,6 +1,131 @@
 {
-  "last_updated": "2026-08-12T03:04:01.498629+00:00",
+  "last_updated": "2026-08-13T03:06:56.478953+00:00",
   "articles": [
+    {
+      "id": "e945ed427d652379",
+      "title": "How we picked 35 of the world’s top young scientists and engineers",
+      "url": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-12T09:08:40+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate",
+        "MedTech"
+      ],
+      "excerpt": "Here’s what we looked for as we sifted through 550 nominations from around the world. Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems. By finding the top young innovators globally and learning what they’re focused on in their work, we aim to give readers a sense of what advances to expect in the years to come.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-08-13T03:06:35.064915+00:00"
+    },
+    {
+      "id": "8b60d0a8c906bee1",
+      "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+      "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-12T12:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "MedTech"
+      ],
+      "excerpt": "How we picked 35 of the world’s top young scientists and engineers\nOn September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems. By finding the top young innovators globally and learning what they’re focused on in their work, we aim to give readers a sense of what advances to expect in the years to come. As a newsroom, we also use this exercise to help us spot rising talent and get to know some of the best early-career researchers in the fields that we cover.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-08-13T03:06:34.407797+00:00"
+    },
+    {
+      "id": "feaf4477050cf302",
+      "title": "Transcript: Why This El Niño Looks Like a Monster",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e63-el-nino-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-12T09:00:02+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 62,
+      "fetched_at": "2026-08-13T03:06:32.051977+00:00"
+    },
+    {
+      "id": "5b56b256ed40d91b",
+      "title": "We’ve Got Sexy Heat Pumps. Now It’s Time for Sexy Water Heaters.",
+      "url": "https://heatmap.news/climate-tech/reservoir-heat-pump-water-heater",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-12T09:00:02+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 61,
+      "fetched_at": "2026-08-13T03:06:31.423117+00:00"
+    },
+    {
+      "id": "013e3b96be63f119",
+      "title": "Why This El Niño Looks Like a Monster",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e63-el-nino",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-12T09:10:03+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 62,
+      "fetched_at": "2026-08-13T03:06:30.791717+00:00"
+    },
+    {
+      "id": "9a9f484938ddd40b",
+      "title": "Wisconsin’s Anti-Data Center Populist Loses Democratic Gubernatorial Primary",
+      "url": "https://heatmap.news/am/wisconsin-gubernatorial-primary",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-12T11:51:40+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 63,
+      "fetched_at": "2026-08-13T03:06:30.137517+00:00"
+    },
+    {
+      "id": "7890f84239b86bf7",
+      "title": "This El Niño Is a Warning",
+      "url": "https://heatmap.news/daily/el-nino-worst-ever",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-12T22:09:45+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 62,
+      "fetched_at": "2026-08-13T03:06:29.412598+00:00"
+    },
+    {
+      "id": "2a74c14ed7d77200",
+      "title": "Base Power Company: Chapter 3",
+      "url": "https://www.notboring.co/p/base-power-company-chapter-3",
+      "source_name": "Not Boring",
+      "source_type": "substack",
+      "published_at": "2026-08-12T13:53:37+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "Join 275,867 smart, curious folks by subscribing here:\nHi friends 👋 ,\nThere are only two companies on which I’ve written multiple Deep Dives. The first is Ramp, which I first wrote about when it was valued at $300 million, then again when it was valued at $1 (and $1.6) billion, and then multiple times since. The second is Base Power Company, which I first wrote about when it was valued at $300 million (Chapter 1), then again when it was valued at $1 billion (Chapter 2).",
+      "signal": "",
+      "estimated_read_minutes": 74,
+      "fetched_at": "2026-08-13T03:06:27.667200+00:00"
+    },
     {
       "id": "d8aa826fc3659222",
       "title": "Zap Rocks. Add Water. Get Clean Hydrogen",
