@@ -1,6 +1,156 @@
 {
-  "last_updated": "2026-08-13T03:06:56.478953+00:00",
+  "last_updated": "2026-08-14T03:05:51.605186+00:00",
   "articles": [
+    {
+      "id": "37d0a55d2086ca55",
+      "title": "Bring a Product Manager Mindset to Your Next Engineering Job",
+      "url": "https://spectrum.ieee.org/product-engineer",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-08-13T14:44:50+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "The job everyone’s suddenly hiring for, this role is like a cross between a product manager and an engineer (as the name suggests). And it’s a hiring trend worth paying attention to. Companies are opening more of these roles every single month, but they’re struggling to fill them.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-14T03:05:30.201994+00:00"
+    },
+    {
+      "id": "9a8bf4ee84bc0a63",
+      "title": "What’s behind this summer’s heat, and why 2027 could be worse",
+      "url": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-13T10:00:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-14T03:05:28.608263+00:00"
+    },
+    {
+      "id": "6c09900b9ff728eb",
+      "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
+      "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-13T12:10:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. How kids feel about AI, in their own words\n—Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens\nWhen we set out to talk to kids about AI, we thought we knew what we’d hear. We expected stories about cheating, inspiring uses, and concerns like deepfakes or job destruction.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-08-14T03:05:27.868533+00:00"
+    },
+    {
+      "id": "382a035e351942fe",
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-13T13:41:10+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "But the changes leave glaring loopholes. The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines: officers abusing Flock’s technology to stalk and harass current or former romantic partners.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-14T03:05:27.154186+00:00"
+    },
+    {
+      "id": "527ad981809b9c54",
+      "title": "Building a practical path to post-quantum cryptography",
+      "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-13T18:11:42+00:00",
+      "sectors": [
+        "Quantum Computing"
+      ],
+      "excerpt": "Provided byIntel\nQuantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today's encrypted digital transactions may yield to quantum computers one day, but the transition to quantum-resistant algorithms is neither sudden nor insurmountable.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-08-14T03:05:26.412218+00:00"
+    },
+    {
+      "id": "3beee69e277b2b46",
+      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+      "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-13T21:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Available only for MIT Alumni and subscribers. Listen to the session or watch below\nThe “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-08-14T03:05:25.703147+00:00"
+    },
+    {
+      "id": "f9f9fb58304d5259",
+      "title": "Tesla Unveils Plans for $10 Billion ‘Project Crystal Sun’",
+      "url": "https://heatmap.news/am/tesla-crystal-sun",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-13T11:38:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-08-14T03:05:23.218301+00:00"
+    },
+    {
+      "id": "c8481e6748ccea34",
+      "title": "This Soda Asks: Would You Drink a Greenhouse Gas Emission?",
+      "url": "https://heatmap.news/carbon-removal/direct-air-capture-soda",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-13T14:05:02+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 22,
+      "fetched_at": "2026-08-14T03:05:22.577359+00:00"
+    },
+    {
+      "id": "5e3032428604be64",
+      "title": "A New Era of Electricity Inflation Has Transformed the Northeast’s Carbon Market",
+      "url": "https://heatmap.news/energy/rggi-electricity-bills",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-13T18:56:29+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-08-14T03:05:21.937445+00:00"
+    },
+    {
+      "id": "f3830cfe52346315",
+      "title": "The U.S. Clean Economy Snapped Its Losing Streak This Spring",
+      "url": "https://heatmap.news/daily/clean-investment-data-q2-surge",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-13T22:17:28+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-08-14T03:05:21.147064+00:00"
+    },
     {
       "id": "e945ed427d652379",
       "title": "How we picked 35 of the world’s top young scientists and engineers",

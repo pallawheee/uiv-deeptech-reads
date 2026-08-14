@@ -521,5 +521,16 @@
     "source": "Stellaris",
     "reason": "scrape_index_returned_no_links",
     "timestamp": "2026-08-13T03:06:43.351924+00:00"
+  },
+  {
+    "url": "https://blume.vc/commentaries/credit-series-chapter-1-msme-secured-credit-lap",
+    "source": "Blume Ventures",
+    "reason": "scrape_failed",
+    "timestamp": "2026-08-14T03:05:35.001368+00:00"
+  },
+  {
+    "source": "Stellaris",
+    "reason": "scrape_index_returned_no_links",
+    "timestamp": "2026-08-14T03:05:41.756554+00:00"
   }
 ]
