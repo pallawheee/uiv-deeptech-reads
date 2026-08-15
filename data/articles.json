@@ -1,6 +1,159 @@
 {
-  "last_updated": "2026-08-14T03:05:51.605186+00:00",
+  "last_updated": "2026-08-15T01:56:30.798750+00:00",
   "articles": [
+    {
+      "id": "2874ba2d68546c0e",
+      "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
+      "url": "https://spectrum.ieee.org/digital-signal-processing",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-08-14T18:00:02+00:00",
+      "sectors": [
+        "Semiconductors"
+      ],
+      "excerpt": "Liu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorithms to analyze, modify, and transmit signals including sound, images, and video. The IEEE Life Fellow taught electrical engineering at Princeton for more than 50 years. From 1994 to 1997, he chaired the university’s electrical and computer engineering department.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-15T01:56:06.715797+00:00"
+    },
+    {
+      "id": "e68e43770845b853",
+      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-14T12:17:21+00:00",
+      "sectors": [
+        "Defence",
+        "MedTech"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash\nThe police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes amid a backlash over mass surveillance and reports of officers using the technology to stalk and harass current or former romantic partners.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-15T01:56:05.410826+00:00"
+    },
+    {
+      "id": "c56b63ffea9ed6ab",
+      "title": "The U.S. Will Break Its Record for Natural Gas Production, Again",
+      "url": "https://heatmap.news/am/us-gas-production-record",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-14T11:44:04+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-08-15T01:56:03.888636+00:00"
+    },
+    {
+      "id": "36e03aa086394ce8",
+      "title": "Summer Electricity Bills Don’t Have to Be This Crazy",
+      "url": "https://heatmap.news/ideas/summer-electricity-bills",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-14T12:52:01+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-08-15T01:56:03.224448+00:00"
+    },
+    {
+      "id": "cac8e1a8326eefd2",
+      "title": "Why Energy Developers Are Freaking Out Over Trump’s Farmland Plans",
+      "url": "https://heatmap.news/plus/the-fight/spotlight/afida-disclosure-trump",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-14T16:30:24+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-08-15T01:56:02.590239+00:00"
+    },
+    {
+      "id": "864dcc452418b520",
+      "title": "Wisconsin’s Anti-Data Center Voters Never Showed Up",
+      "url": "https://heatmap.news/plus/the-fight/hotspots/port-washington-wisconsin",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-14T16:34:46+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-08-15T01:56:01.850190+00:00"
+    },
+    {
+      "id": "ceb2ce0833c205f2",
+      "title": "How an ‘Abundance’ Policy Shop Is Approaching Data Centers",
+      "url": "https://heatmap.news/plus/the-fight/qa/ryan-norris-abundance",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-14T16:57:22+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-08-15T01:56:01.229855+00:00"
+    },
+    {
+      "id": "b10559fec6bedf0d",
+      "title": "How a Rhode Island Mayoral Race Became a Referendum on Climate Policy",
+      "url": "https://heatmap.news/politics/providence-mayor-smiley-morales",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-14T19:38:33+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-08-15T01:56:00.582695+00:00"
+    },
+    {
+      "id": "24aaa782ab15e436",
+      "title": "How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part II",
+      "url": "https://www.construction-physics.com/p/how-will-the-21st-century-road-to",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-08-14T12:03:37+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Part II\nThis is the second installment of my look under the hood of the recently passed 21st Century ROAD to Housing Act, looking at what each provision actually does and trying to suss out its actual impact on housing supply. You can read my previous essay on Title I of the Act here. This time I’ll look at Title II, “Building More in America,” and Title III, “Manufactured Housing For America,” which have 13 and 4 individual provisions respectively.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-08-15T01:55:59.349143+00:00"
+    },
+    {
+      "id": "da64c66311afcdeb",
+      "title": "Weekly Dose of Optimism #206",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-206",
+      "source_name": "Not Boring",
+      "source_type": "substack",
+      "published_at": "2026-08-14T13:10:36+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "This is a few minutes late because I thought it was a pretty slow week and had it all set and then new stuff just kept coming out, including Anduril announcing that they’ve launched a satellite, and I had to re-jigger things, which goes to show that the good guys and gals won’t even take one week off. There are lots of goodies in main and in the Extra Doses, but if you have some extra time this weekend, get yourself a nice big iced coffee and read the third chapter in the Base Power Company story. Today’s Weekly Dose is brought to you by… Matic\nIt’s not actually brought to you by Matic.",
+      "signal": "",
+      "estimated_read_minutes": 9,
+      "fetched_at": "2026-08-15T01:55:58.506823+00:00"
+    },
     {
       "id": "37d0a55d2086ca55",
       "title": "Bring a Product Manager Mindset to Your Next Engineering Job",
