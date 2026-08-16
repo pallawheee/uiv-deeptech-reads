@@ -1,6 +1,37 @@
 {
-  "last_updated": "2026-08-15T01:56:30.798750+00:00",
+  "last_updated": "2026-08-16T02:04:58.845190+00:00",
   "articles": [
+    {
+      "id": "01cac73d49c36b0e",
+      "title": "The Innovation Of Sovereign Systems Why Ground Up Engineering Defines Indias Global Ascent",
+      "url": "https://3one4capital.com/blogs/the-innovation-of-sovereign-systems-why-ground-up-engineering-defines-indias-global-ascent",
+      "source_name": "3one4 Capital",
+      "source_type": "blog",
+      "published_at": "2026-08-16T02:04:41.710995+00:00",
+      "sectors": [
+        "MedTech",
+        "Cybersecurity"
+      ],
+      "excerpt": "Evolving into a ten trillion dollar economy requires a fundamental shift from importing foreign components to executing a co-building playbook that transforms our deep-tech, energy, fiscal, and urban systems.This structural shift signals a new era for the economy, where domestic ingenuity becomes the primary engine of long-term expansion. Building true technological autonomy requires full ownership of the systems that process and translate national information. Relying on external application programming interface networks exposes our public data to strategic vulnerabilities, a core challenge we analysed in India Must Not Compete on Borrowed Foundations.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-08-16T02:04:41.711624+00:00"
+    },
+    {
+      "id": "a2f8fa6219fb39a3",
+      "title": "Reading List — 08/15/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-08152026",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-08-15T12:02:38+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure, and industrial technology. This week we look at home price declines, the Strategic Petroleum Reserve, The Boring Company’s $4 billion fundraise, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-08-16T02:04:28.045336+00:00"
+    },
     {
       "id": "2874ba2d68546c0e",
       "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
