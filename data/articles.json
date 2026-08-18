@@ -1,6 +1,144 @@
 {
-  "last_updated": "2026-08-17T02:01:22.495315+00:00",
+  "last_updated": "2026-08-18T01:56:57.932389+00:00",
   "articles": [
+    {
+      "id": "ffffd487eba78ef4",
+      "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
+      "url": "https://spectrum.ieee.org/digital-signal-processing-pioneer-bede-liu",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-08-14T18:00:02+00:00",
+      "sectors": [
+        "Semiconductors"
+      ],
+      "excerpt": "Liu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorithms to analyze, modify, and transmit signals including sound, images, and video. The IEEE Life Fellow taught electrical engineering at Princeton for more than 50 years. From 1994 to 1997, he chaired the university’s electrical and computer engineering department.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-18T01:56:33.575138+00:00"
+    },
+    {
+      "id": "b587cb5cb3d41bd5",
+      "title": "From AI Copilots to Agent Swarms",
+      "url": "https://spectrum.ieee.org/amd-agent-swarms",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-08-17T14:00:01+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in the software development lifecycle (SDLC), such as triaging problems, debugging code, and testing the software. At the time, we were hoping for a 25 percent productivity boost from AI use over the course of two or three years. But with each new release, the capabilities of Large Language Models (LLMs) improve dramatically—accelerating software development, increasing the quality of AI-generated code, and fundamentally reshaping how software is engineered.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-18T01:56:32.991694+00:00"
+    },
+    {
+      "id": "99ee0a2f103355d2",
+      "title": "IEEE Presidents’ Scholarship Honors Teen Innovators",
+      "url": "https://spectrum.ieee.org/ieee-presidents-scholarship-2026",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-08-17T18:00:04+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "Many of the disabilities affect independence and mobility. Three high school students working on inventions to help people with disabilities restore movement, translate thoughts, and navigate rough terrain had their work showcased at Regeneron’s International Science and Engineering Fair (ISEF), held in May in Phoenix. Their projects earned them this year’s IEEE Presidents’ Scholarship awards.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-08-18T01:56:32.417367+00:00"
+    },
+    {
+      "id": "f49ea2b45b71d6dd",
+      "title": "What happens when a kid’s robot best friend dies?",
+      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-17T09:00:00+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "AI companion toys for neurodivergent children promise connection and therapy, but can they deliver for the long haul? When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-08-18T01:56:30.642408+00:00"
+    },
+    {
+      "id": "0dfc6754cce6b399",
+      "title": "How much hydrogen awaits us underground?",
+      "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-17T09:00:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "The global gold rush for underground stores of hydrogen fuel continues. But researchers are still sorting out how much of the stuff there is. In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-08-18T01:56:30.056883+00:00"
+    },
+    {
+      "id": "1fa7f7615de49cf0",
+      "title": "The Download: dead robot friends and the “censorship-industrial complex”",
+      "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-17T12:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Robotics"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-18T01:56:29.498040+00:00"
+    },
+    {
+      "id": "48f0b08590f23b46",
+      "title": "In Hawaii, a Rare Tropical Storm Leaves 200,000 Without Power",
+      "url": "https://heatmap.news/am/hawaii-lala-storm",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-17T12:00:35+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-08-18T01:56:27.346410+00:00"
+    },
+    {
+      "id": "b640f4763766af48",
+      "title": "The 5 Big Legal Questions Holding Up Billions in Climate Funding",
+      "url": "https://heatmap.news/politics/trump-climate-funding-status",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-17T19:16:59+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 31,
+      "fetched_at": "2026-08-18T01:56:26.702787+00:00"
+    },
+    {
+      "id": "dc0ffb5993723748",
+      "title": "The New Era of the Mega-Gas Plant",
+      "url": "https://heatmap.news/daily/openai-data-center-ohio-nvidia",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-17T23:40:19+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 29,
+      "fetched_at": "2026-08-18T01:56:26.061849+00:00"
+    },
     {
       "id": "01cac73d49c36b0e",
       "title": "The Innovation Of Sovereign Systems Why Ground Up Engineering Defines Indias Global Ascent",

@@ -2,17 +2,6 @@
   {
     "source": "Stellaris",
     "reason": "scrape_index_returned_no_links",
-    "timestamp": "2026-06-26T04:49:16.300426+00:00"
-  },
-  {
-    "url": "https://blume.vc/commentaries/trust-thesis-understanding-the-foundational-building-blocks-of-the-indian-consumer-internet",
-    "source": "Blume Ventures",
-    "reason": "scrape_failed",
-    "timestamp": "2026-06-27T04:32:47.364309+00:00"
-  },
-  {
-    "source": "Stellaris",
-    "reason": "scrape_index_returned_no_links",
     "timestamp": "2026-06-27T04:32:52.479555+00:00"
   },
   {
@@ -544,5 +533,16 @@
     "source": "Stellaris",
     "reason": "scrape_index_returned_no_links",
     "timestamp": "2026-08-17T02:01:08.109109+00:00"
+  },
+  {
+    "url": "https://blume.vc/commentaries/credit-series-chapter-1-msme-secured-credit-lap",
+    "source": "Blume Ventures",
+    "reason": "scrape_failed",
+    "timestamp": "2026-08-18T01:56:39.357747+00:00"
+  },
+  {
+    "source": "Stellaris",
+    "reason": "scrape_index_returned_no_links",
+    "timestamp": "2026-08-18T01:56:42.840502+00:00"
   }
 ]
