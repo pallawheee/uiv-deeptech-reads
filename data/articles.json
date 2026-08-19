@@ -1,6 +1,101 @@
 {
-  "last_updated": "2026-08-18T01:56:57.932389+00:00",
+  "last_updated": "2026-08-19T01:59:15.764512+00:00",
   "articles": [
+    {
+      "id": "798b4a264698a3ff",
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-18T09:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-08-19T01:58:55.434282+00:00"
+    },
+    {
+      "id": "aaa6a41c225945e2",
+      "title": "The role of the astronaut is in flux",
+      "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-18T09:00:00+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "excerpt": "But we’re still grappling with a fundamental question: Why go in the first place? When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles. While no space mission can live up to the historic touchdown of Apollo 11—a spectacle that 20% of the world population watched live—Artemis II still attracted massive public interest.",
+      "signal": "",
+      "estimated_read_minutes": 14,
+      "fetched_at": "2026-08-19T01:58:54.783980+00:00"
+    },
+    {
+      "id": "782f21dacaaae274",
+      "title": "The Download: how people really use AI, and Flock’s design choices",
+      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-18T12:10:00+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. We still don’t know how people are really using AI\nAI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the data they want us to see, AI researchers say, and there’s no independent source to corroborate it.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-19T01:58:54.000658+00:00"
+    },
+    {
+      "id": "4385a0098644a6a8",
+      "title": "Nvidia Backs OpenAI’s Plan to Build America’s Biggest Power Plant",
+      "url": "https://heatmap.news/am/nvidia-openai-gas",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-18T11:37:26+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 27,
+      "fetched_at": "2026-08-19T01:58:52.024453+00:00"
+    },
+    {
+      "id": "8e2ce6906e44fa7a",
+      "title": "Exclusive: How California Could Unlock Its Distributed Energy Potential",
+      "url": "https://heatmap.news/energy/california-demand-response",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-18T12:30:02+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 27,
+      "fetched_at": "2026-08-19T01:58:51.416252+00:00"
+    },
+    {
+      "id": "ef0409ccb3cf1252",
+      "title": "The Data Center Trojan Horse",
+      "url": "https://heatmap.news/daily/data-center-wisconsin-crowley-tiffany",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-19T00:01:18+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-08-19T01:58:50.814998+00:00"
+    },
     {
       "id": "ffffd487eba78ef4",
       "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
