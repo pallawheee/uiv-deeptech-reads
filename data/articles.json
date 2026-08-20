@@ -1,6 +1,84 @@
 {
-  "last_updated": "2026-08-19T01:59:15.764512+00:00",
+  "last_updated": "2026-08-20T01:58:05.063832+00:00",
   "articles": [
+    {
+      "id": "126b9c16526e7370",
+      "title": "Child-monitoring apps might need a reboot",
+      "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-19T09:00:00+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "Online safety experts say there’s a better way. Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-mile dirt road.",
+      "signal": "",
+      "estimated_read_minutes": 22,
+      "fetched_at": "2026-08-20T01:57:40.492369+00:00"
+    },
+    {
+      "id": "ab220d8f20217d75",
+      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+      "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-19T12:10:00+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all\nThe AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. But a new study suggests it might take a while to get there.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-20T01:57:39.839168+00:00"
+    },
+    {
+      "id": "336860756ad9c31b",
+      "title": "Google Launches ‘Operation Blue Skies’ to Tackle Contrails",
+      "url": "https://heatmap.news/am/google-contrails",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-19T11:54:03+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 27,
+      "fetched_at": "2026-08-20T01:57:38.025449+00:00"
+    },
+    {
+      "id": "97a04755550703e8",
+      "title": "Now Is the Worst Time for Diesel to Get Expensive",
+      "url": "https://heatmap.news/energy/diesel-price-iran",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-19T18:36:20+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-08-20T01:57:37.395719+00:00"
+    },
+    {
+      "id": "b662cd5d8b1c173e",
+      "title": "Exclusive: 75% of Americans Now Oppose Local Data Center Development",
+      "url": "https://heatmap.news/daily/data-center-opposition-poll-collapse",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-19T21:49:05+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 22,
+      "fetched_at": "2026-08-20T01:57:36.673143+00:00"
+    },
     {
       "id": "798b4a264698a3ff",
       "title": "AI’s recursive self-improvement might not come so quickly after all",
