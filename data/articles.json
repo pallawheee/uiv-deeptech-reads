@@ -1,6 +1,176 @@
 {
-  "last_updated": "2026-08-20T01:58:05.063832+00:00",
+  "last_updated": "2026-08-21T02:07:09.845633+00:00",
   "articles": [
+    {
+      "id": "fc1b9c97279aa4f7",
+      "title": "India’s Data Centre Boom Has A Security Blind Spot",
+      "url": "https://inc42.com/features/indias-data-centre-boom-has-a-security-blind-spot/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-08-20T13:38:19+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-08-21T02:06:58.684615+00:00"
+    },
+    {
+      "id": "d9530f23156ffc1e",
+      "title": "Open Weight Ai Is Rewriting The Cost Of Success Indias Advantage Is To Build On It Fast",
+      "url": "https://3one4capital.com/blogs/open-weight-ai-is-rewriting-the-cost-of-success-indias-advantage-is-to-build-on-it-fast",
+      "source_name": "3one4 Capital",
+      "source_type": "blog",
+      "published_at": "2026-08-21T02:06:52.400383+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "That compression is the largest opening Indian AI has had recently, and the National Mission’s focus should be to fund the builders who can seize it. The best open-weight AI model now scores within four points of the best closed one and costs one to two orders of magnitude less to run. On the Artificial Analysis Intelligence Index, Moonshot’s Kimi K3 scores 57 against about 61 for the leading closed model.",
+      "signal": "",
+      "estimated_read_minutes": 10,
+      "fetched_at": "2026-08-21T02:06:52.400842+00:00"
+    },
+    {
+      "id": "70d1e8ff8eb834e0",
+      "title": "Support networks aim to help kids through the polycrisis",
+      "url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Some groups are trying to help kids navigate their anxieties about it all. Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-08-21T02:06:41.980573+00:00"
+    },
+    {
+      "id": "e2a81dc7bf87eb31",
+      "title": "Unlocking hidden revenue streams with market models",
+      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-20T09:47:22+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name just a few. It is a nuanced process that must constantly adapt to the goings on in the wider world.",
+      "signal": "",
+      "estimated_read_minutes": 3,
+      "fetched_at": "2026-08-21T02:06:41.308491+00:00"
+    },
+    {
+      "id": "aeec1e6c1df23ed2",
+      "title": "The next big thing in hydrogen could be underground",
+      "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-20T10:00:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces water and oxygen—none of the carbon emissions that contribute to climate change.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-08-21T02:06:40.686926+00:00"
+    },
+    {
+      "id": "7940b23e3dede4f5",
+      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+      "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-20T12:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Support networks aim to help kids through the polycrisis\nSometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a car in Thailand when she saw a mountain that had been quarried away. It was the first time she recognized that humans could alter the world for the worse.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-21T02:06:40.024506+00:00"
+    },
+    {
+      "id": "c87f63873a8cf051",
+      "title": "Debates over AI consciousness are a trap",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-20T15:42:39+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations and academic philosophers often aligned with the effective altruism movement, debates whether humanity holds the moral right to govern them at all. Upon closer inspection, they are all calling for the same thing: a view of AI systems as being so advanced and capable that no entity, human or corporate, could possibly be responsible for their actions.",
+      "signal": "",
+      "estimated_read_minutes": 9,
+      "fetched_at": "2026-08-21T02:06:39.395392+00:00"
+    },
+    {
+      "id": "e0acd02fa3a81b15",
+      "title": "Transcript: The Wildfire Policy Blowing Up California’s Home Insurance Market — and Electricity Costs",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e64-lauren-teixeira-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-20T09:00:02+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 49,
+      "fetched_at": "2026-08-21T02:06:37.151182+00:00"
+    },
+    {
+      "id": "eefa8e5e0ff814e5",
+      "title": "The Wildfire Policy Blowing Up California’s Home Insurance Market — and Electricity Costs",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e64-lauren-teixeira",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-20T09:10:03+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 49,
+      "fetched_at": "2026-08-21T02:06:36.203188+00:00"
+    },
+    {
+      "id": "ae314268458f26ad",
+      "title": "Data Centers Could Spike U.S. Power Emissions by 20%",
+      "url": "https://heatmap.news/am/data-center-emissions",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-20T11:41:10+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 51,
+      "fetched_at": "2026-08-21T02:06:35.327258+00:00"
+    },
+    {
+      "id": "60c7805911a13d37",
+      "title": "Washington’s Carbon Credits Are About to Get a Lot Cheaper",
+      "url": "https://heatmap.news/politics/washington-california-carbon-market",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-20T20:52:21+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 57,
+      "fetched_at": "2026-08-21T02:06:34.612169+00:00"
+    },
     {
       "id": "126b9c16526e7370",
       "title": "Child-monitoring apps might need a reboot",
