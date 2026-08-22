@@ -1,6 +1,167 @@
 {
-  "last_updated": "2026-08-21T02:07:09.845633+00:00",
+  "last_updated": "2026-08-22T01:56:47.170856+00:00",
   "articles": [
+    {
+      "id": "e8245e2d39e412a7",
+      "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
+      "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-21T09:00:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US company Reflect Orbital plans to launch a test satellite called Eärendil-1 that will extend an 18-by-18-meter mirror in orbit. The goal is to test the feasibility of the company’s plans to launch up to 50,000 larger satellites, measuring 54 by 54 meters, and reflect sunlight to Earth on demand.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-22T01:56:35.136391+00:00"
+    },
+    {
+      "id": "7d948202e4707282",
+      "title": "When AI designs a drug, who gets the credit?",
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-21T09:00:00+00:00",
+      "sectors": [
+        "MedTech",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Patents can only name humans as inventors. When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think of, potentially speeding the race to new cures.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-08-22T01:56:34.578241+00:00"
+    },
+    {
+      "id": "5401c907dd8c26bb",
+      "title": "The Download: threats from space mirrors and credit for AI drugs",
+      "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-21T12:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "MedTech",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many\nA company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, Reflect Orbital plans to launch a test satellite that will extend an 18-by-18-meter mirror in orbit.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-22T01:56:33.862440+00:00"
+    },
+    {
+      "id": "c569ff6b9ab94640",
+      "title": "GOP Fears Senate Loss in Ohio Over Data Centers",
+      "url": "https://heatmap.news/am/ohio-data-centers",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-21T11:37:19+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-08-22T01:56:32.204814+00:00"
+    },
+    {
+      "id": "6fe12194a779ab85",
+      "title": "A CNN Reporter Joins the Fray",
+      "url": "https://heatmap.news/plus/the-fight/qa/ella-nilsen-cnn-echo-communications",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-21T14:21:11+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-08-22T01:56:31.583277+00:00"
+    },
+    {
+      "id": "5b590e5706fce043",
+      "title": "Local Permitting Fights Take Over National Politics",
+      "url": "https://heatmap.news/plus/the-fight/hotspots/josh-shapiro-data-center-king-of-prussia",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-21T14:28:41+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-08-22T01:56:30.781188+00:00"
+    },
+    {
+      "id": "895d0143024c2588",
+      "title": "Data Center Moratoria Are ‘Unconstitutional,’ Lawsuits Claim",
+      "url": "https://heatmap.news/plus/the-fight/spotlight/data-center-bans-moratorium-legal",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-21T17:26:52+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-08-22T01:56:30.150125+00:00"
+    },
+    {
+      "id": "1cdfc07ea2b353d3",
+      "title": "Scoop: Trump to Permit Largest-Ever Gas Project in Just 7 Months",
+      "url": "https://heatmap.news/energy/trump-gas-plant-permits",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-21T19:23:17+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 16,
+      "fetched_at": "2026-08-22T01:56:29.529317+00:00"
+    },
+    {
+      "id": "26ae04ef255ba635",
+      "title": "The Problem With Trump’s Plan to Fight Forest Fires With Roads",
+      "url": "https://heatmap.news/adaptation/trump-roadless-rule",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-21T20:17:24+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 17,
+      "fetched_at": "2026-08-22T01:56:26.842808+00:00"
+    },
+    {
+      "id": "f9c0afb3205148cd",
+      "title": "Weekly Dose of Optimism #207",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-207",
+      "source_name": "Not Boring",
+      "source_type": "substack",
+      "published_at": "2026-08-21T14:23:17+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "It’s Puja’s birthday — happy birthday Puj! — and I’m taking the day off, so today is both late and light on commentary. Thankfully, the good guys didn’t take the day off - lots to report.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-08-22T01:56:25.555002+00:00"
+    },
     {
       "id": "fc1b9c97279aa4f7",
       "title": "India’s Data Centre Boom Has A Security Blind Spot",
