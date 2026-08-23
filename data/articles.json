@@ -1,6 +1,39 @@
 {
-  "last_updated": "2026-08-22T01:56:47.170856+00:00",
+  "last_updated": "2026-08-23T02:08:23.314198+00:00",
   "articles": [
+    {
+      "id": "97d21e843c1343e6",
+      "title": "Raana Semiconductors In Talks To Raise ₹100 Cr For Silicon-Growth Equipment",
+      "url": "https://inc42.com/buzz/raana-semiconductors-in-talks-to-raise-%e2%82%b9100-cr-for-silicon-growth-equipment/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-08-22T14:08:11+00:00",
+      "sectors": [
+        "Semiconductors"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-08-23T02:08:16.530848+00:00"
+    },
+    {
+      "id": "eb39733466324e8d",
+      "title": "Reading List 08/22/26",
+      "url": "https://www.construction-physics.com/p/reading-list-082226",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-08-22T12:02:58+00:00",
+      "sectors": [
+        "Defence",
+        "Robotics",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This week we look at Los Angeles’ ADUs, electrical transformer manufacturing, gas turbine power plants, how water in the Colorado River is used, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber. No essay this week, but I have a very long piece in American Affairs about why US transit construction costs are so high.",
+      "signal": "",
+      "estimated_read_minutes": 3,
+      "fetched_at": "2026-08-23T02:08:01.152510+00:00"
+    },
     {
       "id": "e8245e2d39e412a7",
       "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
