@@ -1,6 +1,21 @@
 {
-  "last_updated": "2026-08-23T02:08:23.314198+00:00",
+  "last_updated": "2026-08-24T02:06:50.298230+00:00",
   "articles": [
+    {
+      "id": "a2e425a389c71e87",
+      "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
+      "url": "https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-08-21T18:00:01+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathered there to watch shows together. Ingole never even saw a computer growing up.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-08-24T02:06:26.104962+00:00"
+    },
     {
       "id": "97d21e843c1343e6",
       "title": "Raana Semiconductors In Talks To Raise ₹100 Cr For Silicon-Growth Equipment",
