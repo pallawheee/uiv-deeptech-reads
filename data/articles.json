@@ -1,6 +1,175 @@
 {
-  "last_updated": "2026-08-24T02:06:50.298230+00:00",
+  "last_updated": "2026-08-25T01:59:14.239258+00:00",
   "articles": [
+    {
+      "id": "de84ac1d95eda69a",
+      "title": "WATER Robotics Raises $2.5 Mn To Build India’s First Robotic Bed",
+      "url": "https://inc42.com/buzz/water-robotics-raises-2-5-mn-to-build-indias-first-robotic-bed/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-08-24T09:40:22+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-08-25T01:59:11.696147+00:00"
+    },
+    {
+      "id": "96af523603bbf6ee",
+      "title": "NVIDIA’s AI Server Price Hike Threatens To Inflate India’s Compute Costs",
+      "url": "https://inc42.com/buzz/nvidias-ai-server-price-hike-threatens-to-inflate-indias-compute-costs/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-08-24T13:35:29+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-08-25T01:59:09.135837+00:00"
+    },
+    {
+      "id": "c4c4678829fc2265",
+      "title": "Y Combinator Offloads Meesho Shares Worth ₹970 Cr",
+      "url": "https://inc42.com/buzz/y-combinator-offloads-meesho-shares-worth-%e2%82%b9970-cr/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-08-24T15:04:40+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-08-25T01:59:03.072403+00:00"
+    },
+    {
+      "id": "4ed4c4a8b6df831d",
+      "title": "Building Technology People Can Trust",
+      "url": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-08-24T11:37:02+00:00",
+      "sectors": [
+        "Semiconductors"
+      ],
+      "excerpt": "I’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology shift: innovation always creates new complexity. In semiconductors, we have seen that repeatedly.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-25T01:58:53.956376+00:00"
+    },
+    {
+      "id": "baf89b9624bd1b24",
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-24T09:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child. Four short years after the release of ChatGPT, many of us now take it for granted that we can converse naturally with our phones or computers. LLMs like Claude, DeepSeek, and OpenAI’s GPT models are fluent and flexible enough to masquerade convincingly as humans.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-08-25T01:58:52.874053+00:00"
+    },
+    {
+      "id": "c090dee7d6805bc0",
+      "title": "The Download: kids outlearning AI, and space travel agents",
+      "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-24T12:10:00+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Plus: both parties are turning against AI data centers ahead of the midterms. This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Kids outlearn AI—and we still don’t know why\nTeaching a computer to use human language requires an inhuman amount of data.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-25T01:58:52.303312+00:00"
+    },
+    {
+      "id": "84b8bf2811e5934e",
+      "title": "How to encourage smarter AI use in the classroom",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-24T14:20:19+00:00",
+      "sectors": [
+        "Defence",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-08-25T01:58:51.712091+00:00"
+    },
+    {
+      "id": "f83381e0e3539bdc",
+      "title": "A Chat With Massachusetts’ First Heat Resilience Officer",
+      "url": "https://heatmap.news/adaptation/massachusetts-heat-officer",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-24T11:43:01+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-08-25T01:58:50.141338+00:00"
+    },
+    {
+      "id": "17d0224480a1be42",
+      "title": "Trump Orders Colorado River Water Cuts on Arizona, California, and Nevada",
+      "url": "https://heatmap.news/am/trump-colorado-river",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-24T11:49:34+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-08-25T01:58:49.478265+00:00"
+    },
+    {
+      "id": "0476ae1a41bf0983",
+      "title": "Maybe Don’t Rent an EV in Europe",
+      "url": "https://heatmap.news/electric-vehicles/europe-rental-ev",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-24T14:21:02+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-08-25T01:58:48.813068+00:00"
+    },
+    {
+      "id": "7401053873b0c06c",
+      "title": "The Rise of 'None-of-the-Above' Local Energy Laws",
+      "url": "https://heatmap.news/daily/data-centers-solar-batteries",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-24T21:55:30+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-08-25T01:58:48.114181+00:00"
+    },
     {
       "id": "a2e425a389c71e87",
       "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
