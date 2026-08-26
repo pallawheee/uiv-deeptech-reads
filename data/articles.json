@@ -1,6 +1,290 @@
 {
-  "last_updated": "2026-08-25T01:59:14.239258+00:00",
+  "last_updated": "2026-08-26T02:08:37.187465+00:00",
   "articles": [
+    {
+      "id": "eb011ad202c8a4ee",
+      "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
+      "url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-08-25T10:00:03+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate"
+      ],
+      "excerpt": "From about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answered when you spoke to them. Most early companion robots, however, were still limited by simple voice-command interactions and narrow functionality.",
+      "signal": "",
+      "estimated_read_minutes": 9,
+      "fetched_at": "2026-08-26T02:08:06.643334+00:00"
+    },
+    {
+      "id": "c5f9c7930c15d52a",
+      "title": "IBM Built the Cold War’s Most Powerful Code Breaker for the NSA",
+      "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-08-25T13:00:01+00:00",
+      "sectors": [
+        "Defence",
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "excerpt": "It ran its jobs up to 200 times as fast as any other computer of its time. National Security Agency’s main cryptographic processor in operation from the time of the Cuban Missile Crisis in 1962 through the Vietnam War and on past the 1975 Helsinki Accords. The machine stopped running only when its moving parts finally gave out.",
+      "signal": "",
+      "estimated_read_minutes": 16,
+      "fetched_at": "2026-08-26T02:08:05.959791+00:00"
+    },
+    {
+      "id": "3829c1cf63ea5c37",
+      "title": "MIT tech powered the Artemis II livestreams",
+      "url": "https://www.technologyreview.com/2026/08/25/1140961/mit-tech-powered-the-artemis-ii-livestreams/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-25T21:00:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure",
+        "Quantum Computing"
+      ],
+      "excerpt": "During the original US missions to the moon in the 1960s and ’70s, astronauts relied on radio-frequency systems to communicate, sending grainy, low-quality images and videos to Earth. But on the Artemis II Orion mission in April, spacecraft transmitted crystal-clear footage at speeds on par with those of home internet connections. The livestreams so many people enjoyed were made possible through the Orion Artemis II Optical Communications System (O2O), developed by MIT Lincoln Laboratory in collaboration with NASA Goddard Space Flight Center.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-08-26T02:08:04.832034+00:00"
+    },
+    {
+      "id": "75e7789cc3a48283",
+      "title": "Your brain on AI",
+      "url": "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-25T21:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Many people find AI-based chatbots helpful in keeping up with news, but a study by Pattie Maes and her colleagues at the MIT Media Lab points to a big problem with this strategy. Participants who evaluated paired news headlines and images over the course of four weeks were initially 21% percent more accurate at telling fake news from real when aided by a chatbot—but by week four, they’d become 15% worse at identifying fake news without AI than they were before (though roughly a quarter of them reported feeling better at it). The result reflects an “AI dependency paradox” that has been observed in other domains, including medicine.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-08-26T02:08:04.184601+00:00"
+    },
+    {
+      "id": "e9f98cc7bbe38aa4",
+      "title": "Seeing through murky waters",
+      "url": "https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-25T21:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "When remotely operated vehicles settle on the seafloor or dig through a sand bed, they can kick up clouds of sediment that onboard cameras struggle to see through. Often, the only thing to do is wait until the dust settles. But a new system developed by Amy Phung, SM ’23, PhD ’26, and her advisor Richard Camilli, SM ’00, PhD ’03, of the Woods Hole Oceanographic Institution (WHOI), offers a solution.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-08-26T02:08:03.517853+00:00"
+    },
+    {
+      "id": "ac0f8b63cb6fb9ae",
+      "title": "Taking your temperature from the inside",
+      "url": "https://www.technologyreview.com/2026/08/25/1140952/taking-your-temperature-from-the-inside/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-25T21:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "Oral and forehead thermometers may not accurately capture a person’s core body temperature, and the few ingestible temperature sensors on the market are so big they are hard to swallow and risk obstructing the GI tract. But MIT engineers created one that can send continuous temperature updates at a size of just six by four millimeters. To create it, the researchers built a circuit that can fit on a one-square-millimeter silicon chip and designed an oscillator based on leakage current—the small current that flows through a circuit when it’s off.",
+      "signal": "",
+      "estimated_read_minutes": 3,
+      "fetched_at": "2026-08-26T02:08:02.873622+00:00"
+    },
+    {
+      "id": "a42e97e6eb0072a6",
+      "title": "Amping up T cells to target cancer",
+      "url": "https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-25T21:00:00+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "Vaccines that turn the body’s immune system against tumors have shown promise in clinical trials, and a handful have been FDA approved for certain cancers. In many patients, however, these vaccines don’t stimulate enough of a response, and the approach some researchers have taken to strengthening it—delivering the vaccine along with immune-stimulating molecules called cytokines—can cause severe side effects. Now MIT chemical engineer Daniel Anderson and colleagues at MIT, Harvard, and the University of Houston have reported promising results with a different way of attacking the problem: amplifying the T-cell response to mRNA vaccines.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-08-26T02:08:02.236423+00:00"
+    },
+    {
+      "id": "1a18d2ece21a0c33",
+      "title": "AgeLab research inspires an A I startup",
+      "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-25T21:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "But when he heard participants talk about how hard modern devices can be to use, he decided to develop an alternative. Yansen, a serial entrepreneur who retired to care for his wife, earned an MIT degree in electrical engineering and a master’s in physics from Northeastern. “What I took from MIT was a good education and the feeling I could solve difficult problems,” he says.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-08-26T02:08:01.595197+00:00"
+    },
+    {
+      "id": "130291348163b3cf",
+      "title": "A new stamp on cyberfraud prevention",
+      "url": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-25T21:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Cybersecurity"
+      ],
+      "excerpt": "Young is now chief product officer of MaxMind, whose work with IP-address location data and fraud prevention has made it a go-to resource. Streaming companies, security vendors, merchants, and ad-network providers use its signature tool, GeoIP, to determine how and where users are accessing services. This information makes it possible to ensure retail sites are using the correct currency, flag suspicious bank logins, and more.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-08-26T02:08:00.952723+00:00"
+    },
+    {
+      "id": "0a0a4bbb57ee71b7",
+      "title": "Launching youth entrepreneurship",
+      "url": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-25T21:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "“Adults always see these youth who are good at math and science and say, ‘You’re going to do great things—someday,’” says Stach. “Meanwhile, traditional education isn’t preparing them.”\nThat’s why in 2012 Stach founded LaunchX, a for-profit entrepreneurship program that helps high school students build practical skills through an intensive summer program in which they start real companies. Stach says that students form teams, identify a problem, and build an actual product or service that they then take to market—often generating preorders or even revenue before the four-week program ends.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-08-26T02:08:00.268730+00:00"
+    },
+    {
+      "id": "1a2734114fa7dfd9",
+      "title": "YouTuber finds niche as college admissions mentor",
+      "url": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-25T21:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "He founded his YouTube channel, Gohar’s Guide, to make things easier for other young people. Today, more than 10 million people follow Khan on social media for college application advice, study tips, and life hacks. He is also the CEO and cofounder of Next Admit, a consulting business that provides help with college essays, applications, and test preparation.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-08-26T02:07:59.626211+00:00"
+    },
+    {
+      "id": "b5d9100512286a9e",
+      "title": "Addressing a sticking point in sustainable adhesives",
+      "url": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-25T21:00:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "“The labels on a container are held up with petroleum-based glue. And because of that, even though you’re putting the container in the recycle bin, it will not get recycled,” says Patty Ferreira, MBA ’97, CEO and cofounder of Silvis Materials, which is combating this problem with its fully biodegradable cellulose adhesives. When Ferreira began thinking about bio-based adhesives, in 2014, she started by modifying cellulose’s existing role as a stabilizer in adhesive emulsions and replicating the known adhesive properties of more expensive nanocellulose.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-08-26T02:07:58.982732+00:00"
+    },
+    {
+      "id": "4720fbe83968c813",
+      "title": "A ‘Glass Half Full’ Isn’t Enough to Fight Climate Change",
+      "url": "https://heatmap.news/ideas/glass-half-empty",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-25T10:00:04+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 28,
+      "fetched_at": "2026-08-26T02:07:56.566488+00:00"
+    },
+    {
+      "id": "7bf2cb23bfa52596",
+      "title": "The 10 Biggest Natural Gas Projects in America",
+      "url": "https://heatmap.news/energy/10-biggest-gas-plants",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-25T11:05:02+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 30,
+      "fetched_at": "2026-08-26T02:07:55.836409+00:00"
+    },
+    {
+      "id": "0dc582440bec4c0c",
+      "title": "U.S. Pipeline of Gas Plants Nearly Doubles",
+      "url": "https://heatmap.news/am/us-gas-plants",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-25T11:50:30+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 28,
+      "fetched_at": "2026-08-26T02:07:55.081406+00:00"
+    },
+    {
+      "id": "2c8585f451843607",
+      "title": "Pacific Fusion Just Broke Ground on a $1 Billion Test Reactor",
+      "url": "https://heatmap.news/climate-tech/pacific-fusion-net-energy",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-25T15:30:02+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 30,
+      "fetched_at": "2026-08-26T02:07:54.365307+00:00"
+    },
+    {
+      "id": "3cb1b1e285fde56a",
+      "title": "Goodbye, Dolly",
+      "url": "https://heatmap.news/daily/goodbye-dolly",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-25T21:56:47+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-08-26T02:07:53.472103+00:00"
+    },
+    {
+      "id": "31dc904caf5c2d40",
+      "title": "An American Engineer in China",
+      "url": "https://www.notboring.co/p/an-american-engineer-in-china",
+      "source_name": "Not Boring",
+      "source_type": "substack",
+      "published_at": "2026-08-25T12:08:52+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Over the next few months, he planned to meet with energy, AI, and hardware companies and develop his China Fingerspitzengefühl. Would I be interested in sharing what he learns in real-time with not boring’s readers? If you are interested in the types of companies and technologies we write about in not boring, you probably need to understand China better.",
+      "signal": "",
+      "estimated_read_minutes": 14,
+      "fetched_at": "2026-08-26T02:07:51.438991+00:00"
+    },
     {
       "id": "de84ac1d95eda69a",
       "title": "WATER Robotics Raises $2.5 Mn To Build India’s First Robotic Bed",
