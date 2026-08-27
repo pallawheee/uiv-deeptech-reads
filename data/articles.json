@@ -1,6 +1,177 @@
 {
-  "last_updated": "2026-08-26T02:08:37.187465+00:00",
+  "last_updated": "2026-08-27T10:05:27.025692+00:00",
   "articles": [
+    {
+      "id": "63bb0f18fec5e4b1",
+      "title": "A New NASA Design Turbocharges Nuclear Spacecraft",
+      "url": "https://spectrum.ieee.org/bimodal-nuclear-spacecraft",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-08-26T12:00:01+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "- S‑BNR uses a single reactor with two independent fluid loops and correspondingly optimized fuel zones, eliminating complex mode-switching valves while providing both high thrust and continuous electric power. - Major challenges include developing fuel elements that integrate well together, ground testing, nuclear launch safety, and multi-agency collaboration to mature the technology from modeling to in‑space demonstrations. The biggest threat to any crewed expedition to Mars is time.",
+      "signal": "",
+      "estimated_read_minutes": 17,
+      "fetched_at": "2026-08-27T10:05:07.661088+00:00"
+    },
+    {
+      "id": "19637493f6c521db",
+      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-26T07:01:00+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate"
+      ],
+      "excerpt": "In a new interview, the billionaire philanthropist sounds an alarm on the urgency of getting our AI policies in order. It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-08-27T10:05:06.717236+00:00"
+    },
+    {
+      "id": "ed3fcbbbde771c98",
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-26T09:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Puzzles and games can reveal gaps in models’ smarts. Try your hand at these seven tests to see if you can outwit AI. Puzzles and games have been central to AI development since the very beginning.",
+      "signal": "",
+      "estimated_read_minutes": 10,
+      "fetched_at": "2026-08-27T10:05:06.148378+00:00"
+    },
+    {
+      "id": "3475a518bf5e1119",
+      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+      "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-26T12:10:00+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Introducing: the Kids issue\nIf the desire to limit kids' use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from social media.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-08-27T10:05:05.495215+00:00"
+    },
+    {
+      "id": "be20cc599a8c7b47",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-26T19:00:00+00:00",
+      "sectors": [
+        "Cybersecurity"
+      ],
+      "excerpt": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’ fears that AI models might take actions that defy human desires and expectations. Since the hack, OpenAI employees—as well as researchers at the AI evaluation nonprofit METR, which released its own report on the hack today—have worked to understand what went wrong and how similar missteps might be prevented in the future.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-08-27T10:05:04.917008+00:00"
+    },
+    {
+      "id": "111240d30659f666",
+      "title": "EPA Is Limiting Public Input on Data Centers",
+      "url": "https://heatmap.news/am/epa-data-centers",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-26T11:54:41+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-08-27T10:05:03.299001+00:00"
+    },
+    {
+      "id": "92732ea467f12545",
+      "title": "The Startup Behind Lamppost-Mounted EV Chargers Pulls Into the Garage",
+      "url": "https://heatmap.news/sparks/the-startup-behind-lamppost-mounted-ev-chargers-enters-the-parking-garage",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-26T13:00:02+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 12,
+      "fetched_at": "2026-08-27T10:05:02.677033+00:00"
+    },
+    {
+      "id": "85250eee7b256111",
+      "title": "The Texas Grid Has Had a Boring Summer Thanks to Batteries",
+      "url": "https://heatmap.news/energy/texas-grid-reliability-batteries",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-26T19:17:24+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-08-27T10:05:02.053896+00:00"
+    },
+    {
+      "id": "580f76feed1d716f",
+      "title": "Fracking Was Never as Unpopular as Data Centers",
+      "url": "https://heatmap.news/daily/data-centers-unpopular-fracking",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-26T23:25:41+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 64,
+      "fetched_at": "2026-08-27T10:05:01.412746+00:00"
+    },
+    {
+      "id": "22eb8bff3a98032f",
+      "title": "Transcript: The Case for Restoring the Wind and Solar Tax Credits",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e65-amanda-levin-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-27T09:00:06+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 67,
+      "fetched_at": "2026-08-27T10:05:00.459756+00:00"
+    },
+    {
+      "id": "816ea5a371742624",
+      "title": "The Case for Restoring the Wind and Solar Tax Credits",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e65-amanda-levin",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-27T09:10:02+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 67,
+      "fetched_at": "2026-08-27T10:04:59.803801+00:00"
+    },
     {
       "id": "eb011ad202c8a4ee",
       "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
