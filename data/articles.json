@@ -1,6 +1,144 @@
 {
-  "last_updated": "2026-08-27T10:05:27.025692+00:00",
+  "last_updated": "2026-08-28T11:37:04.888912+00:00",
   "articles": [
+    {
+      "id": "820acf0e4140e8c2",
+      "title": "Defence Tech Startup Sanlayan Turns Profitable In FY26, Revenue Surges 5.7X To ₹125 Cr",
+      "url": "https://inc42.com/buzz/sanlayan-turns-profitable-in-fy26-revenue-surges-5-7x-to-%e2%82%b9125-cr/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-08-27T14:47:49+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-08-28T11:37:02.185572+00:00"
+    },
+    {
+      "id": "f705cc8926c9a0c2",
+      "title": "Story Is The Ultimate Venture Moat Audience First Frameworks Must Replace The Ai Glut",
+      "url": "https://3one4capital.com/blogs/story-is-the-ultimate-venture-moat-audience-first-frameworks-must-replace-the-ai-glut",
+      "source_name": "3one4 Capital",
+      "source_type": "blog",
+      "published_at": "2026-08-28T11:36:43.429773+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Merriam-Webster named \"slop\" its 2025 Word of the Year, defining it as low-quality digital content produced in quantity by artificial intelligence. The naming signals a profound structural shift all of us see and feel across platforms and the content we consume. The validation is significant because an institution tracking the English language since 1828 has confirmed that content creation and consumption patterns have changed enough to require a new definition.",
+      "signal": "",
+      "estimated_read_minutes": 10,
+      "fetched_at": "2026-08-28T11:36:43.430598+00:00"
+    },
+    {
+      "id": "220f9e07babbaee7",
+      "title": "Make a Portable Wide-screen Mechanical TV",
+      "url": "https://spectrum.ieee.org/mechanical-tv-2677767814",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-08-27T14:46:56+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "But sometimes you have to go where the engineering takes you, and in my case it took me to the Scanwheel, a pocket-size wide-screen electromechanical TV with a resolution of 4,096 by 20 pixels. The 3D-printed drum [top] is spun by a motor controlled by a driver board [second row, from top]. The driver board, in turn, is controlled by a Raspberry Pi Pico [middle], which also controls the LEDs [second row, from bottom], which are mounted in the 3D-printed casing [bottom] so that the holes pass over them as the drum turns.James Provost\nElectromechanical television was the first form of practical television, developed by John Logie Baird in the 1920s.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-28T11:36:35.982224+00:00"
+    },
+    {
+      "id": "54bf4672f2a8f038",
+      "title": "Is Slate Auto’s new electric truck the EV Americans need?",
+      "url": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-27T10:00:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "A small, no frills EV could be the right vehicle for this moment. EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-08-28T11:36:34.880571+00:00"
+    },
+    {
+      "id": "ab960ed63d229367",
+      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+      "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-27T12:10:00+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate",
+        "Cybersecurity"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face\nThe models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released yesterday. The hack, which a group of agents carried out to find solutions for a cybersecurity test they were stuck on, has confirmed some experts’ fears that AI models might take actions that defy human desires and expectations.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-08-28T11:36:34.143777+00:00"
+    },
+    {
+      "id": "97e305723092b476",
+      "title": "How to sign up for a virtual power plant—and decide whether you should",
+      "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-28T09:00:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "MIT Technology Review’s How To series helps you get things done. Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system.",
+      "signal": "",
+      "estimated_read_minutes": 9,
+      "fetched_at": "2026-08-28T11:36:33.142153+00:00"
+    },
+    {
+      "id": "aa65f2a389ce60e1",
+      "title": "A Catastrophic Flood Deluges Nepal’s Border With China",
+      "url": "https://heatmap.news/am/nepal-tibet-flood",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-27T12:24:25+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 70,
+      "fetched_at": "2026-08-28T11:36:29.730869+00:00"
+    },
+    {
+      "id": "4c408e54034df452",
+      "title": "Exclusive: Marathon Fusion Achieves Reactor Fuel Breakthrough",
+      "url": "https://heatmap.news/climate-tech/marathon-fusion-lithium-tritium",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-27T16:00:05+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 72,
+      "fetched_at": "2026-08-28T11:36:28.895214+00:00"
+    },
+    {
+      "id": "1aafb25b64bfeacf",
+      "title": "How the Strategic Petroleum Reserve Works",
+      "url": "https://www.construction-physics.com/p/how-the-strategic-petroleum-reserve",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-08-27T12:03:58+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "It’s capable of storing 714 million barrels of oil, slightly less than 10% of the US’s annual oil consumption. Built in response to OAPEC’s 1973 oil embargo, the SPR was created to insulate the US from oil supply shocks: to make up for shortfalls and prevent steep price increases should oil imports be interrupted. In the years since its creation, it has become one of the most frequently used energy policy tools in the US’s arsenal.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-08-28T11:36:27.271276+00:00"
+    },
     {
       "id": "63bb0f18fec5e4b1",
       "title": "A New NASA Design Turbocharges Nuclear Spacecraft",
@@ -7633,144 +7771,6 @@
       "signal": "",
       "estimated_read_minutes": 17,
       "fetched_at": "2026-06-22T07:37:15.656266+00:00"
-    },
-    {
-      "id": "8f330bdf5ca7d985",
-      "title": "‘We Proved That America Can Still Build Big Things’",
-      "url": "https://heatmap.news/daily/sunzia-martin-heinrich",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-18T22:08:47+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 22,
-      "fetched_at": "2026-06-22T07:37:15.045325+00:00"
-    },
-    {
-      "id": "2b33eab5d1f55441",
-      "title": "Californians: Brace Yourselves for a Hurricane This Summer",
-      "url": "https://heatmap.news/climate/el-nino-california-hurricane",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-19T14:22:02+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 28,
-      "fetched_at": "2026-06-22T07:37:14.225313+00:00"
-    },
-    {
-      "id": "7811ce556f8307a2",
-      "title": "Reading List 05/30/26",
-      "url": "https://www.construction-physics.com/p/reading-list-053026",
-      "source_name": "Construction Physics",
-      "source_type": "substack",
-      "published_at": "2026-05-30T12:02:52+00:00",
-      "sectors": [
-        "Defence",
-        "Robotics"
-      ],
-      "excerpt": "House building using the “Oraaflex” modular construction system, via Wikipedia. Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure and industrial technology. This week we look at a California chemical leak, weapons-grade plutonium for nuclear reactor startups, a startup that will clean your house to get robot training data, Blue Origin’s rocket explosion, and more.",
-      "signal": "",
-      "estimated_read_minutes": 4,
-      "fetched_at": "2026-06-22T07:37:11.401007+00:00"
-    },
-    {
-      "id": "a11a89f3cac21a84",
-      "title": "Reading List 06/06/26",
-      "url": "https://www.construction-physics.com/p/reading-list-060626",
-      "source_name": "Construction Physics",
-      "source_type": "substack",
-      "published_at": "2026-06-06T12:02:44+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "This week we look at chatbots replacing realtors, Chinese synthetic diamonds, Australian batteries, Meta’s data center tents, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber. Iran war\nIran breaks off negotiations with the US and vows to “completely block” the Strait of Hormuz.",
-      "signal": "",
-      "estimated_read_minutes": 4,
-      "fetched_at": "2026-06-22T07:37:09.681141+00:00"
-    },
-    {
-      "id": "a3a0a58f0dc3265b",
-      "title": "Reading List 06/13/2026",
-      "url": "https://www.construction-physics.com/p/reading-list-06132026",
-      "source_name": "Construction Physics",
-      "source_type": "substack",
-      "published_at": "2026-06-13T12:01:19+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure and industrial technology. This week we look at homes being built on top of libraries, Patriot missile manufacturing, an effort to construct new US coal plants, a tunnel between the US and Russia, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber.",
-      "signal": "",
-      "estimated_read_minutes": 3,
-      "fetched_at": "2026-06-22T07:37:07.987296+00:00"
-    },
-    {
-      "id": "383218cecfcd928b",
-      "title": "Converting Coal Plants to Natural Gas",
-      "url": "https://www.construction-physics.com/p/converting-coal-plants-to-natural",
-      "source_name": "Construction Physics",
-      "source_type": "substack",
-      "published_at": "2026-06-19T12:03:02+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Burning coal powered Thomas Newcomen’s steam engine, invented in Britain in the early 18th century, and the first of a line of increasingly efficient converters of coal to usable energy. The Newcomen engine was in fact so inefficient and consumed so much coal that it was almost exclusively used at coal mines, where fuel could be obtained cheaply. The improved steam engines that followed over the 18th and 19th centuries — Watt’s rotative engine, high-pressure Cornish engines, triple-expansion engines, Parsons’ steam turbine — were likewise fired by coal.",
-      "signal": "",
-      "estimated_read_minutes": 9,
-      "fetched_at": "2026-06-22T07:37:07.125542+00:00"
-    },
-    {
-      "id": "1b39fadedfd59605",
-      "title": "Reading List 06/20/26",
-      "url": "https://www.construction-physics.com/p/reading-list-062026",
-      "source_name": "Construction Physics",
-      "source_type": "substack",
-      "published_at": "2026-06-20T12:01:56+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure, and industrial technology. This week we look at a new housing bill, General Motors joining the grid-scale battery game, skepticism about data center delays, solid-state air conditioning, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber.",
-      "signal": "",
-      "estimated_read_minutes": 4,
-      "fetched_at": "2026-06-22T07:37:06.253855+00:00"
-    },
-    {
-      "id": "2fb25ce630695801",
-      "title": "Thank God For Data Centers",
-      "url": "https://www.notboring.co/p/thank-god-for-data-centers",
-      "source_name": "Not Boring",
-      "source_type": "substack",
-      "published_at": "2026-05-27T19:19:05+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "Join 267,788 smart, curious folks by subscribing here:\nHi friends 👋,\nHappy Wednesday! A couple weeks ago, I asked if you wanted me to start sharing more off-the-cuff notes with not boring world subscribers, and the response was great, so we’re back. It’s a Wednesday afternoon, not my normal send time, but these are meant to be less formal and more, “I noticed something interesting, here are my quick thoughts.” This one happens to be a little longer than it is quick, but it’s one I wanted to get out for two reasons:\nPeople hate AI Data Centers, and I think they’re wrong, even if they don’t like AI.",
-      "signal": "",
-      "estimated_read_minutes": 17,
-      "fetched_at": "2026-06-22T07:37:05.152612+00:00"
-    },
-    {
-      "id": "813067bcd3535135",
-      "title": "Weekly Dose of Optimism #195",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-195",
-      "source_name": "Not Boring",
-      "source_type": "substack",
-      "published_at": "2026-05-29T12:32:20+00:00",
-      "sectors": [
-        "MedTech"
-      ],
-      "excerpt": "Man, just when I thought it was going to be hard to top last week’s Dose, we have an LDL cholesterol-fighting gene therapy, evidence that GLP-1s slow cancer, supersonic flight, and nanotech, and a Moon Base. We also have the coolest Science Breakthroughs roundup yet. Even a massive Blue Origin explosion can’t slow us down.",
-      "signal": "",
-      "estimated_read_minutes": 11,
-      "fetched_at": "2026-06-22T07:37:04.279720+00:00"
     }
   ]
 }
