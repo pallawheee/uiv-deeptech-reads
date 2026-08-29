@@ -1,6 +1,115 @@
 {
-  "last_updated": "2026-08-28T11:37:04.888912+00:00",
+  "last_updated": "2026-08-29T07:15:04.171362+00:00",
   "articles": [
+    {
+      "id": "dbb204013c8884a3",
+      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+      "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-08-28T12:35:27+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. A startup claims it’s found a drug to make your blood young\n—Antonio Regalado\nI knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the chance to write about—and even receive—their new rejuvenation treatment. This wasn’t just any antiaging treatment, either.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-08-29T07:14:43.139542+00:00"
+    },
+    {
+      "id": "726acc939fea8f8a",
+      "title": "Trump’s Latest Deal to Kill Offshore Wind Benefits a Donor",
+      "url": "https://heatmap.news/am/trump-michael-dorrell",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-28T11:45:06+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 28,
+      "fetched_at": "2026-08-29T07:14:41.431340+00:00"
+    },
+    {
+      "id": "ba12059f5121c33d",
+      "title": "America’s Oil Refineries Are Going All Out",
+      "url": "https://heatmap.news/energy/oil-refineries-iran",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-28T16:15:35+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-08-29T07:14:40.842328+00:00"
+    },
+    {
+      "id": "53c60d4f91ca4e88",
+      "title": "The Top Five States to Watch for Clean Energy Policy",
+      "url": "https://heatmap.news/plus/the-fight/spotlight/renewable-energy-policy-texas-california-arizona-wisconsin-alabama",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-28T20:23:38+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-08-29T07:14:40.049009+00:00"
+    },
+    {
+      "id": "bf133d99c3dd7a26",
+      "title": "What Nevada’s Democratic Candidate for Governor Would Do About Data Centers",
+      "url": "https://heatmap.news/plus/the-fight/qa/aaron-ford-nevada-governor-data-centers",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-28T20:34:52+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-08-29T07:14:39.453599+00:00"
+    },
+    {
+      "id": "a15f476530512d6e",
+      "title": "People Who Hate Renewables Hate Data Centers, Too",
+      "url": "https://heatmap.news/plus/the-fight/hotspots/data-center-opposition-arizona-indiana-michigan",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-08-28T20:39:21+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-08-29T07:14:38.832468+00:00"
+    },
+    {
+      "id": "311176d23c5b80d9",
+      "title": "Weekly Dose of Optimism #208",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-208",
+      "source_name": "Not Boring",
+      "source_type": "substack",
+      "published_at": "2026-08-28T12:14:36+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "While there was a ton of good news this week, the videos of the floods in Nepal and Tibet are some of the most heartbreaking I’ve ever seen. We’re going to cover the good stuff, but if you’d like to donate to the relief efforts, I’m giving to DirectRelief’s Nepal Flood Relief 2026, where 100% of donations support Nepal response activities. Now, August rules: you should be outside as much as possible while you can, so we will just quickly tell you to check out “Matthew’s” Field Notes from China, and then…\nLet’s get to it.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-08-29T07:14:37.606393+00:00"
+    },
     {
       "id": "820acf0e4140e8c2",
       "title": "Defence Tech Startup Sanlayan Turns Profitable In FY26, Revenue Surges 5.7X To ₹125 Cr",
@@ -7665,112 +7774,6 @@
       "signal": "",
       "estimated_read_minutes": 6,
       "fetched_at": "2026-06-22T07:37:26.070359+00:00"
-    },
-    {
-      "id": "bca4ee642cdb391f",
-      "title": "Trump Pays $765 Million to Kill 4 More Offshore Wind Leases",
-      "url": "https://heatmap.news/energy/trump-invenergy-wind-deal",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-17T16:00:03+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 21,
-      "fetched_at": "2026-06-22T07:37:20.714826+00:00"
-    },
-    {
-      "id": "4c9755d010e4df3b",
-      "title": "Trump’s War on Gigawatts",
-      "url": "https://heatmap.news/daily/trump-wind-energy-prices",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-17T21:19:41+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 25,
-      "fetched_at": "2026-06-22T07:37:20.100431+00:00"
-    },
-    {
-      "id": "d1cacd6c70ec0d6b",
-      "title": "The Strait of Hormuz Is Reopening",
-      "url": "https://heatmap.news/am/iran-us-deal",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-18T11:35:53+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 22,
-      "fetched_at": "2026-06-22T07:37:19.491279+00:00"
-    },
-    {
-      "id": "c0d02812c7c42633",
-      "title": "Climate Tech SPACs Are Back",
-      "url": "https://heatmap.news/climate-tech/spacs-are-back",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-18T18:36:22+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 25,
-      "fetched_at": "2026-06-22T07:37:18.879848+00:00"
-    },
-    {
-      "id": "b4d4743eb817d612",
-      "title": "What Would Make the Data Center Boom Popular?",
-      "url": "https://heatmap.news/plus/the-fight/qa/mark-muro-brookings-data-centers",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-18T19:42:15+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 25,
-      "fetched_at": "2026-06-22T07:37:18.040478+00:00"
-    },
-    {
-      "id": "b169861e9aec7f7c",
-      "title": "The Renewables Battle Underway in Arizona",
-      "url": "https://heatmap.news/plus/the-fight/hotspots/the-renewables-battle-underway-in-arizona",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-18T19:46:12+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 25,
-      "fetched_at": "2026-06-22T07:37:17.222509+00:00"
-    },
-    {
-      "id": "9f218e85c7d01d58",
-      "title": "FERC Has a New Plan for Data Centers",
-      "url": "https://heatmap.news/energy/ferc-data-center-plan",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-18T21:43:32+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 17,
-      "fetched_at": "2026-06-22T07:37:15.656266+00:00"
     }
   ]
 }
