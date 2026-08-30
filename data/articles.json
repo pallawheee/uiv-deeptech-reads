@@ -1,6 +1,21 @@
 {
-  "last_updated": "2026-08-29T07:15:04.171362+00:00",
+  "last_updated": "2026-08-30T05:37:39.021635+00:00",
   "articles": [
+    {
+      "id": "da57e87eed2e695e",
+      "title": "Reading List 08/29/26",
+      "url": "https://www.construction-physics.com/p/reading-list-082926",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-08-29T12:03:07+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "This week we look at sinking London homes, US magnesium manufacturing, the World Humanoid Robot games, catastrophic flooding in Nepal, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber. Housing and Cities\nNew home sales are down 6.3% year over year.",
+      "signal": "",
+      "estimated_read_minutes": 3,
+      "fetched_at": "2026-08-30T05:37:11.999767+00:00"
+    },
     {
       "id": "dbb204013c8884a3",
       "title": "The Download: a secretive antiaging drug and joining virtual power plants",
@@ -7758,22 +7773,6 @@
       "signal": "",
       "estimated_read_minutes": 10,
       "fetched_at": "2026-06-22T07:37:26.800096+00:00"
-    },
-    {
-      "id": "318a0fd588898a88",
-      "title": "The Download: AI bottleneck debates, and BCI trials take off",
-      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-19T12:10:00+00:00",
-      "sectors": [
-        "MedTech",
-        "AI Infrastructure"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs\nAI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck that had held back large language models for almost a decade. The purported breakthrough comes from slashing the number of computations transformers need to carry out to generate answers.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-06-22T07:37:26.070359+00:00"
     }
   ]
 }
