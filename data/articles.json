@@ -1,6 +1,114 @@
 {
-  "last_updated": "2026-09-02T04:52:36.419952+00:00",
+  "last_updated": "2026-09-03T04:50:26.299915+00:00",
   "articles": [
+    {
+      "id": "98357abb9c8fa16f",
+      "title": "NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone",
+      "url": "https://spectrum.ieee.org/canadarm-ieee-300th-milestone",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-09-02T18:00:03+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "The shuttles could launch like rockets, maneuver in Earth’s orbit, and land like airplanes. They also could carry large satellites to and from orbit. Like other types of transportation, machinery eventually breaks down, and parts need to be replaced or fixed.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-09-03T04:50:04.787039+00:00"
+    },
+    {
+      "id": "4f54ea5fd732105e",
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-02T12:10:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. AI models flub these intelligence tests. Puzzles and games have always been central to AI development.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-09-03T04:50:03.443522+00:00"
+    },
+    {
+      "id": "ee9a63af36c00bff",
+      "title": "AI and Iran Are Creating a Tug of War for Renewables",
+      "url": "https://heatmap.news/economy/bond-selloff-renewables",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-01T22:16:26+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 58,
+      "fetched_at": "2026-09-03T04:50:01.316213+00:00"
+    },
+    {
+      "id": "13d44f7aa2f81b16",
+      "title": "How to Understand America’s Gigantic Natural Gas Buildout",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e66-data-centers-natural-gas",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-02T09:10:09+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 55,
+      "fetched_at": "2026-09-03T04:50:00.489934+00:00"
+    },
+    {
+      "id": "89fc82d5d4a46b5a",
+      "title": "Transcript: How to Understand America’s Gigantic Natural Gas Buildout",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e66-data-centers-natural-gas-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-02T09:10:09+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 55,
+      "fetched_at": "2026-09-03T04:49:59.868236+00:00"
+    },
+    {
+      "id": "e197906fb5717bdb",
+      "title": "Solar Surpasses Coal in China’s Overall Capacity",
+      "url": "https://heatmap.news/am/china-solar-coal",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-02T12:05:38+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 59,
+      "fetched_at": "2026-09-03T04:49:57.069165+00:00"
+    },
+    {
+      "id": "0464b9a24c927f3a",
+      "title": "Brace Yourselves for Snaptember",
+      "url": "https://heatmap.news/climate/snaptember-northwest-fires",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-02T17:31:22+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 58,
+      "fetched_at": "2026-09-03T04:49:56.412574+00:00"
+    },
     {
       "id": "3c0da82342b3b706",
       "title": "IEEE President’s Note: Technology for Social Good",
@@ -7671,112 +7779,6 @@
       "signal": "",
       "estimated_read_minutes": 33,
       "fetched_at": "2026-06-23T05:21:08.968284+00:00"
-    },
-    {
-      "id": "c2262e7a1d858afb",
-      "title": "The New Left’s Old Climate Politics",
-      "url": "https://heatmap.news/daily/mamdani-climate-socialists",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-22T23:11:37+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 32,
-      "fetched_at": "2026-06-23T05:21:08.346024+00:00"
-    },
-    {
-      "id": "827d8b84e423c888",
-      "title": "Where Are the Economies of Scale in Homebuilding?",
-      "url": "https://www.construction-physics.com/p/where-are-the-economies-of-scale",
-      "source_name": "Construction Physics",
-      "source_type": "substack",
-      "published_at": "2026-05-28T12:03:26+00:00",
-      "sectors": [
-        "AI Infrastructure",
-        "Semiconductors"
-      ],
-      "excerpt": "Over the last few months we’ve examined the extent of the construction industry’s productivity problem. We’ve looked at a variety of construction productivity metrics, both for the US and for countries around the world, and found that construction productivity almost always rises much less in construction than it does in industries like manufacturing; often, it doesn’t improve at all. We’ve analyzed trends in construction costs in the US and around the world, and noted that construction almost never gets any cheaper: construction costs almost always rise at or above the level of overall inflation.",
-      "signal": "",
-      "estimated_read_minutes": 23,
-      "fetched_at": "2026-06-23T05:21:07.371958+00:00"
-    },
-    {
-      "id": "dadba4c595ac7088",
-      "title": "America Spins on Westmag",
-      "url": "https://www.notboring.co/p/westmag",
-      "source_name": "Not Boring",
-      "source_type": "substack",
-      "published_at": "2026-06-02T15:34:10+00:00",
-      "sectors": [
-        "Robotics"
-      ],
-      "excerpt": "Join 268,518 smart, curious folks by subscribing here:\nHi friends 👋,\nHappy Tuesday! Welcome to a Deep Dive I’ve been excited to write since The Electric Slide, about a company I invested in to build one layer of the Electric Stack - motors and actuators - in America. If you’ve heard of Westmag, it might be because they make really great hats.",
-      "signal": "",
-      "estimated_read_minutes": 58,
-      "fetched_at": "2026-06-23T05:21:06.220734+00:00"
-    },
-    {
-      "id": "90a2873d794ebba3",
-      "title": "Weekly Dose of Optimism #196",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-196",
-      "source_name": "Not Boring",
-      "source_type": "substack",
-      "published_at": "2026-06-05T12:53:49+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "A new American nuclear reactor has gone critical. Dan and I are doing a Hyrox in a few hours. Today’s Weekly Dose is brought to you by… Guru\nWhen it comes to implementing AI within your company, most orgs struggle with a knowledge problem.",
-      "signal": "",
-      "estimated_read_minutes": 9,
-      "fetched_at": "2026-06-23T05:21:05.278380+00:00"
-    },
-    {
-      "id": "ff03e8a9e365486c",
-      "title": "Weekly Dose of Optimism #197",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-197",
-      "source_name": "Not Boring",
-      "source_type": "substack",
-      "published_at": "2026-06-12T12:58:11+00:00",
-      "sectors": [
-        "Robotics"
-      ],
-      "excerpt": "It’s been a big week over here at Not Boring HQ. On Monday, we published a co-written essay on flying cars with Tsung Xu. On Wednesday, we published one on tokenminning with Markie Wagner.",
-      "signal": "",
-      "estimated_read_minutes": 10,
-      "fetched_at": "2026-06-23T05:21:03.947897+00:00"
-    },
-    {
-      "id": "b4141b1ec2eea4e4",
-      "title": "Predicting AI job exposure",
-      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
-      "source_name": "Benedict Evans",
-      "source_type": "blog",
-      "published_at": "2026-05-24T20:35:51+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "We know, in principle, that like every other big wave of technology, AI is bound to destroy some jobs and create others. In the last three years a bunch of people have been very busy crunching census data, making tables and building viral charts. I think this is mostly impossible: I think this is an exercise in predicting something that cannot be predicted.",
-      "signal": "",
-      "estimated_read_minutes": 9,
-      "fetched_at": "2026-06-23T05:21:02.729290+00:00"
-    },
-    {
-      "id": "b49a216170cdadb3",
-      "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
-      "url": "https://spectrum.ieee.org/researcher-trains-robots-to-guess",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-06-12T18:00:01+00:00",
-      "sectors": [
-        "Robotics"
-      ],
-      "excerpt": "When she was growing up in Taiwan, reading the story of Michael Faraday in elementary school piqued her curiosity about the natural world. During that time, she was introduced to Logo, a computer program with a turtle cursor to help children learn basic coding through hands-on experimentation. It was Kuo’s introduction to programming logic.",
-      "signal": "",
-      "estimated_read_minutes": 10,
-      "fetched_at": "2026-06-22T07:37:55.937923+00:00"
     }
   ]
 }
