@@ -1,6 +1,145 @@
 {
-  "last_updated": "2026-09-03T04:50:26.299915+00:00",
+  "last_updated": "2026-09-04T04:53:16.891980+00:00",
   "articles": [
+    {
+      "id": "7d523e8bad58231e",
+      "title": "Ultrahuman Bags $70 Mn To Build An Integrated Healthtech Platform",
+      "url": "https://inc42.com/buzz/ultrahuman-bags-70-mn-to-build-an-integrated-healthtech-platform/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-09-03T18:00:17+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-09-04T04:53:09.863369+00:00"
+    },
+    {
+      "id": "874b7327e10a54cf",
+      "title": "Protecting Dynamic Industrial Robot Cable Carriers",
+      "url": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-09-03T12:18:21+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "In modern automated manufacturing, six-axis articulated robots perform high-speed, multidirectional maneuvers under demanding operational cycles. However, as robot arms swivel, rotate, and extend, the electrical cables, fiber optics, and pneumatic hoses supplying them endure severe mechanical stress. Torsional twist, rapid acceleration, and repeated contact with machine structures often lead to premature conductor fatigue, insulation breakdown, and costly unplanned production halts.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-09-04T04:52:57.362642+00:00"
+    },
+    {
+      "id": "b9b3df40714ba92a",
+      "title": "Agriculture relies on fossil fuels. It’s costing us.",
+      "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-03T10:00:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer prices have been on a roller coaster this year, kicked off in part by trade disruptions and high prices for natural gas, a key ingredient in fertilizer production.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-09-04T04:52:56.183438+00:00"
+    },
+    {
+      "id": "c69c41a1123b2bd8",
+      "title": "The Download: rethinking child safety and fossil-fueled farming",
+      "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-03T12:10:00+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate",
+        "Semiconductors"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Child-monitoring apps might need a reboot\nDigital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails, and chats, issuing alerts whenever an algorithm flags something it deems dangerous.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-09-04T04:52:55.594206+00:00"
+    },
+    {
+      "id": "199eb872b4e252db",
+      "title": "American Energy Companies Are Scrambling into Venezuela",
+      "url": "https://heatmap.news/am/trump-venezuela-deals",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-03T12:09:25+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 58,
+      "fetched_at": "2026-09-04T04:52:54.177998+00:00"
+    },
+    {
+      "id": "7df677e6b9f3d31c",
+      "title": "Is the Subaru Trailseeker Subaru Enough?",
+      "url": "https://heatmap.news/electric-vehicles/subaru-trailseeker-toyota",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-03T17:06:08+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-09-04T04:52:53.278977+00:00"
+    },
+    {
+      "id": "77f07fcf3fe04e79",
+      "title": "How to Get Data Centers to Fund the Grid of the Future",
+      "url": "https://heatmap.news/daily/large-load-tariff-data-centers",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-03T21:02:05+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-09-04T04:52:52.653336+00:00"
+    },
+    {
+      "id": "b1c6cc813b9e6f99",
+      "title": "How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part III",
+      "url": "https://www.construction-physics.com/p/how-will-the-21st-century-road-to-21c",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-09-03T19:20:13+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "As I’ve noted in my previous two essays, this is a sprawling piece of legislation, with 59 sections spread across 12 different “titles.” So far we’ve looked at Titles I, II, and III, which together contain 24 individual sections. In this post, I’ll look at the remaining nine titles of the package. There are a lot of sections (35!), but many of them don’t apply to housing at all, and as with earlier titles the major potential impacts are concentrated in a small number of sections (chiefly sections 501, 502, 1001, and possibly 504).",
+      "signal": "",
+      "estimated_read_minutes": 15,
+      "fetched_at": "2026-09-04T04:52:51.728350+00:00"
+    },
+    {
+      "id": "ebdbf0f6db65b302",
+      "title": "AI, tools and transformation",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "source_name": "Benedict Evans",
+      "source_type": "blog",
+      "published_at": "2026-09-03T21:26:04+00:00",
+      "sectors": [
+        "Semiconductors"
+      ],
+      "excerpt": "It has giant ‘big iron’ horizontal systems of record like SAP and Workday, it has hundreds of vertical SaaS applications, and then there are hundreds more workflows, scripts, automations and databases, right down to the 10 meg spreadsheet running a department. Very often, the company doesn’t even know quite how much it has, what’s actually being used, and what it’s paying for. And yet, with all this software, the company is full of boring, repetitive tasks.",
+      "signal": "",
+      "estimated_read_minutes": 12,
+      "fetched_at": "2026-09-04T04:52:50.386232+00:00"
+    },
     {
       "id": "98357abb9c8fa16f",
       "title": "NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone",
@@ -7641,144 +7780,6 @@
       "signal": "",
       "estimated_read_minutes": 2,
       "fetched_at": "2026-06-23T05:21:20.500888+00:00"
-    },
-    {
-      "id": "65edadd61080a333",
-      "title": "How Musicians Can Get Paid for Training AI",
-      "url": "https://spectrum.ieee.org/ai-music-attribution",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-06-17T15:04:23+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "Across vinyl/CD sales, streams, radio, cover versions, and those numerous niches like karaoke, there are agreements in place about what “use” means. Underlying this is a simple economic principle: The more something is used, the more money it makes. Generative AI has complicated the definition of use.",
-      "signal": "",
-      "estimated_read_minutes": 8,
-      "fetched_at": "2026-06-23T05:21:16.590001+00:00"
-    },
-    {
-      "id": "d2a79d53edf65aaf",
-      "title": "Behind the Scenes of a Technical Interview",
-      "url": "https://spectrum.ieee.org/tech-interview-prep",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-06-17T16:13:01+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free! I’ve sat on both sides of the interview table several times over the past decade. You might be surprised to hear that I’ve often been just as nervous interviewing candidates as I was when being interviewed!",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-06-23T05:21:16.015759+00:00"
-    },
-    {
-      "id": "53560a8063d7b85a",
-      "title": "War Taught this Ukrainian Entrepreneur the Value of Resilience",
-      "url": "https://spectrum.ieee.org/mikadze-struk-resilience-in-entrepreneurship",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-06-20T13:00:01+00:00",
-      "sectors": [
-        "MedTech"
-      ],
-      "excerpt": "The daughter of refugees, she built a software-development business as an undergraduate at the height of the COVID-19 pandemic and kept it running despite the outbreak of war in her native Ukraine. Now, she’s drawing on her experiences to mentor tech-startup founders and speak publicly about the importance of resilience in entrepreneurship. Mikadze-Struk was studying at Georgetown University, in Washington, D.C., when COVID-19 struck.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-06-23T05:21:15.206493+00:00"
-    },
-    {
-      "id": "6aa8604eff97a28f",
-      "title": "Commemorating 70 Years of Artificial Intelligence",
-      "url": "https://spectrum.ieee.org/70-years-of-artificial-intelligence",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-06-22T18:00:01+00:00",
-      "sectors": [
-        "Defence"
-      ],
-      "excerpt": "It is significantly reshaping practically every aspect of our lives, including in ways that probably no one anticipated. Its rate of adoption and impact have been unprecedented when compared with other technologies. AI as a distinct field was formally established in 1956 at the Dartmouth Summer Research Project on Artificial Intelligence, proposed by John McCarthy, Marvin Minsky, Nathaniel Rochester, and Claude Shannon.",
-      "signal": "",
-      "estimated_read_minutes": 9,
-      "fetched_at": "2026-06-23T05:21:14.221738+00:00"
-    },
-    {
-      "id": "fecab4322bbbdb6d",
-      "title": "The Download: record-breaking subsea tunnels and flexible data centers",
-      "url": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-22T12:10:00+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel\n—Niall Firth\nI’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave. And I’m increasingly aware of the pressure from millions of tons of seawater just above my head.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-06-23T05:21:13.132225+00:00"
-    },
-    {
-      "id": "87c282464d6eaf83",
-      "title": "Three things to watch amid Anthropic’s latest feud with the government",
-      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-22T18:00:00+00:00",
-      "sectors": [
-        "Semiconductors",
-        "Cybersecurity"
-      ],
-      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos that was so good at working with code it could pose a global cybersecurity threat.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-06-23T05:21:12.527665+00:00"
-    },
-    {
-      "id": "db7786c7e88d7cf9",
-      "title": "Wind Industry Goes for Broke Against Trump",
-      "url": "https://heatmap.news/plus/the-fight/spotlight/wind-trump-court-pattern-apex-edp",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-18T19:56:56+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 25,
-      "fetched_at": "2026-06-23T05:21:10.345580+00:00"
-    },
-    {
-      "id": "7672583f7ef816d6",
-      "title": "U.S. and Iran Make ‘Encouraging Progress’ on Peace Deal",
-      "url": "https://heatmap.news/am/hormuz-colombia-china-rare-earths",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-22T13:14:41+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 33,
-      "fetched_at": "2026-06-23T05:21:09.619602+00:00"
-    },
-    {
-      "id": "53fc6c2fde0ac9d5",
-      "title": "How a Documentary About Climate Migration Found a Happy Ending",
-      "url": "https://heatmap.news/climate/welcome-table-gasland",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-22T18:18:51+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 33,
-      "fetched_at": "2026-06-23T05:21:08.968284+00:00"
     }
   ]
 }
