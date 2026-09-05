@@ -1,6 +1,144 @@
 {
-  "last_updated": "2026-09-04T04:53:16.891980+00:00",
+  "last_updated": "2026-09-05T04:46:07.665005+00:00",
   "articles": [
+    {
+      "id": "45e64a68c4ad39fc",
+      "title": "Platform And Program",
+      "url": "https://3one4capital.com/platform-and-program",
+      "source_name": "3one4 Capital",
+      "source_type": "blog",
+      "published_at": "2026-09-05T04:45:50.452508+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "These alliances are highly curated to support your next growth trajectory. Designed for hassle-free access\nThe platform allows founders to quickly navigate to the list of perks and benefits listed where credits and discounts from AWS, HubSpot, Google, Jupiter Pro, Pazcare and many more can be availed\nFounder LoginLet's Connect\nOur Milestones\n3one4 was announced as the first venture capital signatory from India to the global PRI\nAt 3one4 Capital, the team has intentionally built a long-term commitment to responsible investing and to support the evolution of an ecosystem conducive to RI. This active commitment has helped the firm secure the signatory status to the UN PRI.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-09-05T04:45:50.453118+00:00"
+    },
+    {
+      "id": "a514f86d4df22e98",
+      "title": "Our Thesis",
+      "url": "https://3one4capital.com/our-thesis",
+      "source_name": "3one4 Capital",
+      "source_type": "blog",
+      "published_at": "2026-09-05T04:45:49.462024+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Consumption Growth\nIndia’s New\nBusiness Backbone\nAadhar Coverage is >90%\nMonthly UPI Transacted Value\nJan Dhan Bank Accounts\nAadhar, UPI, and Jan Dhan form the backbone of inclusive business growth providing access and purchasing power to 1.3 Billion Indians. #63 in 2020\n(2015-2021)\n(AY 2020-21)\n3x in 5yrs\nIndia at a convergence\nA strong enterprise market, quality talent, large consumer install base, and consumption growth enabled by savings, puts India at a convergence like never before in history. Consumption Growth\nGDP in PPP (2020)\nBank Accounts\nConsumption of GDP (2021-22)\nConsumer Install Base\nInternet Users (2021)\nActive Mobile Connections\nSmartphones sold per annum (2021)\nQuality Talent\nIT Professionals\nLargest IT Talent Base\nStartups per annum\nEnterprise Market\nIT Sector Revenue per annum\nShare of Global Outsourced IT\nGlobal ITES Companies\nInvestment focus areas\nSaaS\nNew frameworks and automated workflows that support better decision making and drive productivity across multiple functions\nConsumer Internet\nUnlocking value from direct access to a large install base of young, empowered, digitally native and highly selective consumers\nFintech\nHelping a new generation earn, spend, save, and multiply wealth smarter with highly accessible multi-modal products and services\nDigital Health\nNew generation health technology companies delivering outcomes digitally and enabling health access to the long tail of users in India\nEnterprise & SMB Digitization\nAutomating and optimizing workflows to enable new generation of businesses to achieve their digital transformation goals seamlessly\nOur focus areas are built on top of powerful horizontal themes that have feed-forward effects on India's economic development.",
+      "signal": "",
+      "estimated_read_minutes": 3,
+      "fetched_at": "2026-09-05T04:45:49.462803+00:00"
+    },
+    {
+      "id": "772ec013400f9e75",
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-04T09:25:19+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part of the AI architecture that shapes even civilian life.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-09-05T04:45:45.013081+00:00"
+    },
+    {
+      "id": "4ada135544e51e2e",
+      "title": "The Download: selling battlefield drone data and AI reshaping language",
+      "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-04T12:10:00+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace\n—Cory Alpert, a researcher at the University of Melbourne studying AI's impact on democracy, who previously served in the Biden White House. Battlefields in Ukraine are littered with the remnants of drones.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-09-05T04:45:44.454633+00:00"
+    },
+    {
+      "id": "817537e6d0579ab2",
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-04T18:39:19+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "In partnership withMicron\nThe era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while also supporting an increasingly intelligent edge of IoT and consumer devices.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-09-05T04:45:43.795356+00:00"
+    },
+    {
+      "id": "90ada116e67508ac",
+      "title": "Why SoCal Electricity Customers Are Paying for Utility Reforms",
+      "url": "https://heatmap.news/sparks/august-2026-electricity-prices",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-04T14:17:03+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 12,
+      "fetched_at": "2026-09-05T04:45:41.845212+00:00"
+    },
+    {
+      "id": "36c28bb39252c685",
+      "title": "China’s Carbon Emissions Drop on Shrinking Oil Demand",
+      "url": "https://heatmap.news/am/china-oil-emissions-hyundai",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-04T14:48:45+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-09-05T04:45:41.226261+00:00"
+    },
+    {
+      "id": "cf8464d6c45f4ecd",
+      "title": "These 5 States Are Primed for a Data Center Pause",
+      "url": "https://heatmap.news/plus/the-fight/spotlight/next-data-center-moratorium-states",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-04T15:48:18+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 13,
+      "fetched_at": "2026-09-05T04:45:40.594738+00:00"
+    },
+    {
+      "id": "252ab654e512a559",
+      "title": "The Solar Farm-to-Data Center Switcheroo Hits a Snag",
+      "url": "https://heatmap.news/plus/the-fight/hotspots/townsite-2-nevada",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-04T15:48:34+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 13,
+      "fetched_at": "2026-09-05T04:45:40.009900+00:00"
+    },
     {
       "id": "7d523e8bad58231e",
       "title": "Ultrahuman Bags $70 Mn To Build An Integrated Healthtech Platform",
@@ -7637,149 +7775,6 @@
       "signal": "",
       "estimated_read_minutes": 2,
       "fetched_at": "2026-06-24T04:45:55.089683+00:00"
-    },
-    {
-      "id": "d14d4ac3c3b9f7c6",
-      "title": "Lucid Motors Announces Second Round of Layoffs This Year",
-      "url": "https://heatmap.news/am/lucid-layoffs",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-23T12:13:19+00:00",
-      "sectors": [
-        "Robotics",
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 30,
-      "fetched_at": "2026-06-24T04:45:52.838883+00:00"
-    },
-    {
-      "id": "192013ee6c12c2fd",
-      "title": "Will the Ratepayer Protection Act Protect Ratepayers or Big Tech?",
-      "url": "https://heatmap.news/politics/ratepayer-protection-act-explained",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-23T22:17:15+00:00",
-      "sectors": [
-        "Defence",
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 23,
-      "fetched_at": "2026-06-24T04:45:52.254424+00:00"
-    },
-    {
-      "id": "9bbe4ccc08ead403",
-      "title": "Trump’s Big Nuclear Play Is Here",
-      "url": "https://heatmap.news/daily/trumps-big-nuclear-play-is-here",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-23T22:55:57+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 23,
-      "fetched_at": "2026-06-24T04:45:51.684917+00:00"
-    },
-    {
-      "id": "0f89e9bb1d72ab76",
-      "title": "After Files Surface On Dark Web, Tata Electronics Confirms Data Breach",
-      "url": "https://inc42.com/buzz/after-files-surface-on-dark-web-tata-electronics-confirms-data-breach/",
-      "source_name": "Inc42",
-      "source_type": "publication",
-      "published_at": "2026-06-22T22:30:52+00:00",
-      "sectors": [
-        "Cybersecurity"
-      ],
-      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
-      "signal": "",
-      "estimated_read_minutes": 1,
-      "fetched_at": "2026-06-23T05:21:33.375224+00:00"
-    },
-    {
-      "id": "ef139c25df0759ea",
-      "title": "Twelve Portfolio Companies Named In Indias National Deep Tech Cohort",
-      "url": "https://3one4capital.com/blogs/twelve-portfolio-companies-named-in-indias-national-deep-tech-cohort",
-      "source_name": "3one4 Capital",
-      "source_type": "blog",
-      "published_at": "2026-06-23T05:21:26.265528+00:00",
-      "sectors": [
-        "Defence",
-        "Robotics",
-        "Climate",
-        "MedTech",
-        "Semiconductors"
-      ],
-      "excerpt": "Recently, the Startup Policy Forum (SPF) recognized twelve companies from the 3one4 Capital portfolio among others in its #100DesiDeepTechs list. This national initiative highlights India's most important deep tech startups. After an eight-month selection process, these companies were chosen for their breakthroughs in areas like semiconductors, aerospace, biotechnology, advanced materials, electric mobility, robotics, and specialty chemicals.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-06-23T05:21:26.266218+00:00"
-    },
-    {
-      "id": "6423978b9c11c434",
-      "title": "India Needs A National Inference Mission To Capture Its Share Of The Emerging 1 Trillion Ai Economy",
-      "url": "https://3one4capital.com/blogs/india-needs-a-national-inference-mission-to-capture-its-share-of-the-emerging-1-trillion-ai-economy",
-      "source_name": "3one4 Capital",
-      "source_type": "blog",
-      "published_at": "2026-06-23T05:21:25.464883+00:00",
-      "sectors": [
-        "Semiconductors"
-      ],
-      "excerpt": "India's external account survives because services exports cover for goods imports. In FY26, that surplus reached $213.9 billion, the highest in India's history, up 13.3% year-on-year. It paid for the $130 billion net crude oil bill, the $72 billion gold import bill, and most of India's import dependence.",
-      "signal": "",
-      "estimated_read_minutes": 12,
-      "fetched_at": "2026-06-23T05:21:25.465458+00:00"
-    },
-    {
-      "id": "7624f9494bead251",
-      "title": "Blog",
-      "url": "https://3one4capital.com/blog",
-      "source_name": "3one4 Capital",
-      "source_type": "blog",
-      "published_at": "2026-06-23T05:21:22.833158+00:00",
-      "sectors": [
-        "Defence",
-        "Semiconductors"
-      ],
-      "excerpt": "June 19, 2026\n6 mins\nIndia’s Corporate Engine Has The Profits. The Policy Operating System For Global Expansion Must Now Clear The Runway. TV Mohandas Pai and Pranav Pai\nRead More\nJune 18, 2026\n6 mins\nPaying AI for Outcomes, Not Tokens, Will Decide the Shape of the Opportunity\nPranav Pai\nRead More\nJune 11, 2026\n5 miins\nRivvun AI Raises $7.55M to Build Autonomous Revenue Recovery Platform for Fortune 1000 Firms\nTeam 3one4\nRead More\nJune 11, 2026\n5 mins\nWhy India Must Abolish Capital Gains Taxes for Foreign Investors\nSiddarth Pai & TV Mohandas Pai\nRead More\nJune 10, 2026\n5 mins\nExponent Energy Raises $21.1 Million to Build the Energy Backbone for India's Commercial Electric Transition\nTeam 3one4\nRead More\nJune 5, 2026\n6 mins\nIndia needs a National Inference Mission to capture its share of the emerging $1 trillion AI economy\nTV Mohandas Pai and Pranav Pai\nRead More\nJune 5, 2026\n4 mins\nTwelve 3one4 Capital Portfolio Companies Named in India's National Deep Tech Cohort\nTeam 3one4\nRead More\nJune 4, 2026\n5 mins\nWeRize Raises $7M: Building India's First Socially Distributed Trust-Led, AI-Native Full-Stack Fintech Platform for Credit, Savings, and Insurance\nTeam 3one4\nRead More\nJune 3, 2026\n5 mins\n3one4 Capital at DBS FoundED Season 5: Scaling in the Age of Intelligence\nTeam 3one4\nRead More\nMay 28, 2026\n5 mins\nDarwinbox Named a Leader in Gartner's 2026 Magic Quadrant for Talent Acquisition Suites\nTeam 3one4\nRead More\nMay 25, 2026\n6 mins\nThe Rupee’s Best Defence Is Reform, Not Reserves\nTV Mohandas Pai and Pranav Pai\nRead More\nMay 25, 2026\n5 mins\nThe Intelligence Layer: Why India’s Healthcare AI Moat is Built on ABDM Rails\nTeam 3one4\nRead More\nMay 24, 2026\n5 mins\nIndia Must Build Its Space Tech Companies the Way NASA Built SpaceX\nPranav Pai\nRead More\nMay 20, 2026\n5 mins\nThe 3one4 Capital Internship Program: Building Judgment Through Execution\nTeam 3one4\nRead More\nMay 13, 2026\n6 mins\nIndia's Whole-Chain Mission Needs Aadhaar-Scale Implementation.",
-      "signal": "",
-      "estimated_read_minutes": 12,
-      "fetched_at": "2026-06-23T05:21:22.833892+00:00"
-    },
-    {
-      "id": "45e64a68c4ad39fc",
-      "title": "Platform And Program",
-      "url": "https://3one4capital.com/platform-and-program",
-      "source_name": "3one4 Capital",
-      "source_type": "blog",
-      "published_at": "2026-06-23T05:21:21.648788+00:00",
-      "sectors": [
-        "Defence"
-      ],
-      "excerpt": "These alliances are highly curated to support your next growth trajectory. Designed for hassle-free access\nThe platform allows founders to quickly navigate to the list of perks and benefits listed where credits and discounts from AWS, HubSpot, Google, Jupiter Pro, Pazcare and many more can be availed\nFounder LoginLet's Connect\nOur Milestones\n3one4 was announced as the first venture capital signatory from India to the global PRI\nAt 3one4 Capital, the team has intentionally built a long-term commitment to responsible investing and to support the evolution of an ecosystem conducive to RI. This active commitment has helped the firm secure the signatory status to the UN PRI.",
-      "signal": "",
-      "estimated_read_minutes": 2,
-      "fetched_at": "2026-06-23T05:21:21.649408+00:00"
-    },
-    {
-      "id": "a514f86d4df22e98",
-      "title": "Our Thesis",
-      "url": "https://3one4capital.com/our-thesis",
-      "source_name": "3one4 Capital",
-      "source_type": "blog",
-      "published_at": "2026-06-23T05:21:20.500552+00:00",
-      "sectors": [
-        "Defence"
-      ],
-      "excerpt": "A strong enterprise market, quality talent, large consumer install base, and consumption growth enabled by savings, puts India at a convergence like never before in history. New frameworks and automated workflows that support better decision making and drive productivity across multiple functions\nUnlocking value from direct access to a large install base of young, empowered, digitally native and highly selective consumers\nHelping a new generation earn, spend, save, and multiply wealth smarter with highly accessible multi-modal products and services\nNew generation health technology companies delivering outcomes digitally and enabling health access to the long tail of users in India\nAutomating and optimizing workflows to enable new generation of businesses to achieve their digital transformation goals seamlessly\nAt 3one4 Capital, the team has intentionally built a long-term commitment to responsible investing and to support the evolution of an ecosystem conducive to RI. This active commitment has helped the firm secure the signatory status to the UN PRI.",
-      "signal": "",
-      "estimated_read_minutes": 2,
-      "fetched_at": "2026-06-23T05:21:20.500888+00:00"
     }
   ]
 }
