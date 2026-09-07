@@ -1,6 +1,21 @@
 {
-  "last_updated": "2026-09-06T04:56:15.395484+00:00",
+  "last_updated": "2026-09-07T05:00:20.450425+00:00",
   "articles": [
+    {
+      "id": "35bcd1c1da8d0062",
+      "title": "Deeptech Startup Jaipur Robotics Raises €4.3 Mn, Eyes India Expansion",
+      "url": "https://inc42.com/buzz/deeptech-startup-jaipur-robotics-raises-e4-3-mn-eyes-india-expansion/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-09-07T03:59:44+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-09-07T05:00:13.706156+00:00"
+    },
     {
       "id": "1e79819cd3c6a703",
       "title": "TCS HyperVault To Invest ₹70,000 Cr To Set Up AI Data Centre in Hyderabad",
@@ -7761,22 +7776,6 @@
       "signal": "",
       "estimated_read_minutes": 3,
       "fetched_at": "2026-06-24T04:45:56.852385+00:00"
-    },
-    {
-      "id": "cf577bb9791520fe",
-      "title": "Reinventing the zipper",
-      "url": "https://www.technologyreview.com/2026/06/23/1138282/reinventing-the-zipper/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-23T21:00:00+00:00",
-      "sectors": [
-        "Robotics",
-        "AI Infrastructure"
-      ],
-      "excerpt": "With an adaptable fastener designed at CSAIL, pitching a tent or adjusting the cast for a broken bone could be almost as easy as zipping your coat. The researchers, led by associate professor Stefanie Mueller, were inspired by an abandoned prototype for a three-sided zipper that William Freeman, PhD ’92 (now an MIT professor), patented in the mid-1980s. With software they created, people can design customized versions of this fastener to be 3D-printed in plastic.",
-      "signal": "",
-      "estimated_read_minutes": 2,
-      "fetched_at": "2026-06-24T04:45:56.262023+00:00"
     }
   ]
 }
