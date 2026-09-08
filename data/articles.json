@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-09-07T05:00:20.450425+00:00",
+  "last_updated": "2026-09-08T04:58:23.531281+00:00",
   "articles": [
+    {
+      "id": "b12a8e728183bf2c",
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-07T12:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Robotics",
+        "Climate",
+        "MedTech"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-09-08T04:57:53.139013+00:00"
+    },
     {
       "id": "35bcd1c1da8d0062",
       "title": "Deeptech Startup Jaipur Robotics Raises €4.3 Mn, Eyes India Expansion",
@@ -7761,21 +7779,6 @@
       "signal": "",
       "estimated_read_minutes": 2,
       "fetched_at": "2026-06-24T04:45:57.430923+00:00"
-    },
-    {
-      "id": "7312017d3f9fa47b",
-      "title": "Engineered “mini livers” could be injected as an alternative to transplantation",
-      "url": "https://www.technologyreview.com/2026/06/23/1138285/engineered-mini-livers-could-be-injected-as-an-alternative-to-transplantation/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-23T21:00:00+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "A technology developed by Professor Sangeeta Bhatia, SM ’93, PhD ’97, and colleagues could offer new hope to the thousands of Americans with chronic liver disease who are waiting for an organ transplant or not strong enough to tolerate one. The liver is involved in regulating blood clotting, removing bacteria from the bloodstream, metabolizing drugs, and more, and many of these essential functions are performed by specialized cells called hepatocytes. Bhatia’s lab has been working for a decade on ways to introduce functioning hepatocytes without surgically replacing the liver itself.",
-      "signal": "",
-      "estimated_read_minutes": 3,
-      "fetched_at": "2026-06-24T04:45:56.852385+00:00"
     }
   ]
 }
