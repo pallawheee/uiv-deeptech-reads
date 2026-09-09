@@ -1,6 +1,225 @@
 {
-  "last_updated": "2026-09-08T04:58:23.531281+00:00",
+  "last_updated": "2026-09-09T04:58:14.898657+00:00",
   "articles": [
+    {
+      "id": "bf826fd4bf3c1499",
+      "title": "PM Modi Urges Fintechs To Step Up Cybersecurity, Consumer Protection",
+      "url": "https://inc42.com/buzz/pm-modi-urges-fintechs-to-step-up-cybersecurity-consumer-protection/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-09-08T15:59:14+00:00",
+      "sectors": [
+        "Cybersecurity"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-09-09T04:58:10.131086+00:00"
+    },
+    {
+      "id": "9f0f50f58fdc277b",
+      "title": "Quantum Cybersecurity Startup QNu Labs Nets ₹200 Cr To Scale R&D",
+      "url": "https://inc42.com/buzz/quantum-cybersecurity-startup-qnu-labs-nets-%e2%82%b9200-cr-to-scale-rd/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-09-09T00:30:35+00:00",
+      "sectors": [
+        "Cybersecurity"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-09-09T04:58:06.163185+00:00"
+    },
+    {
+      "id": "8a013453e2c4bb4a",
+      "title": "The Growing Proof That Autonomous Cars Save Lives",
+      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-09-08T12:59:04+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "Some experts and policymakers have cautioned that AVs won’t necessarily make roads safer. When it comes to partial or full autonomy, the picture isn’t entirely clear, in part because there aren’t enough self-driving cars to make meaningful apples-to-apples comparisons. Yet mounting research suggests that self-driving cars crash significantly less often than people, and with far fewer injuries.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-09-09T04:57:55.302584+00:00"
+    },
+    {
+      "id": "31bb370b2d74de69",
+      "title": "Rivian’s Gambit for Full Autonomy",
+      "url": "https://spectrum.ieee.org/rivian-self-driving",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-09-08T13:00:04+00:00",
+      "sectors": [
+        "Robotics",
+        "Semiconductors"
+      ],
+      "excerpt": "We cruise near the landmark HP Garage, the one-car workshop where Hewlett-Packard, and, arguably, Silicon Valley, was founded in 1939. I skirt Stanford University, where a team led by computer science professor Sebastian Thrun won a US $2 million DARPA Grand Challenge in 2005. The team’s Volkswagen SUV, named Stanley, became the world’s first vehicle to navigate a grueling 212-kilometer Mojave Desert course with no human intervention.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-09-09T04:57:54.710910+00:00"
+    },
+    {
+      "id": "2da3d71a361a273f",
+      "title": "This geneticist’s age-reversal tech could help restore sight",
+      "url": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-08T10:32:00+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "Yuancheng (Ryan) Lu is obsessed with aging. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related blindness runs in his family.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-09-09T04:57:53.850430+00:00"
+    },
+    {
+      "id": "49c3a3166ba8cc4b",
+      "title": "This founder is making cheaper, cleaner steel",
+      "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-08T10:33:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt solid iron ore at dizzyingly high temperatures inside blast furnaces, where the material reacts with gases to trigger chemical reactions that remove oxygen.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-09-09T04:57:53.266917+00:00"
+    },
+    {
+      "id": "16673d70457dfb8b",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-08T10:34:00+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-09-09T04:57:52.608172+00:00"
+    },
+    {
+      "id": "7a9120172ffe7d32",
+      "title": "This founder is teaching chips how to recycle (their energy)",
+      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-08T10:36:00+00:00",
+      "sectors": [
+        "Defence",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually thrown away as heat—a strategy known as reversible computing.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-09-09T04:57:52.029778+00:00"
+    },
+    {
+      "id": "34c1f3afcb3c850d",
+      "title": "The Download: our 35 Innovators Under 35 this year",
+      "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-08T12:10:00+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate",
+        "MedTech",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026\nWhat will the next generation of science and technology look like? Our latest Innovators Under 35 list offers a glimpse.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-09-09T04:57:51.425316+00:00"
+    },
+    {
+      "id": "2d7799d2afaa0059",
+      "title": "How Building Transmission Could Lower Electricity Costs",
+      "url": "https://heatmap.news/plus/the-fight/qa/how-building-transmission-could-lower-electricity-costs",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-04T15:48:36+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 13,
+      "fetched_at": "2026-09-09T04:57:49.663294+00:00"
+    },
+    {
+      "id": "e260dc40aaa2a113",
+      "title": "Labor Day Gas Prices Hit a Record High",
+      "url": "https://heatmap.news/am/labor-day-gas-prices",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-08T13:00:06+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-09-09T04:57:48.791284+00:00"
+    },
+    {
+      "id": "442f00ca0502ff0c",
+      "title": "Perovskite Solar Is Having Another Moment",
+      "url": "https://heatmap.news/climate-tech/perovskite-solar-moment",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-08T13:18:02+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-09-09T04:57:48.178135+00:00"
+    },
+    {
+      "id": "6a27248af57714ae",
+      "title": "What We’re Tracking for the Rest of 2026",
+      "url": "https://heatmap.news/daily/what-were-tracking-for-the-rest-of-2026",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-08T22:53:37+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 29,
+      "fetched_at": "2026-09-09T04:57:47.574893+00:00"
+    },
+    {
+      "id": "7151baea99649ebc",
+      "title": "Heat Deaths Aren’t the Only Thing That Counts",
+      "url": "https://heatmap.news/adaptation/emergency-room-visits-heat",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-09T04:01:02+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 31,
+      "fetched_at": "2026-09-09T04:57:46.950197+00:00"
+    },
     {
       "id": "b12a8e728183bf2c",
       "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
@@ -7564,221 +7783,6 @@
       "signal": "",
       "estimated_read_minutes": 5,
       "fetched_at": "2026-06-25T04:43:24.932637+00:00"
-    },
-    {
-      "id": "14de5b78db6d0933",
-      "title": "This flying solar-powered platform could deliver better internet from the air",
-      "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-24T09:00:00+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan. Once there, the roughly 200-foot-long craft, built by the New Mexico–based company Sceye, will park some 18 kilometers above the ocean’s surface, in a wispy-thin layer known as the stratosphere. Then it will use a custom-built antenna to supplement Softbank’s 5G network, a test that will include beaming data straight to devices.",
-      "signal": "",
-      "estimated_read_minutes": 3,
-      "fetched_at": "2026-06-25T04:43:24.357318+00:00"
-    },
-    {
-      "id": "9fca72dbae7dafd3",
-      "title": "The emergence of the web data infrastructure layer for AI",
-      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-24T11:59:54+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "In partnership withBright Data\nAI is booming. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-06-25T04:43:23.786825+00:00"
-    },
-    {
-      "id": "572ef33e5fd7dfef",
-      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
-      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-24T12:00:00+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "The common cold comes for us all—often more than once a year. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new $500 million nonprofit whose goal is preventing both the common cold and the flu.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-06-25T04:43:23.202475+00:00"
-    },
-    {
-      "id": "12190d9820649084",
-      "title": "Europe’s extreme heat is shutting down power plants",
-      "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-24T15:25:28+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-06-25T04:43:22.461669+00:00"
-    },
-    {
-      "id": "eeeacc70c0eae484",
-      "title": "How China Saved the World From Trump’s Energy Crisis",
-      "url": "https://heatmap.news/podcast/shift-key-s3-e55-china-iran",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-24T09:10:03+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 65,
-      "fetched_at": "2026-06-25T04:43:20.427068+00:00"
-    },
-    {
-      "id": "80c887d920dada5f",
-      "title": "Walmart Goes Nuclear",
-      "url": "https://heatmap.news/am/walmart-nuclear-constellation",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-24T11:57:50+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 17,
-      "fetched_at": "2026-06-25T04:43:19.432275+00:00"
-    },
-    {
-      "id": "4419ee23b77a6fa4",
-      "title": "Sunrun, Tesla, and Renew Home Have 16 Gigawatts Up for Grabs",
-      "url": "https://heatmap.news/energy/sunrun-tesla-renew-home-vpp",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-24T12:00:02+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 67,
-      "fetched_at": "2026-06-25T04:43:18.846522+00:00"
-    },
-    {
-      "id": "e3c74d3f7e931645",
-      "title": "Transcript: How China Saved the World From Trump’s Energy Crisis",
-      "url": "https://heatmap.news/podcast/shift-key-s3-e55-china-iran-transcript",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-24T19:22:00+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 65,
-      "fetched_at": "2026-06-25T04:43:18.244742+00:00"
-    },
-    {
-      "id": "c8f07fca6545ec0a",
-      "title": "Key House Democrat Calls for a National Data Center Moratorium",
-      "url": "https://heatmap.news/politics/pallone-data-center-moratorium",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-24T20:26:10+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 67,
-      "fetched_at": "2026-06-25T04:43:17.587323+00:00"
-    },
-    {
-      "id": "1c1659ae994fd0ba",
-      "title": "The ‘Most Important Thing’ We Learned From the Iran War",
-      "url": "https://heatmap.news/daily/iran-war-lessons-china",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-24T22:30:06+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 66,
-      "fetched_at": "2026-06-25T04:43:16.946668+00:00"
-    },
-    {
-      "id": "48ccb6bd96a3ae70",
-      "title": "AI Is Learning to Read the Room",
-      "url": "https://spectrum.ieee.org/emotion-ai-context",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-06-23T12:00:01+00:00",
-      "sectors": [
-        "Robotics"
-      ],
-      "excerpt": "You’ve been working long hours, balancing deadlines, and your manager asks how you’re doing. You say you’re fine, and maybe even smile, but there’s a hint of hesitation and your voice wavers. As you shift your posture, your shoulders slump.",
-      "signal": "",
-      "estimated_read_minutes": 14,
-      "fetched_at": "2026-06-24T04:46:00.846723+00:00"
-    },
-    {
-      "id": "7b6a81e3ffa4ba98",
-      "title": "Why the U.S. Uses Only Half of Its Grid Capacity",
-      "url": "https://spectrum.ieee.org/united-states-power-grid-capacity",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-06-23T13:00:01+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Ian Magruder\nIan Magruder is the founder of Utilize Coalition and previously served as director of market mobilization at Rewiring America, an affordable electrification advocacy group. Building new power plants and transmission lines may seem like the obvious solution, but there are other options, says Ian Magruder, founder of Utilize Coalition, a nonprofit based in Washington, D.C. uses only about half of its grid capacity, and a lot more power could be tapped by deploying a spate of newly available technologies.",
-      "signal": "",
-      "estimated_read_minutes": 4,
-      "fetched_at": "2026-06-24T04:45:59.841816+00:00"
-    },
-    {
-      "id": "75cdea7cba5f9c3f",
-      "title": "A breath test could diagnose pneumonia in minutes",
-      "url": "https://www.technologyreview.com/2026/06/23/1138291/a-breath-test-could-diagnose-pneumonia-in-minutes/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-23T21:00:00+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "With a test being developed at MIT, diagnosing pneumonia and other lung conditions could someday be as easy as breathing into a tube. The test, dubbed PlasmoSniff, is a portable, chip-scale sensor that traps and detects biomarkers, synthetic compounds indicating disease. The idea is that a person would first breathe in nanoparticles that are specially designed to attach to these biomarkers, detaching from them only in the presence of specific enzymes that the body produces during an infection.",
-      "signal": "",
-      "estimated_read_minutes": 3,
-      "fetched_at": "2026-06-24T04:45:58.009653+00:00"
-    },
-    {
-      "id": "806476ef09006674",
-      "title": "Plants appear to detect the patter of falling rain",
-      "url": "https://www.technologyreview.com/2026/06/23/1138288/plants-appear-to-detect-the-patter-of-falling-rain/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-23T21:00:00+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "MIT engineers have found the first direct evidence that plant seeds can sense sounds in nature: Rice submerged in shallow water germinated 30% to 40% more quickly when exposed to vibrations from water dripping on the surface. They think other types of seeds may respond similarly. When a raindrop hits a puddle’s surface or the ground, the researchers found, the vibrations from the resulting sound wave can be strong enough to dislodge tiny gravity-sensing organelles called statoliths.",
-      "signal": "",
-      "estimated_read_minutes": 2,
-      "fetched_at": "2026-06-24T04:45:57.430923+00:00"
     }
   ]
 }
