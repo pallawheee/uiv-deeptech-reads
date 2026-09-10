@@ -1,6 +1,132 @@
 {
-  "last_updated": "2026-09-09T04:58:14.898657+00:00",
+  "last_updated": "2026-09-10T05:00:57.445471+00:00",
   "articles": [
+    {
+      "id": "5fe74b08a2bd5d44",
+      "title": "Understanding the thermal ceiling in portable power",
+      "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-09T08:18:13+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Provided byAnker\nPlug a phone into a modern charger and the first 10 minutes are impressive. It’s the connected device protecting itself. As temperature rises during charging, a smartphone's battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces battery capacity.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-09-10T05:00:38.660968+00:00"
+    },
+    {
+      "id": "361603d092d911ac",
+      "title": "Batteries just broke another record in the US",
+      "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-09T09:00:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes.",
+      "signal": "",
+      "estimated_read_minutes": 3,
+      "fetched_at": "2026-09-10T05:00:38.099930+00:00"
+    },
+    {
+      "id": "b641462453db06c3",
+      "title": "The Download: OpenAI’s turning point for math and a battery record",
+      "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-09T12:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Robotics",
+        "Climate",
+        "MedTech"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math\nOpenAI says its agents have solved one of the most important open problems in mathematics. Under normal circumstances, that would be a huge milestone.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-09-10T05:00:37.541387+00:00"
+    },
+    {
+      "id": "797dd0c8d8030cb8",
+      "title": "Shift Key Classic Transcript: What Is a Watt?",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e-67-what-is-a-watt-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-09T09:00:08+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 60,
+      "fetched_at": "2026-09-10T05:00:35.369299+00:00"
+    },
+    {
+      "id": "9cedfd90f4f07517",
+      "title": "Shift Key Classic: What Is a Watt?",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e-67-what-is-a-watt",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-09T09:10:10+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 62,
+      "fetched_at": "2026-09-10T05:00:34.753887+00:00"
+    },
+    {
+      "id": "ed2af9e60155c631",
+      "title": "A Third of U.S. Reservoirs Are Filling with Sediment Instead of Water",
+      "url": "https://heatmap.news/am/us-reservoir-sediment",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-09T11:54:27+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 60,
+      "fetched_at": "2026-09-10T05:00:34.142149+00:00"
+    },
+    {
+      "id": "86a65197477b7af4",
+      "title": "5 Big Questions About the Rest of 2026",
+      "url": "https://heatmap.news/daily/5-big-questions-about-the-rest-of-2026",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-09T22:40:34+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 62,
+      "fetched_at": "2026-09-10T05:00:33.533164+00:00"
+    },
+    {
+      "id": "7e956203c22a45f3",
+      "title": "3 Ideas to Rein in Costs From California’s Wildfires",
+      "url": "https://heatmap.news/adaptation/california-wildfires-utilties",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-10T04:01:03+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-09-10T05:00:32.916808+00:00"
+    },
     {
       "id": "bf826fd4bf3c1499",
       "title": "PM Modi Urges Fintechs To Step Up Cybersecurity, Consumer Protection",
@@ -7659,130 +7785,6 @@
       "signal": "",
       "estimated_read_minutes": 6,
       "fetched_at": "2026-06-26T04:49:01.048504+00:00"
-    },
-    {
-      "id": "b69eaeec57353913",
-      "title": "Red States Are Seeing Some of the Worst Gas Price Hikes",
-      "url": "https://heatmap.news/am/gas-prices-iran",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-25T11:55:07+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 67,
-      "fetched_at": "2026-06-26T04:48:58.600795+00:00"
-    },
-    {
-      "id": "1113f38d2275b932",
-      "title": "How the Slate Truck Got So Cheap",
-      "url": "https://heatmap.news/electric-vehicles/slate-truck-price",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-25T16:42:44+00:00",
-      "sectors": [
-        "Robotics",
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-06-26T04:48:57.890214+00:00"
-    },
-    {
-      "id": "91e58369806e7a03",
-      "title": "Heat Waves, Hot Rods, and Mr. Wonderful",
-      "url": "https://heatmap.news/daily/europe-heat-stratos-slate",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-25T22:57:30+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 21,
-      "fetched_at": "2026-06-26T04:48:57.213273+00:00"
-    },
-    {
-      "id": "5baddf823fff8852",
-      "title": "Home Broadband Is 5G’s Surprise Killer App",
-      "url": "https://spectrum.ieee.org/fixed-wireless-access",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-06-24T10:00:02+00:00",
-      "sectors": [
-        "Robotics"
-      ],
-      "excerpt": "But the surprise plot twist came when replacing home cable internet turned into 5G’s most widely adopted new application. Fixed wireless access (FWA) now serves over 14 million U.S. customers, and contributes 28 percent of worldwide wireless traffic.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-06-25T04:43:28.813944+00:00"
-    },
-    {
-      "id": "0ab3d75690d1def1",
-      "title": "AI Is Designing Radio Chips That Humans Couldn’t Even Imagine",
-      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-06-24T13:00:01+00:00",
-      "sectors": [
-        "Robotics",
-        "Semiconductors",
-        "Quantum Computing"
-      ],
-      "excerpt": "- Princeton researchers use reinforcement learning and inverse design to rapidly create RFICs from scratch. - Diffusion models rapidly generate novel or human-interpretable RF layouts, achieving record performance and drastically reducing design time. - Future progress needs large, shared chip design datasets and open ecosystems so AI can learn universal electromagnetic and circuit behaviors.",
-      "signal": "",
-      "estimated_read_minutes": 21,
-      "fetched_at": "2026-06-25T04:43:28.223563+00:00"
-    },
-    {
-      "id": "0e1d1d35022ec4e2",
-      "title": "How IEEE Awardee Karen Panetta Became Bewitched by Engineering",
-      "url": "https://spectrum.ieee.org/ieee-awardee-karen-panetta",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-06-24T18:00:01+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "The sitcoms’ main characters—Samantha Stevens, a witch; and Jeannie, a genie—were “strong, empowered female leads using magic,” Panetta says, and they inspired her to become an engineer, as it was like sorcery to her. Panetta, an IEEE Fellow, is dean of graduate education at the Tufts University engineering school, in Medford, Mass., outside of Boston. Karen Panetta\nEmployer\nTufts University, in Medford, Mass.",
-      "signal": "",
-      "estimated_read_minutes": 11,
-      "fetched_at": "2026-06-25T04:43:27.388645+00:00"
-    },
-    {
-      "id": "d53f3b365ee4de42",
-      "title": "Sharing a love for calculus",
-      "url": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-23T21:00:00+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI. Whatever your own perspective on that debate, I hope you’ll be glad to know that MIT is also working on a deeply important but comparatively old-fashioned challenge: American high school students’ startlingly uneven access to calculus. According to the National Survey of Science and Mathematics Education, which covers the nation’s more than 13,000 school districts, in almost half of US high schools calculus isn’t even offered.",
-      "signal": "",
-      "estimated_read_minutes": 3,
-      "fetched_at": "2026-06-25T04:43:25.859048+00:00"
-    },
-    {
-      "id": "a304962ed0149faa",
-      "title": "All challenges big and small",
-      "url": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-24T09:00:00+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to no electricity, aside from generator power.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-06-25T04:43:24.932637+00:00"
     }
   ]
 }
