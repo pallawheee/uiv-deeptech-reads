@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-09-10T05:00:57.445471+00:00",
+  "last_updated": "2026-09-11T04:57:45.521887+00:00",
   "articles": [
+    {
+      "id": "fe21ecd742cbf248",
+      "title": "Codeveloper of Ethernet Predecessor Dies at 91",
+      "url": "https://spectrum.ieee.org/codeveloper-of-ethernet-predecessor-dies",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-09-10T20:00:04+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "The system went online in 1971 and represented the first public demonstration of a wireless packet data network. It was an inspiration for Robert Metcalfe’s development of Ethernet a couple of years later. In 2020 ALOHAnet was designated as an IEEE Milestone.",
+      "signal": "",
+      "estimated_read_minutes": 9,
+      "fetched_at": "2026-09-11T04:57:22.261537+00:00"
+    },
+    {
+      "id": "7b78e94d885bee4f",
+      "title": "Healthcare AI’s next test is integration",
+      "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-10T08:58:01+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Provided byEnsemble\nThe entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting complex terminology, comparing documentation against evidence and generating coherent summaries from large volumes of information. For clinicians, operators, and administrative teams who spend significant time searching through fragmented data, these advances are helping reduce cognitive burden and make high-value information easier to access.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-09-11T04:57:21.158023+00:00"
+    },
+    {
+      "id": "1efb32d546200845",
+      "title": "Can the US battery market untangle from China?",
+      "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-10T10:00:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Energy storage is currently booming, largely thanks to cheap Chinese cells. The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-09-11T04:57:20.429296+00:00"
+    },
+    {
+      "id": "8ee5cc2f7cec548a",
+      "title": "This road map could help us decide whether to deploy solar geoengineering",
+      "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-10T11:00:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possibility that we could counteract climate change by releasing reflective particles into the stratosphere, mimicking the cooling effects of volcanic eruptions. But even after at least hundreds of studies on the concept, known as stratospheric aerosol injection (SAI), big gaps remain in the scientific understanding of how well it would work and what else it might do—and there has been no systematic plan for clearing up that uncertainty.",
+      "signal": "",
+      "estimated_read_minutes": 11,
+      "fetched_at": "2026-09-11T04:57:19.805043+00:00"
+    },
+    {
+      "id": "321672b4ff708a9d",
+      "title": "Powering AI is an architecture problem",
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-10T11:00:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Provided byON.energy\nOn July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world's largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No one could anticipate so much uniform load responding to grid faults the same way, at the same time.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-09-11T04:57:19.205527+00:00"
+    },
+    {
+      "id": "022e3eb5160edd0a",
+      "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+      "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-10T12:10:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. According to Eli and his wife, Kaitlyn, He told them to get married, buy a house, and start having kids.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-09-11T04:57:18.586053+00:00"
+    },
+    {
+      "id": "d885a20dc3074d25",
+      "title": "Google Cements Its Place as Nuclear’s Salvager",
+      "url": "https://heatmap.news/am/google-nuclear-fortum",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-10T12:20:24+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 30,
+      "fetched_at": "2026-09-11T04:57:16.474702+00:00"
+    },
+    {
+      "id": "0d27ffdaf873f012",
+      "title": "Why ‘Clean Is Cheap, Cheap Is Clean’ Isn’t Breaking Through",
+      "url": "https://heatmap.news/energy/renewables-cost-convincing",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-10T18:42:45+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 30,
+      "fetched_at": "2026-09-11T04:57:15.861885+00:00"
+    },
+    {
+      "id": "f7d6a5ef8c366368",
+      "title": "Why Saying ‘Climate Crisis’ Falls Flat",
+      "url": "https://heatmap.news/daily/why-saying-climate-crisis-falls-flat",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-10T21:35:47+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 27,
+      "fetched_at": "2026-09-11T04:57:15.237247+00:00"
+    },
     {
       "id": "5fe74b08a2bd5d44",
       "title": "Understanding the thermal ceiling in portable power",
@@ -7643,148 +7783,6 @@
       "signal": "",
       "estimated_read_minutes": 28,
       "fetched_at": "2026-06-27T04:32:39.610116+00:00"
-    },
-    {
-      "id": "34d98a288c527385",
-      "title": "Funding Friday: Beyond Carbon Certification",
-      "url": "https://heatmap.news/climate-tech/isometric-series-a",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-26T18:07:11+00:00",
-      "sectors": [
-        "Robotics",
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 27,
-      "fetched_at": "2026-06-27T04:32:39.005520+00:00"
-    },
-    {
-      "id": "fda496e05433d5a6",
-      "title": "What Solar Developers Can Teach Data Centers About Making Friends at the Local Level",
-      "url": "https://heatmap.news/plus/the-fight/qa/hanson-wood-rwe",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-26T20:06:04+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 12,
-      "fetched_at": "2026-06-27T04:32:38.390569+00:00"
-    },
-    {
-      "id": "33301c16995dcdcf",
-      "title": "Far-Right Wind Foes Call It Quits Against Coastal Virginia",
-      "url": "https://heatmap.news/plus/the-fight/hotspots/coastal-virginia-offshore-wind-lawsuit",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-26T20:12:06+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 12,
-      "fetched_at": "2026-06-27T04:32:37.804000+00:00"
-    },
-    {
-      "id": "6aac6d4a3b279c93",
-      "title": "Data Centers Have a Farmland Problem, Too",
-      "url": "https://heatmap.news/plus/the-fight/spotlight/data-centers-have-a-farmland-problem-too",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-26T20:12:18+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 15,
-      "fetched_at": "2026-06-27T04:32:37.156045+00:00"
-    },
-    {
-      "id": "6960034c69f5d5c7",
-      "title": "6 Facts About Europe and Air Conditioning",
-      "url": "https://heatmap.news/daily/europe-air-conditioning",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-26T22:33:20+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 12,
-      "fetched_at": "2026-06-27T04:32:36.447591+00:00"
-    },
-    {
-      "id": "891ae09767cdafaf",
-      "title": "Why Does a Bank Need a Chief Scientist?",
-      "url": "https://spectrum.ieee.org/capital-one-science-ai-finance-innovation",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-06-25T17:32:32+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "After five years leading natural language understanding and eventually the entire Alexa AI organization at Amazon, Prem Natarajan made a nontraditional move: He became Chief Scientist at a bank. Not just any bank: Capital One, a financial institution serving over 100 million customers, helping everyday Americans manage their financial lives. For Natarajan, a veteran of DARPA-funded research and academia who had watched machine learning evolve from task-specific applications to foundation models, the logic was clear.",
-      "signal": "",
-      "estimated_read_minutes": 8,
-      "fetched_at": "2026-06-26T04:49:03.511983+00:00"
-    },
-    {
-      "id": "9976f622653b5621",
-      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-25T10:00:00+00:00",
-      "sectors": [
-        "AI Infrastructure",
-        "Semiconductors"
-      ],
-      "excerpt": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to come. For more than half a century, chipmakers have been able to make ever more powerful computers by following the key principle of Moore’s Law: Cram more transistors onto the chip.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-06-26T04:49:02.332594+00:00"
-    },
-    {
-      "id": "aaf024d6b477f16f",
-      "title": "What Europe’s heat wave means for the power grid",
-      "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-25T10:00:00+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event about extreme heat. As the summer ramps up and we see this kind of weather sweep around the Northern Hemisphere, I’m always keeping my eye on the power grid.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-06-26T04:49:01.679882+00:00"
-    },
-    {
-      "id": "20bbdf16a8b7f3ef",
-      "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
-      "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-25T12:10:00+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Europe’s extreme heat is shutting down power plants\nEurope is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. But some power plants won’t be online to help handle the load.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-06-26T04:49:01.048504+00:00"
     }
   ]
 }
