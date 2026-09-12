@@ -1,6 +1,163 @@
 {
-  "last_updated": "2026-09-11T04:57:45.521887+00:00",
+  "last_updated": "2026-09-12T04:50:08.340996+00:00",
   "articles": [
+    {
+      "id": "9c58c11785cb1a8c",
+      "title": "Mitti Labs Enters Deal With Google For 1 Mn Carbon Credits",
+      "url": "https://inc42.com/buzz/mitti-labs-enters-deal-with-google-for-1-mn-carbon-credits/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-09-11T16:27:05+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-09-12T04:49:58.508755+00:00"
+    },
+    {
+      "id": "3dc010003e50a9df",
+      "title": "Meet the under-35s shaping the future of biotech",
+      "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-11T09:00:00+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includes nine people who are transforming biotech.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-09-12T04:49:45.833070+00:00"
+    },
+    {
+      "id": "c992676ad12d1a3c",
+      "title": "The Download: biotech’s future and cheaper, cleaner steel",
+      "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-11T12:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Robotics",
+        "Climate",
+        "MedTech"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Meet the under-35s shaping the future of biotech\nEvery year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the brightest and best young minds working across science and technology. This year’s honorees include nine people transforming biotech, whose work spans everything from lifesaving innovations to groundbreaking longevity tech.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-09-12T04:49:45.269782+00:00"
+    },
+    {
+      "id": "70d2b5e1fab497fa",
+      "title": "Roundtables: AI’s apocalypse crisis",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-11T20:05:06+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Employees at the world's leading AI labs are saying there's a real possibility that advanced AI could destroy humanity. Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction fears: where they come from, whether they hold any water, and, if so, what we should do.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-09-12T04:49:44.705617+00:00"
+    },
+    {
+      "id": "be609d31fbd4d557",
+      "title": "Oil Prices Spike After Houthis Blitz",
+      "url": "https://heatmap.news/am/houthis-oil-prices",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-11T12:38:46+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 27,
+      "fetched_at": "2026-09-12T04:49:43.146105+00:00"
+    },
+    {
+      "id": "cd1e3d239830f753",
+      "title": "The Top 5 Midterm Races of the Data Center Backlash",
+      "url": "https://heatmap.news/plus/the-fight/spotlight/data-center-midterms",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-11T19:31:41+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 16,
+      "fetched_at": "2026-09-12T04:49:42.549630+00:00"
+    },
+    {
+      "id": "56ca2dfd3b5cc334",
+      "title": "All the Data Center News That’s Fit to Print",
+      "url": "https://heatmap.news/plus/the-fight/hotspots/arkansas-newspaper-entergy",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-11T19:36:47+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-09-12T04:49:41.964462+00:00"
+    },
+    {
+      "id": "5acd58cbf7e921be",
+      "title": "Why a Climate Law Expert Sees ‘Small Glimmers of Hope’",
+      "url": "https://heatmap.news/plus/the-fight/qa/renewables-restrictions-romany-webb",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-11T19:48:09+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-09-12T04:49:41.363585+00:00"
+    },
+    {
+      "id": "b8bc9c07ab5cd615",
+      "title": "New Englanders Will Pay Through the Nose to Stay Warm This Winter",
+      "url": "https://heatmap.news/energy/new-england-heating-oil",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-11T20:54:14+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-09-12T04:49:40.763676+00:00"
+    },
+    {
+      "id": "9addcc1c3d7c5cf4",
+      "title": "Where Has Construction Automation Been Successful?",
+      "url": "https://www.construction-physics.com/p/where-has-construction-automation",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-09-11T12:04:09+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "Unsurprisingly, there’s long been interest in automating the construction process to reduce the amount of labor required, and therefore the cost of housing. The earliest attempt at automating construction I’m aware of dates to 1853, with a plastering machine invented by Isaac Hussey, and since then there have been numerous other attempts. I wanted to get a better sense of what the arc of construction automation looks like over time: what things had been tried when?",
+      "signal": "",
+      "estimated_read_minutes": 16,
+      "fetched_at": "2026-09-12T04:49:39.986105+00:00"
+    },
     {
       "id": "fe21ecd742cbf248",
       "title": "Codeveloper of Ethernet Predecessor Dies at 91",
@@ -7628,161 +7785,6 @@
       "signal": "",
       "estimated_read_minutes": 6,
       "fetched_at": "2026-06-30T04:42:35.744343+00:00"
-    },
-    {
-      "id": "fc1189db79d8063a",
-      "title": "The Lab Mistake That Might Revolutionize Computing",
-      "url": "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-06-29T13:00:01+00:00",
-      "sectors": [
-        "AI Infrastructure",
-        "Semiconductors"
-      ],
-      "excerpt": "In other words, you probably used artificial intelligence. But what you might not know is how much energy that interaction consumed or why. AI requires processing massive amounts of data, which is usually done in large data centers populated by thousands of GPUs capable of executing up to trillions of operations per second.",
-      "signal": "",
-      "estimated_read_minutes": 14,
-      "fetched_at": "2026-06-30T04:42:35.166445+00:00"
-    },
-    {
-      "id": "04fc822f835a7be3",
-      "title": "The Download: metric weaknesses and AI elephant warnings",
-      "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-29T12:10:00+00:00",
-      "sectors": [
-        "Defence"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. The inevitable weakness of metrics\nThere are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-06-30T04:42:33.966384+00:00"
-    },
-    {
-      "id": "9058bcd27a2443da",
-      "title": "AI agents are not your “coworkers”",
-      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-29T18:00:00+00:00",
-      "sectors": [
-        "AI Infrastructure",
-        "Semiconductors"
-      ],
-      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-06-30T04:42:33.279148+00:00"
-    },
-    {
-      "id": "4e24feeb235ad7d0",
-      "title": "The Other Country Losing Offshore Wind Developers",
-      "url": "https://heatmap.news/am/japan-equinor-wind",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-29T12:19:14+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-06-30T04:42:31.633515+00:00"
-    },
-    {
-      "id": "b7aee26cba6dc3e3",
-      "title": "Thinking Like an Engineer Won’t Fix the Grid",
-      "url": "https://heatmap.news/ideas/ai-grid-problem",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-29T14:34:02+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-06-30T04:42:31.004550+00:00"
-    },
-    {
-      "id": "6c304f9b5a931a1c",
-      "title": "FERC Was Already Losing Its Independence. Now It’s Gone.",
-      "url": "https://heatmap.news/politics/supreme-court-ferc",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-29T21:46:33+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-06-30T04:42:30.419499+00:00"
-    },
-    {
-      "id": "f041a3bbc81bcb6b",
-      "title": "An Alternative Theory of Europe’s AC Problems",
-      "url": "https://heatmap.news/daily/europe-air-conditioning-windows",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-29T21:55:44+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 24,
-      "fetched_at": "2026-06-30T04:42:29.788647+00:00"
-    },
-    {
-      "id": "0ed8d377bbafdcb1",
-      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-      "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-26T09:00:00+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Children and people with mental health disorders are especially vulnerable. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F).",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-06-27T04:32:42.149252+00:00"
-    },
-    {
-      "id": "482be67e10193735",
-      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-      "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-26T12:10:00+00:00",
-      "sectors": [
-        "Climate",
-        "MedTech",
-        "AI Infrastructure"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Scientists are trying to figure out why. —Jessica Hamzelou\nIt’s been hot in London this week.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-06-27T04:32:41.543275+00:00"
-    },
-    {
-      "id": "f959dfd0013a490a",
-      "title": "The U.S. Just Banned Polestar",
-      "url": "https://heatmap.news/am/us-bans-polestar",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-26T12:17:54+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 28,
-      "fetched_at": "2026-06-27T04:32:39.610116+00:00"
     }
   ]
 }
