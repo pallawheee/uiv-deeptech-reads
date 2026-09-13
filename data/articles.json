@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-09-12T04:50:08.340996+00:00",
+  "last_updated": "2026-09-13T05:07:02.124082+00:00",
   "articles": [
+    {
+      "id": "d849300357d6c7ad",
+      "title": "Reading List — 09/12/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-09122026",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-09-12T12:32:46+00:00",
+      "sectors": [
+        "Climate",
+        "Semiconductors"
+      ],
+      "excerpt": "This week we look at city permitting speeds, more efficient ground source heat pump drilling, an Amazon Air crash in Miami, cooling paint, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber. Housing and Cities\nEconomists Evan Soltas and Leonardo D’Amico have a new paper looking at permitting and construction speeds for housing in various cities in the US.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-09-13T05:06:34.477960+00:00"
+    },
     {
       "id": "9c58c11785cb1a8c",
       "title": "Mitti Labs Enters Deal With Google For 1 Mn Carbon Credits",
@@ -7770,21 +7786,6 @@
       "signal": "",
       "estimated_read_minutes": 4,
       "fetched_at": "2026-06-30T04:42:40.571120+00:00"
-    },
-    {
-      "id": "bdb9d08aaa4c89bb",
-      "title": "How the U.S. Engineered Its Sovereignty",
-      "url": "https://spectrum.ieee.org/us-engineered-sovereignty",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-06-29T11:00:02+00:00",
-      "sectors": [
-        "Defence"
-      ],
-      "excerpt": "The image shows a clear moment of change: sail giving way to steam, and with it, a major shift in power. The ship relied on timber, rope, canvas, and Britain’s seafaring towns. The tug depended on coal mines and iron foundries that supplied machine shops in the Midlands.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-06-30T04:42:35.744343+00:00"
     }
   ]
 }
