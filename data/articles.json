@@ -1,6 +1,143 @@
 {
-  "last_updated": "2026-09-15T05:07:32.602298+00:00",
+  "last_updated": "2026-09-16T05:02:48.774487+00:00",
   "articles": [
+    {
+      "id": "410f7d64d571e2d3",
+      "title": "The Mind-bending Joyrides That Gave Rise to Tesla",
+      "url": "https://spectrum.ieee.org/elon-musk-tesla",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-09-15T12:13:58+00:00",
+      "sectors": [
+        "Climate",
+        "Semiconductors"
+      ],
+      "excerpt": "To do that, however, he needed an electric car. So he talked to Alan Cocconi and asked if he could borrow the tZero, the revolutionary and blazingly fast electric roadster that Cocconi had built at AC Propulsion. Eberhard’s idea was to drive the tZero up and down Sand Hill Road in the heart of Silicon Valley and do demonstrations for curious entrepreneurs and VCs.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-09-16T05:02:28.743749+00:00"
+    },
+    {
+      "id": "9f43cb396b8141f5",
+      "title": "The AI Inference Revolution Is Here",
+      "url": "https://spectrum.ieee.org/inference-hardware-revolution",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-09-15T13:00:05+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "Large language models (LLMs) ballooned from millions of parameters to trillions. This proved effective: The largest version of OpenAI’s GPT-3, released in 2020, correctly answered just 43.9 percent of questions on a popular knowledge-and-reasoning benchmark. Just four years later, GPT-4o reached a score of 88.7 percent on the same exam, effectively matching those of human experts.",
+      "signal": "",
+      "estimated_read_minutes": 17,
+      "fetched_at": "2026-09-16T05:02:28.169021+00:00"
+    },
+    {
+      "id": "78db0f3b5384c1fe",
+      "title": "What’s at stake in AI’s trillion-dollar gamble",
+      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-15T10:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Can they make enough money to sustain the infrastructure boom? When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called hyperscalers are investing huge amounts of money to build AI data centers.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-09-16T05:02:27.192992+00:00"
+    },
+    {
+      "id": "a672109cd79bf2ae",
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-15T12:00:00+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She called these documents “biotech’s lost archive” and said they could be used to help train AIs that would act as powerful copilots in the often opaque drug approval process.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-09-16T05:02:26.625486+00:00"
+    },
+    {
+      "id": "1689c67e49a0a24d",
+      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+      "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-15T12:10:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. The AI industry has taken a doomer turn. AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs aren’t safe and everyone needs to figure out what to do about it.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-09-16T05:02:26.031071+00:00"
+    },
+    {
+      "id": "c460cc0ebc3195ab",
+      "title": "Roundtables: Could AI really kill us all?",
+      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-15T17:47:51+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Watch a subscriber-only conversation unpacking AI extinction fears. Listen to the session or watch below\nEmployees at the world's leading AI labs are saying there's a real possibility that advanced AI could destroy humanity. Or is this more scaremongering and hype?",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-09-16T05:02:25.463884+00:00"
+    },
+    {
+      "id": "cb47d9f30ef04917",
+      "title": "Grain Trains Pained by Diesel Strain",
+      "url": "https://heatmap.news/am/grain-diesel-prices",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-15T12:12:49+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-09-16T05:02:23.567809+00:00"
+    },
+    {
+      "id": "e2680590590f7a23",
+      "title": "It’s Electric to Install 700 Curbside EV Chargers in New York City",
+      "url": "https://heatmap.news/electric-vehicles/its-electric-new-york",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-15T13:00:07+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-09-16T05:02:22.968398+00:00"
+    },
+    {
+      "id": "35bef02686d10adb",
+      "title": "A Fantastic New Way to Browse U.S Electricity and Energy Data",
+      "url": "https://heatmap.news/daily/us-energy-data-platfom",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-15T22:36:51+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-09-16T05:02:22.252880+00:00"
+    },
     {
       "id": "13e357d545a212b6",
       "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
@@ -7644,147 +7781,6 @@
       "signal": "",
       "estimated_read_minutes": 25,
       "fetched_at": "2026-07-02T04:38:38.941239+00:00"
-    },
-    {
-      "id": "778a16e81aab39e3",
-      "title": "U.S. Weighs Banning Foreign Inverters",
-      "url": "https://heatmap.news/am/us-inverter-ban",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-01T12:08:45+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 26,
-      "fetched_at": "2026-07-02T04:38:38.267441+00:00"
-    },
-    {
-      "id": "7d92ebac8e6f9090",
-      "title": "Carbon Removal Buyers Are Pumped About Industrial Waste",
-      "url": "https://heatmap.news/carbon-removal/surficial-mineralization",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-01T20:28:36+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 29,
-      "fetched_at": "2026-07-02T04:38:37.579098+00:00"
-    },
-    {
-      "id": "21452cdc7b00ac43",
-      "title": "New Jersey Lawmakers Just Nixed a 2-Year-Old Data Center Tax Credit",
-      "url": "https://heatmap.news/politics/new-jersey-data-center-taxes",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-01T21:20:08+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 26,
-      "fetched_at": "2026-07-02T04:38:36.901799+00:00"
-    },
-    {
-      "id": "e5932fee0d553c0e",
-      "title": "A Progressive Plan to Freeze Electricity Rates Without Starving the Grid",
-      "url": "https://heatmap.news/daily/google-amazon-electricity-rate-freeze",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-01T22:36:21+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 27,
-      "fetched_at": "2026-07-02T04:38:36.207595+00:00"
-    },
-    {
-      "id": "cfb17766d4146a75",
-      "title": "Tata Electronics Data Breach Exposed Apple’s iPhone 18 Pro Supply Chain: Report",
-      "url": "https://inc42.com/buzz/tata-electronics-data-breach-exposed-apples-iphone-18-pro-supply-chain-report/",
-      "source_name": "Inc42",
-      "source_type": "publication",
-      "published_at": "2026-06-30T08:54:44+00:00",
-      "sectors": [
-        "Cybersecurity"
-      ],
-      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
-      "signal": "",
-      "estimated_read_minutes": 1,
-      "fetched_at": "2026-07-01T05:04:33.175142+00:00"
-    },
-    {
-      "id": "85ce2a73b326686b",
-      "title": "Finance Ministry Approves ₹1.25 Lakh Cr Outlay For Semiconductor Mission 2.0",
-      "url": "https://inc42.com/buzz/finance-ministry-approves-%e2%82%b91-25-lakh-cr-outlay-for-semiconductor-mission-2-0/",
-      "source_name": "Inc42",
-      "source_type": "publication",
-      "published_at": "2026-06-30T11:56:01+00:00",
-      "sectors": [
-        "Semiconductors"
-      ],
-      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
-      "signal": "",
-      "estimated_read_minutes": 1,
-      "fetched_at": "2026-07-01T05:04:31.020387+00:00"
-    },
-    {
-      "id": "a107d0aeb9abd179",
-      "title": "Building tech in the world’s secret R&D hub",
-      "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-30T10:23:30+00:00",
-      "sectors": [
-        "AI Infrastructure",
-        "Semiconductors"
-      ],
-      "excerpt": "Few places outside Silicon Valley can claim R&D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however, many of the world's most influential technology companies have established R&D operations in and around Zurich, Switzerland.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-07-01T05:04:11.994746+00:00"
-    },
-    {
-      "id": "33f454e5c47a33f2",
-      "title": "Agriculture is ready for AI, but its data isn’t",
-      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-30T12:00:00+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Provided byReltio\nArtificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork. The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop yield by 26%, reduce water use by 41%, and cut chemical usage by 33%.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-07-01T05:04:11.402278+00:00"
-    },
-    {
-      "id": "91cbc9eae5b29c9d",
-      "title": "The Download: AI “coworkers” and stratospheric internet",
-      "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-06-30T12:10:00+00:00",
-      "sectors": [
-        "Climate",
-        "MedTech",
-        "Semiconductors"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. AI agents are not your “coworkers”\nImagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex, an “employee” with a title and defined responsibilities.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-07-01T05:04:10.799628+00:00"
     }
   ]
 }
