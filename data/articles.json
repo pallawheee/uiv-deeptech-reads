@@ -1,6 +1,184 @@
 {
-  "last_updated": "2026-09-16T05:02:48.774487+00:00",
+  "last_updated": "2026-09-17T05:05:50.887479+00:00",
   "articles": [
+    {
+      "id": "179e7734a40f2008",
+      "title": "Semiconductor Chips Have An Elemental Problem And Discovered Materials Wants It Fixed",
+      "url": "https://inc42.com/startups/semiconductor-chips-have-an-elemental-problem-and-discovered-materials-wants-it-fixed/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-09-16T10:19:54+00:00",
+      "sectors": [
+        "Semiconductors"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-09-17T05:05:50.387154+00:00"
+    },
+    {
+      "id": "23a9a051e1511ade",
+      "title": "3One4 Capital Portfolio Companies Win At The Economic Times Supply Chain Awards 2026",
+      "url": "https://3one4capital.com/blogs/3one4-capital-portfolio-companies-win-at-the-economic-times-supply-chain-awards-2026",
+      "source_name": "3one4 Capital",
+      "source_type": "blog",
+      "published_at": "2026-09-17T05:05:30.492272+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "excerpt": "At 3one4 Capital, our investment conviction remains anchored in backing category creators who combine deep technical innovation with operating discipline. The evolution of global commerce demands a fundamental transformation of physical logistics infrastructure. While software innovation has accelerated front-end consumer experiences, the back-end fulfillment floor, chemical supply network, and cold-chain distribution channels require hard-tech engineering to scale efficiently.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-09-17T05:05:30.492789+00:00"
+    },
+    {
+      "id": "0732e90fcdeaf797",
+      "title": "Rethinking Robot Safety in the Age of AI",
+      "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-09-16T16:51:02+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure",
+        "Cybersecurity"
+      ],
+      "excerpt": "Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker changes what it sees, decides, or does even when nothing appears to have failed? As AI and robotics continue to advance at an unprecedented pace, modern robots perceive through multimodal sensors, interpret context using AI models, and translate those interpretations into physical action.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-09-17T05:05:24.834746+00:00"
+    },
+    {
+      "id": "88d344bab70703ae",
+      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-16T12:10:00+00:00",
+      "sectors": [
+        "MedTech",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble\nWhen Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of uncertainties. So she started with a “remarkable fact” that is not in question: a handful of so-called hyperscalers are investing huge amounts of money to build AI data centers.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-09-17T05:05:23.688736+00:00"
+    },
+    {
+      "id": "aa1ce2752544234d",
+      "title": "Building the materials foundation for AI",
+      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-16T12:47:34+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "In partnership withSyensqo\nThe AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do more at once.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-09-17T05:05:23.047076+00:00"
+    },
+    {
+      "id": "c810fc63fc8a4779",
+      "title": "Transcript: Starting a Giant Online Data Platform Is the Easy Part",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e68-hannah-ritchie-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-16T09:00:09+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 47,
+      "fetched_at": "2026-09-17T05:05:20.432314+00:00"
+    },
+    {
+      "id": "679da5289b5cf2d8",
+      "title": "AI Heavyweights Team Up to Promote Demand Flexibility",
+      "url": "https://heatmap.news/energy/ai-energy-managment-alliance",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-16T09:00:09+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-09-17T05:05:19.734652+00:00"
+    },
+    {
+      "id": "1fa55203c0e5e1a6",
+      "title": "Starting a Giant Online Data Platform Is the Easy Part",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e68-hannah-ritchie",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-16T09:10:08+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-09-17T05:05:19.047572+00:00"
+    },
+    {
+      "id": "4a1fec906013713a",
+      "title": "Trump’s New Data Center Defense: ‘It’s a Hoax’",
+      "url": "https://heatmap.news/am/trump-data-center-hoax",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-16T12:16:06+00:00",
+      "sectors": [
+        "Defence",
+        "Robotics",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 49,
+      "fetched_at": "2026-09-17T05:05:18.349352+00:00"
+    },
+    {
+      "id": "758b823f2b3d3517",
+      "title": "The Fed’s First Rate Hike Since 2023 Is a Problem for Renewables",
+      "url": "https://heatmap.news/sparks/fed-rate-hike-warsh",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-16T20:13:07+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 11,
+      "fetched_at": "2026-09-17T05:05:17.455647+00:00"
+    },
+    {
+      "id": "bde427e2bf913366",
+      "title": "Climate Is Looming Over the AI Existential Risk Conversation",
+      "url": "https://heatmap.news/daily/anthropic-exxon-knew",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-16T21:12:11+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-09-17T05:05:16.764290+00:00"
+    },
     {
       "id": "410f7d64d571e2d3",
       "title": "The Mind-bending Joyrides That Gave Rise to Tesla",
@@ -7610,177 +7788,6 @@
       "signal": "",
       "estimated_read_minutes": 26,
       "fetched_at": "2026-07-03T04:24:41.163576+00:00"
-    },
-    {
-      "id": "36ceb9302b8dbc93",
-      "title": "This Heat Wave Is Just a Test",
-      "url": "https://heatmap.news/adaptation/heat-wave-new-york",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-02T18:38:50+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 21,
-      "fetched_at": "2026-07-03T04:24:40.513461+00:00"
-    },
-    {
-      "id": "0a2d7fc48c5a1d74",
-      "title": "Trump Is Trying to Strangle Money-Saving Standards for Appliances",
-      "url": "https://heatmap.news/energy/trump-energy-efficiency-standards",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-02T19:46:47+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-07-03T04:24:39.677421+00:00"
-    },
-    {
-      "id": "0376edd5686c7035",
-      "title": "Some Decent News for EVs, Finally",
-      "url": "https://heatmap.news/daily/solar-wind-evs",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-02T20:07:45+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 18,
-      "fetched_at": "2026-07-03T04:24:38.855199+00:00"
-    },
-    {
-      "id": "4045da62f378f3e9",
-      "title": "Why Data Center NDAs Are a Big Mistake",
-      "url": "https://heatmap.news/plus/the-fight/qa/grant-gutierrez-carbon-direct-data-centers",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-02T20:23:54+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 13,
-      "fetched_at": "2026-07-03T04:24:38.141954+00:00"
-    },
-    {
-      "id": "efccd27edbbc566d",
-      "title": "Data Centers Are the Election Year Villain",
-      "url": "https://heatmap.news/plus/the-fight/hotspots/data-centers-election-year-villain",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-02T20:29:19+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 13,
-      "fetched_at": "2026-07-03T04:24:37.430644+00:00"
-    },
-    {
-      "id": "576333678906e387",
-      "title": "Trump Taps Nashville Legend to Fight Solar and Wind Farms",
-      "url": "https://heatmap.news/plus/the-fight/spotlight/john-rich-trump-administration-envoy",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-02T21:13:57+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 19,
-      "fetched_at": "2026-07-03T04:24:36.718549+00:00"
-    },
-    {
-      "id": "a5621f709e7d34ef",
-      "title": "The Orbital Data Center Hype Machine Is Already in Orbit",
-      "url": "https://spectrum.ieee.org/orbital-data-center-hype",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-07-01T12:00:01+00:00",
-      "sectors": [
-        "Robotics",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Later that month, SpaceX filed an application with the Federal Communications Commission for an orbital data center constellation of up to 1 million satellites in low Earth orbit, 500 to 2,000 kilometers above Earth. And just three days before the IPO, he discussed some initial design specifications for a new AI-1 satellite data center in a video interview. Musk is prone to hyperbole when it comes to timelines.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-07-02T04:38:43.820884+00:00"
-    },
-    {
-      "id": "02a397e21bbe0fd2",
-      "title": "As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration",
-      "url": "https://spectrum.ieee.org/ai-energy-systems-melbourne",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-07-01T16:01:27+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "As artificial intelligence accelerates global demand for compute, a parallel constraint is emerging with equal urgency: energy. From hyperscale data centers to electrified industries, AI is driving a step change in electricity demand. This is not a future challenge, it is a present, system-level issue requiring coordinated action across energy, infrastructure, and engineering disciplines.",
-      "signal": "",
-      "estimated_read_minutes": 8,
-      "fetched_at": "2026-07-02T04:38:43.220802+00:00"
-    },
-    {
-      "id": "998310298efe60b1",
-      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-01T12:10:00+00:00",
-      "sectors": [
-        "Climate",
-        "MedTech"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Claude Science is Anthropic’s newest flagship product\nAt an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scientific research like Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work from concise, high-level instructions, with tools for computational biology and drug development.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-07-02T04:38:41.926002+00:00"
-    },
-    {
-      "id": "474f7328326cc846",
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-01T14:35:16+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "That's fine for research or coding, but it's a problem if you're looking for something new. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Now type “Another” and you’ll get 3 or 4.",
-      "signal": "",
-      "estimated_read_minutes": 9,
-      "fetched_at": "2026-07-02T04:38:41.300516+00:00"
-    },
-    {
-      "id": "a3151d03ff584f76",
-      "title": "Congress Never Meant to Design This",
-      "url": "https://heatmap.news/daily/supreme-court-ferc",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-06-30T23:00:26+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 25,
-      "fetched_at": "2026-07-02T04:38:38.941239+00:00"
     }
   ]
 }
