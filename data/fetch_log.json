@@ -2,17 +2,6 @@
   {
     "source": "Stellaris",
     "reason": "scrape_index_returned_no_links",
-    "timestamp": "2026-07-18T03:41:16.386710+00:00"
-  },
-  {
-    "url": "https://blume.vc/commentaries/trust-thesis-understanding-the-foundational-building-blocks-of-the-indian-consumer-internet",
-    "source": "Blume Ventures",
-    "reason": "scrape_failed",
-    "timestamp": "2026-07-19T04:02:50.551279+00:00"
-  },
-  {
-    "source": "Stellaris",
-    "reason": "scrape_index_returned_no_links",
     "timestamp": "2026-07-19T04:02:53.689984+00:00"
   },
   {
@@ -534,5 +523,16 @@
     "source": "Stellaris",
     "reason": "scrape_index_returned_no_links",
     "timestamp": "2026-09-18T04:57:51.712525+00:00"
+  },
+  {
+    "url": "https://webinars.on24.com/wileyevents/ResponsibleAI",
+    "source": "IEEE Spectrum",
+    "reason": "scrape_failed",
+    "timestamp": "2026-09-19T04:50:22.780970+00:00"
+  },
+  {
+    "source": "Stellaris",
+    "reason": "scrape_index_returned_no_links",
+    "timestamp": "2026-09-19T04:50:27.325615+00:00"
   }
 ]

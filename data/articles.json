@@ -1,6 +1,164 @@
 {
-  "last_updated": "2026-09-18T04:58:12.029693+00:00",
+  "last_updated": "2026-09-19T04:50:44.485551+00:00",
   "articles": [
+    {
+      "id": "bdb12dc25aa57d95",
+      "title": "Odisha Plans To Set Up A ‘Silicon Valley’ To Woo Semiconductor Companies",
+      "url": "https://inc42.com/buzz/odisha-plans-to-set-up-a-silicon-valley-to-woo-semiconductor-companies/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-09-18T13:55:09+00:00",
+      "sectors": [
+        "Semiconductors"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-09-19T04:50:34.602304+00:00"
+    },
+    {
+      "id": "03b4cec753b93d15",
+      "title": "Turning Tech Talent Into Leadership Legacy",
+      "url": "https://spectrum.ieee.org/tech-talent-into-leadership-legacy",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-09-18T18:00:04+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "It requires moving away from making decisions on your own to mentoring others, making strategic decisions for the organization, and collaborating with coworkers from different generations. The shift in mindset is known as “legacy leadership,” a philosophy whereby success is no longer measured by personal achievements but by how effectively a senior leader empowers others. To help seasoned professionals and senior experts navigate the transition, the inaugural IEEE International Leadership Conference (ILC) will provide attendees practical advice on cultivating collaborations and guiding emerging talent.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-09-19T04:50:21.568738+00:00"
+    },
+    {
+      "id": "a93848d2340a6508",
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-18T09:00:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "MedTech",
+        "AI Infrastructure"
+      ],
+      "excerpt": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario that we need to pace the frontier.”\nThose posts came a few days after the AI researcher Jacob Coxon announced that he was leaving a role at Anthropic, charging that neither it nor OpenAI (where he had also worked) was acting responsibly.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-09-19T04:50:20.528082+00:00"
+    },
+    {
+      "id": "4dda8f85870cc300",
+      "title": "The Download: AI’s extinction risk and bioweapons threat",
+      "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-18T12:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "MedTech",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Your questions, answered\nOn Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could AI really kill us all? But attendees had more questions than we had time to answer, so we asked senior AI editor Will Douglas Heaven and AI reporter Grace Huckins to tackle some of the best ones.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-09-19T04:50:19.860835+00:00"
+    },
+    {
+      "id": "0753bfcfc33d97b5",
+      "title": "Exclusive: Inertia Announces a New Fusion Milestone",
+      "url": "https://heatmap.news/climate-tech/inertia-fusion-energy-gain",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-18T12:00:07+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-09-19T04:50:18.150921+00:00"
+    },
+    {
+      "id": "0fb26aa08aa963cd",
+      "title": "Oil Prices Dip as U.S. Meets with Houthis",
+      "url": "https://heatmap.news/am/oil-trump-houthis",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-18T12:02:17+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-09-19T04:50:17.564405+00:00"
+    },
+    {
+      "id": "caa7fc2605aea4df",
+      "title": "Nuclear Is Cheaper Than We Think It Is",
+      "url": "https://heatmap.news/energy/nuclear-cost-ap1000",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-18T14:42:05+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-09-19T04:50:16.715934+00:00"
+    },
+    {
+      "id": "a4daa85ee9b2d795",
+      "title": "The Bipartisan Buddies With a Plan to Fix Transmission",
+      "url": "https://heatmap.news/politics/evans-peters-transmission",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-18T16:29:36+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-09-19T04:50:16.123878+00:00"
+    },
+    {
+      "id": "2995577b7d0d30ff",
+      "title": "The Case for a Data Center Dividend",
+      "url": "https://heatmap.news/plus/the-fight/qa/bitcoin-policy-institute-data-center-dividend",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-18T21:06:49+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-09-19T04:50:15.531741+00:00"
+    },
+    {
+      "id": "fcff6023d51bf3f4",
+      "title": "A Big Battery Relief in New York",
+      "url": "https://heatmap.news/plus/the-fight/hotspots/east-hampton-new-york-battery-fire",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-18T21:23:21+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-09-19T04:50:14.945427+00:00"
+    },
     {
       "id": "bad599b0f13740f9",
       "title": "Applied Materials Commits $5 Bn To Boost India’s Semiconductor Ecosystem",
@@ -7641,157 +7799,6 @@
       "signal": "",
       "estimated_read_minutes": 5,
       "fetched_at": "2026-07-07T04:31:34.945282+00:00"
-    },
-    {
-      "id": "91756e8258002cc4",
-      "title": "Transcript: The New Paper Arguing Biden’s Power Sector Emissions Cuts Are Largely Intact — Even Under Trump",
-      "url": "https://heatmap.news/podcast/shift-key-s3-e57-ira-emissions-transcript",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-06T09:00:03+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 63,
-      "fetched_at": "2026-07-07T04:31:25.665536+00:00"
-    },
-    {
-      "id": "9918781abb4c9377",
-      "title": "Exclusive: New Report Says Trump Hasn’t Squashed Biden’s Clean Energy Buildout",
-      "url": "https://heatmap.news/energy/clean-energy-buildout-trump",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-06T09:00:03+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 26,
-      "fetched_at": "2026-07-07T04:31:24.834916+00:00"
-    },
-    {
-      "id": "3a82c375afd04c16",
-      "title": "The New Paper Arguing Biden’s Power Sector Emissions Cuts Are Largely Intact — Even Under Trump",
-      "url": "https://heatmap.news/podcast/shift-key-s3-e57-ira-emissions",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-06T09:10:03+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 26,
-      "fetched_at": "2026-07-07T04:31:24.219577+00:00"
-    },
-    {
-      "id": "aaee82f8fa1989e0",
-      "title": "America’s Next Nuclear Plant Hits a ‘Watershed Moment’",
-      "url": "https://heatmap.news/am/holtec-palisades-restart",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-06T12:21:05+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 26,
-      "fetched_at": "2026-07-07T04:31:23.515525+00:00"
-    },
-    {
-      "id": "73c5de0aa1881d11",
-      "title": "Why Biden’s Climate Law Is Stickier Than It Seems",
-      "url": "https://heatmap.news/daily/biden-climate-law",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-06T22:29:55+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 26,
-      "fetched_at": "2026-07-07T04:31:22.664649+00:00"
-    },
-    {
-      "id": "4984a1234f85f282",
-      "title": "Reading List 07/04/26",
-      "url": "https://www.construction-physics.com/p/reading-list-070426",
-      "source_name": "Construction Physics",
-      "source_type": "substack",
-      "published_at": "2026-07-04T12:03:22+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure and industrial technology. This week we look at households without homeowners insurance, crackdowns on AI chip smuggling, Japan’s two electrical frequencies, Meta’s AI compute business, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber!",
-      "signal": "",
-      "estimated_read_minutes": 4,
-      "fetched_at": "2026-07-05T04:38:25.861216+00:00"
-    },
-    {
-      "id": "d0775649b47d7d38",
-      "title": "The Economics Behind Structuring Finance Teams For Your Start Up",
-      "url": "https://3one4capital.com/blogs/the-economics-behind-structuring-finance-teams-for-your-start-up",
-      "source_name": "3one4 Capital",
-      "source_type": "blog",
-      "published_at": "2026-07-04T04:09:51.421545+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Global capital poured into companies that could demonstrate traction, user acquisition, and rapid expansion, even if the underlying business model was far from profitable. Today, global investors are re-orienting their focus toward sustainability, governance, and a credible path to profitability. In this new landscape, finance, a function often overlooked in early-stage companies, has become mission critical.",
-      "signal": "",
-      "estimated_read_minutes": 11,
-      "fetched_at": "2026-07-04T04:09:51.422235+00:00"
-    },
-    {
-      "id": "7bada5fd61c0ded6",
-      "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
-      "url": "https://spectrum.ieee.org/data-centers-grid-instability",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-07-03T12:00:01+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Data centers are projected to consume a growing share of global electricity demand: The International Energy Agency estimates they could account for 3 to 4 percent of total global consumption within this decade. Utilities are already adjusting long-term forecasts to accommodate anticipated growth from hyperscale facilities and high-density compute clusters. The emerging issue is not simply how much power large-scale compute systems consume, but how increasingly dense and synchronized computational workloads are beginning to alter the operating characteristics of the electrical grid itself through increasingly unpredictable demand that varies rapidly in both time and location, creating new operational challenges for grid operators.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-07-04T04:09:44.923859+00:00"
-    },
-    {
-      "id": "c0c0f04167351d73",
-      "title": "IEEE’s Global Museum Brings Engineering History to You",
-      "url": "https://spectrum.ieee.org/ieees-global-museum-engineering-history",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-07-03T18:00:02+00:00",
-      "sectors": [
-        "Semiconductors"
-      ],
-      "excerpt": "To bring these artifacts to the public, the group created the IEEE Global Museum, which curates traveling exhibits for display at conferences and in libraries, universities, and other venues. The program educates people about how technological progress has unfolded over generations, and how engineers and researchers build on past achievements to benefit humanity. Curating the exhibits has been rewarding, says Daniel Jon Mitchell, director of the group’s heritage programs.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-07-04T04:09:44.180568+00:00"
-    },
-    {
-      "id": "47f48d538a4d0155",
-      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-03T12:10:00+00:00",
-      "sectors": [
-        "MedTech"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. The UK’s generational tobacco ban might not work. —Jessica Hamzelou\nAs the parent of two little girls, I often think about how their childhood is different from mine.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-07-04T04:09:42.670579+00:00"
     }
   ]
 }
