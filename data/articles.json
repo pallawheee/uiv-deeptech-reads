@@ -1,6 +1,21 @@
 {
-  "last_updated": "2026-09-19T04:50:44.485551+00:00",
+  "last_updated": "2026-09-20T05:09:04.878502+00:00",
   "articles": [
+    {
+      "id": "8d6d9c452cb2f789",
+      "title": "Reading List 09/19/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-09192026",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-09-19T12:03:09+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "This week we look at AirBnB’s housing accelerator, rising steel prices, a resurgence of US coal power, low-head dams, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber. Housing and Cities\nHalina Bennet on what she’s learned from a year of covering housing for Matt Yglesias’ substack Slow Boring.",
+      "signal": "",
+      "estimated_read_minutes": 3,
+      "fetched_at": "2026-09-20T05:08:42.966260+00:00"
+    },
     {
       "id": "bdb12dc25aa57d95",
       "title": "Odisha Plans To Set Up A ‘Silicon Valley’ To Woo Semiconductor Companies",
@@ -7783,22 +7798,6 @@
       "signal": "",
       "estimated_read_minutes": 6,
       "fetched_at": "2026-07-07T04:31:35.570527+00:00"
-    },
-    {
-      "id": "656d0246c92afc74",
-      "title": "Your family’s $300 stake in OpenAI",
-      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-06T18:00:00+00:00",
-      "sectors": [
-        "Defence",
-        "AI Infrastructure"
-      ],
-      "excerpt": "The proposal may be more revealing as a political narrative than as a policy plan. This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-07-07T04:31:34.945282+00:00"
     }
   ]
 }
