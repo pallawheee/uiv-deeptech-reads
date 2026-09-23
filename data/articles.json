@@ -1,6 +1,148 @@
 {
-  "last_updated": "2026-09-22T05:13:50.941230+00:00",
+  "last_updated": "2026-09-23T04:58:27.939073+00:00",
   "articles": [
+    {
+      "id": "6b5570a9e8149a27",
+      "title": "Sol Foundry Raises $4 Mn To Automate Email Commitments With AI",
+      "url": "https://inc42.com/buzz/sol-foundry-raises-4-mn-to-automate-email-commitments-with-ai/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-09-22T15:00:53+00:00",
+      "sectors": [
+        "Semiconductors"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-09-23T04:58:17.358977+00:00"
+    },
+    {
+      "id": "1b36850f9db76c2c",
+      "title": "Barbara Mazzolai Wants to Build a New Field of Robotics",
+      "url": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-09-22T14:00:04+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate"
+      ],
+      "excerpt": "Now she wants to ensure the technology she builds gives back to the environment, too. After starting her career as a biologist, a chance opportunity saw Mazzolai switch streams to engineering and become an early pioneer of bioinspired robotics. Building on her knowledge of biology’s ability to solve a diverse set of problems, she has developed robots based on octopuses, plant roots, and even seeds.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-09-23T04:58:05.996750+00:00"
+    },
+    {
+      "id": "5abcd11803083fe3",
+      "title": "Don’t be fooled by this summer of AI hype",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-22T11:04:51+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Cybersecurity"
+      ],
+      "excerpt": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-09-23T04:58:04.391797+00:00"
+    },
+    {
+      "id": "dfaf1de1a7331691",
+      "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+      "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-22T12:10:00+00:00",
+      "sectors": [
+        "MedTech",
+        "AI Infrastructure",
+        "Cybersecurity"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Don’t be fooled by this summer of AI hype\n—Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of linguistics at the University of Washington\nIt’s been a busy few months for AI hype, with companies making breathless claims about hacking, mathematical breakthroughs, and the prospect of self-improving superintelligence.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-09-23T04:58:03.785299+00:00"
+    },
+    {
+      "id": "bae54219cda11cde",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-22T13:42:05+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Available only for MIT Technology Review subscribers. The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers without being reached or apprehended, and who ultimately died there.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-09-23T04:58:03.149282+00:00"
+    },
+    {
+      "id": "dc91e0d2194c511d",
+      "title": "Record-High Diesel Prices Are Becoming a Political Emergency for Trump",
+      "url": "https://heatmap.news/am/diesel-prices-el-nino",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-22T12:17:56+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-09-23T04:58:01.102413+00:00"
+    },
+    {
+      "id": "a7c8d90012161ad2",
+      "title": "The Next Frontier of Attribution Science Has Arrived",
+      "url": "https://heatmap.news/climate/europe-heat-paris-agreement",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-22T13:00:07+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-09-23T04:58:00.445402+00:00"
+    },
+    {
+      "id": "260111a8e220a419",
+      "title": "The Future Climate Benefits of AI Are Worth the Risks",
+      "url": "https://heatmap.news/ideas/ai-climate-benefits",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-22T16:31:06+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-09-23T04:57:59.795433+00:00"
+    },
+    {
+      "id": "9bd61c2f5414bae2",
+      "title": "What’s a Utility to Do When Everyone Is Mad at Them?",
+      "url": "https://heatmap.news/daily/exelon-permitting-reform",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-22T21:17:17+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-09-23T04:57:59.187734+00:00"
+    },
     {
       "id": "9e2fe5bb45456928",
       "title": "Indias Defence Procurement Is Creating Sovereign Capabilities Every Government Buyer Must Now Follow",
@@ -7656,145 +7798,6 @@
       "signal": "",
       "estimated_read_minutes": 6,
       "fetched_at": "2026-07-09T04:28:59.409486+00:00"
-    },
-    {
-      "id": "6065cdfde6ae9962",
-      "title": "EmTech AI 2026: The Rise of the AI Platform",
-      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-08T16:26:10+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "Keep Reading\nMost Popular\nA startup claims it broke through a bottleneck that’s holding back LLMs\nSubquadratic has now shared more details about its new model. China has approved the world’s first invasive brain-computer chip—here’s what’s next\nThe country wants to become a global leader in brain implants. Strong government support is expected to help accelerate that process.",
-      "signal": "",
-      "estimated_read_minutes": 1,
-      "fetched_at": "2026-07-09T04:28:58.848067+00:00"
-    },
-    {
-      "id": "e5a8466c3f709024",
-      "title": "Rivian’s Stock Is Down, But It’s Kind of a Good Thing?",
-      "url": "https://heatmap.news/daily/rivian-georgia-factory",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-07T22:01:21+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 26,
-      "fetched_at": "2026-07-09T04:28:57.277308+00:00"
-    },
-    {
-      "id": "0d47e4ff2505659f",
-      "title": "Europe’s Heat Wave Killed People by the Thousands",
-      "url": "https://heatmap.news/am/europe-heat-deaths",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-08T11:56:19+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 27,
-      "fetched_at": "2026-07-09T04:28:56.566121+00:00"
-    },
-    {
-      "id": "59bef696cfaaf79c",
-      "title": "Electric Vehicles Are a Defense Technology",
-      "url": "https://heatmap.news/ideas/ev-batteries-national-security",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-08T19:07:04+00:00",
-      "sectors": [
-        "Defence",
-        "Climate",
-        "AI Infrastructure",
-        "Semiconductors"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 29,
-      "fetched_at": "2026-07-09T04:28:55.930327+00:00"
-    },
-    {
-      "id": "fa4b32565f7c450e",
-      "title": "Why the Hottest Summer Days Also Have Dirtier Air",
-      "url": "https://heatmap.news/adaptation/peaker-air-pollution",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-08T21:08:09+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 30,
-      "fetched_at": "2026-07-09T04:28:55.117789+00:00"
-    },
-    {
-      "id": "46ac13e1e1b86789",
-      "title": "Trump Isn’t ‘Looking for Long Term’ in Iran",
-      "url": "https://heatmap.news/daily/trump-iran-bombing",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-08T22:44:04+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 31,
-      "fetched_at": "2026-07-09T04:28:54.482816+00:00"
-    },
-    {
-      "id": "7b3518dda8bced8e",
-      "title": "Better Climate Investments Through Capital Allocation",
-      "url": "https://heatmap.news/climate/transition-acceleration-framework",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-09T04:01:01+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 28,
-      "fetched_at": "2026-07-09T04:28:53.715965+00:00"
-    },
-    {
-      "id": "3d45c2cf0e6b8dad",
-      "title": "Robotics Startup Mowito Raises $3 Mn To Expand US Presence",
-      "url": "https://inc42.com/buzz/robotics-startup-mowito-raises-3-mn-to-expand-us-presence/",
-      "source_name": "Inc42",
-      "source_type": "publication",
-      "published_at": "2026-07-07T10:59:08+00:00",
-      "sectors": [
-        "Robotics"
-      ],
-      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
-      "signal": "",
-      "estimated_read_minutes": 1,
-      "fetched_at": "2026-07-08T03:53:31.593224+00:00"
-    },
-    {
-      "id": "681d9dea60dd4421",
-      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
-      "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-07T10:00:00+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squirming red earthworms. There are likely hundreds of thousands more wriggling just under the surface of the three-foot mound of wood and crushed river rock before us, which stretches across the equivalent of six football fields.",
-      "signal": "",
-      "estimated_read_minutes": 21,
-      "fetched_at": "2026-07-08T03:53:08.497079+00:00"
     }
   ]
 }
