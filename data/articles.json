@@ -1,6 +1,172 @@
 {
-  "last_updated": "2026-09-23T04:58:27.939073+00:00",
+  "last_updated": "2026-09-24T05:08:48.136873+00:00",
   "articles": [
+    {
+      "id": "28f1d4284b374828",
+      "title": "The AI Hype Index: AI loves cheating",
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-23T09:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Cybersecurity"
+      ],
+      "excerpt": "OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-09-24T05:08:22.142808+00:00"
+    },
+    {
+      "id": "4076149ed37bb27b",
+      "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+      "url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-23T12:10:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Smart glasses are already causing havoc in India\nWhen Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had recorded them surreptitiously. The mocking reel drew millions of views, along with transphobic abuse and AI-generated memes.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-09-24T05:08:21.563613+00:00"
+    },
+    {
+      "id": "9f31100e2816829f",
+      "title": "A congressional representative just proposed killing America’s border tower program",
+      "url": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-23T17:10:11+00:00",
+      "sectors": [
+        "Cybersecurity"
+      ],
+      "excerpt": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border. The announcement comes just days after publication of an MIT Technology Review investigation, “Dying on Camera,” in which we looked at deaths along the border that took place close to one or more of these towers. MIT Technology Review found that nearly one in four deaths we analyzed between 2015 and early 2026 occurred within their advertised range.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-09-24T05:08:20.940661+00:00"
+    },
+    {
+      "id": "8b7f1b3d8e77463d",
+      "title": "Transcript: What Does The Nuclear Company Do?",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e69-the-nuclear-company-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-23T09:00:07+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 65,
+      "fetched_at": "2026-09-24T05:08:18.811389+00:00"
+    },
+    {
+      "id": "cd851bcd05a75472",
+      "title": "What Does The Nuclear Company Do?",
+      "url": "https://heatmap.news/podcast/shift-key-s3-e69-the-nuclear-company",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-23T09:10:07+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 65,
+      "fetched_at": "2026-09-24T05:08:18.192959+00:00"
+    },
+    {
+      "id": "12eeb0f034257807",
+      "title": "It’s Heatmap House at New York Climate Week",
+      "url": "https://heatmap.news/am/heatmap-house-2026",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-23T12:55:50+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 65,
+      "fetched_at": "2026-09-24T05:08:17.498103+00:00"
+    },
+    {
+      "id": "fc9ba164c5dfe5dc",
+      "title": "Al Gore Is Still an Optimist",
+      "url": "https://heatmap.news/climate/al-gore-optimism",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-23T16:46:04+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-09-24T05:08:16.869257+00:00"
+    },
+    {
+      "id": "8226d70d5b170d33",
+      "title": "Chris Wright Doesn’t Think We’ll Have a Diesel Export Ban",
+      "url": "https://heatmap.news/energy/chris-wright-diesel",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-23T18:19:28+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 17,
+      "fetched_at": "2026-09-24T05:08:16.245396+00:00"
+    },
+    {
+      "id": "68496af338984c46",
+      "title": "The Climate Case for EVs Goes Deeper Than You Think",
+      "url": "https://heatmap.news/electric-vehicles/ev-climate-benefits",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-23T19:48:14+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-09-24T05:08:15.621597+00:00"
+    },
+    {
+      "id": "122c6ed8e0d86dbc",
+      "title": "The Fusion Industry Needs $10 Billion to Beat China",
+      "url": "https://heatmap.news/climate-tech/fusion-china",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-23T22:36:47+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 13,
+      "fetched_at": "2026-09-24T05:08:15.040190+00:00"
+    },
+    {
+      "id": "ed5020ce915af772",
+      "title": "Everything That Happened at Heatmap House",
+      "url": "https://heatmap.news/climate/heatmap-house-2026",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-23T22:59:44+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 17,
+      "fetched_at": "2026-09-24T05:08:14.136833+00:00"
+    },
     {
       "id": "6b5570a9e8149a27",
       "title": "Sol Foundry Raises $4 Mn To Automate Email Commitments With AI",
@@ -7627,177 +7793,6 @@
       "signal": "",
       "estimated_read_minutes": 5,
       "fetched_at": "2026-07-10T04:31:45.325908+00:00"
-    },
-    {
-      "id": "c5eec3a9829875a7",
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-09T20:22:28+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or J-lens) and used it to uncover a hidden area, which they named the J-space, inside Claude Opus 4.6, a version of Anthropic’s flagship LLM released in February. The J-space contains individual words that are related to the words and phrases that the model is most likely to spit out in a response in the near future.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-07-10T04:31:44.714399+00:00"
-    },
-    {
-      "id": "9f6005a23573d941",
-      "title": "Global Nuclear Capacity Set for a 44% Jump by 2036",
-      "url": "https://heatmap.news/am/global-nuclear-2036",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-09T11:52:17+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 29,
-      "fetched_at": "2026-07-10T04:31:41.606182+00:00"
-    },
-    {
-      "id": "7d04fc3df1713231",
-      "title": "The Satellites Hunting Wildfires in Real Time",
-      "url": "https://heatmap.news/climate-tech/firesat-realtime-fire-satellites",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-09T18:01:31+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 22,
-      "fetched_at": "2026-07-10T04:31:40.718325+00:00"
-    },
-    {
-      "id": "3d734c251e75a737",
-      "title": "Fervo Is Drilling Wells Deeper, Faster, and Hotter",
-      "url": "https://heatmap.news/sparks/fervo-sawtooth-7",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-09T18:28:54+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 11,
-      "fetched_at": "2026-07-10T04:31:40.012729+00:00"
-    },
-    {
-      "id": "9e7cb984b478bacb",
-      "title": "How Big of a Problem Is Data Center Noise?",
-      "url": "https://heatmap.news/plus/the-fight/qa/data-center-noise-taxpayers-protection-alliance",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-09T20:14:29+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 23,
-      "fetched_at": "2026-07-10T04:31:39.320590+00:00"
-    },
-    {
-      "id": "22b7cb1d392ca0ef",
-      "title": "Meta’s Bacterial Mystery Could Poison the Data Center Well",
-      "url": "https://heatmap.news/plus/the-fight/spotlight/data-center-bacteria-meta",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-09T20:16:58+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 23,
-      "fetched_at": "2026-07-10T04:31:38.608515+00:00"
-    },
-    {
-      "id": "dd50f7199bde3dcb",
-      "title": "Microsoft’s Climate Pollution Surged 25% Last Year",
-      "url": "https://heatmap.news/daily/microsoft-emissions-report",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-09T23:00:57+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-07-10T04:31:37.970900+00:00"
-    },
-    {
-      "id": "6003175beca302c5",
-      "title": "Ways to think about token pricing",
-      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
-      "source_name": "Benedict Evans",
-      "source_type": "blog",
-      "published_at": "2026-07-09T14:15:51+00:00",
-      "sectors": [
-        "AI Infrastructure",
-        "Semiconductors"
-      ],
-      "excerpt": "All of the variables are in play, and the market will get shaken out over the next few years to arrive at a new equilibrium. Right now we have a lot of frantic analysis of ‘time to power’, but the question at the end of that remains whether the foundation models have sustainable pricing power, strategic leverage and value capture, or whether they become low-margin commodity infrastructure providers. At the moment, I think every dynamic we can see points to the latter.",
-      "signal": "",
-      "estimated_read_minutes": 13,
-      "fetched_at": "2026-07-10T04:31:34.387411+00:00"
-    },
-    {
-      "id": "d1b9b52ee354a645",
-      "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
-      "url": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-07-07T19:02:42+00:00",
-      "sectors": [
-        "Robotics"
-      ],
-      "excerpt": "He is considered to be one of the most prolific scholars in robotics, writing more than 2,000 research papers and authoring several books on the field. He’s an influential figure thanks to his pioneering work developing biomedical robotic systems, industrial robots, micro-nano robotics, mechatronics, and AI-driven automation. Fukuda launched one of the first robotics conferences, the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
-      "signal": "",
-      "estimated_read_minutes": 10,
-      "fetched_at": "2026-07-09T04:29:01.079998+00:00"
-    },
-    {
-      "id": "9db6713be77a9b4f",
-      "title": "Inside the Race to Electrify Semi Trailers for Long Haul Freight",
-      "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-07-08T17:58:34+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "The self-powered trailer was handed over to German transport operator Sommer for use in its working fleet. The Nivalis Powered Trailer Kit centers on an electric axle co-developed with Wiehl, Germany–based running gear specialist BPW, rated at 50 kilowatts peak, capable of both propulsion assistance and regenerative braking. That axle draws on a 60-kilowatt-hour, 400-volt lithium-ion battery pack charged from three sources: the axle itself during braking and deceleration, a full-rooftop array of photovoltaic panels generating up to 3.7 kilowatts-peak, and a 32-amp, three-phase AC grid connection available during parking stops.",
-      "signal": "",
-      "estimated_read_minutes": 9,
-      "fetched_at": "2026-07-09T04:29:00.463735+00:00"
-    },
-    {
-      "id": "5b99821b61753466",
-      "title": "The Download: worms fight pollution, and geoengineering faces reality",
-      "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-08T12:10:00+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution\nAnthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips to reveal a half-dozen squirming red earthworms. There are likely hundreds of thousands more wriggling just under the surface.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-07-09T04:28:59.409486+00:00"
     }
   ]
 }
