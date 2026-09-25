@@ -1,6 +1,129 @@
 {
-  "last_updated": "2026-09-24T05:08:48.136873+00:00",
+  "last_updated": "2026-09-25T05:10:44.125634+00:00",
   "articles": [
+    {
+      "id": "5d9174a2a1413855",
+      "title": "Measure Distant Asteroids With a DIY Rig",
+      "url": "https://spectrum.ieee.org/asteroid-shadow",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-09-24T13:00:04+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "But recently I’ve become even more intrigued by a similar phenomenon that doesn’t involve the sun or the moon—something called an asteroid occultation. That’s what happens when an asteroid orbits around the solar system and blocks the light of a distant star you’re viewing from Earth. Like the moon during a solar eclipse, the asteroid casts a predictable moving shadow on a swath of Earth’s surface—a small silhouette in the dim light bathing us from that one star.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-09-25T05:10:15.919752+00:00"
+    },
+    {
+      "id": "3bc6e144c4e139e0",
+      "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
+      "url": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-09-24T18:00:04+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "The resources shortfall limits the students’ opportunities for hands-on learning on cutting-edge applications. A team from ITESO, Universidad Jesuita de Guadalajara, is working to change that. Through the EPICS in IEEE initiative, a multidisciplinary group of 15 engineering students, faculty advisors, and IEEE Guadalajara Section volunteers developed RoboMeshA.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-09-25T05:10:15.294298+00:00"
+    },
+    {
+      "id": "a7b74187f674b93d",
+      "title": "AI is dominating the conversation at Climate Week",
+      "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-24T10:00:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-09-25T05:10:13.903779+00:00"
+    },
+    {
+      "id": "6aa4503b1ddc911c",
+      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+      "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-24T12:10:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. A congressional representative just proposed killing America’s border tower program\nDelia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along the country’s southern border. The announcement comes just days after publication of an MIT Technology Review investigation, “Dying on Camera,” which looked at deaths near these towers.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-09-25T05:10:13.283195+00:00"
+    },
+    {
+      "id": "099651b5f1ada71c",
+      "title": "Chris Wright Says White House ‘Open to Any Ideas’ on Diesel",
+      "url": "https://heatmap.news/am/wright-gore",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-24T13:12:49+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-09-25T05:10:11.194455+00:00"
+    },
+    {
+      "id": "cdfc400aa372a1ac",
+      "title": "The Energy Trust Gap Is Crashing Our Grid",
+      "url": "https://heatmap.news/ideas/energy-trust-gap",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-24T17:17:35+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-09-25T05:10:10.567672+00:00"
+    },
+    {
+      "id": "cee23f14f8b7cb06",
+      "title": "House Science Leaders Introduce a $10 Billion Fusion Bill",
+      "url": "https://heatmap.news/energy/fusion-bill-obernolte-lofgren",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-24T20:06:35+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-09-25T05:10:09.963102+00:00"
+    },
+    {
+      "id": "62bab052ba985c00",
+      "title": "How AI Split Climate Tech in Two",
+      "url": "https://heatmap.news/daily/ai-climate-tech",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-24T21:51:35+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-09-25T05:10:09.020241+00:00"
+    },
     {
       "id": "28f1d4284b374828",
       "title": "The AI Hype Index: AI loves cheating",
@@ -7668,131 +7791,6 @@
       "signal": "",
       "estimated_read_minutes": 5,
       "fetched_at": "2026-07-11T03:50:31.504718+00:00"
-    },
-    {
-      "id": "fff53a62bc77c5e9",
-      "title": "PJM Just Shattered Its Peak Demand Record",
-      "url": "https://heatmap.news/am/pjm-record-demand",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-10T11:53:05+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 24,
-      "fetched_at": "2026-07-11T03:50:29.981315+00:00"
-    },
-    {
-      "id": "7f412573c0d165d5",
-      "title": "Virginians Are Getting an Electricity Price Doubly-Whammy",
-      "url": "https://heatmap.news/sparks/virginia-dominion-electricity-price",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-10T17:35:15+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 11,
-      "fetched_at": "2026-07-11T03:50:29.391718+00:00"
-    },
-    {
-      "id": "f983b20cbb857c55",
-      "title": "New York City’s Climate Progress Has Hit a Wall",
-      "url": "https://heatmap.news/energy/new-york-july-4-heat-wave",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-10T18:45:10+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 23,
-      "fetched_at": "2026-07-11T03:50:28.775728+00:00"
-    },
-    {
-      "id": "4202ac4577788438",
-      "title": "Electricity Isn’t the Only Driver of Big Tech’s Surging Emissions",
-      "url": "https://heatmap.news/daily/google-amazon-microsoft-2026-data",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-10T23:42:55+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 26,
-      "fetched_at": "2026-07-11T03:50:28.146190+00:00"
-    },
-    {
-      "id": "c907e6bdf9673f22",
-      "title": "Weekly Dose of Optimism #201",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-201",
-      "source_name": "Not Boring",
-      "source_type": "substack",
-      "published_at": "2026-07-10T12:56:10+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "We’re jam packed again, and you don’t come here for the intro, so…\nLet’s get to it. Today’s Weekly Dose is brought to you by… Mercury\nMost founders understand their finances in spreadsheets, and that’s a problem. But to actually use it — check your cash position, reconcile transactions, understand your burn — you export it, paste it somewhere else, and do the work outside your account.",
-      "signal": "",
-      "estimated_read_minutes": 8,
-      "fetched_at": "2026-07-11T03:50:26.147566+00:00"
-    },
-    {
-      "id": "e754ff0110a65cdc",
-      "title": "The Rebirth of High Frequency",
-      "url": "https://content.knowledgehub.wiley.com/the-rebirth-of-high-frequency/",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-07-09T10:00:03+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "This white paper gives communications engineers and defense planners a thorough grounding in HF skywave propagation, the forces driving HF’s strategic resurgence, and the modern technologies — wideband waveforms and automatic link establishment — that are making HF a viable complement to satellite communications. What you will learn about:\n- How signals in the 3–30 MHz range propagate globally via ionospheric refraction, including the distinct roles of the D, E, and F layers, and how time of day, season, and the roughly 11-year solar cycle shape propagation conditions. - Why satellites, despite superior throughput and ease of use, carry significant vulnerabilities — from anti-satellite weapons and jamming to solar storms and incomplete polar coverage — that have renewed demand for an independent global communications layer.",
-      "signal": "",
-      "estimated_read_minutes": 2,
-      "fetched_at": "2026-07-10T04:31:48.423906+00:00"
-    },
-    {
-      "id": "e0c66a14832f3c53",
-      "title": "Four nuclear reactors hit a big milestone in the US",
-      "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-09T08:00:00+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can sustain a chain reaction, by the nation’s 250th birthday.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-07-10T04:31:45.951385+00:00"
-    },
-    {
-      "id": "50a84fa6b2f3eb33",
-      "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
-      "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-09T12:10:00+00:00",
-      "sectors": [
-        "Defence",
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Four nuclear reactors hit a big milestone in the US\n—Casey Crownhart\nI was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-07-10T04:31:45.325908+00:00"
     }
   ]
 }
