@@ -1,6 +1,175 @@
 {
-  "last_updated": "2026-09-25T05:10:44.125634+00:00",
+  "last_updated": "2026-09-26T05:16:25.293205+00:00",
   "articles": [
+    {
+      "id": "bc8358dd4329aa49",
+      "title": "Young organs may not be a fountain of youth for recipients",
+      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-25T09:00:00+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of biotechnology, human organs can be continuously transplanted, and people can live younger and younger, and even achieve immortality,” Russia’s Vladimir Putin reportedly told China’s Xi Jinping.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-09-26T05:16:03.380623+00:00"
+    },
+    {
+      "id": "c2d047e87e05c592",
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-25T09:16:25+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "Experts say AI-enabled lie detection is “the worst of both worlds.”\nThe US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which refers to the ability to take physiological readings without attaching a device to a subject’s person. According to details of the budget document, which were first reported by Inside Defense, the project will “modernize federal polygraph and credibility assessment technologies” to improve their accuracy and reliability.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-09-26T05:16:02.647432+00:00"
+    },
+    {
+      "id": "a3747e3b7a3a28cc",
+      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+      "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-25T12:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "MedTech"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector\nThe US government wants to spend $30.3 million over the next five years on an improved lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next,” will focus on scoring algorithms that use AI and machine learning, as well as a technique called “standoff sensing,” which can take physiological readings from a person without attaching a device to them.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-09-26T05:16:01.905673+00:00"
+    },
+    {
+      "id": "a267f503f23ff803",
+      "title": "Permitting Reform Talks Trail Off",
+      "url": "https://heatmap.news/am/permitting-reform-stumble",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-25T11:41:03+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 22,
+      "fetched_at": "2026-09-26T05:15:59.390223+00:00"
+    },
+    {
+      "id": "ceb3eac002c80e1d",
+      "title": "Pro-Renewables Super PAC Paying ‘Close Attention’ to Tom Tiffany",
+      "url": "https://heatmap.news/plus/the-fight/qa/investing-in-tomorrow-coalition-tom-tiffany",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-25T14:24:09+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 12,
+      "fetched_at": "2026-09-26T05:15:58.747595+00:00"
+    },
+    {
+      "id": "90b113d9b18c0d9b",
+      "title": "Another Solar Company Trying Gas-Powered Data Center on Federal Lands",
+      "url": "https://heatmap.news/plus/the-fight/hotspots/arevia-idaho-solar-data-center",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-25T14:27:51+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 12,
+      "fetched_at": "2026-09-26T05:15:58.121427+00:00"
+    },
+    {
+      "id": "036b7a68222592a3",
+      "title": "Offshore Wind’s Existential Crisis at Climate Week",
+      "url": "https://heatmap.news/plus/the-fight/spotlight/offshore-wind-permitting-reform",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-25T15:14:38+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 12,
+      "fetched_at": "2026-09-26T05:15:57.525812+00:00"
+    },
+    {
+      "id": "4ccf30bceb3c7d12",
+      "title": "Transcript: Energy Secretary Chris Wright on Trump’s Pro-Nuclear, Pro-Fossil Fuel Agenda",
+      "url": "https://heatmap.news/podcast/shift-key-152-chris-wright-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-25T18:17:25+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 39,
+      "fetched_at": "2026-09-26T05:15:56.906259+00:00"
+    },
+    {
+      "id": "748508c8b186c35e",
+      "title": "Energy Secretary Chris Wright on Trump’s Pro-Nuclear, Pro-Fossil Fuel Agenda",
+      "url": "https://heatmap.news/podcast/shift-key-152-chris-wright",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-25T18:18:12+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 43,
+      "fetched_at": "2026-09-26T05:15:56.198729+00:00"
+    },
+    {
+      "id": "9aec3c298146a052",
+      "title": "The Wright Interview and Permitting’s Peril",
+      "url": "https://heatmap.news/daily/wright-recording-permitting",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-25T21:57:21+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 43,
+      "fetched_at": "2026-09-26T05:15:55.561322+00:00"
+    },
+    {
+      "id": "33a4d4f9b699dd15",
+      "title": "Weekly Dose of Optimism #212",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-212",
+      "source_name": "Not Boring",
+      "source_type": "substack",
+      "published_at": "2026-09-25T12:36:02+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "Feedback on Would We Send Our Kids to HAA?, which I wrote with Alex Danco, has been great - as one person said, if you have kids, want to have kids, or know someone who has kids, you should read it. While we were busy writing, the world’s entrepreneurs and scientists were busy making the world a little bit better. This Week’s Weekly Dose is Brought to you by… Jack & Jill\nOne hire can change your company.",
+      "signal": "",
+      "estimated_read_minutes": 9,
+      "fetched_at": "2026-09-26T05:15:53.222217+00:00"
+    },
     {
       "id": "5d9174a2a1413855",
       "title": "Measure Distant Asteroids With a DIY Rig",
@@ -7621,176 +7790,6 @@
       "signal": "",
       "estimated_read_minutes": 16,
       "fetched_at": "2026-07-14T03:43:50.555116+00:00"
-    },
-    {
-      "id": "4de546f30f612709",
-      "title": "Panasonic’s PV-460 Camcorder Stabilized Shaky Videos",
-      "url": "https://spectrum.ieee.org/panasonic-camcorder-ieee-milstone",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-07-13T18:00:02+00:00",
-      "sectors": [
-        "MedTech"
-      ],
-      "excerpt": "Camcorders combined a camera with a video recorder. They included a rechargeable battery, a slot for a videotape, and a shoulder strap. Most were outfitted with an optical zoom lens and a small, articulating screen—a display mounted on a hinge that could tilt and rotate.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-07-14T03:43:49.842611+00:00"
-    },
-    {
-      "id": "bf0389e8fc991442",
-      "title": "The Download: a donor conception cap and world models for AI",
-      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-13T12:10:00+00:00",
-      "sectors": [
-        "Robotics",
-        "MedTech",
-        "AI Infrastructure"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Sperm donors need limits, says a European fertility group\nTies van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm from an anonymous donor.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-07-14T03:43:48.763058+00:00"
-    },
-    {
-      "id": "083560c542d97e23",
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-13T18:00:00+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "We spoke with senior editor Will Douglas Heaven about it. This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-07-14T03:43:48.168004+00:00"
-    },
-    {
-      "id": "76fb7639d10b7ae2",
-      "title": "Trump Poised to Shrink Two National Monuments in Utah",
-      "url": "https://heatmap.news/am/trump-national-monuments",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-13T11:54:42+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 24,
-      "fetched_at": "2026-07-14T03:43:45.911640+00:00"
-    },
-    {
-      "id": "9bc2e532b961b543",
-      "title": "Could More Aspens Have Stopped the Aspen Acres Fire?",
-      "url": "https://heatmap.news/adaptation/aspen-acres-fire",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-13T15:52:52+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 26,
-      "fetched_at": "2026-07-14T03:43:45.277638+00:00"
-    },
-    {
-      "id": "c8446e53d97ea926",
-      "title": "Solar Is Still Pretty Cheap — But Everyone Wants Natural Gas",
-      "url": "https://heatmap.news/energy/lazard-lcoe",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-13T21:47:52+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 22,
-      "fetched_at": "2026-07-14T03:43:44.660579+00:00"
-    },
-    {
-      "id": "a0646962821d9205",
-      "title": "Who Actually Likes Data Centers?",
-      "url": "https://heatmap.news/daily/data-center-yimbys",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-13T22:08:29+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 17,
-      "fetched_at": "2026-07-14T03:43:44.005798+00:00"
-    },
-    {
-      "id": "d4acbd1059fe1ddd",
-      "title": "Zoho-Backed Genrobotics’ Revenue Jumps 35% YoY In FY26, Eyes ₹150 Cr Series B Round",
-      "url": "https://inc42.com/buzz/zoho-backed-genrobotics-posts-%e2%82%b92-6-cr-profit-in-fy26-eyes-%e2%82%b9150-cr-series-b-round/",
-      "source_name": "Inc42",
-      "source_type": "publication",
-      "published_at": "2026-07-11T09:39:24+00:00",
-      "sectors": [
-        "Robotics"
-      ],
-      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
-      "signal": "",
-      "estimated_read_minutes": 1,
-      "fetched_at": "2026-07-12T04:06:33.263843+00:00"
-    },
-    {
-      "id": "a0325e90ab2ea5b4",
-      "title": "Reading List 07/11/26",
-      "url": "https://www.construction-physics.com/p/reading-list-071126",
-      "source_name": "Construction Physics",
-      "source_type": "substack",
-      "published_at": "2026-07-11T12:01:33+00:00",
-      "sectors": [
-        "AI Infrastructure",
-        "Semiconductors"
-      ],
-      "excerpt": "Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure, and industrial technology. This week we look at adults living with their parents, Samsung’s profits, Native American data centers, Puerto Rico’s electricity grid, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-07-12T04:06:05.529823+00:00"
-    },
-    {
-      "id": "905a22baf9b74429",
-      "title": "IEEE Remembers Pioneering Computer Scientist Peter G. Neumann",
-      "url": "https://spectrum.ieee.org/ieee-remembers-peter-g-neumann",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-07-10T18:00:01+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "The renowned computer scientist and respected risk analyst died on 17 May at the age of 93. For almost 70 years, Neumann shaped the computing field through his pioneering work on risks, system dependability, security, and fault tolerance with rare intellectual depth and unwavering ethical clarity. Five of those decades were spent as a principal scientist at SRI International in Menlo Park, Calif., where he worked until his death.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-07-11T03:50:32.495664+00:00"
-    },
-    {
-      "id": "7c72cfe98840606a",
-      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-10T12:10:00+00:00",
-      "sectors": [
-        "Robotics",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Anthropic found a hidden space where Claude puzzles over concepts\nThe AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or J-lens) and used it to uncover a hidden area, which they named the J-space, inside its flagship LLM, Claude.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-07-11T03:50:31.504718+00:00"
     }
   ]
 }
