@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-09-26T05:16:25.293205+00:00",
+  "last_updated": "2026-09-27T05:31:18.121477+00:00",
   "articles": [
+    {
+      "id": "d11fe88d622e8821",
+      "title": "Reading List 2026-09-26",
+      "url": "https://www.construction-physics.com/p/reading-list-2026-09-26",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-09-26T10:17:46+00:00",
+      "sectors": [
+        "Robotics",
+        "Semiconductors"
+      ],
+      "excerpt": "This week we look at ASML’s lack of European sales, a California distributed power plant, Starlink as a planetary barometer, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber. No essay this week, but a more involved piece about how the AI that powers modern robots works will be out next week.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-09-27T05:30:51.387896+00:00"
+    },
     {
       "id": "bc8358dd4329aa49",
       "title": "Young organs may not be a fountain of youth for recipients",
@@ -7774,22 +7790,6 @@
       "signal": "",
       "estimated_read_minutes": 1,
       "fetched_at": "2026-07-14T03:44:10.330548+00:00"
-    },
-    {
-      "id": "d56ace988ec4655c",
-      "title": "Building a Foundation Stack for General-Purpose Robots",
-      "url": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-07-13T10:19:51+00:00",
-      "sectors": [
-        "Robotics",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics systems have long been assembled from separate perception, planning, and control parts that rarely add up to intelligence a robot can carry from one task to another, or one machine to another.",
-      "signal": "",
-      "estimated_read_minutes": 16,
-      "fetched_at": "2026-07-14T03:43:50.555116+00:00"
     }
   ]
 }
