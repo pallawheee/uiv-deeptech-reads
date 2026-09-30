@@ -1,6 +1,129 @@
 {
-  "last_updated": "2026-09-29T05:58:36.152834+00:00",
+  "last_updated": "2026-09-30T05:48:21.630307+00:00",
   "articles": [
+    {
+      "id": "1fcdb6e1411bb7a0",
+      "title": "A Day in the Life of a Roboticist: Charlie Kemp",
+      "url": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-09-28T21:48:56+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "His interest in robotics began with the grand challenges of artificial intelligence, and his work has taken him from humanoid robots at MIT to assistive robots for older adults and people with disabilities. \"Working at Hello Robot is a rewarding experience,\" he says. \"I love the community using Stretch robots as research and development platforms.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-09-30T05:47:54.440409+00:00"
+    },
+    {
+      "id": "a8e036c9038bdc44",
+      "title": "Tech to Replace Animal Testing Is Almost Ready. Scientists Are Not",
+      "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-09-29T13:00:02+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "It was smaller than a USB stick and made of a clear polymer slab containing narrow channels, which were lined with the type of cells that line a lung’s air sacs and blood vessels. When air was pumped through hollow chambers beside the channels, the device rhythmically expanded and contracted—it “breathed.”\nThis lifelike movement was a dramatic change from previous generations of lung models, which typically used static cultures of lung tissue that were unable to simulate the movements essential to lung function. When exposed to inflammatory proteins and bacteria, Ingber’s artificial lung reacted much as living lungs would.",
+      "signal": "",
+      "estimated_read_minutes": 15,
+      "fetched_at": "2026-09-30T05:47:53.302344+00:00"
+    },
+    {
+      "id": "39ee71682adb2844",
+      "title": "Making AI an asset, not an expense",
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-29T10:43:45+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Provided byHPE\nWhen customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? But that is often where the conversation goes.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-09-30T05:47:51.889793+00:00"
+    },
+    {
+      "id": "ca75c72188ee98a0",
+      "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
+      "url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-29T11:00:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal of the Paris climate agreement. In the US, the world’s second-largest-emitting country, its leader continues to deny climate realities and unravel climate policies. Big Tech is backpedaling on its climate ambitions, as companies race to build massive AI data centers.",
+      "signal": "",
+      "estimated_read_minutes": 3,
+      "fetched_at": "2026-09-30T05:47:51.211443+00:00"
+    },
+    {
+      "id": "55fc3b08361fd566",
+      "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+      "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-09-29T12:10:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch\nWith the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tech backpedaling on its climate ambitions, it can be tempting to give in to climate doom and defeatism. But despite the headwinds, the world has still made incredible progress.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-09-30T05:47:50.564334+00:00"
+    },
+    {
+      "id": "eed75ced7415b6df",
+      "title": "The TVA’s Big Nuclear Project Gets the Green Light",
+      "url": "https://heatmap.news/am/permitting-reform-deal",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-29T12:11:19+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 22,
+      "fetched_at": "2026-09-30T05:47:48.417012+00:00"
+    },
+    {
+      "id": "6fa172f2cef50a1e",
+      "title": "Which AI Models Use the Most Energy?",
+      "url": "https://heatmap.news/energy/sustainable-ai-model-dashboard",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-29T13:00:03+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 29,
+      "fetched_at": "2026-09-30T05:47:47.703888+00:00"
+    },
+    {
+      "id": "888eb732aeb35678",
+      "title": "Prior Straits",
+      "url": "https://heatmap.news/daily/oil-flow-hormuz-normalizing",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-30T01:14:12+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-09-30T05:47:46.986725+00:00"
+    },
     {
       "id": "218fb105a6150f98",
       "title": "Here’s How Delhi Achieved Its Epic Power-Grid Fix",
@@ -7664,130 +7787,6 @@
       "signal": "",
       "estimated_read_minutes": 28,
       "fetched_at": "2026-07-17T03:46:03.728635+00:00"
-    },
-    {
-      "id": "9af0bac147c50b05",
-      "title": "Scoop: A Key Democrat Wants to Fix the Power Grid, Texas-Style",
-      "url": "https://heatmap.news/daily/heinrich-texas-power-permitting",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-16T23:16:46+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 28,
-      "fetched_at": "2026-07-17T03:46:02.624852+00:00"
-    },
-    {
-      "id": "bc43396d50b78faf",
-      "title": "Senra Systems: Harnessing Human Skill",
-      "url": "https://www.notboring.co/p/senra-systems-harnessing-human-skill",
-      "source_name": "Not Boring",
-      "source_type": "substack",
-      "published_at": "2026-07-16T12:53:19+00:00",
-      "sectors": [
-        "Defence",
-        "Robotics",
-        "Climate"
-      ],
-      "excerpt": "Join 273,329 smart, curious folks by subscribing here:\nHi friends 👋,\nHappy Thursday! Just about three years ago, I was having coffee with another VC, someone whose portfolio I really like, and I asked him which one he was most excited about. He asked, “Do you know what wire harnesses are?” and I said something like “like bundles of wires?” and he said “kinda” and then told me about Jordan Black and Senra Systems.",
-      "signal": "",
-      "estimated_read_minutes": 32,
-      "fetched_at": "2026-07-17T03:46:00.624099+00:00"
-    },
-    {
-      "id": "6b7358dc47913b71",
-      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
-      "url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-15T12:10:00+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light\nThe machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside, some 100 stainless-steel cabinets each hold hundreds of chips.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-07-16T03:46:21.222887+00:00"
-    },
-    {
-      "id": "dba38c1924d6fe74",
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-15T17:09:37+00:00",
-      "sectors": [
-        "Defence",
-        "AI Infrastructure"
-      ],
-      "excerpt": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-07-16T03:46:20.607527+00:00"
-    },
-    {
-      "id": "87045742a18c9bba",
-      "title": "Transcript: The Company That’s Raised $60 Million to Geoengineer the Planet",
-      "url": "https://heatmap.news/podcast/shift-key-s3-e58-stardust-transcript",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-15T09:00:04+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 67,
-      "fetched_at": "2026-07-16T03:46:18.470316+00:00"
-    },
-    {
-      "id": "3d1e62d48add7e33",
-      "title": "The Company That’s Raised $60 Million to Geoengineer the Planet",
-      "url": "https://heatmap.news/podcast/shift-key-s3-e58-stardust",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-15T09:10:03+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 21,
-      "fetched_at": "2026-07-16T03:46:17.760386+00:00"
-    },
-    {
-      "id": "f1ef51ffe7e78561",
-      "title": "PJM Once Again Hits Its Price Cap at Latest Auction",
-      "url": "https://heatmap.news/am/pjm-capacity-auction",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-15T12:01:18+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 64,
-      "fetched_at": "2026-07-16T03:46:17.064906+00:00"
-    },
-    {
-      "id": "c59713b6d7bf45f3",
-      "title": "Why Heat Waves Are Tricky Killers",
-      "url": "https://heatmap.news/climate/heat-excess-deaths",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-15T12:23:02+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 28,
-      "fetched_at": "2026-07-16T03:46:16.419147+00:00"
     }
   ]
 }
