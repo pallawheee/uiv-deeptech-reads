@@ -1,6 +1,112 @@
 {
-  "last_updated": "2026-09-30T05:48:21.630307+00:00",
+  "last_updated": "2026-10-01T06:18:13.770356+00:00",
   "articles": [
+    {
+      "id": "93178b4832ae6057",
+      "title": "Building The Material Backbone For Modern Interiors Gravity Secures 15 Million In Equity And Debt",
+      "url": "https://3one4capital.com/blogs/building-the-material-backbone-for-modern-interiors-gravity-secures-15-million-in-equity-and-debt",
+      "source_name": "3one4 Capital",
+      "source_type": "blog",
+      "published_at": "2026-10-01T06:17:55.613049+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Founded by Saurabh Jain and Lalit Mittal, former senior leaders at Livspace, Gravity is building the full-stack operating platform for India's premium interior materials market. By consolidating specialist category businesses across the kitchen and wardrobe sectors onto a unified technology, distribution, and key-account backbone, Gravity solves the deep operational complexity that design-and-build studios, modular showrooms, and architects navigate daily. Modernising India's $15 billion design-specified material market requires consolidating fragmented supplier networks onto a unified, tech-enabled operating platform.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-10-01T06:17:55.613586+00:00"
+    },
+    {
+      "id": "5891bface3a0f201",
+      "title": "IEEE Celebrates Innovators Shaping the Future",
+      "url": "https://spectrum.ieee.org/ieee-technical-field-awards-2027",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-09-30T18:00:02+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "The honorees are selected by the IEEE Awards Board based on their extraordinary technical achievements, societal impact, and leadership in specialized engineering disciplines and are approved by the IEEE Board of Directors. “The 2027 IEEE Technical Field Award recipients embody the relentless spirit of innovation and ingenuity that defines our global community,” said Mary Ellen Randall, 2026 IEEE president and CEO in a news release. “Across microelectronics, artificial intelligence, medical robotics, wireless networks, energy conversion, and technical education, their groundbreaking accomplishments continue to push the boundaries of science and solve critical challenges for the benefit of humanity.”\nIEEE Technical Field Award recipients\nIEEE Biomedical Engineering Award\nSponsors: IEEE Engineering in Medicine and Biology, IEEE Circuits and Systems, and IEEE Signal Processing societies\nIEEE Life Fellow Kullervo Hynynen\nSunnybrook Research Institute in Toronto, and the University of Toronto\n“For pioneering contributions to the development, advancement, and clinical translation of therapeutic ultrasound.”\nIEEE Cledo Brunetti Award\nSponsor: The Brunetti Bequest\nIEEE Member Edward Charles Gage\nIEEE Fellow Ganping Ju\nIEEE Fellow Jan-Ulrich Thiele\nSeagate Technology in Cupertino, Calif.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-10-01T06:17:48.552881+00:00"
+    },
+    {
+      "id": "90b4f3c66f173b08",
+      "title": "Transcript: Al Gore on AI, ‘An Inconvenient Truth,’ and the Biggest Surprises of the Past 20 Years",
+      "url": "https://heatmap.news/podcast/shift-key-153-al-gore-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-30T09:00:06+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 57,
+      "fetched_at": "2026-10-01T06:17:46.293181+00:00"
+    },
+    {
+      "id": "4a05e4eb9e7156a5",
+      "title": "Al Gore on AI, ‘An Inconvenient Truth,’ and the Biggest Surprises of the Past 20 Years",
+      "url": "https://heatmap.news/podcast/shift-key-153-al-gore",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-30T09:10:06+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 39,
+      "fetched_at": "2026-10-01T06:17:45.645421+00:00"
+    },
+    {
+      "id": "70fed7263b65bbdd",
+      "title": "The Startup Raising $17 Million for Super-Thin, Wall-Mounted Batteries",
+      "url": "https://heatmap.news/climate-tech/novele-series-a",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-30T12:00:05+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 33,
+      "fetched_at": "2026-10-01T06:17:44.993918+00:00"
+    },
+    {
+      "id": "8a8650c4a0f91f72",
+      "title": "Britain Launches a State-Owned Power Grid Company",
+      "url": "https://heatmap.news/am/great-british-grid",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-30T12:01:11+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 39,
+      "fetched_at": "2026-10-01T06:17:44.401532+00:00"
+    },
+    {
+      "id": "7689cc19edd85628",
+      "title": "The Senate’s Big Bipartisan Permitting Deal, Explained",
+      "url": "https://heatmap.news/politics/bipartisan-permitting-reform",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-09-30T23:28:39+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 41,
+      "fetched_at": "2026-10-01T06:17:43.757642+00:00"
+    },
     {
       "id": "1fcdb6e1411bb7a0",
       "title": "A Day in the Life of a Roboticist: Charlie Kemp",
@@ -7678,115 +7784,6 @@
       "signal": "",
       "estimated_read_minutes": 24,
       "fetched_at": "2026-07-18T03:41:02.661669+00:00"
-    },
-    {
-      "id": "3e07eefa79a6a045",
-      "title": "Weekly Dose of Optimism #202",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-202",
-      "source_name": "Not Boring",
-      "source_type": "substack",
-      "published_at": "2026-07-17T11:43:07+00:00",
-      "sectors": [
-        "Defence",
-        "Robotics"
-      ],
-      "excerpt": "This week, we had a lot of good news come in pairs: two Saronic stories, two Austin stories, two robotics stories, and two open-weight model stories. So I cheated and combined them to squeeze a little extra optimism into your Dose. Today’s Weekly Dose is brought to you by… Not Boring\nAt the bottom of this and every Weekly Dose, we share some extra goodies, including Science Breakthroughs from Ulkar Aghayeva, who I first found through her work with collaborators ranking 2025’s papers and breakthroughs for their potential impact.",
-      "signal": "",
-      "estimated_read_minutes": 11,
-      "fetched_at": "2026-07-18T03:40:59.621614+00:00"
-    },
-    {
-      "id": "f9f3ac48b92adcfd",
-      "title": "Why heat pumps are still so hot in the US",
-      "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-16T10:00:00+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (For what it’s worth, many heat pumps can also be run in reverse to cool buildings.) In the US, heat pump sales have doubled over the past 15 years, according to a new report.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-07-17T03:46:08.935343+00:00"
-    },
-    {
-      "id": "f641396dab960cd1",
-      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-16T12:10:00+00:00",
-      "sectors": [
-        "Defence",
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer\nOpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. It automates a type of safety evaluation for software systems known as red-teaming, which is typically done by a team of human testers.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-07-17T03:46:08.346672+00:00"
-    },
-    {
-      "id": "3de6c764f1319f0c",
-      "title": "The Carbon Removal Buyer the World Has Been Waiting For",
-      "url": "https://heatmap.news/carbon-removal/eu-emissions-trading",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-16T08:55:02+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 21,
-      "fetched_at": "2026-07-17T03:46:05.867341+00:00"
-    },
-    {
-      "id": "0e3ea8b0f606c4bf",
-      "title": "Puerto Rico’s Water Crisis Stretches into Another Month",
-      "url": "https://heatmap.news/am/puerto-rico-water",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-16T12:06:30+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 24,
-      "fetched_at": "2026-07-17T03:46:05.262741+00:00"
-    },
-    {
-      "id": "2a542294380f2e5b",
-      "title": "5 Things to Keep in Mind When It’s Smoky Outside",
-      "url": "https://heatmap.news/sparks/canada-wildfire-smoke",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-16T19:00:26+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 10,
-      "fetched_at": "2026-07-17T03:46:04.497882+00:00"
-    },
-    {
-      "id": "fcc5c50e369c5a51",
-      "title": "How Bad Is Exercising in Wildfire Smoke?",
-      "url": "https://heatmap.news/climate/smoke-exercise",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-16T23:02:26+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 28,
-      "fetched_at": "2026-07-17T03:46:03.728635+00:00"
     }
   ]
 }
