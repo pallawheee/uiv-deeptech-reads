@@ -1,6 +1,132 @@
 {
-  "last_updated": "2026-10-01T06:18:13.770356+00:00",
+  "last_updated": "2026-10-02T05:58:27.601066+00:00",
   "articles": [
+    {
+      "id": "b0a68bf94cf796d6",
+      "title": "Electricity Theft Is Rampant, but Delhi Found a Fix",
+      "url": "https://spectrum.ieee.org/electricity-theft",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-10-01T12:00:02+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "This leaking of electricity happens when it vanishes as heat as well as when it is pilfered by thieves and nonpaying customers. More than half of the countries that track these metrics lost at least 10 percent of their electricity in 2023, according to the World Bank. Losses topped 20 percent for 24 of those nations.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-10-02T05:58:07.399408+00:00"
+    },
+    {
+      "id": "a12347319abe5a66",
+      "title": "How smaller, distributed batteries could help the grid",
+      "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-01T10:00:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small batteries in unexpected places, from induction stovetops to food carts.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-10-02T05:58:06.281250+00:00"
+    },
+    {
+      "id": "3cc286caf68eb69a",
+      "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+      "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-01T12:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Robotics",
+        "Climate"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan\nA new AI tool can guess what you’re looking at just by analyzing your brain scans—and recreate that image with remarkable precision. It can go the other way too, and predict a person’s brain activity based on what they’re looking at.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-10-02T05:58:05.673305+00:00"
+    },
+    {
+      "id": "c2db95e9b2986c0f",
+      "title": "Exclusive: Stellantis-Backed Geothermal Startup Prepares to SPAC",
+      "url": "https://heatmap.news/energy/controlled-thermal-resources-stellantis",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-01T10:00:04+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 43,
+      "fetched_at": "2026-10-02T05:58:04.295361+00:00"
+    },
+    {
+      "id": "0c092aeab66ac19c",
+      "title": "The Permitting Reform Bill Just Dropped",
+      "url": "https://heatmap.news/am/permitting-reform-baaja",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-01T12:07:09+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 43,
+      "fetched_at": "2026-10-02T05:58:03.714040+00:00"
+    },
+    {
+      "id": "9db23f054c3456a6",
+      "title": "The Climate Tech Winners and Losers of the Senate’s Permitting Bill",
+      "url": "https://heatmap.news/climate-tech/baaja-climate-tech",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-01T23:10:23+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 41,
+      "fetched_at": "2026-10-02T05:58:03.126195+00:00"
+    },
+    {
+      "id": "2400c6adbdf8d1ac",
+      "title": "The Senate Permitting Deal Contains a Data Center Double Tap",
+      "url": "https://heatmap.news/daily/data-center-permitting-deal",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-02T01:00:45+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-10-02T05:58:02.323292+00:00"
+    },
+    {
+      "id": "ef80a011de3290fc",
+      "title": "Understanding the AI That Drives Robots",
+      "url": "https://www.construction-physics.com/p/understanding-the-ai-that-drives",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-10-01T12:04:36+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Startups NEURA Robotics and Figure AI raised $1.4 billion and $1 billion, respectively, and Apptronik raised $520 million. China’s Unitree went public, raising roughly $900 million, and Agility Robotics plans to go public via SPAC later this year. A few weeks ago China held the second annual World Humanoid Robot Games, showing humanoid robots performing all manner of impressive physical feats.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-10-02T05:58:01.197571+00:00"
+    },
     {
       "id": "93178b4832ae6057",
       "title": "Building The Material Backbone For Modern Interiors Gravity Secures 15 Million In Equity And Debt",
@@ -7660,130 +7786,6 @@
       "signal": "",
       "estimated_read_minutes": 9,
       "fetched_at": "2026-07-18T03:41:15.048765+00:00"
-    },
-    {
-      "id": "c21b23b6ab59c796",
-      "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
-      "url": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-07-17T18:00:01+00:00",
-      "sectors": [
-        "Defence",
-        "Robotics"
-      ],
-      "excerpt": "As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell in love with the field, she says. Downs participated in the international robotics program from 2014 to 2016. Watching PBS specials on NASA Mars rovers Spirit and Opportunity, and seeing the live broadcast of the Curiosity rover launch in 2011, inspired the teen to dream of a career working with NASA.",
-      "signal": "",
-      "estimated_read_minutes": 9,
-      "fetched_at": "2026-07-18T03:41:09.102509+00:00"
-    },
-    {
-      "id": "9e7db13d70e8e0fa",
-      "title": "The risk of weather data sabotage is rising",
-      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-17T08:57:32+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Here’s what we can do to safeguard them. Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-07-18T03:41:08.209359+00:00"
-    },
-    {
-      "id": "537fc3e4c58410ed",
-      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
-      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-17T12:10:00+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure",
-        "Semiconductors"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. There’s a lot of hype around perimenopause. Perimenopause used to be considered taboo, but not anymore.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-07-18T03:41:07.523534+00:00"
-    },
-    {
-      "id": "39919da008485b51",
-      "title": "Iraq and Chevron Are Planning a Route Through Syria to Evade Strait of Hormuz",
-      "url": "https://heatmap.news/am/chevron-iraq-syria",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-17T11:54:40+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 28,
-      "fetched_at": "2026-07-18T03:41:05.675137+00:00"
-    },
-    {
-      "id": "9109c0cf7de895aa",
-      "title": "When a Rate Freeze Is a Rate Hike in Disguise",
-      "url": "https://heatmap.news/energy/national-grid-rate-stabilization",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-17T19:07:30+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 34,
-      "fetched_at": "2026-07-18T03:41:05.079728+00:00"
-    },
-    {
-      "id": "f339ea89874e17b8",
-      "title": "The East Coast’s New Forever Problem",
-      "url": "https://heatmap.news/adaptation/east-coast-smoke",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-17T20:38:07+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 28,
-      "fetched_at": "2026-07-18T03:41:04.461881+00:00"
-    },
-    {
-      "id": "3afa068f386615c6",
-      "title": "Microsoft Sustainability Chief Hounded by Protestors at Seattle Climate Week",
-      "url": "https://heatmap.news/sparks/microsoft-data-center-protestors",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-17T22:06:53+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 11,
-      "fetched_at": "2026-07-18T03:41:03.264360+00:00"
-    },
-    {
-      "id": "7bf4cf460a628af7",
-      "title": "What Worries Me Most About These Wildfire Smoke Days",
-      "url": "https://heatmap.news/daily/worrying-smoke-climate-change",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-17T22:50:04+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 24,
-      "fetched_at": "2026-07-18T03:41:02.661669+00:00"
     }
   ]
 }
