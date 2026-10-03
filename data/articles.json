@@ -1,6 +1,177 @@
 {
-  "last_updated": "2026-10-02T05:58:27.601066+00:00",
+  "last_updated": "2026-10-03T05:33:39.384664+00:00",
   "articles": [
+    {
+      "id": "e5addb39494bae71",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-02T08:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a programming glitch. AlphaGo won the game, ultimately triumphing 4-1 over Lee Sedol, one of the greatest professional Go players of all time.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-10-03T05:33:18.402168+00:00"
+    },
+    {
+      "id": "ac45dab29c74c577",
+      "title": "A new contest pits competitors against each other in a race to biological youth",
+      "url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-02T09:00:00+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-10-03T05:33:17.844903+00:00"
+    },
+    {
+      "id": "9969a2d9eef8138c",
+      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-02T12:10:00+00:00",
+      "sectors": [
+        "MedTech",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. A new contest pits competitors against each other in a race to biological youth\n—Jessica Hamzelou\nThis week, I officially signed up for an unusual competition. One that rewards competitors for getting younger.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-10-03T05:33:17.279938+00:00"
+    },
+    {
+      "id": "1943d16791bdd105",
+      "title": "Transcript: Governor Mikie Sherrill on Electricity Prices, Nuclear Power, and Building in New Jersey",
+      "url": "https://heatmap.news/podcast/shift-key-154-mikie-sherrill-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-02T09:10:06+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 36,
+      "fetched_at": "2026-10-03T05:33:15.706879+00:00"
+    },
+    {
+      "id": "a12caa43f10f0fea",
+      "title": "Governor Mikie Sherrill on Electricity Prices, Nuclear Power, and Building in New Jersey",
+      "url": "https://heatmap.news/podcast/shift-key-154-mikie-sherrill",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-02T09:10:06+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 36,
+      "fetched_at": "2026-10-03T05:33:15.105700+00:00"
+    },
+    {
+      "id": "0695ca9c1ee4b3f2",
+      "title": "Amazon Joins Other Hyperscalers in Saving Existing Nuclear",
+      "url": "https://heatmap.news/am/amazon-constellation-calvert",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-02T12:05:24+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 36,
+      "fetched_at": "2026-10-03T05:33:14.507843+00:00"
+    },
+    {
+      "id": "95d7345d704c9aa1",
+      "title": "Why the Senate Permitting Bill Isn’t a ‘Grand Bargain’",
+      "url": "https://heatmap.news/plus/the-fight/qa/josh-freed-third-way-permitting",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-02T19:52:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 12,
+      "fetched_at": "2026-10-03T05:33:13.900352+00:00"
+    },
+    {
+      "id": "1908cf194ff003af",
+      "title": "The Solar Opponents Begging Trump to Intervene in Michigan",
+      "url": "https://heatmap.news/plus/the-fight/hotspots/trump-michigan-silver-maple-solar",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-02T19:55:16+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 12,
+      "fetched_at": "2026-10-03T05:33:13.311312+00:00"
+    },
+    {
+      "id": "79f2bdb4b10ff284",
+      "title": "The New Push for Underwater Data Centers",
+      "url": "https://heatmap.news/plus/the-fight/spotlight/data-centers-ocean",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-02T20:00:27+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 17,
+      "fetched_at": "2026-10-03T05:33:12.722440+00:00"
+    },
+    {
+      "id": "f5eea0926ff1a7ba",
+      "title": "Miners Struck Gold With the Senate Permitting Bill",
+      "url": "https://heatmap.news/politics/baaja-mining-waste",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-02T21:07:54+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 16,
+      "fetched_at": "2026-10-03T05:33:12.127039+00:00"
+    },
+    {
+      "id": "02d39c29f80ab912",
+      "title": "Weekly Dose of Optimism #213",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-213",
+      "source_name": "Not Boring",
+      "source_type": "substack",
+      "published_at": "2026-10-02T12:44:11+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "You might notice that the title card looks a little different than it normally does, and you might also notice that our fifth story comes with its own short film. Over the coming quarter, we’re partnering with our friends at Runway to bring the stories we tell here in the Dose and in not boring to life. I am… not a filmmaker, but I am a writer, and it’s wild to be able to make something that feels like a pro video in just a few prompts, and I’ll get better at it as we go.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-10-03T05:33:10.386254+00:00"
+    },
     {
       "id": "b0a68bf94cf796d6",
       "title": "Electricity Theft Is Rampant, but Delhi Found a Fix",
@@ -7618,174 +7789,6 @@
       "signal": "",
       "estimated_read_minutes": 1,
       "fetched_at": "2026-07-21T03:54:53.419148+00:00"
-    },
-    {
-      "id": "4b36f8c47fb83b1c",
-      "title": "Paytm’s Q1 Show, NVIDIA’s New GPU Game Plan & More",
-      "url": "https://inc42.com/buzz/paytms-q1-show-nvidias-new-gpu-game-plan-more/",
-      "source_name": "Inc42",
-      "source_type": "publication",
-      "published_at": "2026-07-21T02:30:52+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
-      "signal": "",
-      "estimated_read_minutes": 1,
-      "fetched_at": "2026-07-21T03:54:43.041472+00:00"
-    },
-    {
-      "id": "98bde9384a6a1f2d",
-      "title": "Indias Trillion Dollar Materials Decade Has Begun India Imported Its Molecules It Will Now Make Them",
-      "url": "https://3one4capital.com/blogs/indias-trillion-dollar-materials-decade-has-begun-india-imported-its-molecules-it-will-now-make-them",
-      "source_name": "3one4 Capital",
-      "source_type": "blog",
-      "published_at": "2026-07-21T03:54:39.276028+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "India is moving from buyer to builder, and a generation of founders is moving with it. The most contested layer of industrial power is no longer the barrel of crude or the finished device. It is the molecule in between, and the chemistry that turns a raw input into something the rest of the world cannot easily reproduce.",
-      "signal": "",
-      "estimated_read_minutes": 26,
-      "fetched_at": "2026-07-21T03:54:39.277024+00:00"
-    },
-    {
-      "id": "35a1b28301c09202",
-      "title": "AI is more likely than humans to form biases when hiring",
-      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-20T08:39:01+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-07-21T03:54:32.152835+00:00"
-    },
-    {
-      "id": "0ace738400ef1bd9",
-      "title": "The Download: AI hiring biases, and weather data sabotage",
-      "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-20T12:10:00+00:00",
-      "sectors": [
-        "Defence",
-        "AI Infrastructure"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. AI is more likely than humans to form biases when hiring\nThe next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-07-21T03:54:31.567149+00:00"
-    },
-    {
-      "id": "8be5752a7fada571",
-      "title": "China’s AI models have Trump’s AI world at war with itself",
-      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-20T18:00:00+00:00",
-      "sectors": [
-        "Defence",
-        "AI Infrastructure"
-      ],
-      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-07-21T03:54:30.990508+00:00"
-    },
-    {
-      "id": "de5c9e01d5b35677",
-      "title": "The EU Rides to DAC’s Rescue",
-      "url": "https://heatmap.news/am/eu-carbon-removal",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-20T12:13:45+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 21,
-      "fetched_at": "2026-07-21T03:54:29.366179+00:00"
-    },
-    {
-      "id": "8a903a54e05dae32",
-      "title": "How to Unlock Republican Support for Climate Action",
-      "url": "https://heatmap.news/ideas/republican-climate-action",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-20T16:04:47+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 21,
-      "fetched_at": "2026-07-21T03:54:28.718897+00:00"
-    },
-    {
-      "id": "415efcd2b0393401",
-      "title": "Why Your Smart EV Still Has a Dumb Battery",
-      "url": "https://heatmap.news/electric-vehicles/12-volt-batteries",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-20T18:50:10+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 22,
-      "fetched_at": "2026-07-21T03:54:28.079613+00:00"
-    },
-    {
-      "id": "9ac8bf74a82f74dc",
-      "title": "Trump Found a New Way to Punish Canada",
-      "url": "https://heatmap.news/daily/trump-canada-tariffs-cement",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-21T01:30:11+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 21,
-      "fetched_at": "2026-07-21T03:54:27.444073+00:00"
-    },
-    {
-      "id": "3a2d072bb61c4d95",
-      "title": "Reading List 07/18/26",
-      "url": "https://www.construction-physics.com/p/reading-list-071826",
-      "source_name": "Construction Physics",
-      "source_type": "substack",
-      "published_at": "2026-07-18T12:01:57+00:00",
-      "sectors": [
-        "Defence"
-      ],
-      "excerpt": "Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure and industrial technology. This week we look at a setback for California Forever, a $500 million artillery shell plant not producing any shells, the difficulty of recycling EV batteries, manufacturing wire harnesses, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-07-19T04:02:44.814144+00:00"
-    },
-    {
-      "id": "45f27fd68dfdea80",
-      "title": "Global Enterprises Are Buying Indian Ai Here Is What We See Working",
-      "url": "https://3one4capital.com/blogs/global-enterprises-are-buying-indian-ai-here-is-what-we-see-working",
-      "source_name": "3one4 Capital",
-      "source_type": "blog",
-      "published_at": "2026-07-18T03:41:15.048198+00:00",
-      "sectors": [
-        "Semiconductors"
-      ],
-      "excerpt": "This is the India for the World thesis playing out in real time. The pilots that would not have started a year ago are now being signed inside the same quarter. Global enterprises, including buyers in domains as unforgiving as semiconductor design and embedded firmware, are running production evaluations of AI built in India and converting them into contracts at a speed the enterprise SaaS era rarely permitted.",
-      "signal": "",
-      "estimated_read_minutes": 9,
-      "fetched_at": "2026-07-18T03:41:15.048765+00:00"
     }
   ]
 }
