@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-10-03T05:33:39.384664+00:00",
+  "last_updated": "2026-10-04T06:09:57.971169+00:00",
   "articles": [
+    {
+      "id": "5e4eb382d09ec21a",
+      "title": "Reading List 2026-10-03",
+      "url": "https://www.construction-physics.com/p/reading-list-2026-10-03",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-10-03T13:14:44+00:00",
+      "sectors": [
+        "Defence",
+        "Semiconductors"
+      ],
+      "excerpt": "This week we look at a Senate permitting reform bill, the potential of Tesla’s Cybercab, the Navy’s $200 billion worth of shipyard renovations, a possible plan to return a SR-71 to service, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber. Housing and Cities\nThe senate has released the text for a permitting reform bill, the Bipartisan American Affordability and Jobs Act.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-10-04T06:09:32.196699+00:00"
+    },
     {
       "id": "e5addb39494bae71",
       "title": "Don’t be fooled—LLMs don’t reason",
@@ -7774,21 +7790,6 @@
       "signal": "",
       "estimated_read_minutes": 18,
       "fetched_at": "2026-07-22T03:56:14.744880+00:00"
-    },
-    {
-      "id": "4a897f442d707c31",
-      "title": "Exclusive: Redcliffe Labs To Acquire Megavision Diagnostics In ₹40 Cr Deal",
-      "url": "https://inc42.com/buzz/exclusive-redcliffe-labs-to-acquire-megavision-diagnostics-in-%e2%82%b940-cr-deal/",
-      "source_name": "Inc42",
-      "source_type": "publication",
-      "published_at": "2026-07-20T10:47:14+00:00",
-      "sectors": [
-        "MedTech"
-      ],
-      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
-      "signal": "",
-      "estimated_read_minutes": 1,
-      "fetched_at": "2026-07-21T03:54:53.419148+00:00"
     }
   ]
 }
