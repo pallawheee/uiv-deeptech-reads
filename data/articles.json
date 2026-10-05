@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-10-04T06:09:57.971169+00:00",
+  "last_updated": "2026-10-05T06:01:08.472864+00:00",
   "articles": [
+    {
+      "id": "99203639eb51dfe3",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches and reports on emerging tech daily. There’s much more to discover\nThese are just two sessions from EmTech Future 2026.",
+      "signal": "",
+      "estimated_read_minutes": 3,
+      "fetched_at": "2026-10-05T06:00:43.124447+00:00"
+    },
     {
       "id": "5e4eb382d09ec21a",
       "title": "Reading List 2026-10-03",
@@ -7775,21 +7792,6 @@
       "signal": "",
       "estimated_read_minutes": 12,
       "fetched_at": "2026-07-22T03:56:15.717225+00:00"
-    },
-    {
-      "id": "0f3f1d8eff54c494",
-      "title": "Did Trump’s War Eat His Tax Cut?",
-      "url": "https://heatmap.news/daily/trump-gasoline-tax-cut",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-21T23:49:32+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 18,
-      "fetched_at": "2026-07-22T03:56:14.744880+00:00"
     }
   ]
 }
