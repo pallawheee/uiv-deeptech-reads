@@ -1,6 +1,148 @@
 {
-  "last_updated": "2026-10-05T06:01:08.472864+00:00",
+  "last_updated": "2026-10-06T06:39:46.378866+00:00",
   "articles": [
+    {
+      "id": "0b212c3dbb3b0ad5",
+      "title": "India Promised Its Scientists No Dearth Of Resources It Must Now Shift From Frugality To National Capability",
+      "url": "https://3one4capital.com/blogs/india-promised-its-scientists-no-dearth-of-resources-it-must-now-shift-from-frugality-to-national-capability",
+      "source_name": "3one4 Capital",
+      "source_type": "blog",
+      "published_at": "2026-10-06T06:39:21.545122+00:00",
+      "sectors": [
+        "Defence",
+        "Robotics",
+        "Semiconductors",
+        "Quantum Computing"
+      ],
+      "excerpt": "That takes three things beyond just a cheque: conviction in the builders, a value roadmap for the talent, and Indian buyers who purchase Indian R&D for the long term. In September 2024, at the first meeting of the Governing Board of the Anusandhan National Research Foundation, the Prime Minister told India's scientists that there would be no dearth of resources for their endeavours, and that they should have faith. That promise is a genuine turning point, and it means a lot to a nation of builders and innovators to hear their Prime Minister voice this intent.",
+      "signal": "",
+      "estimated_read_minutes": 11,
+      "fetched_at": "2026-10-06T06:39:21.545658+00:00"
+    },
+    {
+      "id": "e9396e7977a42594",
+      "title": "Smart Car Researcher Wants to Eliminate Stoplights",
+      "url": "https://spectrum.ieee.org/smart-car-researcher-eliminate-stoplights",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-10-02T18:00:02+00:00",
+      "sectors": [
+        "Defence",
+        "Robotics"
+      ],
+      "excerpt": "Lately, his work has focused on a problem nearly every driver knows well: sitting at a red light with no cross traffic in sight, wondering why it takes so long for the light to turn green. Cassandras, an IEEE Life Fellow, is a professor at Boston University, where he headed its systems engineering division, a graduate program he helped create. Christos Cassandras\nEmployer\nBoston University\nTitle\nProfessor\nMember grade\nLife Fellow\nAlma maters\nYale, Stanford, and Harvard\nHe is the recipient of this year’s IEEE Intelligent Transportation Systems Society Outstanding Research Award for his work on autonomous vehicles and the systems that help them drive—work that could one day get rid of traffic lights altogether.",
+      "signal": "",
+      "estimated_read_minutes": 9,
+      "fetched_at": "2026-10-06T06:39:14.979771+00:00"
+    },
+    {
+      "id": "07a3961b77d07a47",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-05T08:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Around the world, a love/hate attitude toward AI is very much the vibe right now. Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI company.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-10-06T06:39:13.570850+00:00"
+    },
+    {
+      "id": "4edf5c84b7a51c43",
+      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+      "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-05T12:10:00+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven\nOver the summer I talked to the CEO of Springboards, a startup building an LLM designed to come up with a wide variety of responses.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-10-06T06:39:12.923453+00:00"
+    },
+    {
+      "id": "5f53e39dd9e9fc83",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-05T13:29:32+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "In association withTP\nIn 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between leaders and laggards is widening accordingly.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-10-06T06:39:12.272882+00:00"
+    },
+    {
+      "id": "34256a6f134d6985",
+      "title": "The Supreme Court Kicks Off with a Big Climate Case",
+      "url": "https://heatmap.news/am/scotus-exxon-boulder",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-05T12:00:16+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 16,
+      "fetched_at": "2026-10-06T06:39:09.534750+00:00"
+    },
+    {
+      "id": "02fbfeb7bc8602e5",
+      "title": "The Booming Market for DIY Fire Protection",
+      "url": "https://heatmap.news/adaptation/wildfire-home-hardening",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-05T17:31:36+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-10-06T06:39:08.660787+00:00"
+    },
+    {
+      "id": "2ed18e990d8759ca",
+      "title": "What a President Can and Can’t Do Under the Senate Permitting Bill",
+      "url": "https://heatmap.news/politics/baaja-executive-actions",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-05T20:38:07+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 31,
+      "fetched_at": "2026-10-06T06:39:07.770818+00:00"
+    },
+    {
+      "id": "4e2d7eeb2b647a33",
+      "title": "Rivian Rolls to a New Record Quarter",
+      "url": "https://heatmap.news/daily/rivian-record-q3-2026",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-05T21:37:15+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 31,
+      "fetched_at": "2026-10-06T06:39:06.869013+00:00"
+    },
     {
       "id": "99203639eb51dfe3",
       "title": "EmTech Future 2026: When AI Meets Everything",
@@ -7653,145 +7795,6 @@
       "signal": "",
       "estimated_read_minutes": 20,
       "fetched_at": "2026-07-23T03:52:44.707457+00:00"
-    },
-    {
-      "id": "df5ba4a83ac124b9",
-      "title": "U.S. Power Sector Emissions Spiked 4% in 2025",
-      "url": "https://heatmap.news/am/power-sector-emissions",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-22T12:11:07+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-07-23T03:52:44.024456+00:00"
-    },
-    {
-      "id": "1e942205da0efb69",
-      "title": "Exclusive: Inertia’s Roadmap to Commercialize Laser Fusion",
-      "url": "https://heatmap.news/climate-tech/inertia-commercial-roadmap",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-22T16:00:08+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-07-23T03:52:43.335020+00:00"
-    },
-    {
-      "id": "40db8e26424107ac",
-      "title": "Why It’s Still So Hard to Count Heat Wave Deaths",
-      "url": "https://heatmap.news/daily/france-heat-wave-deaths",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-23T01:32:37+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 11,
-      "fetched_at": "2026-07-23T03:52:42.525496+00:00"
-    },
-    {
-      "id": "e7726a8f7f8801c4",
-      "title": "MS Dhoni Invests In Rooftop Solar Startup SolarSquare",
-      "url": "https://inc42.com/buzz/ms-dhoni-invests-in-rooftop-solar-startup-solarsquare/",
-      "source_name": "Inc42",
-      "source_type": "publication",
-      "published_at": "2026-07-21T07:04:45+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
-      "signal": "",
-      "estimated_read_minutes": 1,
-      "fetched_at": "2026-07-22T03:56:41.262965+00:00"
-    },
-    {
-      "id": "df45f6b149050e80",
-      "title": "Advancing next-gen AI with materials science innovation",
-      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-21T10:37:34+00:00",
-      "sectors": [
-        "AI Infrastructure",
-        "Semiconductors"
-      ],
-      "excerpt": "Provided bySyensqo\nThe conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and higher reliability.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-07-22T03:56:20.557339+00:00"
-    },
-    {
-      "id": "e376453ccfb604ad",
-      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
-      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-21T12:10:00+00:00",
-      "sectors": [
-        "Defence"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. China’s AI models have Trump’s AI world at war with itself\nLast weekend, several current and former advisers to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks branded Anthropic’s models “lobotomized” and “woke.” Emil Michael, a top Pentagon official, called OpenAI’s new head of strategic futures a “supreme village idiot.”\nIt began because no one can agree on what to do about Kimi, a free, open-source model that Chinese AI company Moonshot launched last week.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-07-22T03:56:19.964063+00:00"
-    },
-    {
-      "id": "6791e960bea4d333",
-      "title": "Trump Made the Renewable Power Market Weird",
-      "url": "https://heatmap.news/energy/q2-2026-solar-wind-ppas",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-21T10:00:04+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 19,
-      "fetched_at": "2026-07-22T03:56:16.951288+00:00"
-    },
-    {
-      "id": "eb7ad137c17223ee",
-      "title": "Data Center Electricity Demand Ballooning as Support Collapses",
-      "url": "https://heatmap.news/am/data-center-electricity",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-21T12:13:35+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 19,
-      "fetched_at": "2026-07-22T03:56:16.333214+00:00"
-    },
-    {
-      "id": "89276cf5e9ea6099",
-      "title": "Data Centers Will Use Enough Electricity to Power Every U.S. Household by 2035",
-      "url": "https://heatmap.news/sparks/bnef-data-centers-electricity",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-21T21:36:27+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 12,
-      "fetched_at": "2026-07-22T03:56:15.717225+00:00"
     }
   ]
 }
