@@ -2,21 +2,6 @@
   {
     "source": "Stellaris",
     "reason": "scrape_index_returned_no_links",
-    "timestamp": "2026-08-02T04:03:00.259562+00:00"
-  },
-  {
-    "source": "Stellaris",
-    "reason": "scrape_index_returned_no_links",
-    "timestamp": "2026-08-03T04:05:18.408232+00:00"
-  },
-  {
-    "source": "Stellaris",
-    "reason": "scrape_index_returned_no_links",
-    "timestamp": "2026-08-04T03:47:04.366296+00:00"
-  },
-  {
-    "source": "Stellaris",
-    "reason": "scrape_index_returned_no_links",
     "timestamp": "2026-08-05T03:42:43.509146+00:00"
   },
   {
@@ -532,5 +517,22 @@
     "source": "Stellaris",
     "reason": "scrape_index_returned_no_links",
     "timestamp": "2026-10-06T06:39:24.862297+00:00"
+  },
+  {
+    "url": "https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE",
+    "source": "IEEE Spectrum",
+    "reason": "scrape_failed",
+    "timestamp": "2026-10-07T06:16:18.812552+00:00"
+  },
+  {
+    "url": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
+    "source": "IEEE Spectrum",
+    "reason": "scrape_failed",
+    "timestamp": "2026-10-07T06:16:19.237995+00:00"
+  },
+  {
+    "source": "Stellaris",
+    "reason": "scrape_index_returned_no_links",
+    "timestamp": "2026-10-07T06:16:24.280024+00:00"
   }
 ]

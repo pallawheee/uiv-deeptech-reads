@@ -1,6 +1,209 @@
 {
-  "last_updated": "2026-10-06T06:39:46.378866+00:00",
+  "last_updated": "2026-10-07T06:16:40.144670+00:00",
   "articles": [
+    {
+      "id": "1315fdceed0c6623",
+      "title": "WaveSave and its portable rubber dam",
+      "url": "https://www.technologyreview.com/2026/10/06/1145208/2026-climate-tech-companies-to-watch-wavesave-portable-rubber-dam/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "As sea levels rise and flood risks worsen due to global warming, WaveSave’s easy-to-erect portable dam offers a quick-response tool. People can use the dam to protect themselves and their property, and it can also store freshwater for later use. Communities in Europe, Africa, and Southeast Asia have deployed it successfully.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-10-07T06:16:16.824081+00:00"
+    },
+    {
+      "id": "29f79f05f7a5771b",
+      "title": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
+      "url": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "If the company can do both, with the same rocks in the same plant, it would unlock a cleaner and more efficient process for manufacturing building materials, aluminum, steel, and more. Brimstone is a code-switching climate tech company for these polarized political times. The US-based startup—part green cement company, part critical mineral producer—is well positioned to sustain its momentum no matter which party is in power.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-10-07T06:16:16.169635+00:00"
+    },
+    {
+      "id": "5f02ec49f88eef74",
+      "title": "Energy Dome and its carbon dioxide batteries",
+      "url": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up to 24 hours. As the world races to meet growing electricity demand, solar and onshore wind power have become the cheapest and quickest-to-deploy sources to install on the grid.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-10-07T06:16:15.578440+00:00"
+    },
+    {
+      "id": "3368ac9a5eb041b4",
+      "title": "X-energy and its helium-cooled nuclear reactors",
+      "url": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and chemicals. Solar panels and wind turbines are great at producing electricity but what heavy industry also needs is raw heat—and lots of it. The manufacture of concrete, glass, and steel, as well as the production of many chemicals, plastics, and fertilizers, are still highly reliant on fossil fuels to produce that heat.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-10-07T06:16:14.989305+00:00"
+    },
+    {
+      "id": "6388ce75c7621de5",
+      "title": "Form Energy and its iron batteries",
+      "url": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce electricity more affordably than fossil fuels in most places, but their output varies based on season, time of day, and weather.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-10-07T06:16:14.423819+00:00"
+    },
+    {
+      "id": "0d99da09dce3c017",
+      "title": "WeLion New Energy and its semi-solid-state batteries",
+      "url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships that transport goods across countries, more and more vehicles around us are powered by batteries.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-10-07T06:16:13.753268+00:00"
+    },
+    {
+      "id": "24024425cfd7205a",
+      "title": "Here’s how our climate team picked 10 promising companies to watch",
+      "url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023. This year is shaping up to be one of the hottest ever recorded. The world must begin to reduce greenhouse-gas emissions to address the climate crisis, which is already affecting communities around the globe.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-10-07T06:16:13.188982+00:00"
+    },
+    {
+      "id": "f7599f2b78a5fa4d",
+      "title": "2026 Climate Tech Companies to Watch",
+      "url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Whether early-stage startup or multinational corporation, the businesses we’ve chosen are working on technologies to help us address climate change or adapt to our warming world. There’s an urgent need for these innovators: We must begin to drastically reduce emissions to avoid the deadliest impacts of climate change, while also contending with its harmful effects. We hope that this list highlights the progress the world is making to tackle the climate crisis, as well as the breadth of solutions required.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-10-07T06:16:12.628685+00:00"
+    },
+    {
+      "id": "241e1c86ce584418",
+      "title": "The Download: 10 climate tech companies to watch",
+      "url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-06T12:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure",
+        "Semiconductors",
+        "Cybersecurity"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. 10 climate tech companies to watch\nEach year, MIT Technology Review puts together a list of the most promising climate tech companies in the world. This year, the stakes feel higher than ever.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-10-07T06:16:12.070512+00:00"
+    },
+    {
+      "id": "4935cae44cf2b152",
+      "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+      "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-06T16:40:36+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "Popular weight-loss drugs may do more than help people shed pounds. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular “aging clocks.”\nSuch clocks assess a person’s biological age by looking at changes to DNA that accumulate with time, or, in newer versions, by tracking levels of key proteins. Both companies found that overweight or diabetic patients taking the drugs, called GLP-1s, had reduced biological age compared to those taking a placebo, although the difference varied widely, depending on which type of clock was used, and what organ was tested.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-10-07T06:16:11.508097+00:00"
+    },
+    {
+      "id": "d1bed99127349613",
+      "title": "Exclusive: Blaze Energy Raises $6.5 Million for Low-Carbon Shipping Retrofits",
+      "url": "https://heatmap.news/climate-tech/blaze-shipping-fuel",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-06T11:00:04+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 31,
+      "fetched_at": "2026-10-07T06:16:09.713883+00:00"
+    },
+    {
+      "id": "919ec461643a98a7",
+      "title": "Greenland Green Lights a Major Rare Earths Mine",
+      "url": "https://heatmap.news/am/greenland-rare-earths",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-06T11:40:34+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-10-07T06:16:09.110172+00:00"
+    },
+    {
+      "id": "2cb267ec8088b41d",
+      "title": "Exclusive: Data Center Cancellations Top $260 Billion in 2026",
+      "url": "https://heatmap.news/daily/260-billion-data-center-opposition",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-06T22:16:22+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 17,
+      "fetched_at": "2026-10-07T06:16:08.515847+00:00"
+    },
     {
       "id": "0b212c3dbb3b0ad5",
       "title": "India Promised Its Scientists No Dearth Of Resources It Must Now Shift From Frugality To National Capability",
@@ -7596,205 +7799,6 @@
       "signal": "",
       "estimated_read_minutes": 19,
       "fetched_at": "2026-07-25T03:46:05.422594+00:00"
-    },
-    {
-      "id": "ebe5b7fd7b8ab552",
-      "title": "Weekly Dose of Optimism #203",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-203",
-      "source_name": "Not Boring",
-      "source_type": "substack",
-      "published_at": "2026-07-24T13:07:04+00:00",
-      "sectors": [
-        "Robotics"
-      ],
-      "excerpt": "At least here in New York City, the weather is 10/10, it’s a summer Friday, and you probably want to spend some time outside. So let’s cut this intro short and here’s an audio version (my AI voice, so please excuse the pronunciation of “a16z”) if you want to pop it in your ears and walk around. Peep the Extra Doses for some wild science, an excellent essay on the Frontier, and an absolutely stellar 50-year land art project.",
-      "signal": "",
-      "estimated_read_minutes": 14,
-      "fetched_at": "2026-07-25T03:46:03.654787+00:00"
-    },
-    {
-      "id": "0166899465fad3e9",
-      "title": "The power line that could reshape New York’s grid is hitting snags",
-      "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-23T09:00:00+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain Hudson Power Express (CHPE). It opened in May and is officially the longest underground transmission line in North America.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-07-24T03:52:21.931252+00:00"
-    },
-    {
-      "id": "feaf9ab57c84ebb2",
-      "title": "How AI helps scientists design the next generation of medicines",
-      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-23T12:00:00+00:00",
-      "sectors": [
-        "MedTech"
-      ],
-      "excerpt": "Machine learning models are helping to compress decade-long timelines and cracking problems that were previously unsolvable. In partnership withAstraZeneca\nDesigning and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment.",
-      "signal": "",
-      "estimated_read_minutes": 8,
-      "fetched_at": "2026-07-24T03:52:21.222480+00:00"
-    },
-    {
-      "id": "9068d159814ee874",
-      "title": "The Download: energy transmission and US threats against Chinese AI",
-      "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-23T12:10:00+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. The power line that could reshape New York’s grid is hitting snags\nDuring a heat wave on July 3, New York State’s grid imported enough electricity from Canada to meet about 9% of its total demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-07-24T03:52:20.514174+00:00"
-    },
-    {
-      "id": "58df669bf8b2ab10",
-      "title": "Koloma Strikes New Hydrogen Exploration Deal in the Philippines",
-      "url": "https://heatmap.news/sparks/koloma-philippines-deal",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-23T10:00:04+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 13,
-      "fetched_at": "2026-07-24T03:52:17.511286+00:00"
-    },
-    {
-      "id": "98332f211f366491",
-      "title": "Saudi Arabia Wins a Deal to Import American Nuclear Reactors",
-      "url": "https://heatmap.news/am/saudi-us-nuclear",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-23T11:57:11+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 17,
-      "fetched_at": "2026-07-24T03:52:16.666623+00:00"
-    },
-    {
-      "id": "6845d8b266cfc3f0",
-      "title": "Exclusive: Massachusetts EV Owners Can Now Get Paid to Power the Grid",
-      "url": "https://heatmap.news/electric-vehicles/massachusetts-vehicle-to-grid",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-23T12:30:02+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 21,
-      "fetched_at": "2026-07-24T03:52:16.070588+00:00"
-    },
-    {
-      "id": "3220f4ebabb93508",
-      "title": "How E-Scooter Company Lime Cut Its Supply Chain Emissions",
-      "url": "https://heatmap.news/sustainability/lime-supply-chain-emissions",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-23T16:00:02+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 23,
-      "fetched_at": "2026-07-24T03:52:15.473195+00:00"
-    },
-    {
-      "id": "465e6044aaeb95ed",
-      "title": "Crude at $100, Tariffs at Midnight",
-      "url": "https://heatmap.news/daily/trump-iran-100-tariffs",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-23T23:56:52+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 22,
-      "fetched_at": "2026-07-24T03:52:14.846467+00:00"
-    },
-    {
-      "id": "c7c426d79565d9db",
-      "title": "The Computer That Helped Win World War II",
-      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-07-22T18:00:01+00:00",
-      "sectors": [
-        "Defence"
-      ],
-      "excerpt": "A later report called it “strange new music.” Sounding unlike the familiar Morse dit-dit-dah of enciphered messages sent over the German Enigma network, the “new music” was a rhythmic warble of binary teletype code being transmitted at high speed. Germany’s wartime engineers had developed a radically new encryption and transmission system. It was way more advanced than Enigma, which was patented in 1920.",
-      "signal": "",
-      "estimated_read_minutes": 11,
-      "fetched_at": "2026-07-23T03:52:49.288998+00:00"
-    },
-    {
-      "id": "9fd8ef74af607a3f",
-      "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
-      "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-22T09:00:00+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a star during photography. It will allow astronomers to take the first pictures of planets orbiting other stars that are similar to those in our solar system.",
-      "signal": "",
-      "estimated_read_minutes": 8,
-      "fetched_at": "2026-07-23T03:52:47.910394+00:00"
-    },
-    {
-      "id": "4c631b99af105336",
-      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
-      "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-22T12:10:00+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure",
-        "Cybersecurity"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own\nWhen NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. It will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a star during photography.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-07-23T03:52:47.176424+00:00"
-    },
-    {
-      "id": "f09d075bafa19ffe",
-      "title": "A New Guesstimate for Corporate AI Emissions",
-      "url": "https://heatmap.news/energy/watershed-ai-emissions",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-22T12:00:02+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-07-23T03:52:44.707457+00:00"
     }
   ]
 }
