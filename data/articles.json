@@ -1,6 +1,129 @@
 {
-  "last_updated": "2026-10-07T06:16:40.144670+00:00",
+  "last_updated": "2026-10-08T06:26:05.555658+00:00",
   "articles": [
+    {
+      "id": "173bc6abf972673d",
+      "title": "Centre Rejects Elon Musk’s Claim On Starlink, Says Satcom Rules Non-Discriminatory",
+      "url": "https://inc42.com/buzz/centre-rejects-elon-musks-claim-on-starlink-says-satcom-rules-non-discriminatory/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-10-08T05:51:22+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-10-08T06:25:52.154881+00:00"
+    },
+    {
+      "id": "078441f7f5b19b2e",
+      "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
+      "url": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-10-07T13:49:48+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how policies trained on the dataset transfer to a real humanoid robot. What you will learn about:\n- Why humanoid robot learning, a central problem in embodied AI and Physical AI, needs data that internet video and existing motion capture datasets cannot provide.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-10-08T06:25:41.057355+00:00"
+    },
+    {
+      "id": "db23c0e6d497c6d6",
+      "title": "IEEE Report Predicts Tech That Will Transform Lives",
+      "url": "https://spectrum.ieee.org/ieee-report-predicts-tech",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-10-07T18:00:02+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "“We are seeing a fundamental shift in how technology evolves,” says IEEE Fellow Dejan Milojicic, chair of the IEEE Future Directions Committee’s Industry Advisory Board, the group responsible for the report. “Artificial intelligence is no longer operating in a vacuum; it is now deeply connected to our energy, infrastructure, and physical systems.” Milojicic, a Hewlett Packard Enterprise Fellow, is a vice president at HPE Labs in Milpitas, Calif. AI underpins many of the report’s 30 technologies and five “megatrends,” which are technology shifts with the potential to reshape industries and everyday life for decades.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-10-08T06:25:39.189829+00:00"
+    },
+    {
+      "id": "da9c28d8b55f5166",
+      "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+      "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-07T12:10:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers\nPopular weight-loss drugs may do more than help people shed pounds. Drugmakers Eli Lilly and Novo Nordisk say patients taking their GLP-1 drugs age less quickly, according to molecular “aging clocks” that track changes in DNA or levels of key proteins.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-10-08T06:25:37.982956+00:00"
+    },
+    {
+      "id": "e14e8607381b6893",
+      "title": "Transcript: The Tesla Alum Trying to Turn GM Into an American Battery Juggernaut",
+      "url": "https://heatmap.news/podcast/shift-key-155-kurt-kelty-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-07T09:00:05+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 57,
+      "fetched_at": "2026-10-08T06:25:35.905954+00:00"
+    },
+    {
+      "id": "b327fd3d63019aed",
+      "title": "The Tesla Alum Trying to Turn GM Into an American Battery Juggernaut",
+      "url": "https://heatmap.news/podcast/shift-key-155-kurt-kelty",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-07T09:10:04+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 56,
+      "fetched_at": "2026-10-08T06:25:35.256455+00:00"
+    },
+    {
+      "id": "f03639c064d3ebb6",
+      "title": "Google Inks a Deal to Uprate 11 Nuclear Reactors",
+      "url": "https://heatmap.news/am/google-constellation-nuclear",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-07T12:00:52+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 57,
+      "fetched_at": "2026-10-08T06:25:34.546402+00:00"
+    },
+    {
+      "id": "676f4afc4ca9e81f",
+      "title": "The Crucial Hardhat Union That Has Yet to Endorse the Permitting Bill",
+      "url": "https://heatmap.news/energy/baaja-ibew-unions",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-07T20:19:34+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 61,
+      "fetched_at": "2026-10-08T06:25:33.524091+00:00"
+    },
     {
       "id": "1315fdceed0c6623",
       "title": "WaveSave and its portable rubber dam",
@@ -7672,133 +7795,6 @@
       "signal": "",
       "estimated_read_minutes": 5,
       "fetched_at": "2026-07-25T03:46:11.680626+00:00"
-    },
-    {
-      "id": "a3b83c1d624825d5",
-      "title": "Transcript: What Barbecue Sauce Has in Common With Carbon Removal",
-      "url": "https://heatmap.news/podcast/shift-key-s3-e59-charm-industrial-transcript",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-24T09:00:03+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 74,
-      "fetched_at": "2026-07-25T03:46:10.184541+00:00"
-    },
-    {
-      "id": "2a3c95149b1798fa",
-      "title": "What Barbecue Sauce Has in Common With Carbon Removal",
-      "url": "https://heatmap.news/podcast/shift-key-s3-e59-charm-industrial",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-24T09:10:03+00:00",
-      "sectors": [
-        "Climate",
-        "MedTech"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 15,
-      "fetched_at": "2026-07-25T03:46:09.405690+00:00"
-    },
-    {
-      "id": "6481f07938f84ee2",
-      "title": "China Eyes a Major Increase in Renewable Energy Consumption",
-      "url": "https://heatmap.news/am/china-renewables-goal",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-24T11:37:58+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 22,
-      "fetched_at": "2026-07-25T03:46:08.785108+00:00"
-    },
-    {
-      "id": "38889a0f4145e834",
-      "title": "Is Quantum Computing Climate Tech?",
-      "url": "https://heatmap.news/climate-tech/quantum-computing",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-24T14:14:02+00:00",
-      "sectors": [
-        "Climate",
-        "Quantum Computing"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 24,
-      "fetched_at": "2026-07-25T03:46:08.160654+00:00"
-    },
-    {
-      "id": "94d0550d1ac9babd",
-      "title": "How the Trump Administration Turned a Solar Farm Into a Data Center",
-      "url": "https://heatmap.news/plus/the-fight/spotlight/townsite-solar-blm",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-24T18:51:02+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 19,
-      "fetched_at": "2026-07-25T03:46:07.416060+00:00"
-    },
-    {
-      "id": "722a97478a1f843d",
-      "title": "Anti-Solar Protests Are the Cool New Campaign Move in Wisconsin",
-      "url": "https://heatmap.news/plus/the-fight/hotspots/meta-wyoming-solar-wisconsin",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-24T19:01:19+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 19,
-      "fetched_at": "2026-07-25T03:46:06.793083+00:00"
-    },
-    {
-      "id": "33b90efe6645c8f2",
-      "title": "The Health Researcher Diving into Data Center Policy",
-      "url": "https://heatmap.news/plus/the-fight/qa/emma-uridge-kansas-health",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-24T19:07:26+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 19,
-      "fetched_at": "2026-07-25T03:46:06.171129+00:00"
-    },
-    {
-      "id": "5649d54f9a999787",
-      "title": "The U.S. Economy’s Omni-Trend",
-      "url": "https://heatmap.news/daily/us-economy-emissions-ai-google",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-24T21:24:09+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure",
-        "Semiconductors"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 19,
-      "fetched_at": "2026-07-25T03:46:05.422594+00:00"
     }
   ]
 }
