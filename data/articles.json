@@ -1,6 +1,182 @@
 {
-  "last_updated": "2026-10-08T06:26:05.555658+00:00",
+  "last_updated": "2026-10-09T06:27:36.153652+00:00",
   "articles": [
+    {
+      "id": "62811b6b953c230c",
+      "title": "Miko Maker Inner Sky Labs Unveils Foundation Models For Physical AI",
+      "url": "https://inc42.com/buzz/miko-maker-inner-sky-labs-unveils-foundation-models-for-physical-ai/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-10-08T11:41:08+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-10-09T06:27:26.199071+00:00"
+    },
+    {
+      "id": "d07e6967ea51e852",
+      "title": "Building a safer path to autonomous industrial AI",
+      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-08T08:17:32+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "In partnership withAVEVA\nIndustrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems, where an unexpected decision can have consequences for safety, reliability, and critical infrastructure.",
+      "signal": "",
+      "estimated_read_minutes": 28,
+      "fetched_at": "2026-10-09T06:27:09.049077+00:00"
+    },
+    {
+      "id": "5779b78eb98d9c87",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-08T09:00:00+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "The question is whether the same techniques that fueled AI’s recent progress will be enough to get there, or if an entirely new path is required. The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-10-09T06:27:08.437283+00:00"
+    },
+    {
+      "id": "b0bbe83c7af630df",
+      "title": "Why we’re watching these climate tech companies",
+      "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-08T10:00:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in the world of climate and energy technology. The list is always a little ray of hope for me—there are some fascinating ideas out there for changing how we power our world or moving away from fossil fuels to reduce the greenhouse-gas emissions that cause climate change.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-10-09T06:27:07.845261+00:00"
+    },
+    {
+      "id": "3685c1f117776242",
+      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+      "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-08T12:10:00+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon\nThe hype around humanoid robots is reaching fever pitch. Much of it comes from the idea that the same AI advances behind ChatGPT and Claude could enable robots to imitate human movement the way chatbots imitate human language.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-10-09T06:27:07.250232+00:00"
+    },
+    {
+      "id": "feab0ad4868e3e2e",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-09T00:08:24+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Available only for MIT Technology Review subscribers. Friday, October 16, 2026\nCan AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-10-09T06:27:06.651444+00:00"
+    },
+    {
+      "id": "61dd278b51782f3d",
+      "title": "The Crucial Hardhat Union That Has Yet to Endorse the Permitting Bill",
+      "url": "https://heatmap.news/politics/baaja-ibew-unions",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-07T20:19:34+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 61,
+      "fetched_at": "2026-10-09T06:27:05.119946+00:00"
+    },
+    {
+      "id": "80da6c8f87a4a8d3",
+      "title": "Low-Carbon Steel Company Hertha Metals Breaks Ground in Texas",
+      "url": "https://heatmap.news/climate-tech/hertha-metals-factory",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-08T11:00:05+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-10-09T06:27:04.509381+00:00"
+    },
+    {
+      "id": "b354e6dc64e22a1d",
+      "title": "Exxon Mobil Eyes Its Next Offshore Oil Patch After Guyana: Trinidad and Tobago",
+      "url": "https://heatmap.news/am/exxon-trinidad-tobago",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-08T12:15:01+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-10-09T06:27:03.887019+00:00"
+    },
+    {
+      "id": "7522950d165a535a",
+      "title": "Big Tech’s Nuclear Hedge",
+      "url": "https://heatmap.news/energy/nuclear-uprates-amazon-google",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-08T15:18:03+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-10-09T06:27:03.268243+00:00"
+    },
+    {
+      "id": "5b88fe5aabc97037",
+      "title": "Permitting Reform’s Battle Lines Are Taking Shape",
+      "url": "https://heatmap.news/daily/permitting-reform-current-system",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-09T01:03:30+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-10-09T06:27:02.649685+00:00"
+    },
     {
       "id": "173bc6abf972673d",
       "title": "Centre Rejects Elon Musk’s Claim On Starlink, Says Satcom Rules Non-Discriminatory",
@@ -7619,182 +7795,6 @@
       "signal": "",
       "estimated_read_minutes": 9,
       "fetched_at": "2026-07-28T03:45:01.946667+00:00"
-    },
-    {
-      "id": "019f99f4d633a5c0",
-      "title": "The path to artificial superintelligence",
-      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-27T12:00:00+00:00",
-      "sectors": [
-        "MedTech",
-        "Semiconductors"
-      ],
-      "excerpt": "In partnership withOutshift by Cisco\nImagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate patient care without a human making the decisions.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-07-28T03:45:01.383795+00:00"
-    },
-    {
-      "id": "3c45661bee203069",
-      "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
-      "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-27T12:10:00+00:00",
-      "sectors": [
-        "MedTech",
-        "AI Infrastructure",
-        "Semiconductors"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. How lasers could help provide fuel for nuclear reactors\nNuclear power provides about 9% of global electricity today, and that fraction could tick up as countries look to build new reactors. New, cheaper methods to obtain fuel could help ensure that those nuclear projects stay on track.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-07-28T03:45:00.823534+00:00"
-    },
-    {
-      "id": "79cfa96755675de3",
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-27T18:00:00+00:00",
-      "sectors": [
-        "AI Infrastructure",
-        "Cybersecurity"
-      ],
-      "excerpt": "A decade-old experiment showed OpenAI how far an AI will go to achieve the goals it’s given. This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-07-28T03:45:00.195054+00:00"
-    },
-    {
-      "id": "f58c59e497d85c24",
-      "title": "France and Spain Are Burning",
-      "url": "https://heatmap.news/am/france-spain-fires",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-27T12:26:54+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-07-28T03:44:58.623776+00:00"
-    },
-    {
-      "id": "9d2b851735700724",
-      "title": "Scoop: Clearway Asks Trump to Swap Solar Farm for Data Center and Gas Plant",
-      "url": "https://heatmap.news/energy/clearway-nevada-data-center-solar",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-27T17:22:58+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-07-28T03:44:57.765620+00:00"
-    },
-    {
-      "id": "c2e2b0255f300e75",
-      "title": "How to Use a Chatbot to Evacuate a City",
-      "url": "https://heatmap.news/adaptation/simplicity-axonis-ai-floods",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-27T20:59:04+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 23,
-      "fetched_at": "2026-07-28T03:44:57.140021+00:00"
-    },
-    {
-      "id": "505fa71f68c55291",
-      "title": "The Next Wave of Climate Extremes Is Taking Shape",
-      "url": "https://heatmap.news/daily/climate-politics-wildfires-el-nino",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-28T00:27:29+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 24,
-      "fetched_at": "2026-07-28T03:44:56.509295+00:00"
-    },
-    {
-      "id": "b77bd88ff48cfc58",
-      "title": "Reading List 07/25/26",
-      "url": "https://www.construction-physics.com/p/reading-list-072526",
-      "source_name": "Construction Physics",
-      "source_type": "substack",
-      "published_at": "2026-07-25T14:01:08+00:00",
-      "sectors": [
-        "Climate",
-        "Semiconductors"
-      ],
-      "excerpt": "Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure, and industrial technology. This week we look at China’s EV subsidies, the future of aeroderivative gas turbines, a US-Saudi nuclear deal, defective roadway guardrails, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber.",
-      "signal": "",
-      "estimated_read_minutes": 4,
-      "fetched_at": "2026-07-26T04:04:54.671830+00:00"
-    },
-    {
-      "id": "954a8d8ee35d3eb7",
-      "title": "AI is Oil, Not God",
-      "url": "https://www.notboring.co/p/ai-is-oil-not-god",
-      "source_name": "Not Boring",
-      "source_type": "substack",
-      "published_at": "2026-07-25T17:25:07+00:00",
-      "sectors": [
-        "Defence",
-        "AI Infrastructure"
-      ],
-      "excerpt": "The past couple of days have been a technology business strategy nerd’s Super Bowl plus a Pro-Progress Person’s Super Bowl. Whenever you combine commoditizing complements with fighting the precautionary principle, I’m not going to be able to stop myself from writing something. This is lightly edited and is just my quick thoughts, so I’m throwing a bunch of it behind the paywall for the real ones (not boring world subscribers).",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-07-26T04:04:53.399272+00:00"
-    },
-    {
-      "id": "87b839503197ad74",
-      "title": "2022 IEEE President K.J. Ray Liu Honored for His Leadership",
-      "url": "https://spectrum.ieee.org/ieee-president-ray-liu-award",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-07-24T18:00:01+00:00",
-      "sectors": [
-        "Semiconductors"
-      ],
-      "excerpt": "Growing up in Taichung, Taiwan, he answered his government’s call for students to become electrical engineers to help manufacture semiconductors in the 1970s, when the country’s economy was struggling. “Students who were good in math, science, and physics all wanted to be an electrical engineer because that was the top priority of the government,” Liu says. Now Taiwan is a world leader in semiconductors.”\nK.J.",
-      "signal": "",
-      "estimated_read_minutes": 10,
-      "fetched_at": "2026-07-25T03:46:13.599020+00:00"
-    },
-    {
-      "id": "9c86db8d4e4adc57",
-      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
-      "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-24T12:10:00+00:00",
-      "sectors": [
-        "Defence",
-        "Robotics",
-        "Climate",
-        "MedTech",
-        "AI Infrastructure"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”\nWhen it comes to organ donation, time is everything. As soon as an organ has been removed from a donor’s body, it starts to deteriorate.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-07-25T03:46:11.680626+00:00"
     }
   ]
 }
