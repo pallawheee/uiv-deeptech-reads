@@ -1,6 +1,151 @@
 {
-  "last_updated": "2026-10-09T06:27:36.153652+00:00",
+  "last_updated": "2026-10-10T06:10:04.585800+00:00",
   "articles": [
+    {
+      "id": "b14be23d64c1650b",
+      "title": "Master AI Chip Principles With New IEEE Design Program",
+      "url": "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-10-09T18:00:02+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "The acceleration is driven by a fundamental shift in how modern AI models are built and scaled. As the models have become much larger and more complex, they are computationally more demanding because they contain more parameters and require more calculations. To meet the demands of scaling deep neural networks, the industry is increasingly developing AI chips that are designed for specific tasks.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-10-10T06:09:37.358398+00:00"
+    },
+    {
+      "id": "56b2964b69beea5b",
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-09T09:00:00+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "excerpt": "But AI refusal is far from foolproof—and could become an instrument of repression. Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-10-10T06:09:36.141807+00:00"
+    },
+    {
+      "id": "2b5bee13006e92b5",
+      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-09T12:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "MedTech",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. We’re putting too much faith in AI’s ability to say no\nToday’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison a colleague or how to tie a noose, chances are it’ll turn you down.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-10-10T06:09:35.526309+00:00"
+    },
+    {
+      "id": "636030af2cdaff05",
+      "title": "Hurricane Isaias Halts Two-Thirds of U.S. Gulf Oil Production",
+      "url": "https://heatmap.news/am/isaias-gulf-oil",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-09T11:47:06+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-10-10T06:09:33.951363+00:00"
+    },
+    {
+      "id": "676fe7f1e8a278f3",
+      "title": "Pity the Next Insurance Commissioner of Oklahoma",
+      "url": "https://heatmap.news/politics/oklahoma-insurance-commissioner",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-09T13:15:03+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 29,
+      "fetched_at": "2026-10-10T06:09:33.173100+00:00"
+    },
+    {
+      "id": "13a744f0a165112d",
+      "title": "Dynamic Electricity Pricing Cuts Both Ways for EVs",
+      "url": "https://heatmap.news/electric-vehicles/electricity-prices-ev-charging",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-09T17:43:02+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 27,
+      "fetched_at": "2026-10-10T06:09:32.490302+00:00"
+    },
+    {
+      "id": "9d91235686152b86",
+      "title": "The Data Center Backlash Is Coming for Permitting Reform",
+      "url": "https://heatmap.news/plus/the-fight/spotlight/data-centers-permitting",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-09T17:52:54+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-10-10T06:09:31.820537+00:00"
+    },
+    {
+      "id": "f4fe9ee72c3febe2",
+      "title": "Data Center Outrage Catches Up to Renewables Outrage in Michigan",
+      "url": "https://heatmap.news/plus/the-fight/hotspots/michigan-data-centers-midterms",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-09T17:59:08+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-10-10T06:09:31.207135+00:00"
+    },
+    {
+      "id": "a9b273c49e9fc74f",
+      "title": "Why the Wilderness Society Backs a Data Center Moratorium",
+      "url": "https://heatmap.news/plus/the-fight/qa/wilderness-society-data-centers",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-09T18:01:04+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-10-10T06:09:30.542327+00:00"
+    },
     {
       "id": "62811b6b953c230c",
       "title": "Miko Maker Inner Sky Labs Unveils Foundation Models For Physical AI",
@@ -7654,147 +7799,6 @@
       "signal": "",
       "estimated_read_minutes": 1,
       "fetched_at": "2026-07-29T03:49:15.743828+00:00"
-    },
-    {
-      "id": "8980e8ef2e88a0cd",
-      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-28T09:18:57+00:00",
-      "sectors": [
-        "AI Infrastructure",
-        "Semiconductors"
-      ],
-      "excerpt": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on how to draft a stellar personal statement.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-07-29T03:49:03.642112+00:00"
-    },
-    {
-      "id": "ae2fe667073979a9",
-      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
-      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-28T12:10:00+00:00",
-      "sectors": [
-        "Robotics",
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "OpenAI called the Hugging Face attack unprecedented. —Will Douglas Heaven, senior AI editor\nReading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got genuine chills about what large language models are now able to do. But this is a case of human hubris, not rogue AI.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-07-29T03:49:03.048251+00:00"
-    },
-    {
-      "id": "f4c28102eaf83760",
-      "title": "Europe’s ‘Hardest’ Challenge ‘Since World War II’",
-      "url": "https://heatmap.news/am/europe-wildfires-heatwave",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-28T12:49:40+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 25,
-      "fetched_at": "2026-07-29T03:49:00.512503+00:00"
-    },
-    {
-      "id": "d85fbdba48888787",
-      "title": "The Tesla Diner Is a Runaway Success. But Not for the Reason You’d Think.",
-      "url": "https://heatmap.news/electric-vehicles/tesla-diner-defense",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-28T16:16:29+00:00",
-      "sectors": [
-        "Robotics",
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 25,
-      "fetched_at": "2026-07-29T03:48:59.758219+00:00"
-    },
-    {
-      "id": "906c03fad42d08f6",
-      "title": "America’s Largest Electricity Market Lurches Towards Reform",
-      "url": "https://heatmap.news/energy/pjm-interconnection-reforms",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-28T21:21:19+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 24,
-      "fetched_at": "2026-07-29T03:48:59.023514+00:00"
-    },
-    {
-      "id": "b5dc0067a84a8223",
-      "title": "The Data Center Backlash Is Splitting MAGA",
-      "url": "https://heatmap.news/daily/data-center-backlash-maga",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-28T23:22:44+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 23,
-      "fetched_at": "2026-07-29T03:48:58.386983+00:00"
-    },
-    {
-      "id": "d2472d024c1dbbbb",
-      "title": "Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare",
-      "url": "https://content.knowledgehub.wiley.com/improving-the-capabilities-of-cognitive-radar-and-electronic-warfare-systems/",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-07-27T17:54:07+00:00",
-      "sectors": [
-        "Cybersecurity"
-      ],
-      "excerpt": "This White Paper provides engineers and researchers with a comprehensive overview of how mode-agile threats are outpacing traditional static library radar/EW systems — and how cognitive AI/ML architectures enable adaptive, autonomous countermeasures in contested RF environments. What you will learn about:\n- Why mode-agile threat emitters render traditional static threat library systems ineffective, deploying unexpected frequencies, modulation techniques, and hopping schemes that cannot be matched against predefined databases. - How artificial neural networks, deep neural networks, fuzzy logic, and genetic algorithms form the AI/ML foundation of cognitive radar/EW systems capable of autonomous threat classification and real-time countermeasure generation.",
-      "signal": "",
-      "estimated_read_minutes": 2,
-      "fetched_at": "2026-07-28T03:45:05.390210+00:00"
-    },
-    {
-      "id": "cc4e3f6d6e64b2d4",
-      "title": "Building the enterprise environment for agentic AI",
-      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-27T11:32:58+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "Provided byIntel\nFor the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the ability to predictably plan and scale agents.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-07-28T03:45:02.566110+00:00"
-    },
-    {
-      "id": "0a9b60fb4c575c08",
-      "title": "Closing the data loop in AI-driven drug discovery",
-      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-27T11:40:16+00:00",
-      "sectors": [
-        "MedTech"
-      ],
-      "excerpt": "But this speed is exposing physical bottlenecks in the lab, and a need for better data. In partnership withCytiva\nDrug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law.",
-      "signal": "",
-      "estimated_read_minutes": 9,
-      "fetched_at": "2026-07-28T03:45:01.946667+00:00"
     }
   ]
 }
