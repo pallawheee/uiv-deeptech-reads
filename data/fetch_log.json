@@ -3,17 +3,6 @@
     "url": "https://blume.vc/commentaries/credit-series-chapter-1-msme-secured-credit-lap",
     "source": "Blume Ventures",
     "reason": "scrape_failed",
-    "timestamp": "2026-08-11T02:34:03.060024+00:00"
-  },
-  {
-    "source": "Stellaris",
-    "reason": "scrape_index_returned_no_links",
-    "timestamp": "2026-08-11T02:34:07.480142+00:00"
-  },
-  {
-    "url": "https://blume.vc/commentaries/credit-series-chapter-1-msme-secured-credit-lap",
-    "source": "Blume Ventures",
-    "reason": "scrape_failed",
     "timestamp": "2026-08-12T03:03:43.605232+00:00"
   },
   {
@@ -537,5 +526,16 @@
     "source": "Stellaris",
     "reason": "scrape_index_returned_no_links",
     "timestamp": "2026-10-10T06:09:49.780732+00:00"
+  },
+  {
+    "url": "https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE",
+    "source": "IEEE Spectrum",
+    "reason": "scrape_failed",
+    "timestamp": "2026-10-11T06:07:10.437352+00:00"
+  },
+  {
+    "source": "Stellaris",
+    "reason": "scrape_index_returned_no_links",
+    "timestamp": "2026-10-11T06:07:19.263400+00:00"
   }
 ]
