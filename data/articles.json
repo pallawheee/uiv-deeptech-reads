@@ -1,6 +1,38 @@
 {
-  "last_updated": "2026-10-11T06:07:36.227540+00:00",
+  "last_updated": "2026-10-12T06:16:49.770588+00:00",
   "articles": [
+    {
+      "id": "507df70060d040c8",
+      "title": "India’s Cleantech Funding Boom, The AI Safety Drill & More",
+      "url": "https://inc42.com/buzz/indias-cleantech-funding-boom-the-ai-safety-drill-more/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-10-12T02:30:03+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-10-12T06:16:47.246593+00:00"
+    },
+    {
+      "id": "e30321d31bb0b52f",
+      "title": "The Long Shadow Of A Gpu Second And Third Order Effects Of The Ai Compute Build Out",
+      "url": "https://3one4capital.com/blogs/the-long-shadow-of-a-gpu-second-and-third-order-effects-of-the-ai-compute-build-out",
+      "source_name": "3one4 Capital",
+      "source_type": "blog",
+      "published_at": "2026-10-12T06:16:40.266444+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "Public attention has focused on frontier foundational models, autonomous agents, and conversational interfaces designed to replace or augment cognitive labour. However, the more consequential narrative of this technological era is unfolding far beneath the software layer. The build-out of AI compute has become, in less than 36 months, the largest industrial capital cycle since the post-war reconstruction of Europe.",
+      "signal": "",
+      "estimated_read_minutes": 17,
+      "fetched_at": "2026-10-12T06:16:40.266842+00:00"
+    },
     {
       "id": "51868ed4b8311438",
       "title": "EV Bets Drive India’s Cleantech Funding Surge In Q3",
@@ -7766,40 +7798,6 @@
       "signal": "",
       "estimated_read_minutes": 92,
       "fetched_at": "2026-07-30T03:40:16.650078+00:00"
-    },
-    {
-      "id": "f38de946b2914f23",
-      "title": "Trump Bans Chinese Inverters",
-      "url": "https://heatmap.news/am/chinese-inverter-ban",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-29T12:41:03+00:00",
-      "sectors": [
-        "Robotics",
-        "Climate",
-        "AI Infrastructure",
-        "Cybersecurity"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 104,
-      "fetched_at": "2026-07-30T03:40:15.953909+00:00"
-    },
-    {
-      "id": "60e98bddd9f4db3b",
-      "title": "Meta Down, Permitting Odds Up",
-      "url": "https://heatmap.news/daily/meta-microsoft-permitting-reform",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-29T23:09:47+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 103,
-      "fetched_at": "2026-07-30T03:40:15.138569+00:00"
     }
   ]
 }
