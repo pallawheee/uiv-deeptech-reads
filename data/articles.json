@@ -1,6 +1,144 @@
 {
-  "last_updated": "2026-10-12T06:16:49.770588+00:00",
+  "last_updated": "2026-10-13T06:57:27.372505+00:00",
   "articles": [
+    {
+      "id": "274e79ebe6709c5f",
+      "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
+      "url": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-10-12T10:00:03+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "This White Paper provides roboticists and control engineers with a comprehensive overview of how motion planning and motion tracking can be decoupled to preserve professional athletic style in humanoid robots, and why adaptive, speed-aware control is essential for closing the gap between simulation and real-world deployment. What you will learn about:\n- Why combining a professional athlete’s motion style with reliable task performance remains an open challenge in humanoid ball-sports robotics, and how separating a high-level planner from a low-level tracker addresses this trade-off. - How motion data extracted from broadcast video and motion-capture recordings can be reconstructed, retargeted, and physically corrected into reference motions a humanoid robot can safely track.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-10-13T06:57:10.113537+00:00"
+    },
+    {
+      "id": "b795e824f954fe02",
+      "title": "First Utility-Scale Enhanced Geothermal Plant Goes Live",
+      "url": "https://spectrum.ieee.org/fervo-cape-station-geothermal",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-10-12T13:00:02+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "The geothermal startup Fervo Energy is now selling power to the grid from its Cape Station project in Utah — marking the first time a utility-scale, next-generation geothermal facility has achieved such a feat worldwide. The Houston-based firm turned on an initial 33-megawatt unit late last week and has been testing and ramping up output since then. On Thursday, Fervo will officially begin commercial operations, supplying carbon-free electricity to Shell Energy, a retail power provider in California.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-10-13T06:57:08.301800+00:00"
+    },
+    {
+      "id": "5601d824d949d0d3",
+      "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
+      "url": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-10-12T18:00:02+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Gurmeet Saran works to find that answer every day as an engineer at Anthropic in San Francisco, the AI research company behind Claude. The IEEE senior member is developing an infrastructure to understand the mechanics behind the chatbot’s behavior and to ensure its underlying architecture produces reliable outputs. Gurmeet Saran\nEmployer\nAnthropic in San Francisco\nTitle\nMember of technical staff\nMember grade\nIEEE senior member\nAlma maters\nUniversity of Kalyani, in India; Birla Institute of Technology and Science, in Pilani, India\n“My job is to make sure the data is accurate, structured, and trustworthy, and that private data stays private,” he says.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-10-13T06:57:07.726468+00:00"
+    },
+    {
+      "id": "d1ef128980986ea5",
+      "title": "The ecologist revealing the invisible networks that revive rainforests",
+      "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-12T09:00:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Daisy Dent aims to help forests rebuild themselves. In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-like canopies of mature growth. Forest ecologist Daisy Dent, a senior scientist at ETH Zurich, oversees this sequence of plots across the Barro Colorado Nature Monument, some of which date as far back as the 19th century.",
+      "signal": "",
+      "estimated_read_minutes": 9,
+      "fetched_at": "2026-10-13T06:57:04.960882+00:00"
+    },
+    {
+      "id": "82775f5f2f8c3e76",
+      "title": "Mars may be a hellhole, but the moon is not far behind",
+      "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-12T09:37:02+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate"
+      ],
+      "excerpt": "There are just a few obstacles in the way. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-10-13T06:57:04.397782+00:00"
+    },
+    {
+      "id": "b79e02c35886fe95",
+      "title": "The Download: moon city problems and drone traffic controllers",
+      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-12T12:10:00+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Mars may be a hellhole, but the moon is not far behind\nThe US and China are racing to build bases on the moon, with NASA hoping to establish a small lunar city by the end of the century. But the moon is a tremendously hostile place to set up camp.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-10-13T06:57:03.745682+00:00"
+    },
+    {
+      "id": "e3302c8dc31b2200",
+      "title": "Jared Huffman Wants to See Some Changes to the Senate’s Permitting Bill",
+      "url": "https://heatmap.news/politics/jared-huffman-baaja",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-12T10:53:02+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 29,
+      "fetched_at": "2026-10-13T06:57:02.385415+00:00"
+    },
+    {
+      "id": "363f65ceb872f650",
+      "title": "A Trio of Powerful Storms Slam into North America",
+      "url": "https://heatmap.news/am/isaias-simon-rachel",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-12T11:53:06+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 29,
+      "fetched_at": "2026-10-13T06:57:01.789470+00:00"
+    },
+    {
+      "id": "c02be359f7b3df1b",
+      "title": "How the Godzilla El Niño Will Drench California",
+      "url": "https://heatmap.news/climate/california-el-nino",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-12T19:43:03+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 31,
+      "fetched_at": "2026-10-13T06:57:00.946962+00:00"
+    },
     {
       "id": "507df70060d040c8",
       "title": "India’s Cleantech Funding Boom, The AI Safety Drill & More",
@@ -7658,146 +7796,6 @@
       "signal": "",
       "estimated_read_minutes": 28,
       "fetched_at": "2026-07-31T03:59:25.512913+00:00"
-    },
-    {
-      "id": "c8104e5ab9292bc4",
-      "title": "Commonwealth Fusion Systems’ Big Raise",
-      "url": "https://heatmap.news/am/commonwealth-fusion-billion",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-30T12:30:37+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 27,
-      "fetched_at": "2026-07-31T03:59:24.768471+00:00"
-    },
-    {
-      "id": "357921ea2ff00973",
-      "title": "Exclusive: Over 530 Local Laws Now Seek to Ban or Restrict Data Centers",
-      "url": "https://heatmap.news/politics/data-center-local-laws-bans-total",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-30T23:35:13+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 25,
-      "fetched_at": "2026-07-31T03:59:24.123155+00:00"
-    },
-    {
-      "id": "62ef58c30416a271",
-      "title": "AI Is Hyper-Scaling Digital Inequality",
-      "url": "https://spectrum.ieee.org/ai-digital-divide",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-07-29T11:00:04+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, health care, finance, and public administration. Industry leaders talk about “AI for everyone,” while governments rush to publish national AI strategies and build sovereign compute. Yet over the past decade, working on digital inclusion and digital literacy projects in regions from Europe to sub-Saharan Africa and Southeast Asia, I’ve seen the same pattern repeat: Each new wave of “transformative” technology lands on a landscape already stratified by connectivity, skills, and institutional capacity.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-07-30T03:40:23.567802+00:00"
-    },
-    {
-      "id": "e012bc9b22d358bb",
-      "title": "The AI Hype Index: Unsexy AI",
-      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-29T08:42:57+00:00",
-      "sectors": [
-        "Robotics",
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "The fact it may soon be better than you at making dinner? But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some, oddly sexy?) robotic hands in a July demo. While the tech community was sharply divided over the appeal of those disembodied hands, almost everyone can agree that a few things are decidedly not sexy: Grok’s porn-pilled translation feature, Meta’s creepy glasses (which may soon get even creepier), and Big Tech’s emissions (which continue to skyrocket).",
-      "signal": "",
-      "estimated_read_minutes": 2,
-      "fetched_at": "2026-07-30T03:40:22.108446+00:00"
-    },
-    {
-      "id": "8c061c713937680c",
-      "title": "The Download: a chip talent battle, and deflating AI hype",
-      "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-29T12:10:00+00:00",
-      "sectors": [
-        "Robotics",
-        "AI Infrastructure",
-        "Semiconductors"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix\nLee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-07-30T03:40:21.518790+00:00"
-    },
-    {
-      "id": "71258d9f6a7e044a",
-      "title": "How an overlooked geothermal plant got a second chance",
-      "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-29T17:58:44+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again, thanks to a new well. With the help of advanced modeling and modern drilling technology, the company was able to identify a better potential well site, drill down thousands of feet, and revive the entire operation.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-07-30T03:40:20.924710+00:00"
-    },
-    {
-      "id": "9fdb80d78c47181f",
-      "title": "What a Permitting Reform Deal Could Look Like",
-      "url": "https://heatmap.news/podcast/permitting-reform-arnold-ventures-daniel-palken",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-29T09:00:02+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 28,
-      "fetched_at": "2026-07-30T03:40:18.173953+00:00"
-    },
-    {
-      "id": "1d1d4c3f7de21a17",
-      "title": "Transcript: What a Permitting Reform Deal Could Look Like",
-      "url": "https://heatmap.news/podcast/permitting-reform-arnold-ventures-daniel-palken-transcript",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-29T09:15:05+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 103,
-      "fetched_at": "2026-07-30T03:40:17.513123+00:00"
-    },
-    {
-      "id": "fd85e13377b09b1d",
-      "title": "One Corporate Emissions Standard to Rule Them All",
-      "url": "https://heatmap.news/sustainability/ghg-protocol-iso-update-scope-2",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-29T12:00:04+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 92,
-      "fetched_at": "2026-07-30T03:40:16.650078+00:00"
     }
   ]
 }
