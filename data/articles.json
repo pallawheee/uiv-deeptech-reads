@@ -1,6 +1,116 @@
 {
-  "last_updated": "2026-10-13T06:57:27.372505+00:00",
+  "last_updated": "2026-10-14T05:10:06.448296+00:00",
   "articles": [
+    {
+      "id": "aa865376889f85c4",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-13T10:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the powerful new model, released in August by the Chinese company Z.ai, is freely available for anyone to download and modify. Anthropic’s assertion is only the latest move in a long-running debate about whether frontier AI models should be made open, like GLM-5.3, or should stay locked behind the doors of the frontier labs.",
+      "signal": "",
+      "estimated_read_minutes": 14,
+      "fetched_at": "2026-10-14T05:09:41.478980+00:00"
+    },
+    {
+      "id": "922f233d2b026cbd",
+      "title": "The Download: open model trade-offs and geothermal power’s promise",
+      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-13T12:00:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Anthropic recently released a report arguing that a powerful new model released by the Chinese company Z.ai, poses a major cyberattack risk. Its core concern was that it is freely available for anyone to download and modify.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-10-14T05:09:40.848000+00:00"
+    },
+    {
+      "id": "efb37da81e4817f1",
+      "title": "The Wrong Kind of Abundance?",
+      "url": "https://heatmap.news/daily/math-problems-openai",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-13T01:33:33+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-10-14T05:09:38.654636+00:00"
+    },
+    {
+      "id": "5498c6393eb91aaa",
+      "title": "TotalEnergies Buys a Bunch of U.S. Solar After Axing Offshore Wind",
+      "url": "https://heatmap.news/am/totalenergies-solar",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-13T11:55:36+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-10-14T05:09:37.863923+00:00"
+    },
+    {
+      "id": "b86a8fdacdf4de1d",
+      "title": "How to Sue an Energy Project After the Permitting Bill",
+      "url": "https://heatmap.news/politics/permitting-bill-nepa",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-13T21:54:14+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 30,
+      "fetched_at": "2026-10-14T05:09:37.210627+00:00"
+    },
+    {
+      "id": "e91854d7a64e258a",
+      "title": "Is Trump Trying to Blow Up the Permitting Deal?",
+      "url": "https://heatmap.news/daily/trump-permitting-deal-offshore-wind",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-13T22:52:50+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-10-14T05:09:36.430886+00:00"
+    },
+    {
+      "id": "318a0d5fdf5a3d86",
+      "title": "Runway: Learning From Watching the World",
+      "url": "https://www.notboring.co/p/runway-learning-from-watching-the",
+      "source_name": "Not Boring",
+      "source_type": "substack",
+      "published_at": "2026-10-13T12:45:27+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate"
+      ],
+      "excerpt": "Join 281,011 smart, curious folks by subscribing here:\nHi friends 👋,\nHappy Tuesday! A couple of weeks ago, I mentioned that I was partnering with Runway this quarter as our presenting sponsor to bring some of my writing to life in the form of video. It took us a while to land on the right partner to form a deeper relationship with — it has to be a company I want to talk about a bunch — but when Runway reached out, it was a clear perfect fit.",
+      "signal": "",
+      "estimated_read_minutes": 53,
+      "fetched_at": "2026-10-14T05:09:33.579046+00:00"
+    },
     {
       "id": "274e79ebe6709c5f",
       "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
@@ -7685,117 +7795,6 @@
       "signal": "",
       "estimated_read_minutes": 15,
       "fetched_at": "2026-08-01T03:59:20.139196+00:00"
-    },
-    {
-      "id": "c2c7859da0442d2c",
-      "title": "Weekly Dose of Optimism #204",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-204",
-      "source_name": "Not Boring",
-      "source_type": "substack",
-      "published_at": "2026-07-31T12:47:27+00:00",
-      "sectors": [
-        "Robotics",
-        "AI Infrastructure"
-      ],
-      "excerpt": "The pace of all of this good stuff continues to blow my mind. “How can things get any better than this?” I asked myself. And then the big tech companies came out in favor of open-weight models out of pure self-interest, which I wrote about in AI is Oil, Not God.",
-      "signal": "",
-      "estimated_read_minutes": 10,
-      "fetched_at": "2026-08-01T03:59:18.124508+00:00"
-    },
-    {
-      "id": "b53b0936eba10915",
-      "title": "Detect Dark Matter’s Mark From Your Backyard",
-      "url": "https://spectrum.ieee.org/dark-matter",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-07-30T14:00:03+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "But they’ve determined that this invisible material must be far more abundant than the stars and nebulas that they can see. They’ve surmised as much from observing the gravitational effects of all this perplexing dark stuff, launching a decades-long campaign to understand its nature. I recently learned that it is possible to sense the presence of dark matter using a small radio telescope such as the Discovery Dish covered in these pages last year.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-07-31T03:59:30.520979+00:00"
-    },
-    {
-      "id": "4feed46575317f68",
-      "title": "IEEE Publishing Ethics Team Upholds Research Integrity",
-      "url": "https://spectrum.ieee.org/ieee-publishing-ethics-research-integrity",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-07-30T18:00:03+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "The group also works to increase the organization’s visibility in the broader publishing ethics area and helps IEEE volunteers write new policies. Here are some highlights of the team’s activities last year. New detection tools\nIEEE conducted a pilot program in 2024 to integrate tools from the International Association of Scientific, Technical, and Medical Publishers (STM) Integrity Hub into the peer-review workflow of IEEE Access.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-07-31T03:59:29.938486+00:00"
-    },
-    {
-      "id": "94e9e4b193c20066",
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-30T10:15:19+00:00",
-      "sectors": [
-        "Defence",
-        "AI Infrastructure"
-      ],
-      "excerpt": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which is being used in more and more applications, from government and military systems to online shopping and health care. By taking advantage of this flaw, which concerns how LLMs identify who or what is giving them instructions, the researchers were able to make popular LLMs spit out information they had been trained not to provide, such as how to synthesize cocaine and how to sabotage a commercial aircraft’s navigation system.",
-      "signal": "",
-      "estimated_read_minutes": 9,
-      "fetched_at": "2026-07-31T03:59:28.326631+00:00"
-    },
-    {
-      "id": "7cb09c16dd6dcdb3",
-      "title": "The Download: tricking LLMs, and reviving geothermal plants",
-      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-30T12:10:00+00:00",
-      "sectors": [
-        "Robotics",
-        "Climate",
-        "AI Infrastructure",
-        "Semiconductors"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack\nIt is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at a top AI conference earlier this month. The flaw concerns how LLMs identify who or what is giving them instructions.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-07-31T03:59:27.767715+00:00"
-    },
-    {
-      "id": "b12eb2c800c90cd7",
-      "title": "Montana’s plan to become an experimental medical hub just pushed forward",
-      "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-30T17:10:00+00:00",
-      "sectors": [
-        "Defence",
-        "MedTech"
-      ],
-      "excerpt": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the company can set the price of the drug and sell it via experimental treatment clinics, the first of which is likely to be up and running around the end of this year.",
-      "signal": "",
-      "estimated_read_minutes": 12,
-      "fetched_at": "2026-07-31T03:59:27.206833+00:00"
-    },
-    {
-      "id": "8d4b985de4bd959f",
-      "title": "Commonwealth Fusion Systems Wins Over New Class of Investors With $1 Billion Raise",
-      "url": "https://heatmap.news/energy/commonwealth-fusion-systems-new-raise-investors",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-30T04:09:33+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 28,
-      "fetched_at": "2026-07-31T03:59:25.512913+00:00"
     }
   ]
 }
