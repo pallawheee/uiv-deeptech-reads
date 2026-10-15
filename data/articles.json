@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-10-14T05:10:06.448296+00:00",
+  "last_updated": "2026-10-15T04:58:47.863662+00:00",
   "articles": [
+    {
+      "id": "8f10ede426bad6c4",
+      "title": "Scimplify Bags $25 Mn To Scale Its Semiconductor Chemicals Business",
+      "url": "https://inc42.com/buzz/scimplify-bags-25-mn-to-scale-its-semiconductor-chemicals-business/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-10-14T17:11:43+00:00",
+      "sectors": [
+        "Semiconductors"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-10-15T04:58:40.017539+00:00"
+    },
+    {
+      "id": "3bc622338f9ac65b",
+      "title": "The US military’s race to make fake blood",
+      "url": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-14T09:00:00+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "In February 2007, the hulking dual-rotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, when another call came: an emergency mission to fly through an insurgent-controlled area in broad daylight. Typically, helicopters would be in a spot like this only at night, and with all lights turned off. As it passed near the city of Karmah, in the eastern side of Al-Anbar province, an insurgent fired a portable missile launcher.",
+      "signal": "",
+      "estimated_read_minutes": 17,
+      "fetched_at": "2026-10-15T04:58:27.752956+00:00"
+    },
+    {
+      "id": "59ef70ace74c590a",
+      "title": "The Download: faking blood and the future of batteries",
+      "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-14T12:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. The US military’s race to make fake blood\nIn February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven crew members. The mission was a reminder of the risks of transporting blood, which has a limited shelf life and is often in short supply.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-10-15T04:58:27.123421+00:00"
+    },
+    {
+      "id": "e108158d7e0373b2",
+      "title": "Trump Reopens the Fight Over Orsted’s Revolution Wind",
+      "url": "https://heatmap.news/am/revolution-wind-revisited",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-14T12:13:36+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-10-15T04:58:25.209335+00:00"
+    },
+    {
+      "id": "d7eea1f6476096d9",
+      "title": "An Unexpected Beneficiary of the Permitting Bill: Mini Marine Power",
+      "url": "https://heatmap.news/climate-tech/permitting-bill-marine-power",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-14T18:00:35+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 27,
+      "fetched_at": "2026-10-15T04:58:24.514329+00:00"
+    },
+    {
+      "id": "7e09f99a14a2cb80",
+      "title": "The October Surprise Is Fossil Fuels",
+      "url": "https://heatmap.news/daily/trump-october-surprise-energy-policy",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-15T00:20:35+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-10-15T04:58:23.893310+00:00"
+    },
     {
       "id": "aa865376889f85c4",
       "title": "Open models have real benefits. Do they outweigh the risks?",
@@ -7700,101 +7792,6 @@
       "signal": "",
       "estimated_read_minutes": 6,
       "fetched_at": "2026-08-01T03:59:25.582269+00:00"
-    },
-    {
-      "id": "1fa643e73312b1f1",
-      "title": "Europe Braces for Energy Cuts as Rivers Heat and Dry Up",
-      "url": "https://heatmap.news/am/europe-rivers-energy",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-31T12:27:57+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 25,
-      "fetched_at": "2026-08-01T03:59:23.440927+00:00"
-    },
-    {
-      "id": "60bf7ba8f25496c5",
-      "title": "Is Trump to Blame When Data Centers Choose Gas?",
-      "url": "https://heatmap.news/plus/the-fight/qa/peter-gardett-noreva-gas-data-centers",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-31T16:25:10+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 19,
-      "fetched_at": "2026-08-01T03:59:22.800282+00:00"
-    },
-    {
-      "id": "85622e5cb58f13da",
-      "title": "The Data Center Most Likely to Get Investigated by a Democratic Congress",
-      "url": "https://heatmap.news/plus/the-fight/hotspots/meta-hyperion-xai-colossus-congress-oversight",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-31T16:38:08+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 19,
-      "fetched_at": "2026-08-01T03:59:22.167485+00:00"
-    },
-    {
-      "id": "9511c8e880644328",
-      "title": "Inside the Data Center Lobby’s Quiet Ad Blitz",
-      "url": "https://heatmap.news/plus/the-fight/spotlight/data-center-coalition-advertising-america-connects",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-31T16:43:25+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 19,
-      "fetched_at": "2026-08-01T03:59:21.553161+00:00"
-    },
-    {
-      "id": "27f8a19866a289dd",
-      "title": "3 Takeaways from a Blowout Quarter for Oil Companies",
-      "url": "https://heatmap.news/energy/chevron-shell-exxonmobil-profits",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-31T19:57:13+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 19,
-      "fetched_at": "2026-08-01T03:59:20.779638+00:00"
-    },
-    {
-      "id": "f35ea48cd3a35f82",
-      "title": "Why Rivian Is So Optimistic",
-      "url": "https://heatmap.news/daily/rivian-second-quarter-deliveries",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-07-31T20:57:35+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 15,
-      "fetched_at": "2026-08-01T03:59:20.139196+00:00"
     }
   ]
 }
