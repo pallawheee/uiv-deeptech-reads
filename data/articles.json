@@ -1,6 +1,134 @@
 {
-  "last_updated": "2026-10-15T04:58:47.863662+00:00",
+  "last_updated": "2026-10-16T04:48:08.044854+00:00",
   "articles": [
+    {
+      "id": "996712e3894539ee",
+      "title": "Origin Bags $20 Mn To Build Autonomous Construction Robots",
+      "url": "https://inc42.com/buzz/origin-bags-20-mn-to-build-autonomous-construction-robots/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-10-15T19:15:59+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-10-16T04:47:59.129106+00:00"
+    },
+    {
+      "id": "7777d103dc63469d",
+      "title": "Compact Analog Signal Generators for Fast RF Testing",
+      "url": "https://content.knowledgehub.wiley.com/fast-rf-device-testing-with-analog-sources-a-practical-guide-to-amplifier-and-receiver-characterization/",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-10-15T10:00:04+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "This White Paper shows RF and microwave engineers and technicians how compact analog signal generators support core amplifier and receiver test tasks, from gain and distortion measurements to blocker rejection, power calibration, and local oscillator substitution. What you will learn about:\n- How to measure amplifier gain and gain compression, including the P1dB point that marks the transition from linear operation into saturation. - How two-tone intermodulation distortion testing reveals unwanted signal products created by amplifier nonlinearities, and why third-order intercept (IP3) is used to compare amplifier linearity.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-10-16T04:47:44.320058+00:00"
+    },
+    {
+      "id": "3f83c7ceb84a572d",
+      "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
+      "url": "https://spectrum.ieee.org/monazite-rare-earth",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-10-15T14:53:02+00:00",
+      "sectors": [
+        "Defence",
+        "Robotics",
+        "Climate",
+        "Semiconductors"
+      ],
+      "excerpt": "Monazite ore holds the key to powerful motor magnets—if we can handle it\nThe global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles of the early 21st century. Hundreds of mining companies, government agencies, and industrial facilities scattered across North America, Australasia, and Europe are striving to wrest share from Chinese firms, which control roughly 90 percent of the markets for rare-earth oxides and rare-earth metals. Rare earths are the ingredients on which vast and crucial manufacturing categories depend: semiconductors, LEDs, lasers, displays, metal alloys, optical lenses, and catalysts for petroleum and chemical processing.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-10-16T04:47:42.548811+00:00"
+    },
+    {
+      "id": "b8532c5e43aedfe1",
+      "title": "How much more can nuclear power plants give?",
+      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-15T10:00:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Upgrades could bring more clean power to the grid, but there's only so much room to grow. In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do just that.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-10-16T04:47:38.311488+00:00"
+    },
+    {
+      "id": "9e36b2de9922b598",
+      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+      "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-15T12:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life\nPig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. The kidneys, which are similar in size to human ones, were left in a glass-like state, in one case for over a year.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-10-16T04:47:37.702407+00:00"
+    },
+    {
+      "id": "def342d501d73d19",
+      "title": "Electricity Prices Technically Dropped in September. Don’t Get Too Excited.",
+      "url": "https://heatmap.news/energy/price-hub-sept-update",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-15T09:00:06+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-10-16T04:47:35.819721+00:00"
+    },
+    {
+      "id": "dd414cb50262066b",
+      "title": "Aramco Suffers ‘Extensive Damage’ in Houthi Missile Strike on HQ",
+      "url": "https://heatmap.news/am/houthis-aramco-attack",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-15T12:15:23+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 22,
+      "fetched_at": "2026-10-16T04:47:34.835018+00:00"
+    },
+    {
+      "id": "b373dd5ab1651f81",
+      "title": "How to Train Your Robot",
+      "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-10-15T14:23:58+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Gwern’s influential 2020 essay “The Scaling Hypothesis,” written after the release of GPT-3, argues that recent advances in AI have been the result of scale: bigger models, bigger datasets, and more compute spent training them. Gwern writes:\nThe scaling hypothesis regards the blessings of scale as the secret of AGI: intelligence is ‘just’ simple neural units & learning algorithms applied to diverse experiences at a (currently) unreachable scale. As increasing computational resources permit running such algorithms at the necessary scale, the neural networks will get ever more intelligent.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-10-16T04:47:33.447007+00:00"
+    },
     {
       "id": "8f10ede426bad6c4",
       "title": "Scimplify Bags $25 Mn To Scale Its Semiconductor Chemicals Business",
@@ -7665,133 +7793,6 @@
       "signal": "",
       "estimated_read_minutes": 20,
       "fetched_at": "2026-08-04T03:46:52.173429+00:00"
-    },
-    {
-      "id": "26575df2bd08e194",
-      "title": "Transcript: Permitting Reform, Data Centers, and More With Senator Heinrich and Secretary Granholm",
-      "url": "https://heatmap.news/podcast/shift-key-heinrich-granholm-transcript",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-03T09:05:10+00:00",
-      "sectors": [
-        "Defence",
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 48,
-      "fetched_at": "2026-08-04T03:46:51.191657+00:00"
-    },
-    {
-      "id": "81653fb1cd9011ce",
-      "title": "Washington State Faces Its Worst Fire in Memory",
-      "url": "https://heatmap.news/am/washington-state-wildfires",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-03T12:32:59+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 44,
-      "fetched_at": "2026-08-04T03:46:50.398593+00:00"
-    },
-    {
-      "id": "d1fd8142397d2fcb",
-      "title": "Scoop: Clearway Cancels Plan to Swap Solar Farm for Data Center and Gas Plant",
-      "url": "https://heatmap.news/sparks/clearway-energy-data-center-gas-solar",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-03T19:03:48+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 14,
-      "fetched_at": "2026-08-04T03:46:49.630770+00:00"
-    },
-    {
-      "id": "4a27f62c6ae2557d",
-      "title": "How Clean Cement Startups Are Riding the AI Boom",
-      "url": "https://heatmap.news/climate-tech/clean-concrete-data-centers",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-03T20:50:27+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure",
-        "Semiconductors"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 50,
-      "fetched_at": "2026-08-04T03:46:48.894380+00:00"
-    },
-    {
-      "id": "4226c60187c37603",
-      "title": "Trump “Isn’t Happy” About Exxon and Chevron’s Monster Profits",
-      "url": "https://heatmap.news/daily/chevron-exxonmobil-profits-trump",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-03T22:10:26+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 21,
-      "fetched_at": "2026-08-04T03:46:47.959352+00:00"
-    },
-    {
-      "id": "8ffa86af98dabfce",
-      "title": "Reading List 08/01/26",
-      "url": "https://www.construction-physics.com/p/reading-list-080126",
-      "source_name": "Construction Physics",
-      "source_type": "substack",
-      "published_at": "2026-08-01T12:04:01+00:00",
-      "sectors": [
-        "Defence",
-        "Semiconductors"
-      ],
-      "excerpt": "Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure, industrial technology. This week we look at pepper-spray drones, China’s chip Manhattan Project, Commonwealth Fusion’s fundraise, and a proposed Dulles Airport renovation. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber.",
-      "signal": "",
-      "estimated_read_minutes": 4,
-      "fetched_at": "2026-08-02T04:02:51.714370+00:00"
-    },
-    {
-      "id": "277599f0924a5bf2",
-      "title": "Montana’s new “right to try” law can’t come soon enough for some",
-      "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-31T09:00:00+00:00",
-      "sectors": [
-        "MedTech"
-      ],
-      "excerpt": "He’s desperate to try an experimental drug, even though it has not been through clinical trials. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-08-01T03:59:26.177595+00:00"
-    },
-    {
-      "id": "75f986bbd1e7408f",
-      "title": "The Download: Montana’s new experimental drug rules",
-      "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-07-31T12:16:00+00:00",
-      "sectors": [
-        "Defence",
-        "MedTech"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward\nAs of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the company can sell it via experimental treatment clinics, the first of which is likely to be up and running around the end of this year.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-08-01T03:59:25.582269+00:00"
     }
   ]
 }
