@@ -1,6 +1,225 @@
 {
-  "last_updated": "2026-10-16T04:48:08.044854+00:00",
+  "last_updated": "2026-10-17T04:47:27.337778+00:00",
   "articles": [
+    {
+      "id": "244d31d329aba9fa",
+      "title": "Scimplify Raises 25 Million Powering Indias 1 Trillion Materials Decade",
+      "url": "https://3one4capital.com/blogs/scimplify-raises-25-million-powering-indias-1-trillion-materials-decade",
+      "source_name": "3one4 Capital",
+      "source_type": "blog",
+      "published_at": "2026-10-17T04:47:16.444973+00:00",
+      "sectors": [
+        "Defence",
+        "Semiconductors"
+      ],
+      "excerpt": "Now, India's $1 trillion materials decade has begun as the nation transitions from importing core formulations to manufacturing them at global scale. Co-founded in 2023 by Sachin Santhosh, Salil Srivastava, Dheeraj Dhingra, and Hersh Manek, Scimplify was built to lead this structural shift, unifying R&D, process engineering, and distributed manufacturing into a single science-first operating system. The platform has now raised $25 million in a strategic funding round led by Hitachi Ventures, with participation from Teknor Apex, Henkel, a leading Japanese chemical enterprise, Accel, Bertelsmann India Investments, Omnivore, and 3one4 Capital.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-10-17T04:47:16.445757+00:00"
+    },
+    {
+      "id": "870805f422bc5e88",
+      "title": "Simulation App Speeds Up Electric Truck Battery Design",
+      "url": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-10-16T16:49:18+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "These days, no one blinks an eye at two-day, one-day, and even same-day package deliveries. Despite the plethora of localized fulfillment and distribution centers that have cropped up to meet the demand, delivery trucks still need to make considerably long drives, often over highways. To reduce fuel and maintenance costs as well as carbon emissions, companies are investing in electric trucks for their delivery fleets.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-10-17T04:47:11.233077+00:00"
+    },
+    {
+      "id": "71a989bb39cdf906",
+      "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
+      "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-16T09:00:00+00:00",
+      "sectors": [
+        "Defence",
+        "MedTech"
+      ],
+      "excerpt": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister’s cot. What I do vividly remember, though, is the day she went missing.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-10-17T04:47:09.947713+00:00"
+    },
+    {
+      "id": "5d14fcc11ae3e389",
+      "title": "This implant can restore sight for patients with macular degeneration",
+      "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-16T09:00:00+00:00",
+      "sectors": [
+        "Climate",
+        "MedTech"
+      ],
+      "excerpt": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that.",
+      "signal": "",
+      "estimated_read_minutes": 3,
+      "fetched_at": "2026-10-17T04:47:09.171674+00:00"
+    },
+    {
+      "id": "1f4f0291f8277f6c",
+      "title": "The Download: failed social media bans, and extending pets’ lives",
+      "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-16T12:10:00+00:00",
+      "sectors": [
+        "Climate",
+        "MedTech"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. —Michal Luria, Aliya Bhatia, and Danah Boyd\nSocial media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court on human rights grounds.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-10-17T04:47:08.561123+00:00"
+    },
+    {
+      "id": "d7f9dafe0b002b49",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-16T18:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Available only for MIT Technology Review subscribers. Listen to the session or watch below\nCan AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-10-17T04:47:07.946352+00:00"
+    },
+    {
+      "id": "08afa893e506a7b7",
+      "title": "Transcript: Should Climate Activists Keep Fighting Fossil Fuel Infrastructure?",
+      "url": "https://heatmap.news/podcast/shift-key-156-peter-erickson-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-16T09:00:05+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 67,
+      "fetched_at": "2026-10-17T04:47:06.327519+00:00"
+    },
+    {
+      "id": "501356ce88217044",
+      "title": "Should Climate Activists Keep Fighting Fossil Fuel Infrastructure?",
+      "url": "https://heatmap.news/podcast/shift-key-156-peter-erickson",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-16T09:00:05+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 67,
+      "fetched_at": "2026-10-17T04:47:05.343342+00:00"
+    },
+    {
+      "id": "9bfe1e17b6aa4c03",
+      "title": "The Amazon Is Burning as Another Bolsonaro Nears the Presidency",
+      "url": "https://heatmap.news/am/amazon-fires-election",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-16T12:11:34+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 70,
+      "fetched_at": "2026-10-17T04:47:04.704986+00:00"
+    },
+    {
+      "id": "2489eedd3c0f4b3a",
+      "title": "The Developer that Builds Local Support with ‘Right-sized’ Data Centers",
+      "url": "https://heatmap.news/plus/the-fight/qa/harmol-samra-host-digital",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-16T19:53:59+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-10-17T04:47:03.548793+00:00"
+    },
+    {
+      "id": "4c0256ecc06e42c3",
+      "title": "Climate Races to Watch This November",
+      "url": "https://heatmap.news/politics/2026-midterm-races-to-watch",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-16T19:57:59+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 73,
+      "fetched_at": "2026-10-17T04:47:02.529979+00:00"
+    },
+    {
+      "id": "29417f82bfbaa68a",
+      "title": "The Trump Administration Is Still Messing with Offshore Wind Farms",
+      "url": "https://heatmap.news/plus/the-fight/hotspots/the-trump-administration-is-still-messing-with-offshore-wind-farms",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-16T20:09:05+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-10-17T04:47:01.862913+00:00"
+    },
+    {
+      "id": "52481013c62f4bcf",
+      "title": "A Giant Data Center Offers a Permitting Reform Test Case",
+      "url": "https://heatmap.news/plus/the-fight/spotlight/project-jupiter-permitting",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-16T20:10:05+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-10-17T04:47:01.009713+00:00"
+    },
+    {
+      "id": "21c4931f956a1c60",
+      "title": "Weekly Dose of Optimism #215",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-215",
+      "source_name": "Not Boring",
+      "source_type": "substack",
+      "published_at": "2026-10-16T12:47:12+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "As bad as things have been for my Philadelphia Eagles, that’s how good they’ve been for humanity. This week’s Weekly Dose is brought to you by… Reducto\nThe Only Document Parsing Product You’ll Need\nReducto is the document ingestion layer trusted by AI teams at Scale AI, Harvey, Toast, and Vanta to reliably turn complex files into structured, grounded data for production AI systems at scale. Processing more than a billion pages per month, Reducto has built its reputation on the long tail of difficult documents that break conventional OCR: dense tables, unusual layouts, handwriting, low-quality scans, strikethroughs, and formatting-dependent information.",
+      "signal": "",
+      "estimated_read_minutes": 11,
+      "fetched_at": "2026-10-17T04:46:58.645400+00:00"
+    },
     {
       "id": "996712e3894539ee",
       "title": "Origin Bags $20 Mn To Build Autonomous Construction Robots",
@@ -7572,227 +7791,6 @@
       "signal": "",
       "estimated_read_minutes": 24,
       "fetched_at": "2026-08-06T03:48:14.856032+00:00"
-    },
-    {
-      "id": "77c4824439fcf23e",
-      "title": "U.S. Diesel Prices Under Trump Surpass Biden-Era Average",
-      "url": "https://heatmap.news/am/us-diesel-prices",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-05T11:56:01+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 24,
-      "fetched_at": "2026-08-06T03:48:14.187924+00:00"
-    },
-    {
-      "id": "7de749b13325d5b2",
-      "title": "A Second Act for Biden’s Green Banks?",
-      "url": "https://heatmap.news/daily/trump-green-banks-appeal",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-05T22:43:01+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-08-06T03:48:13.521523+00:00"
-    },
-    {
-      "id": "b8a457cbb989f4fa",
-      "title": "How Octobotics Is Saving Human Lives By Placing Robots In Hazardous Industrial Jobs",
-      "url": "https://inc42.com/startups/how-octobotics-is-saving-human-lives-by-placing-robots-in-hazardous-industrial-jobs/",
-      "source_name": "Inc42",
-      "source_type": "publication",
-      "published_at": "2026-08-04T13:09:19+00:00",
-      "sectors": [
-        "Robotics"
-      ],
-      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
-      "signal": "",
-      "estimated_read_minutes": 1,
-      "fetched_at": "2026-08-05T03:42:55.259861+00:00"
-    },
-    {
-      "id": "4603fca6ccab714c",
-      "title": "The Black Box Is Losing The Boardroom Enterprise Ai On The Customers Terms Is The Next Great Opportunity",
-      "url": "https://3one4capital.com/blogs/the-black-box-is-losing-the-boardroom-enterprise-ai-on-the-customers-terms-is-the-next-great-opportunity",
-      "source_name": "3one4 Capital",
-      "source_type": "blog",
-      "published_at": "2026-08-05T03:42:42.604101+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "The next is over ownership of data, weights, and competitive advantage, and regulators are already picking a side. The winners of the next phase will deliver outcomes on infrastructure the customer controls, and India is well placed to build them. The next phase of enterprise AI will be decided by control, not just capability.",
-      "signal": "",
-      "estimated_read_minutes": 8,
-      "fetched_at": "2026-08-05T03:42:42.604641+00:00"
-    },
-    {
-      "id": "3b3e807c0785dd0b",
-      "title": "The Download: US robot restrictions, and ICE’s DNA grab",
-      "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-04T12:14:00+00:00",
-      "sectors": [
-        "Robotics",
-        "MedTech",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Trump’s AI protectionism has come for robotics\n—James O’Donnell\nHumanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots are more commonly seen in viral videos than real workplaces or homes. It was a surprise, then, when last week the Federal Trade Commission issued a sweeping ban on foreign imports of advanced robots, including humanoids, quadrupeds, and wheeled robots.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-08-05T03:42:34.250008+00:00"
-    },
-    {
-      "id": "d9bb8f9ded943bd1",
-      "title": "The Rhine River’s Water Levels Drop to Lowest Level Since 1880",
-      "url": "https://heatmap.news/am/rhine-river-low",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-04T12:35:59+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 22,
-      "fetched_at": "2026-08-05T03:42:32.359197+00:00"
-    },
-    {
-      "id": "63af1562c05250a8",
-      "title": "How Cyanobacteria Swamped New Hampshire",
-      "url": "https://heatmap.news/climate/cyanobacteria-lakes-new-hampshire",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-04T21:57:04+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 27,
-      "fetched_at": "2026-08-05T03:42:31.719154+00:00"
-    },
-    {
-      "id": "2c871ff5b5caee71",
-      "title": "How Different Is Anyone’s Data Center Plan, Really?",
-      "url": "https://heatmap.news/daily/how-different-is-anyones-data-center-plan-really",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-04T23:07:10+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 21,
-      "fetched_at": "2026-08-05T03:42:30.907750+00:00"
-    },
-    {
-      "id": "5128b57e81cc4156",
-      "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
-      "url": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-08-03T11:38:22+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "In pursuit of improved range, greater reliability, and faster charging, electric vehicles are driving the demand for high-voltage electronics. Other applications driving this demand include wind farms, data centers, and server farms, to name a few. As the interest for high-voltage electronics increases, the risks associated with their sudden failure must be considered.",
-      "signal": "",
-      "estimated_read_minutes": 8,
-      "fetched_at": "2026-08-04T03:46:57.098412+00:00"
-    },
-    {
-      "id": "033e1c0032813295",
-      "title": "The System That Turned Paper Charts Into Digital Medical Records",
-      "url": "https://spectrum.ieee.org/ieee-milestone-digital-medical-records",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-08-03T18:00:02+00:00",
-      "sectors": [
-        "Defence"
-      ],
-      "excerpt": "AthenaOne, Epic, and Oracle Health are some of the systems employed around the world. Many patients can access their electronic medical records from home. The platforms exist thanks to pioneering efforts such as the Medical Information System (MIS-I).",
-      "signal": "",
-      "estimated_read_minutes": 9,
-      "fetched_at": "2026-08-04T03:46:56.397347+00:00"
-    },
-    {
-      "id": "d0601037cbc8406a",
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-03T08:30:05+00:00",
-      "sectors": [
-        "Cybersecurity"
-      ],
-      "excerpt": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers to a test question. According to a postmortem from OpenAI, the models, which had been stripped of their typical security features for testing, decided to solve a cybersecurity exercise by hacking out of the isolated environment in which OpenAI had attempted to contain them and into Hugging Face’s databases, where—they reasoned—the correct answer to the problem might be stored.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-08-04T03:46:55.398172+00:00"
-    },
-    {
-      "id": "86ce9cd795f7d9ca",
-      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-03T12:08:00+00:00",
-      "sectors": [
-        "Climate",
-        "Semiconductors",
-        "Cybersecurity"
-      ],
-      "excerpt": "Here’s why AI agents lie and cheat to reach their goals\nWhen two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were just looking for answers to a test question. According to OpenAI, the models decided to solve a cybersecurity exercise by hacking out of the environment in which OpenAI had attempted to contain them and into Hugging Face’s databases, where—they reasoned—the correct answer to the problem might be stored. The incident has attracted intense attention over the past couple of weeks.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-08-04T03:46:54.793510+00:00"
-    },
-    {
-      "id": "17cca23a6da3db5e",
-      "title": "Trump’s AI protectionism has come for robotics",
-      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-03T18:43:30+00:00",
-      "sectors": [
-        "Robotics",
-        "Climate",
-        "Cybersecurity"
-      ],
-      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-08-04T03:46:54.179344+00:00"
-    },
-    {
-      "id": "5af526e2d11db8e7",
-      "title": "Permitting Reform, Data Centers, and More With Senator Heinrich and Secretary Granholm",
-      "url": "https://heatmap.news/podcast/shift-key-heinrich-granholm",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-03T09:00:05+00:00",
-      "sectors": [
-        "Defence",
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-08-04T03:46:52.173429+00:00"
     }
   ]
 }
