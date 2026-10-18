@@ -1,6 +1,41 @@
 {
-  "last_updated": "2026-10-17T04:47:27.337778+00:00",
+  "last_updated": "2026-10-18T04:54:00.375151+00:00",
   "articles": [
+    {
+      "id": "33216f8cfc712848",
+      "title": "This Hidden Device Could Free Up Gigawatts of Grid Power",
+      "url": "https://spectrum.ieee.org/variable-frequency-drives",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-10-17T13:00:02+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "America’s energy supply crunch is driving a surge of federal and private investment in new electricity generation — from polluting gas turbines to cleaner developments like solar farms and geothermal plants. But gigawatts of power are already available for the taking across the U.S. economy in the form of wasted energy from an unexpected source: motors.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-10-18T04:53:42.151283+00:00"
+    },
+    {
+      "id": "b7fac977dd746229",
+      "title": "Reading List 10/17/26",
+      "url": "https://www.construction-physics.com/p/reading-list-101726",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-10-17T12:03:37+00:00",
+      "sectors": [
+        "Robotics",
+        "Climate",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "This week we look at Icon’s fundraising, employment in China’s solar industry, grid-scale battery reliability, Tesla’s flying roadster, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber. Housekeeping items this week:\nI was on MTS Live talking about robots, prefabricated construction, and other things.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-10-18T04:53:39.364050+00:00"
+    },
     {
       "id": "244d31d329aba9fa",
       "title": "Scimplify Raises 25 Million Powering Indias 1 Trillion Materials Decade",
@@ -7761,36 +7796,6 @@
       "signal": "",
       "estimated_read_minutes": 6,
       "fetched_at": "2026-08-06T03:48:17.412961+00:00"
-    },
-    {
-      "id": "a0605b59a268c363",
-      "title": "Puzzle Corner",
-      "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-05T14:56:29+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June issue.",
-      "signal": "",
-      "estimated_read_minutes": 2,
-      "fetched_at": "2026-08-06T03:48:16.828458+00:00"
-    },
-    {
-      "id": "61bcb26848cc1c39",
-      "title": "The American EV Industry Is Dazed and Confused",
-      "url": "https://heatmap.news/electric-vehicles/new-electric-vehicle-advancements",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-05T10:35:06+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 24,
-      "fetched_at": "2026-08-06T03:48:14.856032+00:00"
     }
   ]
 }
