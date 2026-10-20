@@ -1,6 +1,145 @@
 {
-  "last_updated": "2026-10-19T05:02:54.698277+00:00",
+  "last_updated": "2026-10-20T05:05:39.384105+00:00",
   "articles": [
+    {
+      "id": "0de158413b07a5b4",
+      "title": "The Robot I Didn’t Expect to Build",
+      "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-10-19T13:00:03+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "It’s designed to be the first humanoid robot that can safely and economically do useful work at scale, allowing us to bring tens of thousands of humanoid workers into the real world. Engineered to lift 23-kilogram bins onto high shelves and with a battery that can run for 90 minutes on a 9-minute charge, Digit 5’s goal is to handle heavy warehouse tasks shift after shift, filling the need for labor in jobs that are too physically stressful or too dull for humans to want to do. Digit 5 is what Agility has been working toward for over a decade.",
+      "signal": "",
+      "estimated_read_minutes": 17,
+      "fetched_at": "2026-10-20T05:05:20.468360+00:00"
+    },
+    {
+      "id": "3eb787031792b1b2",
+      "title": "How far can we push computing?",
+      "url": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-19T09:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "But as we near the ceiling of what we can build, there’s still plenty of room below, at the fundamental physical limits of computing. MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom,” on how we might manipulate and control things on an extremely small scale.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-10-20T05:05:19.205830+00:00"
+    },
+    {
+      "id": "d67eff0903799e5f",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-19T09:08:05+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "It started to “play.”\nIn various tests, solo AI agents invented versions of basketball and “the floor is lava.” But were they truly playing? What do AI agents do if you don’t tell them to do anything? Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-10-20T05:05:18.595916+00:00"
+    },
+    {
+      "id": "7d79453ed1d6ee59",
+      "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
+      "url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-19T09:22:17+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks. The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and lichen before climbing into the crowns. By the time fire agencies responded, flames had reached 12 feet in length and sent up a 500-foot column of smoke.",
+      "signal": "",
+      "estimated_read_minutes": 22,
+      "fetched_at": "2026-10-20T05:05:17.997988+00:00"
+    },
+    {
+      "id": "4c406691d5f918fe",
+      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+      "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-19T12:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon\n—James Temple\nIn July 2021, a wildfire burned through a forest on the University of Alaska, Fairbanks campus, stripping away the moss and organic-rich soil insulating the permafrost below. Five years later, I followed researchers into the forest to investigate how fighting fires could help keep that carbon locked in the ground.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-10-20T05:05:17.372781+00:00"
+    },
+    {
+      "id": "58a40be5309dae31",
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-19T17:45:55+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is that LLMs might in fact be far easier to understand—and thus to monitor and control—than people previously thought. If true (and we’ll come back to that), it’s a huge deal.",
+      "signal": "",
+      "estimated_read_minutes": 10,
+      "fetched_at": "2026-10-20T05:05:16.764732+00:00"
+    },
+    {
+      "id": "eb59acb7856ab168",
+      "title": "America’s AI Boom Is Coming Apart",
+      "url": "https://heatmap.news/am/ai-boom-fraying",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-19T12:12:35+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-10-20T05:05:14.484615+00:00"
+    },
+    {
+      "id": "58d086f82470c824",
+      "title": "The World’s First Subsea Geothermal Well Had 8.7 Seconds of Glory",
+      "url": "https://heatmap.news/climate-tech/endurance-energy-subsea-geothermal",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-19T16:00:04+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 22,
+      "fetched_at": "2026-10-20T05:05:13.868594+00:00"
+    },
+    {
+      "id": "5195c45917929073",
+      "title": "China’s Thriving New Energy Exports",
+      "url": "https://heatmap.news/daily/china-export-boom",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-20T00:49:08+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-10-20T05:05:13.205897+00:00"
+    },
     {
       "id": "33216f8cfc712848",
       "title": "This Hidden Device Could Free Up Gigawatts of Grid Power",
@@ -7651,151 +7790,6 @@
       "signal": "",
       "estimated_read_minutes": 6,
       "fetched_at": "2026-08-07T03:25:57.251833+00:00"
-    },
-    {
-      "id": "dcf0e68cd51c1e68",
-      "title": "Transcript: The Big — But Fixable! — Problems in America’s R&D Ecosystem",
-      "url": "https://heatmap.news/podcast/shift-key-s3-e62-engine-ventures-transcript",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-06T04:07:51+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 52,
-      "fetched_at": "2026-08-07T03:25:55.082412+00:00"
-    },
-    {
-      "id": "2eeec8476ebfebd3",
-      "title": "The Big — But Fixable! — Problems in America’s R&D Ecosystem",
-      "url": "https://heatmap.news/podcast/shift-key-s3-e62-engine-ventures",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-06T09:10:03+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 14,
-      "fetched_at": "2026-08-07T03:25:54.488531+00:00"
-    },
-    {
-      "id": "d8591bbb57a728f0",
-      "title": "Trump May Be Forced to Resume Wind Project Permits",
-      "url": "https://heatmap.news/am/trump-wind-pause",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-06T12:15:19+00:00",
-      "sectors": [
-        "Defence",
-        "Climate",
-        "Semiconductors"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 17,
-      "fetched_at": "2026-08-07T03:25:53.679953+00:00"
-    },
-    {
-      "id": "c5f0a3825367dba0",
-      "title": "Ford’s Latest EV Is a Pickup Truck Called Fathom",
-      "url": "https://heatmap.news/electric-vehicles/ford-fathom",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-06T13:00:05+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 57,
-      "fetched_at": "2026-08-07T03:25:53.048855+00:00"
-    },
-    {
-      "id": "829c308bfab44517",
-      "title": "Electricity Bills Were Higher Than Ever in July",
-      "url": "https://heatmap.news/sparks/average-electricity-bills-july-2026",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-06T16:00:45+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 13,
-      "fetched_at": "2026-08-07T03:25:52.395751+00:00"
-    },
-    {
-      "id": "c6a0766c193d8baf",
-      "title": "Another $1.2 Billion to Not Build Wind Farms",
-      "url": "https://heatmap.news/daily/rwe-offshore-wind-deal",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-06T21:53:58+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 17,
-      "fetched_at": "2026-08-07T03:25:51.782274+00:00"
-    },
-    {
-      "id": "7ee15b010b037053",
-      "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
-      "url": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-08-05T18:00:03+00:00",
-      "sectors": [
-        "Defence",
-        "Climate",
-        "AI Infrastructure",
-        "Cybersecurity"
-      ],
-      "excerpt": "The combination of rapid industrial growth, more frequent extreme weather, and a record surge in electricity use has pushed the grid to its breaking point, according to the U.S. Built decades ago for a more predictable world in which power came mostly from centralized coal or gas plants and electricity use grew at a steady pace, the grid faces unanticipated strain due in part to growing demand from data centers. The jobs of professionals managing the infrastructure have evolved from traditional engineering tasks to complex, fast-moving challenges.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-08-06T03:48:18.841185+00:00"
-    },
-    {
-      "id": "b2e52adeaa3ade8d",
-      "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
-      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-05T08:06:40+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos. But Roman could also serve another purpose: defending Earth from killer asteroids.",
-      "signal": "",
-      "estimated_read_minutes": 8,
-      "fetched_at": "2026-08-06T03:48:17.999302+00:00"
-    },
-    {
-      "id": "151d2e2e5bc72e06",
-      "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
-      "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-05T12:10:00+00:00",
-      "sectors": [
-        "Defence",
-        "Robotics",
-        "AI Infrastructure",
-        "Cybersecurity"
-      ],
-      "excerpt": "NASA’s new dark energy space telescope can also detect killer asteroids\nAt the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its quest is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos. But Roman could also serve another purpose: defending Earth from killer asteroids.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-08-06T03:48:17.412961+00:00"
     }
   ]
 }
