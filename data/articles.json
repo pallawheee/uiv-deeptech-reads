@@ -1,6 +1,204 @@
 {
-  "last_updated": "2026-10-20T05:05:39.384105+00:00",
+  "last_updated": "2026-10-21T05:06:31.915095+00:00",
   "articles": [
+    {
+      "id": "604323c9b2ec3c22",
+      "title": "Selling Intelligence Was The Warm Up Owning Vertical Markets May Be The Play",
+      "url": "https://3one4capital.com/blogs/selling-intelligence-was-the-warm-up-owning-vertical-markets-may-be-the-play",
+      "source_name": "3one4 Capital",
+      "source_type": "blog",
+      "published_at": "2026-10-21T05:06:15.924421+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "They are entering the markets of the very customers who trained them, and the only durable defence is to own your alpha before it is sold back to you. The most profitable move in artificial intelligence may no longer be selling intelligence. It is selling a model to a company, wiring it into that company's most valuable work, learning the business from the inside, and then shipping the product that competes with it.",
+      "signal": "",
+      "estimated_read_minutes": 10,
+      "fetched_at": "2026-10-21T05:06:15.924750+00:00"
+    },
+    {
+      "id": "1595793f0942be13",
+      "title": "A cleaner path to rare earth metals",
+      "url": "https://www.technologyreview.com/2026/10/20/1145300/a-cleaner-path-to-rare-earth-metals/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-20T21:00:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "’14 was raised in San Antonio, Texas, but vividly remembers smog hanging over the city his family came from—Monterrey, Mexico, a steel manufacturing and metal fabrication hub. Even as a child, he realized it was problematic to breathe that air. “I’m motivated because I’ve seen what metal-making does,” says Villalón, who majored in materials science and engineering.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-10-21T05:06:08.798097+00:00"
+    },
+    {
+      "id": "d425664718cb0c0b",
+      "title": "A champion for brain injury patients",
+      "url": "https://www.technologyreview.com/2026/10/20/1145297/a-champion-for-brain-injury-patients/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-20T21:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "“That group was a great way to learn about the human experience of what people go through when they experience a brain injury,” she says. And it laid the foundation for her life’s work. Today, Totman is a physician specializing in brain injury medicine at the University of Pittsburgh Medical Center, where she treats adults with head trauma, stroke, brain tumors, and more.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-10-21T05:06:08.228009+00:00"
+    },
+    {
+      "id": "28cfdba2b6991022",
+      "title": "Nebraska native explores galaxies far, far away",
+      "url": "https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-20T21:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Today, she is learning how the wider universe works by studying galaxy clusters. Donahue discovered her passion for physics in that library at age 12 and started her path into astronomy thanks to “a providential interaction.” Through MIT’s Undergraduate Research Opportunities Program, she got introduced to cutting-edge x-ray imaging—work she found “really cool.”\nNow a professor of physics and astronomy at Michigan State University, she researches galaxy clusters and baryonic matter (matter made of protons and neutrons, as opposed to dark matter) in an effort to learn more about the composition of the universe and its evolution. “Clusters of galaxies are very large scoops of the universe,” says Donahue, who served as president of the American Astronomical Society from 2018 to 2020.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-10-21T05:06:07.648255+00:00"
+    },
+    {
+      "id": "a45f0d01b7326744",
+      "title": "A good TA: priceless",
+      "url": "https://www.technologyreview.com/2026/10/20/1145291/a-good-ta-priceless/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-20T21:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "One is my very first exam at MIT, and getting 49 out of 100 was a soul-crushing experience. I can still picture the TA, Leszek Pawlowicz, PhD ’87, returning my paper. He had a big smile on his face, and he said something to the effect of “I expect to see you double your score on the next quiz!”\nWell, I got the message.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-10-21T05:06:07.026589+00:00"
+    },
+    {
+      "id": "bdab0479b8d920a5",
+      "title": "Taking a swing at a pickleball startup",
+      "url": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-20T21:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "“I spent my early years trying not to get recruited into gangs, getting shot at, watching my friends get murdered, and thinking that if I don’t leave, I will die,” says Anderson, who was raised in Chicago. “I was fortunate to survive.”\nBut he thrived, building an impressive career at the likes of HP, Intel, and the Palo Alto Research Center. Now he is applying his management expertise as CEO of Costa Pickleball, a Las Vegas–based startup that sells high-performance paddles in decorative designs.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-10-21T05:06:06.447431+00:00"
+    },
+    {
+      "id": "256ba8300616f277",
+      "title": "Robotic therapy for stroke patients",
+      "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-20T21:00:00+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy. Johannes Lachner, a former MIT postdoc who is now an assistant professor at Purdue University, and Noah Geiger, a former visiting student at MIT, developed a robotic system that uses generative AI and real-time force feedback to learn from real therapists.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-10-21T05:06:05.874930+00:00"
+    },
+    {
+      "id": "4ea9ee74826ee8c2",
+      "title": "A reason to eat carbs",
+      "url": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-20T21:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also increase the risk of cancer in the small intestine. This type of diet forces the body to burn fatty acids instead of carbohydrates for fuel, producing by-products called ketone bodies.",
+      "signal": "",
+      "estimated_read_minutes": 3,
+      "fetched_at": "2026-10-21T05:06:05.288945+00:00"
+    },
+    {
+      "id": "fa1daa59c7901a3e",
+      "title": "Melt it, spin it, use it again",
+      "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-20T21:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn. The thermoplastic yarn mimics the properties of conventional elastic yarns, which typically combine spandex with polyester or nylon.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-10-21T05:06:04.674743+00:00"
+    },
+    {
+      "id": "dad8653b962fdfa3",
+      "title": "Here’s the tea",
+      "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-20T21:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thomas Wells had donated the label in 1987, saying it had been recovered after colonial protesters threw tea into Boston Harbor in 1773. But after a year of research, Brown reached a different conclusion: The label was made nearly a century later.",
+      "signal": "",
+      "estimated_read_minutes": 3,
+      "fetched_at": "2026-10-21T05:06:04.096350+00:00"
+    },
+    {
+      "id": "61dc95427d4583a9",
+      "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+      "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-20T21:00:00+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "MIT engineers’ design for a robot that both swims and flies could lead to a new class of vehicles for ocean exploration. Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-10-21T05:06:03.353608+00:00"
+    },
+    {
+      "id": "1428822526422cec",
+      "title": "Exclusive: Veckta Raises $11 Million to Help Businesses Buy Onsite Solar and Storage",
+      "url": "https://heatmap.news/climate-tech/exclusive-veckta-11m",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-20T12:00:04+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-10-21T05:06:01.341864+00:00"
+    },
+    {
+      "id": "4fea54fdefbf5b2b",
+      "title": "Wall Street’s AI Rout Ends, But Debt Fears Remain",
+      "url": "https://heatmap.news/am/ai-rout-stocks",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-20T12:26:09+00:00",
+      "sectors": [
+        "Climate",
+        "Semiconductors"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-10-21T05:06:00.763704+00:00"
+    },
     {
       "id": "0de158413b07a5b4",
       "title": "The Robot I Didn’t Expect to Build",
@@ -7587,209 +7785,6 @@
       "signal": "",
       "estimated_read_minutes": 4,
       "fetched_at": "2026-08-08T02:27:24.816759+00:00"
-    },
-    {
-      "id": "6c85a8efb5c2a9cd",
-      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-07T14:00:00+00:00",
-      "sectors": [
-        "Defence"
-      ],
-      "excerpt": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading. For months, Elon Musk’s Department of Government Efficiency had been cutting a wide swath through federal agencies, gutting teams that worked on everything from scientific research to Social Security to international aid.",
-      "signal": "",
-      "estimated_read_minutes": 36,
-      "fetched_at": "2026-08-08T02:27:23.874972+00:00"
-    },
-    {
-      "id": "6ac697dbf33aba0b",
-      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-07T14:20:00+00:00",
-      "sectors": [
-        "Defence"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy\nFor years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under the guise of combating disinformation, a sprawling constellation of government agencies, academics, civil society groups, and Big Tech platforms was suppressing conservative and populist speech online.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-08-08T02:27:23.091425+00:00"
-    },
-    {
-      "id": "94cfdef814bec9b4",
-      "title": "Trump Throws Solar Manufacturers a Lifeline",
-      "url": "https://heatmap.news/economy/polysilicon-tariff",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-06T22:22:05+00:00",
-      "sectors": [
-        "Climate",
-        "Semiconductors"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 23,
-      "fetched_at": "2026-08-08T02:27:20.118847+00:00"
-    },
-    {
-      "id": "f9dabc55775b0fd3",
-      "title": "Trump Tosses Solar Factories a Lifeline",
-      "url": "https://heatmap.news/am/trump-solar-polysilicon",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-07T12:20:19+00:00",
-      "sectors": [
-        "Climate",
-        "Semiconductors"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-08-08T02:27:19.506749+00:00"
-    },
-    {
-      "id": "57c574e3fd26ab1f",
-      "title": "How the National Park Service Wound Up in a Data Center Deal",
-      "url": "https://heatmap.news/plus/the-fight/spotlight/prince-william-park-data-center",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-07T17:27:17+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 18,
-      "fetched_at": "2026-08-08T02:27:18.838838+00:00"
-    },
-    {
-      "id": "1fe3c3d22d78330e",
-      "title": "The Most Important Data Center Vote You Haven’t Heard About",
-      "url": "https://heatmap.news/plus/the-fight/hotspots/michigan-data-center-referendum",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-07T17:32:42+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 18,
-      "fetched_at": "2026-08-08T02:27:18.128200+00:00"
-    },
-    {
-      "id": "7c327c5db053221b",
-      "title": "How to Talk to Climate-Minded Investors About Data Centers",
-      "url": "https://heatmap.news/plus/the-fight/qa/ceres-colette-lamontagne",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-07T17:34:47+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 18,
-      "fetched_at": "2026-08-08T02:27:17.411576+00:00"
-    },
-    {
-      "id": "b5c307967a6fe000",
-      "title": "Why the Fix Our Forests Act Is Still Stuck in Congress",
-      "url": "https://heatmap.news/politics/fix-our-forests-spokane-fires",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-07T18:22:46+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 27,
-      "fetched_at": "2026-08-08T02:27:16.812181+00:00"
-    },
-    {
-      "id": "8183075d03a55cc8",
-      "title": "Which Wildfire Smoke Is Worst?",
-      "url": "https://heatmap.news/climate/spokane-fires-smoke",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-07T19:56:30+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 27,
-      "fetched_at": "2026-08-08T02:27:16.141544+00:00"
-    },
-    {
-      "id": "fd446cf4da6cb3a4",
-      "title": "Amazon Is Building America’s Biggest Fossil Fuel Plant to Power AI",
-      "url": "https://heatmap.news/energy/amazon-gw-ranch",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-07T22:07:16+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 30,
-      "fetched_at": "2026-08-08T02:27:15.418543+00:00"
-    },
-    {
-      "id": "401df7eef3397de8",
-      "title": "Weekly Dose of Optimism #205",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-205",
-      "source_name": "Not Boring",
-      "source_type": "substack",
-      "published_at": "2026-08-07T12:50:11+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Yesterday was my daughter Maya’s 4th birthday and we took the kids to the beach to spend time with family and celebrate, so I’m going short on the writeups. Lots to cover, with lots more in the Extras, including cancer-fighting psychedelics? Today’s Weekly Dose is brought to you by… Lightwork\nYour environment can make you dumber or smarter, healthier or less healthy.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-08-08T02:27:13.741111+00:00"
-    },
-    {
-      "id": "29f6dec0065a9276",
-      "title": "Smallest Ai Raises 13M Series A To Break The Turing Test",
-      "url": "https://3one4capital.com/blogs/smallest-ai-raises-13m-series-a-to-break-the-turing-test",
-      "source_name": "3one4 Capital",
-      "source_type": "blog",
-      "published_at": "2026-08-07T03:26:03.949554+00:00",
-      "sectors": [
-        "Robotics",
-        "AI Infrastructure"
-      ],
-      "excerpt": "We first backed Sudarshan Kamath and Akshat Mandloi when Smallest was merely a research direction, and today we are proud to participate in their $13 million Series A round led by Seligman Ventures. Watching a focused team transition from a pre-seed stage thesis to an enterprise-grade platform powering millions of voice interactions within a year validates our conviction in their vertical-stack approach to applied artificial intelligence. The Series A round brings the company's total funding to over $21 million.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-08-07T03:26:03.950196+00:00"
-    },
-    {
-      "id": "2d1bfbc2708d5c01",
-      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
-      "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-06T12:10:00+00:00",
-      "sectors": [
-        "Climate",
-        "Cybersecurity"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. After a wave of painful losses in the tech talent wars, delays to its next flagship model, and murmurings of poor morale, Google has announced a major shake-up to its AI operations. Here's a quick rundown of what’s happened and why it matters.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-08-07T03:25:57.251833+00:00"
     }
   ]
 }
