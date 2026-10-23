@@ -1,6 +1,177 @@
 {
-  "last_updated": "2026-10-22T05:09:27.371875+00:00",
+  "last_updated": "2026-10-23T05:09:23.074936+00:00",
   "articles": [
+    {
+      "id": "6ee4d4ff47e4763c",
+      "title": "Why AI Can’t Replace Engineering Teams",
+      "url": "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-10-22T18:02:20+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free! If you’re an engineer, you may feel like your skills aren’t commanding the premium they once did. Many engineers have faced layoffs or restructuring.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-10-23T05:09:03.153277+00:00"
+    },
+    {
+      "id": "5ba1ec3db181cdc2",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-22T08:41:18+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs to be stored.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-10-23T05:09:02.276959+00:00"
+    },
+    {
+      "id": "c86f7d14b0049226",
+      "title": "Three things you should know about permafrost",
+      "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-22T10:00:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it. The great news for both of us is that my colleague James Temple just published two in-depth stories about permafrost. His reporting took him to the boreal forests of Alaska, where he helicoptered into the wilderness to learn more about how this material could affect our climate both now and in the future.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-10-23T05:09:01.687668+00:00"
+    },
+    {
+      "id": "fec7036c87350b49",
+      "title": "Making the case for context-aware AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-22T10:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "In partnership withCelonis\nEnterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead is giving technology the context to act usefully within complex business processes.",
+      "signal": "",
+      "estimated_read_minutes": 17,
+      "fetched_at": "2026-10-23T05:09:01.122751+00:00"
+    },
+    {
+      "id": "878b0bce2190e1a3",
+      "title": "The Download: computing’s next leap and permafrost’s climate threat",
+      "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-22T12:10:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is no physical law stopping us from writing the entire Encyclopædia Britannica on the head of a pin, he argued. He was right, and for decades, computing took us into that space almost for free, as transistors repeatedly halved in size.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-10-23T05:09:00.552586+00:00"
+    },
+    {
+      "id": "285861fa05fad723",
+      "title": "The Foundations of Scalable AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-22T18:48:04+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review's EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic systems, into lasting value for investors. About the speaker\nJing Wang, Principal, Center for AI and Insights, Vanguard\nJing Wang leads Vanguard's Center for AI & Insights (CAI), advancing the firm's AI, machine learning, generative AI, and behavioral science capabilities.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-10-23T05:08:59.986833+00:00"
+    },
+    {
+      "id": "c8127c2e57511fe8",
+      "title": "Designing an AI serving harness built to last",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-22T21:17:29+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Provided byEXL\nThe next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. But as AI moves from experimentation to production, the question facing enterprise leaders has changed—it’s no longer, “what can the model do?”—it’s now, “Can we deliver that intelligence reliably, economically, and at scale?”\nIncreasingly, the answer depends on the serving harness—the engineering system surrounding the model, including the architecture, memory management, scheduling, and optimization decisions that determine how efficiently model intelligence becomes a production capability.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-10-23T05:08:59.428129+00:00"
+    },
+    {
+      "id": "20189a7cf4d8636b",
+      "title": "Google Bets Big on Virtual Power Plants With 1 Gigawatt Voltus Deal",
+      "url": "https://heatmap.news/climate-tech/google-virtual-power-plant-voltus",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-22T11:30:03+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-10-23T05:08:57.630814+00:00"
+    },
+    {
+      "id": "5446d57727610431",
+      "title": "The Commerce Department Cracks Down on Imported Solar Stockpilers",
+      "url": "https://heatmap.news/am/commerce-solar-232",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-22T11:54:47+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-10-23T05:08:57.039032+00:00"
+    },
+    {
+      "id": "702adac33e6498c2",
+      "title": "The Surprisingly Exciting Race to Be California’s Next Insurance Commissioner",
+      "url": "https://heatmap.news/politics/california-insurance-commissioner-race",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-22T14:00:04+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-10-23T05:08:56.447901+00:00"
+    },
+    {
+      "id": "5845505300972dbb",
+      "title": "Net Power Surrendered Its Clean Dreams to Data Center Demand",
+      "url": "https://heatmap.news/energy/net-power-data-center-boom",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-22T18:21:31+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-10-23T05:08:55.837714+00:00"
+    },
     {
       "id": "0fa71fcc03f57574",
       "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
@@ -7614,177 +7785,6 @@
       "signal": "",
       "estimated_read_minutes": 62,
       "fetched_at": "2026-08-13T03:06:32.051977+00:00"
-    },
-    {
-      "id": "5b56b256ed40d91b",
-      "title": "We’ve Got Sexy Heat Pumps. Now It’s Time for Sexy Water Heaters.",
-      "url": "https://heatmap.news/climate-tech/reservoir-heat-pump-water-heater",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-12T09:00:02+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 61,
-      "fetched_at": "2026-08-13T03:06:31.423117+00:00"
-    },
-    {
-      "id": "013e3b96be63f119",
-      "title": "Why This El Niño Looks Like a Monster",
-      "url": "https://heatmap.news/podcast/shift-key-s3-e63-el-nino",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-12T09:10:03+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 62,
-      "fetched_at": "2026-08-13T03:06:30.791717+00:00"
-    },
-    {
-      "id": "9a9f484938ddd40b",
-      "title": "Wisconsin’s Anti-Data Center Populist Loses Democratic Gubernatorial Primary",
-      "url": "https://heatmap.news/am/wisconsin-gubernatorial-primary",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-12T11:51:40+00:00",
-      "sectors": [
-        "Defence",
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 63,
-      "fetched_at": "2026-08-13T03:06:30.137517+00:00"
-    },
-    {
-      "id": "7890f84239b86bf7",
-      "title": "This El Niño Is a Warning",
-      "url": "https://heatmap.news/daily/el-nino-worst-ever",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-12T22:09:45+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 62,
-      "fetched_at": "2026-08-13T03:06:29.412598+00:00"
-    },
-    {
-      "id": "2a74c14ed7d77200",
-      "title": "Base Power Company: Chapter 3",
-      "url": "https://www.notboring.co/p/base-power-company-chapter-3",
-      "source_name": "Not Boring",
-      "source_type": "substack",
-      "published_at": "2026-08-12T13:53:37+00:00",
-      "sectors": [
-        "Defence"
-      ],
-      "excerpt": "Join 275,867 smart, curious folks by subscribing here:\nHi friends 👋 ,\nThere are only two companies on which I’ve written multiple Deep Dives. The first is Ramp, which I first wrote about when it was valued at $300 million, then again when it was valued at $1 (and $1.6) billion, and then multiple times since. The second is Base Power Company, which I first wrote about when it was valued at $300 million (Chapter 1), then again when it was valued at $1 billion (Chapter 2).",
-      "signal": "",
-      "estimated_read_minutes": 74,
-      "fetched_at": "2026-08-13T03:06:27.667200+00:00"
-    },
-    {
-      "id": "d8aa826fc3659222",
-      "title": "Zap Rocks. Add Water. Get Clean Hydrogen",
-      "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-08-11T13:00:01+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "The electrode, a half-meter-long cylinder with copper-tipped arms to ensure good contact with the borehole walls, descends—deeper, deeper—through layers of spongy sandstone to the hard, marbled roots of an ancient mountain range hundreds of meters below ground. Here the rock is tight; there are few cracks for water or gases to flow. A stone’s throw away, a second electrode—a twin of the first—has been fixed in another borehole at the same depth.",
-      "signal": "",
-      "estimated_read_minutes": 18,
-      "fetched_at": "2026-08-12T03:03:31.684742+00:00"
-    },
-    {
-      "id": "eb1ab67c942e7c0d",
-      "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
-      "url": "https://spectrum.ieee.org/ieee-summit-bhutan-digital-transformation",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-08-11T19:50:54+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Held on 9 and 10 June in Paro, in the eastern Himalayas, the event was designed to help Bhutan navigate its digital transformation by focusing on the critical intersection of digital transformation, engineering education, and sustainable development. The summit brought together global academic leaders, technology experts, and Bhutanese government officials to discuss how modern engineering curricula can evolve from theory-centric models into application- and skills-based frameworks. Discussions focused on how to build high-value research capabilities in the country, integrate artificial intelligence into higher education, and address foundational infrastructure challenges to ensure equitable, nationwide digital readiness.",
-      "signal": "",
-      "estimated_read_minutes": 3,
-      "fetched_at": "2026-08-12T03:03:31.020395+00:00"
-    },
-    {
-      "id": "36d15d70fc2443c8",
-      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-11T12:10:00+00:00",
-      "sectors": [
-        "AI Infrastructure",
-        "Semiconductors"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. These startups are chasing the next big thing in LLMs\nNine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large language model. But transformers are starting to show their age.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-08-12T03:03:30.160693+00:00"
-    },
-    {
-      "id": "c6a6a1a96cf15329",
-      "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
-      "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-11T17:58:57+00:00",
-      "sectors": [
-        "Defence",
-        "AI Infrastructure"
-      ],
-      "excerpt": "That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the next day. R/FIMI, as the office was called, was accused of serving as the State Department’s central hub in the so-called censorship-industrial complex—a sprawling constellation of government agencies, academics, civil society groups, and Big Tech platforms allegedly conspiring to suppress conservative and populist speech online under the guise of combating disinformation.",
-      "signal": "",
-      "estimated_read_minutes": 2,
-      "fetched_at": "2026-08-12T03:03:29.534019+00:00"
-    },
-    {
-      "id": "f1ec4f6ad179c3b8",
-      "title": "America’s Hottest Month Ever",
-      "url": "https://heatmap.news/am/july-2026-record",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-11T11:25:00+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 19,
-      "fetched_at": "2026-08-12T03:03:27.097850+00:00"
-    },
-    {
-      "id": "3d5cc94e924d4655",
-      "title": "Data Centers Are Fueling a Tiny Nuclear Hype Cycle",
-      "url": "https://heatmap.news/climate-tech/tiny-nuclear-hype-cycle",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-11T20:17:47+00:00",
-      "sectors": [
-        "Defence",
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 26,
-      "fetched_at": "2026-08-12T03:03:26.463064+00:00"
     }
   ]
 }
