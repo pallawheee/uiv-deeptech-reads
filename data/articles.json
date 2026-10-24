@@ -1,6 +1,163 @@
 {
-  "last_updated": "2026-10-23T05:09:23.074936+00:00",
+  "last_updated": "2026-10-24T04:52:40.329306+00:00",
   "articles": [
+    {
+      "id": "5e5a11044eb6622f",
+      "title": "Y Combinator-Backed Firstwork Nets $15 Mn To Expand Footprint Across US And Europe",
+      "url": "https://inc42.com/buzz/y-combinator-backed-firstwork-nets-15-mn-to-expand-footprint-across-us-and-europe/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-10-23T11:56:11+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-10-24T04:52:36.510022+00:00"
+    },
+    {
+      "id": "632d0687a37b3389",
+      "title": "From Chip Lab to Center Stage",
+      "url": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-10-23T18:00:03+00:00",
+      "sectors": [
+        "Semiconductors"
+      ],
+      "excerpt": "But Preethi Ashwath has learned to take center stage, talking about the “hearable” and wearable devices she has had a hand in developing as an analog integrated circuit designer in the consumer electronics division at Analog Devices of Wilmington, Mass. The IEEE member is one of the few women who work in the specialized field, where about 11 percent are female, according to career platform Zippia. Preethi Ashwath\nEmployer\nAnalog Devices, in Boston\nTitle\nIntegrated circuit designer\nMember grade\nMember\nAlma maters\nSJB Institute of Technology in Bengaluru, India; University of California, Irvine\nAshwath stepped out from behind the scenes last year to meet with attendees at the Consumer Electronics Show (CES) in Las Vegas.",
+      "signal": "",
+      "estimated_read_minutes": 9,
+      "fetched_at": "2026-10-24T04:52:19.019334+00:00"
+    },
+    {
+      "id": "4358bdc30feac7aa",
+      "title": "In the biotech world, you can’t see everything",
+      "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-23T09:00:00+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes. I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!).",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-10-24T04:52:17.301842+00:00"
+    },
+    {
+      "id": "6a147386449f9502",
+      "title": "The Download: testing six tech promises and biotech’s blind spots",
+      "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-23T12:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "MedTech"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. A reality check on six big tech promises\nSome seemingly impossible feats are too good to give up on. Scrubbing the world of forever chemicals?",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-10-24T04:52:16.560795+00:00"
+    },
+    {
+      "id": "de5460079986bbad",
+      "title": "The Data Center Boom Is Faltering",
+      "url": "https://heatmap.news/daily/data-center-wall-street",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-22T23:28:45+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-10-24T04:52:14.557786+00:00"
+    },
+    {
+      "id": "c1163e99e8dc4b13",
+      "title": "Is There Room for Lucid?",
+      "url": "https://heatmap.news/electric-vehicles/is-there-room-for-lucid",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-23T10:00:06+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-10-24T04:52:13.947552+00:00"
+    },
+    {
+      "id": "5dd3a18eb9753e3f",
+      "title": "Why Trump Whiffed on New Wind Turbine Tariffs",
+      "url": "https://heatmap.news/am/trump-wind-tariffs",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-23T12:19:12+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-10-24T04:52:13.290027+00:00"
+    },
+    {
+      "id": "ceef746416765898",
+      "title": "The Most Important Data Center Election You’ve Never Heard Of",
+      "url": "https://heatmap.news/plus/the-fight/spotlight/the-most-important-data-center-election-youve-never-heard-of",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-23T17:57:04+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-10-24T04:52:12.477133+00:00"
+    },
+    {
+      "id": "4e6b7eed89f02d2f",
+      "title": "A First-Of-Its-Kind State of Emergency — Over a Permitting Pause",
+      "url": "https://heatmap.news/plus/the-fight/hotspots/state-of-emergency-permitting-pause",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-23T17:57:44+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-10-24T04:52:11.475696+00:00"
+    },
+    {
+      "id": "c2ce5daa5db4793f",
+      "title": "GoodPower Is Sussing Out What People Actually Want from Data Centers",
+      "url": "https://heatmap.news/plus/the-fight/qa/leah-qusba-goodpower-qanda",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-23T17:58:11+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-10-24T04:52:10.831267+00:00"
+    },
     {
       "id": "6ee4d4ff47e4763c",
       "title": "Why AI Can’t Replace Engineering Teams",
@@ -7632,159 +7789,6 @@
       "signal": "",
       "estimated_read_minutes": 7,
       "fetched_at": "2026-08-14T03:05:27.868533+00:00"
-    },
-    {
-      "id": "382a035e351942fe",
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-13T13:41:10+00:00",
-      "sectors": [
-        "Defence"
-      ],
-      "excerpt": "But the changes leave glaring loopholes. The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines: officers abusing Flock’s technology to stalk and harass current or former romantic partners.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-08-14T03:05:27.154186+00:00"
-    },
-    {
-      "id": "527ad981809b9c54",
-      "title": "Building a practical path to post-quantum cryptography",
-      "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-13T18:11:42+00:00",
-      "sectors": [
-        "Quantum Computing"
-      ],
-      "excerpt": "Provided byIntel\nQuantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today's encrypted digital transactions may yield to quantum computers one day, but the transition to quantum-resistant algorithms is neither sudden nor insurmountable.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-08-14T03:05:26.412218+00:00"
-    },
-    {
-      "id": "3beee69e277b2b46",
-      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
-      "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-13T21:00:00+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "Available only for MIT Alumni and subscribers. Listen to the session or watch below\nThe “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy.",
-      "signal": "",
-      "estimated_read_minutes": 2,
-      "fetched_at": "2026-08-14T03:05:25.703147+00:00"
-    },
-    {
-      "id": "f9f9fb58304d5259",
-      "title": "Tesla Unveils Plans for $10 Billion ‘Project Crystal Sun’",
-      "url": "https://heatmap.news/am/tesla-crystal-sun",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-13T11:38:00+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 23,
-      "fetched_at": "2026-08-14T03:05:23.218301+00:00"
-    },
-    {
-      "id": "c8481e6748ccea34",
-      "title": "This Soda Asks: Would You Drink a Greenhouse Gas Emission?",
-      "url": "https://heatmap.news/carbon-removal/direct-air-capture-soda",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-13T14:05:02+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 22,
-      "fetched_at": "2026-08-14T03:05:22.577359+00:00"
-    },
-    {
-      "id": "5e3032428604be64",
-      "title": "A New Era of Electricity Inflation Has Transformed the Northeast’s Carbon Market",
-      "url": "https://heatmap.news/energy/rggi-electricity-bills",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-13T18:56:29+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 23,
-      "fetched_at": "2026-08-14T03:05:21.937445+00:00"
-    },
-    {
-      "id": "f3830cfe52346315",
-      "title": "The U.S. Clean Economy Snapped Its Losing Streak This Spring",
-      "url": "https://heatmap.news/daily/clean-investment-data-q2-surge",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-13T22:17:28+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 21,
-      "fetched_at": "2026-08-14T03:05:21.147064+00:00"
-    },
-    {
-      "id": "e945ed427d652379",
-      "title": "How we picked 35 of the world’s top young scientists and engineers",
-      "url": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-12T09:08:40+00:00",
-      "sectors": [
-        "Robotics",
-        "Climate",
-        "MedTech"
-      ],
-      "excerpt": "Here’s what we looked for as we sifted through 550 nominations from around the world. Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems. By finding the top young innovators globally and learning what they’re focused on in their work, we aim to give readers a sense of what advances to expect in the years to come.",
-      "signal": "",
-      "estimated_read_minutes": 4,
-      "fetched_at": "2026-08-13T03:06:35.064915+00:00"
-    },
-    {
-      "id": "8b60d0a8c906bee1",
-      "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
-      "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-12T12:10:00+00:00",
-      "sectors": [
-        "Defence",
-        "MedTech"
-      ],
-      "excerpt": "How we picked 35 of the world’s top young scientists and engineers\nOn September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems. By finding the top young innovators globally and learning what they’re focused on in their work, we aim to give readers a sense of what advances to expect in the years to come. As a newsroom, we also use this exercise to help us spot rising talent and get to know some of the best early-career researchers in the fields that we cover.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-08-13T03:06:34.407797+00:00"
-    },
-    {
-      "id": "feaf4477050cf302",
-      "title": "Transcript: Why This El Niño Looks Like a Monster",
-      "url": "https://heatmap.news/podcast/shift-key-s3-e63-el-nino-transcript",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-12T09:00:02+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 62,
-      "fetched_at": "2026-08-13T03:06:32.051977+00:00"
     }
   ]
 }
