@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-10-24T04:52:40.329306+00:00",
+  "last_updated": "2026-10-25T05:03:03.095125+00:00",
   "articles": [
+    {
+      "id": "3d1ee2b88a20edb4",
+      "title": "Reading List 10/24/26",
+      "url": "https://www.construction-physics.com/p/reading-list-102426",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-10-24T12:01:24+00:00",
+      "sectors": [
+        "Defence",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This week we look at minimum lot sizes, Boeing’s next 737 MAX, Fervo short sellers, Figure AI’s training data, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber. No essay this week, but I’m working on a piece about manufacturing isotopes that should be out next week.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-10-25T05:02:42.799197+00:00"
+    },
     {
       "id": "5e5a11044eb6622f",
       "title": "Y Combinator-Backed Firstwork Nets $15 Mn To Expand Footprint Across US And Europe",
@@ -7774,21 +7790,6 @@
       "signal": "",
       "estimated_read_minutes": 6,
       "fetched_at": "2026-08-14T03:05:28.608263+00:00"
-    },
-    {
-      "id": "6c09900b9ff728eb",
-      "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
-      "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-13T12:10:00+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. How kids feel about AI, in their own words\n—Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens\nWhen we set out to talk to kids about AI, we thought we knew what we’d hear. We expected stories about cheating, inspiring uses, and concerns like deepfakes or job destruction.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-08-14T03:05:27.868533+00:00"
     }
   ]
 }
