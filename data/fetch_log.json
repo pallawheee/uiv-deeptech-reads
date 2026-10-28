@@ -1,10 +1,5 @@
 [
   {
-    "source": "Stellaris",
-    "reason": "scrape_index_returned_no_links",
-    "timestamp": "2026-08-21T02:06:53.934802+00:00"
-  },
-  {
     "url": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553?utm_source=IEEE&utm_medium=site&utm_campaign=922",
     "source": "IEEE Spectrum",
     "reason": "scrape_failed",
@@ -530,5 +525,10 @@
     "source": "Stellaris",
     "reason": "scrape_index_returned_no_links",
     "timestamp": "2026-10-27T05:21:52.980537+00:00"
+  },
+  {
+    "source": "Stellaris",
+    "reason": "scrape_index_returned_no_links",
+    "timestamp": "2026-10-28T06:00:33.919535+00:00"
   }
 ]
