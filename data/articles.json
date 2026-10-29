@@ -1,6 +1,159 @@
 {
-  "last_updated": "2026-10-28T06:00:49.105455+00:00",
+  "last_updated": "2026-10-29T06:09:27.305215+00:00",
   "articles": [
+    {
+      "id": "e03dee2a1f38a737",
+      "title": "Why Indian AI Founders Are Eyeing Silicon Valley And What They Risk Leaving Behind",
+      "url": "https://inc42.com/resources/why-indian-ai-founders-are-eyeing-silicon-valley-and-what-they-risk-leaving-behind/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-10-28T14:07:57+00:00",
+      "sectors": [
+        "Semiconductors"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through 40+ expert-led sessions, 1:1 mentorship and a personalised growth strategy. It closes with an in-person convocation and investor pitching. view\nRetailX by Inc42 is a 6-month, invite-only brand residency for the next generation of India's manufacturing, distribution and trading families.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-10-29T06:09:24.085692+00:00"
+    },
+    {
+      "id": "9dde41a2a325c57c",
+      "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
+      "url": "https://spectrum.ieee.org/beta-technologies-electric-aircraft",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-10-28T13:00:03+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "Cleared for takeoff, he releases the brakes and nudges the throttle forward. At the back of the aircraft, the five-blade pusher propeller snaps awake, and the Alia bolts forward. There’s no shriek of a turbofan spooling up, no shudder of a piston engine, and no wait for thrust.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-10-29T06:09:09.903996+00:00"
+    },
+    {
+      "id": "3fb2562cb49b6ddb",
+      "title": "Systems Thinking Is Vital in the Age of AI",
+      "url": "https://spectrum.ieee.org/systems-thinking-vital-in-ai",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-10-28T18:00:02+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "An engineer can define a problem, then ask an artificial intelligence tool to search relevant research and technical standards, generate design options, test them in simulation, and compare the results. The engineer can then bring the results to specialists who understand the parts AI cannot judge on its own, such as whether a design can be built safely, whether it makes sense in a particular setting, or how it might affect its users. The final decision about whether and how to move forward remains a human responsibility.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-10-29T06:09:09.320677+00:00"
+    },
+    {
+      "id": "e59a3c9fb64c2656",
+      "title": "Pairing industrial AI autonomy and human control",
+      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-28T12:00:00+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "Most people associate industrial environments with cold steel and clockwork machinery. Functionally, though, a plant or factory is more like a living thing: It has a pulse, even a metabolism. It goes through wear and tear as it ages, and signs of deteriorating health often show up as barely perceptible irregularities.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-10-29T06:09:08.350450+00:00"
+    },
+    {
+      "id": "082b017bab079c7b",
+      "title": "The Download: dead startups fueling AI and interspecies communication",
+      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-28T12:10:00+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. AI labs are buying data from dead startups to train their models\nWhen Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much. But he’s since turned the company’s digital archives into tens of thousands of dollars, selling its codebase and workspace data.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-10-29T06:09:07.806726+00:00"
+    },
+    {
+      "id": "9957645d2f759c41",
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-28T20:32:02+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "In association withAtlan\nAcross a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a proper understanding of the business.",
+      "signal": "",
+      "estimated_read_minutes": 3,
+      "fetched_at": "2026-10-29T06:09:07.247711+00:00"
+    },
+    {
+      "id": "591037bf420d1602",
+      "title": "The No. 1 Reason Americans Would Support a Data Center",
+      "url": "https://heatmap.news/daily/data-center-support-oppose-polling",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-28T00:39:11+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 27,
+      "fetched_at": "2026-10-29T06:09:05.785153+00:00"
+    },
+    {
+      "id": "467ee68893f48808",
+      "title": "What Israel’s Election Means for Energy",
+      "url": "https://heatmap.news/am/isreal-election-energy",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-28T12:32:12+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 22,
+      "fetched_at": "2026-10-29T06:09:05.158561+00:00"
+    },
+    {
+      "id": "1666d094ee1cf0a0",
+      "title": "Trump Hasn’t Been Advancing New Wind Farms During Permitting Talks",
+      "url": "https://heatmap.news/plus/the-fight/spotlight/trump-wind-farms-permitting-american-clean-power",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-28T20:11:18+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-10-29T06:09:04.533007+00:00"
+    },
+    {
+      "id": "f19d2617f6e999ad",
+      "title": "The West Invented the Electrolyzer. China Is Building the Industry.",
+      "url": "https://heatmap.news/energy/china-electrolyzer-industry",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-28T20:48:16+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 28,
+      "fetched_at": "2026-10-29T06:09:03.809066+00:00"
+    },
     {
       "id": "562ada87341186dc",
       "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
@@ -7640,160 +7793,6 @@
       "signal": "",
       "estimated_read_minutes": 6,
       "fetched_at": "2026-08-19T01:58:54.000658+00:00"
-    },
-    {
-      "id": "4385a0098644a6a8",
-      "title": "Nvidia Backs OpenAI’s Plan to Build America’s Biggest Power Plant",
-      "url": "https://heatmap.news/am/nvidia-openai-gas",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-18T11:37:26+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 27,
-      "fetched_at": "2026-08-19T01:58:52.024453+00:00"
-    },
-    {
-      "id": "8e2ce6906e44fa7a",
-      "title": "Exclusive: How California Could Unlock Its Distributed Energy Potential",
-      "url": "https://heatmap.news/energy/california-demand-response",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-18T12:30:02+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 27,
-      "fetched_at": "2026-08-19T01:58:51.416252+00:00"
-    },
-    {
-      "id": "ef0409ccb3cf1252",
-      "title": "The Data Center Trojan Horse",
-      "url": "https://heatmap.news/daily/data-center-wisconsin-crowley-tiffany",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-19T00:01:18+00:00",
-      "sectors": [
-        "Defence",
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 24,
-      "fetched_at": "2026-08-19T01:58:50.814998+00:00"
-    },
-    {
-      "id": "ffffd487eba78ef4",
-      "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
-      "url": "https://spectrum.ieee.org/digital-signal-processing-pioneer-bede-liu",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-08-14T18:00:02+00:00",
-      "sectors": [
-        "Semiconductors"
-      ],
-      "excerpt": "Liu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorithms to analyze, modify, and transmit signals including sound, images, and video. The IEEE Life Fellow taught electrical engineering at Princeton for more than 50 years. From 1994 to 1997, he chaired the university’s electrical and computer engineering department.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-08-18T01:56:33.575138+00:00"
-    },
-    {
-      "id": "b587cb5cb3d41bd5",
-      "title": "From AI Copilots to Agent Swarms",
-      "url": "https://spectrum.ieee.org/amd-agent-swarms",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-08-17T14:00:01+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in the software development lifecycle (SDLC), such as triaging problems, debugging code, and testing the software. At the time, we were hoping for a 25 percent productivity boost from AI use over the course of two or three years. But with each new release, the capabilities of Large Language Models (LLMs) improve dramatically—accelerating software development, increasing the quality of AI-generated code, and fundamentally reshaping how software is engineered.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-08-18T01:56:32.991694+00:00"
-    },
-    {
-      "id": "99ee0a2f103355d2",
-      "title": "IEEE Presidents’ Scholarship Honors Teen Innovators",
-      "url": "https://spectrum.ieee.org/ieee-presidents-scholarship-2026",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-08-17T18:00:04+00:00",
-      "sectors": [
-        "Robotics"
-      ],
-      "excerpt": "Many of the disabilities affect independence and mobility. Three high school students working on inventions to help people with disabilities restore movement, translate thoughts, and navigate rough terrain had their work showcased at Regeneron’s International Science and Engineering Fair (ISEF), held in May in Phoenix. Their projects earned them this year’s IEEE Presidents’ Scholarship awards.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-08-18T01:56:32.417367+00:00"
-    },
-    {
-      "id": "f49ea2b45b71d6dd",
-      "title": "What happens when a kid’s robot best friend dies?",
-      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-17T09:00:00+00:00",
-      "sectors": [
-        "Robotics"
-      ],
-      "excerpt": "AI companion toys for neurodivergent children promise connection and therapy, but can they deliver for the long haul? When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-08-18T01:56:30.642408+00:00"
-    },
-    {
-      "id": "0dfc6754cce6b399",
-      "title": "How much hydrogen awaits us underground?",
-      "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-17T09:00:00+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "The global gold rush for underground stores of hydrogen fuel continues. But researchers are still sorting out how much of the stuff there is. In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-08-18T01:56:30.056883+00:00"
-    },
-    {
-      "id": "1fa7f7615de49cf0",
-      "title": "The Download: dead robot friends and the “censorship-industrial complex”",
-      "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-17T12:10:00+00:00",
-      "sectors": [
-        "Defence",
-        "Robotics"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-08-18T01:56:29.498040+00:00"
-    },
-    {
-      "id": "48f0b08590f23b46",
-      "title": "In Hawaii, a Rare Tropical Storm Leaves 200,000 Without Power",
-      "url": "https://heatmap.news/am/hawaii-lala-storm",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-17T12:00:35+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 23,
-      "fetched_at": "2026-08-18T01:56:27.346410+00:00"
     }
   ]
 }
