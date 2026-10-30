@@ -1,6 +1,145 @@
 {
-  "last_updated": "2026-10-29T06:09:27.305215+00:00",
+  "last_updated": "2026-10-30T06:09:05.546142+00:00",
   "articles": [
+    {
+      "id": "69c7dbeddf2248ad",
+      "title": "Our climate models have a big, dangerous blind spot",
+      "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-29T10:00:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned that warming would propel further warming in various ways, but a growing number of observations and studies are at last providing a sharper sense of just how powerful these cascading effects could be.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-10-30T06:08:59.323475+00:00"
+    },
+    {
+      "id": "32d69d7e6fd51a11",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-29T10:11:12+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Cybersecurity"
+      ],
+      "excerpt": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-10-30T06:08:58.776376+00:00"
+    },
+    {
+      "id": "8ce52d4dd6132dca",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-29T12:10:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time\n—Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing best practices in AI governance. AI agents are taking unauthorized actions, from hacking websites to accessing private government files.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-10-30T06:08:58.222640+00:00"
+    },
+    {
+      "id": "d9d6cfce676d2dea",
+      "title": "Why Electricity Law Would Make It Very Hard to Unplug a Rogue AI",
+      "url": "https://heatmap.news/daily/why-electricity-law-would-make-it-very-hard-to-unplug-a-rogue-ai",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-29T01:58:37+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 75,
+      "fetched_at": "2026-10-30T06:08:56.795317+00:00"
+    },
+    {
+      "id": "6f3ef0851018570f",
+      "title": "Why Permitting Reform Is a Historic Victory Over Utilities",
+      "url": "https://heatmap.news/podcast/shift-key-158-david-pomerantz-2678162537",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-29T09:00:05+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 76,
+      "fetched_at": "2026-10-30T06:08:56.211879+00:00"
+    },
+    {
+      "id": "901db9ee24b0b484",
+      "title": "Transcript: How the Permitting Reform Bill’s Best Stuff Works",
+      "url": "https://heatmap.news/podcast/shift-key-158-david-pomerantz-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-29T09:00:05+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 75,
+      "fetched_at": "2026-10-30T06:08:55.608592+00:00"
+    },
+    {
+      "id": "672733657b5bcbf5",
+      "title": "GE Vernova Bets $9 Billion on Transmission Lines",
+      "url": "https://heatmap.news/am/ge-vernova-trench",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-29T12:23:15+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 75,
+      "fetched_at": "2026-10-30T06:08:55.018754+00:00"
+    },
+    {
+      "id": "2e7289e2833044c4",
+      "title": "Exclusive: Peter Thiel-Backed Nuclear Fuel Startup Hits a Key Regulatory Milestone",
+      "url": "https://heatmap.news/energy/general-matter-nrc-approval",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-29T20:12:13+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 75,
+      "fetched_at": "2026-10-30T06:08:54.435913+00:00"
+    },
+    {
+      "id": "81b38f560f77397b",
+      "title": "A New Kind of Chemistry",
+      "url": "https://www.construction-physics.com/p/a-new-kind-of-chemistry",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-10-29T15:45:10+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Much of modern civilization is built on top of chemical reactions, either to produce new materials (as in the blast furnace, which converts iron oxide into metallic iron), or to generate energy. Chemical reactions, as we’ve previously noted, work by rearranging how atoms hold their outermost electrons. Combine an atom of sodium and an atom of chlorine, for instance, and sodium’s outermost electron will end up in chlorine’s outer electron shell in an ionic bond, creating sodium chloride — common table salt.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-10-30T06:08:53.640704+00:00"
+    },
     {
       "id": "e03dee2a1f38a737",
       "title": "Why Indian AI Founders Are Eyeing Silicon Valley And What They Risk Leaving Behind",
@@ -7652,147 +7791,6 @@
       "signal": "",
       "estimated_read_minutes": 51,
       "fetched_at": "2026-08-21T02:06:35.327258+00:00"
-    },
-    {
-      "id": "60c7805911a13d37",
-      "title": "Washington’s Carbon Credits Are About to Get a Lot Cheaper",
-      "url": "https://heatmap.news/politics/washington-california-carbon-market",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-20T20:52:21+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 57,
-      "fetched_at": "2026-08-21T02:06:34.612169+00:00"
-    },
-    {
-      "id": "126b9c16526e7370",
-      "title": "Child-monitoring apps might need a reboot",
-      "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-19T09:00:00+00:00",
-      "sectors": [
-        "Defence"
-      ],
-      "excerpt": "Online safety experts say there’s a better way. Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-mile dirt road.",
-      "signal": "",
-      "estimated_read_minutes": 22,
-      "fetched_at": "2026-08-20T01:57:40.492369+00:00"
-    },
-    {
-      "id": "ab220d8f20217d75",
-      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
-      "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-19T12:10:00+00:00",
-      "sectors": [
-        "Robotics",
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all\nThe AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. But a new study suggests it might take a while to get there.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-08-20T01:57:39.839168+00:00"
-    },
-    {
-      "id": "336860756ad9c31b",
-      "title": "Google Launches ‘Operation Blue Skies’ to Tackle Contrails",
-      "url": "https://heatmap.news/am/google-contrails",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-19T11:54:03+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 27,
-      "fetched_at": "2026-08-20T01:57:38.025449+00:00"
-    },
-    {
-      "id": "97a04755550703e8",
-      "title": "Now Is the Worst Time for Diesel to Get Expensive",
-      "url": "https://heatmap.news/energy/diesel-price-iran",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-19T18:36:20+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 25,
-      "fetched_at": "2026-08-20T01:57:37.395719+00:00"
-    },
-    {
-      "id": "b662cd5d8b1c173e",
-      "title": "Exclusive: 75% of Americans Now Oppose Local Data Center Development",
-      "url": "https://heatmap.news/daily/data-center-opposition-poll-collapse",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-19T21:49:05+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 22,
-      "fetched_at": "2026-08-20T01:57:36.673143+00:00"
-    },
-    {
-      "id": "798b4a264698a3ff",
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-18T09:00:00+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.",
-      "signal": "",
-      "estimated_read_minutes": 8,
-      "fetched_at": "2026-08-19T01:58:55.434282+00:00"
-    },
-    {
-      "id": "aaa6a41c225945e2",
-      "title": "The role of the astronaut is in flux",
-      "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-18T09:00:00+00:00",
-      "sectors": [
-        "Robotics",
-        "AI Infrastructure"
-      ],
-      "excerpt": "But we’re still grappling with a fundamental question: Why go in the first place? When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles. While no space mission can live up to the historic touchdown of Apollo 11—a spectacle that 20% of the world population watched live—Artemis II still attracted massive public interest.",
-      "signal": "",
-      "estimated_read_minutes": 14,
-      "fetched_at": "2026-08-19T01:58:54.783980+00:00"
-    },
-    {
-      "id": "782f21dacaaae274",
-      "title": "The Download: how people really use AI, and Flock’s design choices",
-      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-18T12:10:00+00:00",
-      "sectors": [
-        "Robotics",
-        "AI Infrastructure"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. We still don’t know how people are really using AI\nAI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the data they want us to see, AI researchers say, and there’s no independent source to corroborate it.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-08-19T01:58:54.000658+00:00"
     }
   ]
 }
