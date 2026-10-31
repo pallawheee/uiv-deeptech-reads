@@ -1,6 +1,131 @@
 {
-  "last_updated": "2026-10-30T06:09:05.546142+00:00",
+  "last_updated": "2026-10-31T06:04:30.312294+00:00",
   "articles": [
+    {
+      "id": "d8d1461b502db38e",
+      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-30T09:00:00+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 and 2023—by a whopping 71%.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-10-31T06:04:15.485029+00:00"
+    },
+    {
+      "id": "864e47c8ac2a8908",
+      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-10-30T11:30:00+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinicians, they can represent something sinister—a potential trigger for eating disorders.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-10-31T06:04:14.507788+00:00"
+    },
+    {
+      "id": "19be16b06efe0886",
+      "title": "‘Undo 15 Years’ Worth of Greenhouse Gas Reductions’",
+      "url": "https://heatmap.news/am/data-center-emissions-2678167004",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-30T12:39:51+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 29,
+      "fetched_at": "2026-10-31T06:04:12.804136+00:00"
+    },
+    {
+      "id": "c7ebd161d5827480",
+      "title": "Why Everyone Loves BAAJA’s Transmission Section",
+      "url": "https://heatmap.news/politics/baaja-transmission",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-30T16:07:46+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 29,
+      "fetched_at": "2026-10-31T06:04:12.121879+00:00"
+    },
+    {
+      "id": "41dc12d3f6e69d2d",
+      "title": "Why Project Certainty Is the Thorniest Part of the Permitting Bill",
+      "url": "https://heatmap.news/politics/baaja-permitting-certainty",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-30T17:10:27+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 33,
+      "fetched_at": "2026-10-31T06:04:11.499214+00:00"
+    },
+    {
+      "id": "a8064e62258d4d3b",
+      "title": "Is the Election Really About Data Centers?",
+      "url": "https://heatmap.news/kevin-gunderson-qa",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-30T18:12:30+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 22,
+      "fetched_at": "2026-10-31T06:04:10.808120+00:00"
+    },
+    {
+      "id": "66a284626b4bf2a0",
+      "title": "Meta Data Center Federal Pipeline Review Due Early Next Year",
+      "url": "https://heatmap.news/plus/the-fight/hotspots/meta-data-center-review",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-10-30T18:12:55+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 22,
+      "fetched_at": "2026-10-31T06:04:10.134831+00:00"
+    },
+    {
+      "id": "b900e1c113809e88",
+      "title": "Weekly Dose of Optimism #217",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-217",
+      "source_name": "Not Boring",
+      "source_type": "substack",
+      "published_at": "2026-10-30T12:58:11+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "Per New York Metro Weather, we’re in the midst of the longest streak of 8/10 or higher days since the account started in 2021, and here at the Dose, we’re in the middle of a string of 9/10 or higher weeks so long that I’ve lost count. This Week’s Weekly Dose is Brought to You By… Reducto\nThe Document Editor Built for AI Products\nAI products need more than file generation. They need a fast, accurate document editor that agents can also use.",
+      "signal": "",
+      "estimated_read_minutes": 14,
+      "fetched_at": "2026-10-31T06:04:08.202825+00:00"
+    },
     {
       "id": "69c7dbeddf2248ad",
       "title": "Our climate models have a big, dangerous blind spot",
@@ -7667,130 +7792,6 @@
       "signal": "",
       "estimated_read_minutes": 10,
       "fetched_at": "2026-08-21T02:06:52.400842+00:00"
-    },
-    {
-      "id": "70d1e8ff8eb834e0",
-      "title": "Support networks aim to help kids through the polycrisis",
-      "url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-20T09:00:00+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "Some groups are trying to help kids navigate their anxieties about it all. Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window.",
-      "signal": "",
-      "estimated_read_minutes": 18,
-      "fetched_at": "2026-08-21T02:06:41.980573+00:00"
-    },
-    {
-      "id": "e2a81dc7bf87eb31",
-      "title": "Unlocking hidden revenue streams with market models",
-      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-20T09:47:22+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name just a few. It is a nuanced process that must constantly adapt to the goings on in the wider world.",
-      "signal": "",
-      "estimated_read_minutes": 3,
-      "fetched_at": "2026-08-21T02:06:41.308491+00:00"
-    },
-    {
-      "id": "aeec1e6c1df23ed2",
-      "title": "The next big thing in hydrogen could be underground",
-      "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-20T10:00:00+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces water and oxygen—none of the carbon emissions that contribute to climate change.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-08-21T02:06:40.686926+00:00"
-    },
-    {
-      "id": "7940b23e3dede4f5",
-      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
-      "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-20T12:10:00+00:00",
-      "sectors": [
-        "Defence",
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Support networks aim to help kids through the polycrisis\nSometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a car in Thailand when she saw a mountain that had been quarried away. It was the first time she recognized that humans could alter the world for the worse.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-08-21T02:06:40.024506+00:00"
-    },
-    {
-      "id": "c87f63873a8cf051",
-      "title": "Debates over AI consciousness are a trap",
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-20T15:42:39+00:00",
-      "sectors": [
-        "Robotics"
-      ],
-      "excerpt": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations and academic philosophers often aligned with the effective altruism movement, debates whether humanity holds the moral right to govern them at all. Upon closer inspection, they are all calling for the same thing: a view of AI systems as being so advanced and capable that no entity, human or corporate, could possibly be responsible for their actions.",
-      "signal": "",
-      "estimated_read_minutes": 9,
-      "fetched_at": "2026-08-21T02:06:39.395392+00:00"
-    },
-    {
-      "id": "e0acd02fa3a81b15",
-      "title": "Transcript: The Wildfire Policy Blowing Up California’s Home Insurance Market — and Electricity Costs",
-      "url": "https://heatmap.news/podcast/shift-key-s3-e64-lauren-teixeira-transcript",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-20T09:00:02+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 49,
-      "fetched_at": "2026-08-21T02:06:37.151182+00:00"
-    },
-    {
-      "id": "eefa8e5e0ff814e5",
-      "title": "The Wildfire Policy Blowing Up California’s Home Insurance Market — and Electricity Costs",
-      "url": "https://heatmap.news/podcast/shift-key-s3-e64-lauren-teixeira",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-20T09:10:03+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 49,
-      "fetched_at": "2026-08-21T02:06:36.203188+00:00"
-    },
-    {
-      "id": "ae314268458f26ad",
-      "title": "Data Centers Could Spike U.S. Power Emissions by 20%",
-      "url": "https://heatmap.news/am/data-center-emissions",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-20T11:41:10+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 51,
-      "fetched_at": "2026-08-21T02:06:35.327258+00:00"
     }
   ]
 }
