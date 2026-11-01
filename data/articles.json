@@ -1,6 +1,37 @@
 {
-  "last_updated": "2026-10-31T06:04:30.312294+00:00",
+  "last_updated": "2026-11-01T06:34:07.672809+00:00",
   "articles": [
+    {
+      "id": "d7bd184b6cae6d4d",
+      "title": "When Electric Cars Were for Women",
+      "url": "https://spectrum.ieee.org/early-electric-vehicles",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-10-31T13:00:02+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "In 1898, there were about 50 carmakers in the United States. A decade later, that number had increased fivefold. In 1901, the companies produced 7,000 vehicles.",
+      "signal": "",
+      "estimated_read_minutes": 9,
+      "fetched_at": "2026-11-01T06:33:48.228266+00:00"
+    },
+    {
+      "id": "65812535c9e0c160",
+      "title": "Reading List 10/31/26",
+      "url": "https://www.construction-physics.com/p/reading-list-103126",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-10-31T12:34:23+00:00",
+      "sectors": [
+        "Defence",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This week we look at space fiber optic cable manufacturing, nuclear district heating, Spain’s high-speed rail crash, China’s spaceplane, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber. Housing\nAn independent committee’s report on the huge Hong Kong apartment complex fire last year found that it was probably started by a lit cigarette, and accelerated by flammable foam boards and scaffolding nets.",
+      "signal": "",
+      "estimated_read_minutes": 3,
+      "fetched_at": "2026-11-01T06:33:46.352541+00:00"
+    },
     {
       "id": "d8d1461b502db38e",
       "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
@@ -7762,36 +7793,6 @@
       "signal": "",
       "estimated_read_minutes": 5,
       "fetched_at": "2026-08-22T01:56:25.555002+00:00"
-    },
-    {
-      "id": "fc1b9c97279aa4f7",
-      "title": "India’s Data Centre Boom Has A Security Blind Spot",
-      "url": "https://inc42.com/features/indias-data-centre-boom-has-a-security-blind-spot/",
-      "source_name": "Inc42",
-      "source_type": "publication",
-      "published_at": "2026-08-20T13:38:19+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
-      "signal": "",
-      "estimated_read_minutes": 1,
-      "fetched_at": "2026-08-21T02:06:58.684615+00:00"
-    },
-    {
-      "id": "d9530f23156ffc1e",
-      "title": "Open Weight Ai Is Rewriting The Cost Of Success Indias Advantage Is To Build On It Fast",
-      "url": "https://3one4capital.com/blogs/open-weight-ai-is-rewriting-the-cost-of-success-indias-advantage-is-to-build-on-it-fast",
-      "source_name": "3one4 Capital",
-      "source_type": "blog",
-      "published_at": "2026-08-21T02:06:52.400383+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "That compression is the largest opening Indian AI has had recently, and the National Mission’s focus should be to fund the builders who can seize it. The best open-weight AI model now scores within four points of the best closed one and costs one to two orders of magnitude less to run. On the Artificial Analysis Intelligence Index, Moonshot’s Kimi K3 scores 57 against about 61 for the leading closed model.",
-      "signal": "",
-      "estimated_read_minutes": 10,
-      "fetched_at": "2026-08-21T02:06:52.400842+00:00"
     }
   ]
 }
