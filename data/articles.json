@@ -1,6 +1,37 @@
 {
-  "last_updated": "2026-11-01T06:34:07.672809+00:00",
+  "last_updated": "2026-11-02T06:34:06.356087+00:00",
   "articles": [
+    {
+      "id": "5a5a9839625b80ef",
+      "title": "Two Point O Bags $10 Mn To Bridge The Financing Gap In Clean Energy",
+      "url": "https://inc42.com/buzz/two-point-o-bags-10-mn-to-bridge-the-financing-gap-in-clean-energy/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-11-02T00:30:10+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through 40+ expert-led sessions, 1:1 mentorship and a personalised growth strategy. It closes with an in-person convocation and investor pitching. view\nRetailX by Inc42 is a 6-month, invite-only brand residency for the next generation of India's manufacturing, distribution and trading families.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-11-02T06:33:56.129675+00:00"
+    },
+    {
+      "id": "4c980086af9425ed",
+      "title": "Guarding the Gates of Knowledge",
+      "url": "https://spectrum.ieee.org/ai-slop-trust-science",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-11-01T14:00:01+00:00",
+      "sectors": [
+        "Defence",
+        "AI Infrastructure"
+      ],
+      "excerpt": "About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of the rube who unknowingly spread it and sometimes to the delight of the poster who shared it deliberately because they found it amusing or useful for sowing confusion. Remember the good old days of GPT-3 when we could ask the chatbot anything and it would almost instantly and very confidently spit back a plausible but false answer? That’s when the word “hallucination” as applied to AI answers entered the lexicon.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-11-02T06:33:47.588469+00:00"
+    },
     {
       "id": "d7bd184b6cae6d4d",
       "title": "When Electric Cars Were for Women",
@@ -7763,36 +7794,6 @@
       "signal": "",
       "estimated_read_minutes": 16,
       "fetched_at": "2026-08-22T01:56:29.529317+00:00"
-    },
-    {
-      "id": "26ae04ef255ba635",
-      "title": "The Problem With Trump’s Plan to Fight Forest Fires With Roads",
-      "url": "https://heatmap.news/adaptation/trump-roadless-rule",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-21T20:17:24+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 17,
-      "fetched_at": "2026-08-22T01:56:26.842808+00:00"
-    },
-    {
-      "id": "f9c0afb3205148cd",
-      "title": "Weekly Dose of Optimism #207",
-      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-207",
-      "source_name": "Not Boring",
-      "source_type": "substack",
-      "published_at": "2026-08-21T14:23:17+00:00",
-      "sectors": [
-        "Robotics"
-      ],
-      "excerpt": "It’s Puja’s birthday — happy birthday Puj! — and I’m taking the day off, so today is both late and light on commentary. Thankfully, the good guys didn’t take the day off - lots to report.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-08-22T01:56:25.555002+00:00"
     }
   ]
 }
