@@ -1,6 +1,113 @@
 {
-  "last_updated": "2026-11-02T06:34:06.356087+00:00",
+  "last_updated": "2026-11-03T07:04:18.865325+00:00",
   "articles": [
+    {
+      "id": "1f7d806fcec5c0c6",
+      "title": "Building The Next Industrial Era Emergent Japan 2026 And The India Japan Technology Corridor",
+      "url": "https://3one4capital.com/blogs/building-the-next-industrial-era-emergent-japan-2026-and-the-india-japan-technology-corridor",
+      "source_name": "3one4 Capital",
+      "source_type": "blog",
+      "published_at": "2026-11-03T07:04:07.301968+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "Launched in 2023, 3one4 Capital's Emergent programme connects select portfolio platforms directly with market-leading global institutions. For its fifth edition, Emergent returned to Japan from 13 to 16 October 2026, bringing a curated cohort of seven technology companies into structured commercial engagements across Tokyo and Hamamatsu. Through targeted one-on-one meetings, the cohort aligned its capabilities with the strategic procurement and technology priorities of more than 100 Japanese corporate partners, CIOs, and institutional allocators.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-11-03T07:04:07.302367+00:00"
+    },
+    {
+      "id": "ddd4de53dd5feaef",
+      "title": "Indias Carbon Market Is Ready The Window To Build Is Now",
+      "url": "https://3one4capital.com/blogs/indias-carbon-market-is-ready-the-window-to-build-is-now",
+      "source_name": "3one4 Capital",
+      "source_type": "blog",
+      "published_at": "2026-11-03T07:04:06.437143+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "The Carbon Border Adjustment Mechanism (CBAM) is a climate policy tool created by the European Union (EU) to put a fair price on the carbon emitted during the production of certain imported goods. As of January 1, 2026, every tonne of those goods arriving in Europe carries a carbon cost indexed to the EU’s carbon price. If India has no credible domestic carbon price, that cost flows to European treasuries.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-11-03T07:04:06.437613+00:00"
+    },
+    {
+      "id": "a09e48d0b66bcc5c",
+      "title": "The agentic web is here",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-02T09:35:19+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every need, without requiring us to muck about with browsers and search engines ourselves. To illustrate what this might look like, Berners-Lee and his colleagues told a story about a pair of siblings who use their agents to automatically research and book physical therapy appointments for their mother, making sure they would be covered by insurance and fit their busy calendars.",
+      "signal": "",
+      "estimated_read_minutes": 20,
+      "fetched_at": "2026-11-03T07:03:59.599939+00:00"
+    },
+    {
+      "id": "b475b7dcc2276d63",
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-02T17:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "In partnership withSnowflake\nIn just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate leaves much to be desired.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-11-03T07:03:58.724560+00:00"
+    },
+    {
+      "id": "b7492bd5cea1d25b",
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-03T04:18:47+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "But it’s sure to muddy our national conversation about AI anyway. This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-11-03T07:03:58.096846+00:00"
+    },
+    {
+      "id": "588e75ddb7df081f",
+      "title": "Exclusive: New Modeling Finds Permitting Bill Would Likely Cut Emissions",
+      "url": "https://heatmap.news/energy/rhodium-group-modeling-permitting-bill",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-02T13:00:05+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-11-03T07:03:55.727356+00:00"
+    },
+    {
+      "id": "bc94b5c3097309d4",
+      "title": "At Best, a Climate Win. At Worst? Carbon Neutral.",
+      "url": "https://heatmap.news/am/baaja-rhodium-emissions",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-02T13:16:52+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-11-03T07:03:55.144174+00:00"
+    },
     {
       "id": "5a5a9839625b80ef",
       "title": "Two Point O Bags $10 Mn To Bridge The Financing Gap In Clean Energy",
@@ -7679,121 +7786,6 @@
       "signal": "",
       "estimated_read_minutes": 6,
       "fetched_at": "2026-08-22T01:56:35.136391+00:00"
-    },
-    {
-      "id": "7d948202e4707282",
-      "title": "When AI designs a drug, who gets the credit?",
-      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-21T09:00:00+00:00",
-      "sectors": [
-        "MedTech",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Patents can only name humans as inventors. When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think of, potentially speeding the race to new cures.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-08-22T01:56:34.578241+00:00"
-    },
-    {
-      "id": "5401c907dd8c26bb",
-      "title": "The Download: threats from space mirrors and credit for AI drugs",
-      "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-21T12:10:00+00:00",
-      "sectors": [
-        "Defence",
-        "Climate",
-        "MedTech",
-        "AI Infrastructure"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many\nA company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, Reflect Orbital plans to launch a test satellite that will extend an 18-by-18-meter mirror in orbit.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-08-22T01:56:33.862440+00:00"
-    },
-    {
-      "id": "c569ff6b9ab94640",
-      "title": "GOP Fears Senate Loss in Ohio Over Data Centers",
-      "url": "https://heatmap.news/am/ohio-data-centers",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-21T11:37:19+00:00",
-      "sectors": [
-        "Defence",
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 18,
-      "fetched_at": "2026-08-22T01:56:32.204814+00:00"
-    },
-    {
-      "id": "6fe12194a779ab85",
-      "title": "A CNN Reporter Joins the Fray",
-      "url": "https://heatmap.news/plus/the-fight/qa/ella-nilsen-cnn-echo-communications",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-21T14:21:11+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 18,
-      "fetched_at": "2026-08-22T01:56:31.583277+00:00"
-    },
-    {
-      "id": "5b590e5706fce043",
-      "title": "Local Permitting Fights Take Over National Politics",
-      "url": "https://heatmap.news/plus/the-fight/hotspots/josh-shapiro-data-center-king-of-prussia",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-21T14:28:41+00:00",
-      "sectors": [
-        "Defence",
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 18,
-      "fetched_at": "2026-08-22T01:56:30.781188+00:00"
-    },
-    {
-      "id": "895d0143024c2588",
-      "title": "Data Center Moratoria Are ‘Unconstitutional,’ Lawsuits Claim",
-      "url": "https://heatmap.news/plus/the-fight/spotlight/data-center-bans-moratorium-legal",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-21T17:26:52+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 18,
-      "fetched_at": "2026-08-22T01:56:30.150125+00:00"
-    },
-    {
-      "id": "1cdfc07ea2b353d3",
-      "title": "Scoop: Trump to Permit Largest-Ever Gas Project in Just 7 Months",
-      "url": "https://heatmap.news/energy/trump-gas-plant-permits",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-21T19:23:17+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 16,
-      "fetched_at": "2026-08-22T01:56:29.529317+00:00"
     }
   ]
 }
