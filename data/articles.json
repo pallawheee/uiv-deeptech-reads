@@ -1,6 +1,143 @@
 {
-  "last_updated": "2026-11-03T07:04:18.865325+00:00",
+  "last_updated": "2026-11-04T06:49:14.766990+00:00",
   "articles": [
+    {
+      "id": "00d3678acc005691",
+      "title": "Peppermint Robotics Bags ₹100 Cr To Scale Its Industrial Robotics Bet",
+      "url": "https://inc42.com/buzz/peppermint-robotics-bags-%e2%82%b9100-cr-to-scale-its-industrial-robotics-bet/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-11-04T05:55:33+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through 40+ expert-led sessions, 1:1 mentorship and a personalised growth strategy. It closes with an in-person convocation and investor pitching. view\nRetailX by Inc42 is a 6-month, invite-only brand residency for the next generation of India's manufacturing, distribution and trading families.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-11-04T06:49:00.029849+00:00"
+    },
+    {
+      "id": "d4804f74c3e8d483",
+      "title": "IEEE Computer Society Chapter Offers Webinars With Industry Experts",
+      "url": "https://spectrum.ieee.org/ieee-industry-experts-webinar",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-11-03T19:00:02+00:00",
+      "sectors": [
+        "Cybersecurity"
+      ],
+      "excerpt": "The live webinar series connects IEEE members, undergrad and graduate students, and engineering professionals from IEEE Region 4 with industry practitioners. The monthly sessions have covered AI governance and security, agentic systems, and related topics. The sessions featured speakers from Apple, software company Tavant, and cybersecurity concern Zscaler.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-11-04T06:48:48.491758+00:00"
+    },
+    {
+      "id": "95be758dada6d320",
+      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-03T13:10:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. How “reverse game theory” could keep AI agents in check\nA new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. While game theory predicts how rational actors behave under particular rules, reverse game theory designs rules to elicit the behavior we want.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-11-04T06:48:46.932652+00:00"
+    },
+    {
+      "id": "1b86a30e4e719c6a",
+      "title": "Think Congress Is Slow? Meet the Power Sector.",
+      "url": "https://heatmap.news/daily/rhodium-transmission-benefits",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-02T23:57:14+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-11-04T06:48:44.750031+00:00"
+    },
+    {
+      "id": "7eb2834e608bc7df",
+      "title": "Trump Goes into the Midterms with a Gas Price Record",
+      "url": "https://heatmap.news/am/trump-midterms-gas",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-03T12:48:06+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-11-04T06:48:44.113171+00:00"
+    },
+    {
+      "id": "13bfc818357a9834",
+      "title": "Democrats Retake Congress. Here’s What They Plan to Do With It.",
+      "url": "https://heatmap.news/politics/democrats-retake-the-house",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-04T03:29:31+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-11-04T06:48:43.473659+00:00"
+    },
+    {
+      "id": "6c7c63dea425cc19",
+      "title": "Democrats Win Control of Georgia’s Energy Regulator",
+      "url": "https://heatmap.news/energy/georgia-psc-election-2026",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-04T05:07:15+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 22,
+      "fetched_at": "2026-11-04T06:48:42.836132+00:00"
+    },
+    {
+      "id": "0d1479a909dc9f8b",
+      "title": "If This Was a Data Center Election, Data Centers Lost",
+      "url": "https://heatmap.news/politics/data-center-election-results",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-04T05:16:57+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 24,
+      "fetched_at": "2026-11-04T06:48:42.130100+00:00"
+    },
+    {
+      "id": "764fbecc4abbc826",
+      "title": "A Chief Antagonist of Offshore Wind Loses His Seat",
+      "url": "https://heatmap.news/politics/jeff-van-drew-new-jersey-2026-results",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-04T05:37:17+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-11-04T06:48:41.433011+00:00"
+    },
     {
       "id": "1f7d806fcec5c0c6",
       "title": "Building The Next Industrial Era Emergent Japan 2026 And The India Japan Technology Corridor",
@@ -7644,148 +7781,6 @@
       "signal": "",
       "estimated_read_minutes": 6,
       "fetched_at": "2026-08-25T01:58:52.303312+00:00"
-    },
-    {
-      "id": "84b8bf2811e5934e",
-      "title": "How to encourage smarter AI use in the classroom",
-      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-24T14:20:19+00:00",
-      "sectors": [
-        "Defence",
-        "AI Infrastructure"
-      ],
-      "excerpt": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-08-25T01:58:51.712091+00:00"
-    },
-    {
-      "id": "f83381e0e3539bdc",
-      "title": "A Chat With Massachusetts’ First Heat Resilience Officer",
-      "url": "https://heatmap.news/adaptation/massachusetts-heat-officer",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-24T11:43:01+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 25,
-      "fetched_at": "2026-08-25T01:58:50.141338+00:00"
-    },
-    {
-      "id": "17d0224480a1be42",
-      "title": "Trump Orders Colorado River Water Cuts on Arizona, California, and Nevada",
-      "url": "https://heatmap.news/am/trump-colorado-river",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-24T11:49:34+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 24,
-      "fetched_at": "2026-08-25T01:58:49.478265+00:00"
-    },
-    {
-      "id": "0476ae1a41bf0983",
-      "title": "Maybe Don’t Rent an EV in Europe",
-      "url": "https://heatmap.news/electric-vehicles/europe-rental-ev",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-24T14:21:02+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 25,
-      "fetched_at": "2026-08-25T01:58:48.813068+00:00"
-    },
-    {
-      "id": "7401053873b0c06c",
-      "title": "The Rise of 'None-of-the-Above' Local Energy Laws",
-      "url": "https://heatmap.news/daily/data-centers-solar-batteries",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-24T21:55:30+00:00",
-      "sectors": [
-        "Defence",
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 23,
-      "fetched_at": "2026-08-25T01:58:48.114181+00:00"
-    },
-    {
-      "id": "a2e425a389c71e87",
-      "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
-      "url": "https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-08-21T18:00:01+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathered there to watch shows together. Ingole never even saw a computer growing up.",
-      "signal": "",
-      "estimated_read_minutes": 8,
-      "fetched_at": "2026-08-24T02:06:26.104962+00:00"
-    },
-    {
-      "id": "97d21e843c1343e6",
-      "title": "Raana Semiconductors In Talks To Raise ₹100 Cr For Silicon-Growth Equipment",
-      "url": "https://inc42.com/buzz/raana-semiconductors-in-talks-to-raise-%e2%82%b9100-cr-for-silicon-growth-equipment/",
-      "source_name": "Inc42",
-      "source_type": "publication",
-      "published_at": "2026-08-22T14:08:11+00:00",
-      "sectors": [
-        "Semiconductors"
-      ],
-      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
-      "signal": "",
-      "estimated_read_minutes": 1,
-      "fetched_at": "2026-08-23T02:08:16.530848+00:00"
-    },
-    {
-      "id": "eb39733466324e8d",
-      "title": "Reading List 08/22/26",
-      "url": "https://www.construction-physics.com/p/reading-list-082226",
-      "source_name": "Construction Physics",
-      "source_type": "substack",
-      "published_at": "2026-08-22T12:02:58+00:00",
-      "sectors": [
-        "Defence",
-        "Robotics",
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "This week we look at Los Angeles’ ADUs, electrical transformer manufacturing, gas turbine power plants, how water in the Colorado River is used, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber. No essay this week, but I have a very long piece in American Affairs about why US transit construction costs are so high.",
-      "signal": "",
-      "estimated_read_minutes": 3,
-      "fetched_at": "2026-08-23T02:08:01.152510+00:00"
-    },
-    {
-      "id": "e8245e2d39e412a7",
-      "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
-      "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-21T09:00:00+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US company Reflect Orbital plans to launch a test satellite called Eärendil-1 that will extend an 18-by-18-meter mirror in orbit. The goal is to test the feasibility of the company’s plans to launch up to 50,000 larger satellites, measuring 54 by 54 meters, and reflect sunlight to Earth on demand.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-08-22T01:56:35.136391+00:00"
     }
   ]
 }
