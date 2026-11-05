@@ -1,6 +1,193 @@
 {
-  "last_updated": "2026-11-04T06:49:14.766990+00:00",
+  "last_updated": "2026-11-05T07:08:33.240089+00:00",
   "articles": [
+    {
+      "id": "1a7d9d62cb21c5b0",
+      "title": "Cybersecurity Agency I4C Warns Banks & Fintechs Against AI-Led Cyberattacks",
+      "url": "https://inc42.com/buzz/cybersecurity-agency-i4c-warns-banks-fintechs-against-ai-led-cyberattacks/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-11-04T18:59:46+00:00",
+      "sectors": [
+        "Cybersecurity"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through 40+ expert-led sessions, 1:1 mentorship and a personalised growth strategy. It closes with an in-person convocation and investor pitching. view\nRetailX by Inc42 is a 6-month, invite-only brand residency for the next generation of India's manufacturing, distribution and trading families.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-11-05T07:08:31.335789+00:00"
+    },
+    {
+      "id": "52a5d8b42f9b0f83",
+      "title": "Cleantech Startup altM Raises $10.3 Mn To Scale Manufacturing",
+      "url": "https://inc42.com/buzz/cleantech-startup-altm-raises-10-3-mn-to-scale-manufacturing/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-11-05T00:30:27+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through 40+ expert-led sessions, 1:1 mentorship and a personalised growth strategy. It closes with an in-person convocation and investor pitching. view\nRetailX by Inc42 is a 6-month, invite-only brand residency for the next generation of India's manufacturing, distribution and trading families.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-11-05T07:08:26.453772+00:00"
+    },
+    {
+      "id": "6c941b016a2f37cc",
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-04T13:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "In partnership withCyberhaven\nA sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. When it’s discovered that the proposal includes unapproved, confidential, and sensitive information, no one can trace where the problematic data entered the workflow or how it spread across systems, files, and agents.",
+      "signal": "",
+      "estimated_read_minutes": 3,
+      "fetched_at": "2026-11-05T07:08:14.192626+00:00"
+    },
+    {
+      "id": "34220bbe6836f3c3",
+      "title": "The Download: blended meat, restored sight, and the agentic web",
+      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-04T13:10:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat\nIn the fall of 2025, Jeff Dodge served hungry students steaming marinara sauce and meatballs. The students loved them: 92% of those who tried them wanted them on the menu.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-11-05T07:08:13.652793+00:00"
+    },
+    {
+      "id": "5f784a9688e00771",
+      "title": "What’s next for US energy policy after the midterm elections?",
+      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-04T17:08:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Don’t expect huge reversals right away, but we could see more support for renewables. I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two years ago.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-11-05T07:08:13.101704+00:00"
+    },
+    {
+      "id": "3175c1089424d0e5",
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-04T18:21:40+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "Available only for MIT Technology Review subscribers. Tuesday, November 17, 2026\nIn an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual brain replacement and uploading our memories to the cloud.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-11-05T07:08:12.555339+00:00"
+    },
+    {
+      "id": "988e33cedf7304f8",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-04T18:50:55+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Some of the largest AI infrastructure projects in the world are underway in Texas. A dramatic political shift could slow their construction—and deepen concerns about the economics of the AI boom. Texas is the fastest-growing data center market in the US and ground zero for Big Tech's largest AI buildouts.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-11-05T07:08:11.993508+00:00"
+    },
+    {
+      "id": "153f1ba5b56bcf6b",
+      "title": "It’s Democrats’ Turn to Do the Shellacking",
+      "url": "https://heatmap.news/am/democrats-win-midterms",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-04T13:30:55+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-11-05T07:08:10.079765+00:00"
+    },
+    {
+      "id": "259af02e855a78f3",
+      "title": "Gas Prices Helped Democrats Win the Midterms — With a Catch",
+      "url": "https://heatmap.news/politics/gas-prices-midterms-2026",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-04T20:57:02+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-11-05T07:08:09.521708+00:00"
+    },
+    {
+      "id": "1f4533f4ae200aa4",
+      "title": "Wall Street’s Winners and Losers From the Blue Tsunami",
+      "url": "https://heatmap.news/economy/clean-energy-stocks-midterms",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-04T21:44:36+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 18,
+      "fetched_at": "2026-11-05T07:08:08.963212+00:00"
+    },
+    {
+      "id": "ed3aa4f8dcf334e2",
+      "title": "Trump’s Energy Revolution Is Over. Now a New Era Begins.",
+      "url": "https://heatmap.news/daily/2026-midterms-democrats-climate-energy",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-04T22:29:03+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 27,
+      "fetched_at": "2026-11-05T07:08:08.405778+00:00"
+    },
+    {
+      "id": "728d7e50c825897d",
+      "title": "What Does the Blue Wave Mean for Permitting Reform?",
+      "url": "https://heatmap.news/politics/midterms-permitting-reform",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-04T22:32:35+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 27,
+      "fetched_at": "2026-11-05T07:08:07.844041+00:00"
+    },
     {
       "id": "00d3678acc005691",
       "title": "Peppermint Robotics Bags ₹100 Cr To Scale Its Industrial Robotics Bet",
@@ -7595,192 +7782,6 @@
       "signal": "",
       "estimated_read_minutes": 2,
       "fetched_at": "2026-08-26T02:07:58.982732+00:00"
-    },
-    {
-      "id": "4720fbe83968c813",
-      "title": "A ‘Glass Half Full’ Isn’t Enough to Fight Climate Change",
-      "url": "https://heatmap.news/ideas/glass-half-empty",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-25T10:00:04+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 28,
-      "fetched_at": "2026-08-26T02:07:56.566488+00:00"
-    },
-    {
-      "id": "7bf2cb23bfa52596",
-      "title": "The 10 Biggest Natural Gas Projects in America",
-      "url": "https://heatmap.news/energy/10-biggest-gas-plants",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-25T11:05:02+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 30,
-      "fetched_at": "2026-08-26T02:07:55.836409+00:00"
-    },
-    {
-      "id": "0dc582440bec4c0c",
-      "title": "U.S. Pipeline of Gas Plants Nearly Doubles",
-      "url": "https://heatmap.news/am/us-gas-plants",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-25T11:50:30+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 28,
-      "fetched_at": "2026-08-26T02:07:55.081406+00:00"
-    },
-    {
-      "id": "2c8585f451843607",
-      "title": "Pacific Fusion Just Broke Ground on a $1 Billion Test Reactor",
-      "url": "https://heatmap.news/climate-tech/pacific-fusion-net-energy",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-25T15:30:02+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 30,
-      "fetched_at": "2026-08-26T02:07:54.365307+00:00"
-    },
-    {
-      "id": "3cb1b1e285fde56a",
-      "title": "Goodbye, Dolly",
-      "url": "https://heatmap.news/daily/goodbye-dolly",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-25T21:56:47+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 24,
-      "fetched_at": "2026-08-26T02:07:53.472103+00:00"
-    },
-    {
-      "id": "31dc904caf5c2d40",
-      "title": "An American Engineer in China",
-      "url": "https://www.notboring.co/p/an-american-engineer-in-china",
-      "source_name": "Not Boring",
-      "source_type": "substack",
-      "published_at": "2026-08-25T12:08:52+00:00",
-      "sectors": [
-        "Robotics",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Over the next few months, he planned to meet with energy, AI, and hardware companies and develop his China Fingerspitzengefühl. Would I be interested in sharing what he learns in real-time with not boring’s readers? If you are interested in the types of companies and technologies we write about in not boring, you probably need to understand China better.",
-      "signal": "",
-      "estimated_read_minutes": 14,
-      "fetched_at": "2026-08-26T02:07:51.438991+00:00"
-    },
-    {
-      "id": "de84ac1d95eda69a",
-      "title": "WATER Robotics Raises $2.5 Mn To Build India’s First Robotic Bed",
-      "url": "https://inc42.com/buzz/water-robotics-raises-2-5-mn-to-build-indias-first-robotic-bed/",
-      "source_name": "Inc42",
-      "source_type": "publication",
-      "published_at": "2026-08-24T09:40:22+00:00",
-      "sectors": [
-        "Robotics"
-      ],
-      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
-      "signal": "",
-      "estimated_read_minutes": 1,
-      "fetched_at": "2026-08-25T01:59:11.696147+00:00"
-    },
-    {
-      "id": "96af523603bbf6ee",
-      "title": "NVIDIA’s AI Server Price Hike Threatens To Inflate India’s Compute Costs",
-      "url": "https://inc42.com/buzz/nvidias-ai-server-price-hike-threatens-to-inflate-indias-compute-costs/",
-      "source_name": "Inc42",
-      "source_type": "publication",
-      "published_at": "2026-08-24T13:35:29+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
-      "signal": "",
-      "estimated_read_minutes": 1,
-      "fetched_at": "2026-08-25T01:59:09.135837+00:00"
-    },
-    {
-      "id": "c4c4678829fc2265",
-      "title": "Y Combinator Offloads Meesho Shares Worth ₹970 Cr",
-      "url": "https://inc42.com/buzz/y-combinator-offloads-meesho-shares-worth-%e2%82%b9970-cr/",
-      "source_name": "Inc42",
-      "source_type": "publication",
-      "published_at": "2026-08-24T15:04:40+00:00",
-      "sectors": [
-        "Defence"
-      ],
-      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
-      "signal": "",
-      "estimated_read_minutes": 1,
-      "fetched_at": "2026-08-25T01:59:03.072403+00:00"
-    },
-    {
-      "id": "4ed4c4a8b6df831d",
-      "title": "Building Technology People Can Trust",
-      "url": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-08-24T11:37:02+00:00",
-      "sectors": [
-        "Semiconductors"
-      ],
-      "excerpt": "I’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology shift: innovation always creates new complexity. In semiconductors, we have seen that repeatedly.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-08-25T01:58:53.956376+00:00"
-    },
-    {
-      "id": "baf89b9624bd1b24",
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-24T09:00:00+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child. Four short years after the release of ChatGPT, many of us now take it for granted that we can converse naturally with our phones or computers. LLMs like Claude, DeepSeek, and OpenAI’s GPT models are fluent and flexible enough to masquerade convincingly as humans.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-08-25T01:58:52.874053+00:00"
-    },
-    {
-      "id": "c090dee7d6805bc0",
-      "title": "The Download: kids outlearning AI, and space travel agents",
-      "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-24T12:10:00+00:00",
-      "sectors": [
-        "Robotics",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Plus: both parties are turning against AI data centers ahead of the midterms. This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Kids outlearn AI—and we still don’t know why\nTeaching a computer to use human language requires an inhuman amount of data.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-08-25T01:58:52.303312+00:00"
     }
   ]
 }
