@@ -1,16 +1,5 @@
 [
   {
-    "url": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553?utm_source=IEEE&utm_medium=site&utm_campaign=922",
-    "source": "IEEE Spectrum",
-    "reason": "scrape_failed",
-    "timestamp": "2026-08-27T10:05:08.763029+00:00"
-  },
-  {
-    "source": "Stellaris",
-    "reason": "scrape_index_returned_no_links",
-    "timestamp": "2026-08-27T10:05:12.433801+00:00"
-  },
-  {
     "source": "Stellaris",
     "reason": "scrape_index_returned_no_links",
     "timestamp": "2026-08-28T11:36:46.157167+00:00"
@@ -526,5 +515,16 @@
     "source": "Stellaris",
     "reason": "scrape_index_returned_no_links",
     "timestamp": "2026-11-06T07:08:00.907473+00:00"
+  },
+  {
+    "url": "https://event.on24.com/wcc/r/5546816/67D0147A8B8D057FCE11A17D61A8BB0D?utm_source=IEEE",
+    "source": "IEEE Spectrum",
+    "reason": "scrape_failed",
+    "timestamp": "2026-11-07T06:19:53.705517+00:00"
+  },
+  {
+    "source": "Stellaris",
+    "reason": "scrape_index_returned_no_links",
+    "timestamp": "2026-11-07T06:19:57.939937+00:00"
   }
 ]

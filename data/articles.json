@@ -1,6 +1,196 @@
 {
-  "last_updated": "2026-11-06T07:08:15.478783+00:00",
+  "last_updated": "2026-11-07T06:20:11.072246+00:00",
   "articles": [
+    {
+      "id": "c739d16d129b858a",
+      "title": "IEEE Program Schools Preuniversity Educators On Tech Topics",
+      "url": "https://spectrum.ieee.org/ieee-preuniversity",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-11-05T19:00:02+00:00",
+      "sectors": [
+        "Climate",
+        "Semiconductors"
+      ],
+      "excerpt": "This year’s sessions, held across the United States, have focused on educating teachers about artificial intelligence and semiconductor technology. In all, 54 educators learned about the engineering design process this year. They received an overview of TryEngineering resources including the Making of a Microchip and Train Your Tree lesson plans.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-11-07T06:19:52.761982+00:00"
+    },
+    {
+      "id": "c33a47990bb435ee",
+      "title": "How Do You Land on a Moon With Almost No Gravity?",
+      "url": "https://spectrum.ieee.org/mmx-mission-to-phobos",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-11-06T15:00:02+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Phobos, the Martian moon named for the Greek god of fear and panic, was transiting the solar disk. Too small to darken the pale, dust-tinged sky, but orbiting close enough to eclipse a significant fraction of the Sun, Phobos passed in less than a minute. NASA’s Perseverance rover captured Phobos passing in front of the Sun from the surface of Mars.ASU/MSSS/SSI/JPL-Caltech/NASA\nThe tiny moon, with its murky origins, is an enigma, and one whose makeup and history could tell us much about Mars and the wider solar system.",
+      "signal": "",
+      "estimated_read_minutes": 15,
+      "fetched_at": "2026-11-07T06:19:52.184330+00:00"
+    },
+    {
+      "id": "1ca94b52e709b2f5",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-06T10:00:00+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "The startup Tau Robotics is sending humanoid robots to clean San Francisco homes. They still need lots of human guidance, but they’re learning. I’m not the sort of person who typically pays for a house cleaner.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-11-07T06:19:51.318007+00:00"
+    },
+    {
+      "id": "4824c98720e7e767",
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-06T13:10:00+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. I watched a humanoid robot clean my apartment. —Grace Huckins\nWhen I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed up for the waitlist.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-11-07T06:19:50.737121+00:00"
+    },
+    {
+      "id": "e13ea41cfc9be6cb",
+      "title": "How Democrats Can Make Sure Their Energy Policy Sticks",
+      "url": "https://heatmap.news/ideas/states-democrats-energy-policy",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-06T11:00:04+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 22,
+      "fetched_at": "2026-11-07T06:19:49.103288+00:00"
+    },
+    {
+      "id": "5f076262264fab99",
+      "title": "Canada Gets One Step Closer to Becoming an Energy Superpower",
+      "url": "https://heatmap.news/am/canada-shell-oil",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-06T13:36:20+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 22,
+      "fetched_at": "2026-11-07T06:19:48.517372+00:00"
+    },
+    {
+      "id": "bac24c7797b47d46",
+      "title": "Was This Really the Data Center Election?",
+      "url": "https://heatmap.news/plus/the-fight/spotlight/was-this-really-the-data-center-election",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-06T17:33:48+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 14,
+      "fetched_at": "2026-11-07T06:19:47.876258+00:00"
+    },
+    {
+      "id": "6496cae9e475fbc0",
+      "title": "The Promise and Peril of the Blue Wave for Renewables",
+      "url": "https://heatmap.news/the-promise-and-peril-of-the-blue-wave-for-renewables",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-06T17:34:28+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 14,
+      "fetched_at": "2026-11-07T06:19:47.298624+00:00"
+    },
+    {
+      "id": "f59ec4c17401a24e",
+      "title": "How an Undecided Congressman Is Thinking Through the Permitting Bill",
+      "url": "https://heatmap.news/politics/mike-levin-permitting-bill",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-06T19:36:23+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 30,
+      "fetched_at": "2026-11-07T06:19:46.704485+00:00"
+    },
+    {
+      "id": "e97f2fc7fc6e4b63",
+      "title": "This Was Actually a Pretty Normal Week for Data Center Restrictions",
+      "url": "https://heatmap.news/politics/data-center-restrictions-midterms",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-06T20:42:52+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 28,
+      "fetched_at": "2026-11-07T06:19:45.998594+00:00"
+    },
+    {
+      "id": "daf1e60b00d7674b",
+      "title": "California Just Voted for Single-Payer Wildfire Insurance",
+      "url": "https://heatmap.news/california-just-voted-for-single-payer-wildfire-insurance",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-06T20:43:25+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 28,
+      "fetched_at": "2026-11-07T06:19:45.407815+00:00"
+    },
+    {
+      "id": "477aa306761e2a60",
+      "title": "Weekly Dose of Optimism #218",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-218",
+      "source_name": "Not Boring",
+      "source_type": "substack",
+      "published_at": "2026-11-06T13:53:10+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "The world’s researchers and engineers are still cooking up the good stuff, and we’re here to serve it to you. This Week’s Weekly Dose is brought to you by… Runway\nRunway is building foundational AI for how the world creates. 65M+ people use Runway to generate, edit and produce video, images and audio with 80+ top media models.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-11-07T06:19:43.888305+00:00"
+    },
     {
       "id": "d8ec69625831a523",
       "title": "Why a Mathematician Is Chasing Eclipses With Algorithms and Cameras",
@@ -7592,196 +7782,6 @@
       "signal": "",
       "estimated_read_minutes": 26,
       "fetched_at": "2026-08-27T10:05:06.717236+00:00"
-    },
-    {
-      "id": "ed3fcbbbde771c98",
-      "title": "AI models flub these intelligence tests. Can you fare any better?",
-      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-26T09:00:00+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "Puzzles and games can reveal gaps in models’ smarts. Try your hand at these seven tests to see if you can outwit AI. Puzzles and games have been central to AI development since the very beginning.",
-      "signal": "",
-      "estimated_read_minutes": 10,
-      "fetched_at": "2026-08-27T10:05:06.148378+00:00"
-    },
-    {
-      "id": "3475a518bf5e1119",
-      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-      "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-26T12:10:00+00:00",
-      "sectors": [
-        "Robotics",
-        "AI Infrastructure"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Introducing: the Kids issue\nIf the desire to limit kids' use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from social media.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-08-27T10:05:05.495215+00:00"
-    },
-    {
-      "id": "be20cc599a8c7b47",
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-26T19:00:00+00:00",
-      "sectors": [
-        "Cybersecurity"
-      ],
-      "excerpt": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’ fears that AI models might take actions that defy human desires and expectations. Since the hack, OpenAI employees—as well as researchers at the AI evaluation nonprofit METR, which released its own report on the hack today—have worked to understand what went wrong and how similar missteps might be prevented in the future.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-08-27T10:05:04.917008+00:00"
-    },
-    {
-      "id": "111240d30659f666",
-      "title": "EPA Is Limiting Public Input on Data Centers",
-      "url": "https://heatmap.news/am/epa-data-centers",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-26T11:54:41+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-08-27T10:05:03.299001+00:00"
-    },
-    {
-      "id": "92732ea467f12545",
-      "title": "The Startup Behind Lamppost-Mounted EV Chargers Pulls Into the Garage",
-      "url": "https://heatmap.news/sparks/the-startup-behind-lamppost-mounted-ev-chargers-enters-the-parking-garage",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-26T13:00:02+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 12,
-      "fetched_at": "2026-08-27T10:05:02.677033+00:00"
-    },
-    {
-      "id": "85250eee7b256111",
-      "title": "The Texas Grid Has Had a Boring Summer Thanks to Batteries",
-      "url": "https://heatmap.news/energy/texas-grid-reliability-batteries",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-26T19:17:24+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 19,
-      "fetched_at": "2026-08-27T10:05:02.053896+00:00"
-    },
-    {
-      "id": "580f76feed1d716f",
-      "title": "Fracking Was Never as Unpopular as Data Centers",
-      "url": "https://heatmap.news/daily/data-centers-unpopular-fracking",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-26T23:25:41+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 64,
-      "fetched_at": "2026-08-27T10:05:01.412746+00:00"
-    },
-    {
-      "id": "22eb8bff3a98032f",
-      "title": "Transcript: The Case for Restoring the Wind and Solar Tax Credits",
-      "url": "https://heatmap.news/podcast/shift-key-s3-e65-amanda-levin-transcript",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-27T09:00:06+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 67,
-      "fetched_at": "2026-08-27T10:05:00.459756+00:00"
-    },
-    {
-      "id": "816ea5a371742624",
-      "title": "The Case for Restoring the Wind and Solar Tax Credits",
-      "url": "https://heatmap.news/podcast/shift-key-s3-e65-amanda-levin",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-27T09:10:02+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 67,
-      "fetched_at": "2026-08-27T10:04:59.803801+00:00"
-    },
-    {
-      "id": "eb011ad202c8a4ee",
-      "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
-      "url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-08-25T10:00:03+00:00",
-      "sectors": [
-        "Robotics",
-        "Climate"
-      ],
-      "excerpt": "From about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answered when you spoke to them. Most early companion robots, however, were still limited by simple voice-command interactions and narrow functionality.",
-      "signal": "",
-      "estimated_read_minutes": 9,
-      "fetched_at": "2026-08-26T02:08:06.643334+00:00"
-    },
-    {
-      "id": "c5f9c7930c15d52a",
-      "title": "IBM Built the Cold War’s Most Powerful Code Breaker for the NSA",
-      "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-08-25T13:00:01+00:00",
-      "sectors": [
-        "Defence",
-        "Robotics",
-        "AI Infrastructure"
-      ],
-      "excerpt": "It ran its jobs up to 200 times as fast as any other computer of its time. National Security Agency’s main cryptographic processor in operation from the time of the Cuban Missile Crisis in 1962 through the Vietnam War and on past the 1975 Helsinki Accords. The machine stopped running only when its moving parts finally gave out.",
-      "signal": "",
-      "estimated_read_minutes": 16,
-      "fetched_at": "2026-08-26T02:08:05.959791+00:00"
-    },
-    {
-      "id": "3829c1cf63ea5c37",
-      "title": "MIT tech powered the Artemis II livestreams",
-      "url": "https://www.technologyreview.com/2026/08/25/1140961/mit-tech-powered-the-artemis-ii-livestreams/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-25T21:00:00+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure",
-        "Quantum Computing"
-      ],
-      "excerpt": "During the original US missions to the moon in the 1960s and ’70s, astronauts relied on radio-frequency systems to communicate, sending grainy, low-quality images and videos to Earth. But on the Artemis II Orion mission in April, spacecraft transmitted crystal-clear footage at speeds on par with those of home internet connections. The livestreams so many people enjoyed were made possible through the Orion Artemis II Optical Communications System (O2O), developed by MIT Lincoln Laboratory in collaboration with NASA Goddard Space Flight Center.",
-      "signal": "",
-      "estimated_read_minutes": 2,
-      "fetched_at": "2026-08-26T02:08:04.832034+00:00"
     }
   ]
 }
