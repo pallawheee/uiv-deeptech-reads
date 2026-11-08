@@ -1,6 +1,70 @@
 {
-  "last_updated": "2026-11-07T06:20:11.072246+00:00",
+  "last_updated": "2026-11-08T06:26:41.467677+00:00",
   "articles": [
+    {
+      "id": "2a47f979fd33aea1",
+      "title": "California Just Voted for Single-Payer Wildfire Insurance",
+      "url": "https://heatmap.news/politics/california-just-voted-for-single-payer-wildfire-insurance",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-06T20:43:25+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 28,
+      "fetched_at": "2026-11-08T06:26:22.755023+00:00"
+    },
+    {
+      "id": "212f0bd98af672c3",
+      "title": "What to Know About COP31",
+      "url": "https://heatmap.news/climate/what-to-know-about-cop31",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-07T11:00:03+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 29,
+      "fetched_at": "2026-11-08T06:26:22.134488+00:00"
+    },
+    {
+      "id": "ab0ebd22243649ec",
+      "title": "The Last-Minute Changes to the Senate Permitting Deal, Explained",
+      "url": "https://heatmap.news/energy/managers-amendment-policy-permitting-bill",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-07T19:53:59+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 27,
+      "fetched_at": "2026-11-08T06:26:21.549485+00:00"
+    },
+    {
+      "id": "c6a114db2a0406b9",
+      "title": "Reading List 11/7/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-1172026",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-11-07T13:23:36+00:00",
+      "sectors": [
+        "Defence",
+        "Robotics",
+        "Climate"
+      ],
+      "excerpt": "This week we look at Florida’s property tax rollback, projected PCB shortages, the end of Tesla’s Cybertruck, the lack of progress in carbon storage, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber. Housekeeping items this week: I accidentally emailed out this week’s essay, How Do Building Codes Affect the Price of Housing, to paid members only instead of all subscribers.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-11-08T06:26:20.731232+00:00"
+    },
     {
       "id": "c739d16d129b858a",
       "title": "IEEE Program Schools Preuniversity Educators On Tech Topics",
@@ -7721,67 +7785,6 @@
       "signal": "",
       "estimated_read_minutes": 70,
       "fetched_at": "2026-08-28T11:36:29.730869+00:00"
-    },
-    {
-      "id": "4c408e54034df452",
-      "title": "Exclusive: Marathon Fusion Achieves Reactor Fuel Breakthrough",
-      "url": "https://heatmap.news/climate-tech/marathon-fusion-lithium-tritium",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-27T16:00:05+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 72,
-      "fetched_at": "2026-08-28T11:36:28.895214+00:00"
-    },
-    {
-      "id": "1aafb25b64bfeacf",
-      "title": "How the Strategic Petroleum Reserve Works",
-      "url": "https://www.construction-physics.com/p/how-the-strategic-petroleum-reserve",
-      "source_name": "Construction Physics",
-      "source_type": "substack",
-      "published_at": "2026-08-27T12:03:58+00:00",
-      "sectors": [
-        "Defence"
-      ],
-      "excerpt": "It’s capable of storing 714 million barrels of oil, slightly less than 10% of the US’s annual oil consumption. Built in response to OAPEC’s 1973 oil embargo, the SPR was created to insulate the US from oil supply shocks: to make up for shortfalls and prevent steep price increases should oil imports be interrupted. In the years since its creation, it has become one of the most frequently used energy policy tools in the US’s arsenal.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-08-28T11:36:27.271276+00:00"
-    },
-    {
-      "id": "63bb0f18fec5e4b1",
-      "title": "A New NASA Design Turbocharges Nuclear Spacecraft",
-      "url": "https://spectrum.ieee.org/bimodal-nuclear-spacecraft",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-08-26T12:00:01+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "- S‑BNR uses a single reactor with two independent fluid loops and correspondingly optimized fuel zones, eliminating complex mode-switching valves while providing both high thrust and continuous electric power. - Major challenges include developing fuel elements that integrate well together, ground testing, nuclear launch safety, and multi-agency collaboration to mature the technology from modeling to in‑space demonstrations. The biggest threat to any crewed expedition to Mars is time.",
-      "signal": "",
-      "estimated_read_minutes": 17,
-      "fetched_at": "2026-08-27T10:05:07.661088+00:00"
-    },
-    {
-      "id": "19637493f6c521db",
-      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-26T07:01:00+00:00",
-      "sectors": [
-        "Robotics",
-        "Climate"
-      ],
-      "excerpt": "In a new interview, the billionaire philanthropist sounds an alarm on the urgency of getting our AI policies in order. It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue.",
-      "signal": "",
-      "estimated_read_minutes": 26,
-      "fetched_at": "2026-08-27T10:05:06.717236+00:00"
     }
   ]
 }
