@@ -1,6 +1,118 @@
 {
-  "last_updated": "2026-11-10T07:35:59.097444+00:00",
+  "last_updated": "2026-11-11T06:54:10.937272+00:00",
   "articles": [
+    {
+      "id": "577cd7f092efbdc5",
+      "title": "NVIDIA Scandal & AI Selloff In the US: India’s Neocloud Boom Faces Twin Tests",
+      "url": "https://inc42.com/features/nvidia-scandal-ai-selloff-in-the-us-indias-neocloud-boom-faces-twin-tests/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-11-10T16:37:51+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through 40+ expert-led sessions, 1:1 mentorship and a personalised growth strategy. It closes with an in-person convocation and investor pitching. view\nRetailX by Inc42 is a 6-month, invite-only brand residency for the next generation of India's manufacturing, distribution and trading families.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-11-11T06:54:07.959634+00:00"
+    },
+    {
+      "id": "383fec097ec1fefd",
+      "title": "Evolving metal extraction processes",
+      "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-10T13:00:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Provided byOutokumpu\nThe metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familiar to metallurgists from generations ago. Processes have become larger and control systems smarter, but the fundamental science behind separating metals from ores has changed less than many realize.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-11-11T06:53:51.952963+00:00"
+    },
+    {
+      "id": "4c3c56a1a61aaf31",
+      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-10T13:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI\n—Grace Huckins\nAs a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-11-11T06:53:51.327235+00:00"
+    },
+    {
+      "id": "1b77ba2770f581e1",
+      "title": "Permitting Reform ‘Survived Its First Test’",
+      "url": "https://heatmap.news/am/baaja-cloture-nrc",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-10T12:53:16+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 30,
+      "fetched_at": "2026-11-11T06:53:49.405744+00:00"
+    },
+    {
+      "id": "1a6954e53a454438",
+      "title": "House Moderates Say Now Is the Time for Permitting Reform",
+      "url": "https://heatmap.news/politics/house-baaja",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-10T20:21:57+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 22,
+      "fetched_at": "2026-11-11T06:53:48.824937+00:00"
+    },
+    {
+      "id": "0aab49e070b9fed5",
+      "title": "Energy Prices Are Still Heating Up the Economy",
+      "url": "https://heatmap.news/economy/october-inflation",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-10T20:49:57+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-11-11T06:53:48.049675+00:00"
+    },
+    {
+      "id": "3dbff9b184460410",
+      "title": "Exclusive: Martin Heinrich on What’s Next for Permitting Reform",
+      "url": "https://heatmap.news/daily/exclusive-martin-heinrich-on-whats-next-for-permitting-reform",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-11T00:59:21+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 36,
+      "fetched_at": "2026-11-11T06:53:47.260586+00:00"
+    },
     {
       "id": "0d1f5575b3011c6b",
       "title": "The Energy Tech Transition Has Begun Neufin Is Building The Clean Power Network For Enterprises",
@@ -7676,114 +7788,6 @@
       "signal": "",
       "estimated_read_minutes": 6,
       "fetched_at": "2026-09-01T05:25:11.653812+00:00"
-    },
-    {
-      "id": "6fac3b29bd2f156f",
-      "title": "This Teen Helped Native American Students Earn Ham Radio Licenses",
-      "url": "https://spectrum.ieee.org/ruchira-shree-ham-radio",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-08-31T18:00:01+00:00",
-      "sectors": [
-        "Defence"
-      ],
-      "excerpt": "For Ruchira Shree, a rising sophomore at West Windsor–Plainsboro High School South, in New Jersey, the break allows her to ramp up her extracurricular pursuits. Much of her time is spent assisting with IEEE Princeton Central Jersey Section activities. She got involved with the PCJS because of her mother, IEEE Senior Member Shubha Bommalingaiahnapallya, who is the section’s vice chair.",
-      "signal": "",
-      "estimated_read_minutes": 10,
-      "fetched_at": "2026-09-01T05:25:11.027307+00:00"
-    },
-    {
-      "id": "e3512417501f758d",
-      "title": "The U.S. and Venezuela Ink ‘The Biggest Oil Deal in World History’",
-      "url": "https://heatmap.news/am/trump-venezuela-oil-deal",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-31T11:51:04+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 26,
-      "fetched_at": "2026-09-01T05:25:08.211030+00:00"
-    },
-    {
-      "id": "311bedd8f3503077",
-      "title": "Forever Chemicals Want a Piece of the Data Center Boom",
-      "url": "https://heatmap.news/climate/data-centers-pfas",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-31T18:29:11+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure",
-        "Semiconductors"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 28,
-      "fetched_at": "2026-09-01T05:25:07.280946+00:00"
-    },
-    {
-      "id": "da57e87eed2e695e",
-      "title": "Reading List 08/29/26",
-      "url": "https://www.construction-physics.com/p/reading-list-082926",
-      "source_name": "Construction Physics",
-      "source_type": "substack",
-      "published_at": "2026-08-29T12:03:07+00:00",
-      "sectors": [
-        "Robotics"
-      ],
-      "excerpt": "This week we look at sinking London homes, US magnesium manufacturing, the World Humanoid Robot games, catastrophic flooding in Nepal, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber. Housing and Cities\nNew home sales are down 6.3% year over year.",
-      "signal": "",
-      "estimated_read_minutes": 3,
-      "fetched_at": "2026-08-30T05:37:11.999767+00:00"
-    },
-    {
-      "id": "dbb204013c8884a3",
-      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
-      "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-08-28T12:35:27+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. A startup claims it’s found a drug to make your blood young\n—Antonio Regalado\nI knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the chance to write about—and even receive—their new rejuvenation treatment. This wasn’t just any antiaging treatment, either.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-08-29T07:14:43.139542+00:00"
-    },
-    {
-      "id": "726acc939fea8f8a",
-      "title": "Trump’s Latest Deal to Kill Offshore Wind Benefits a Donor",
-      "url": "https://heatmap.news/am/trump-michael-dorrell",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-28T11:45:06+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 28,
-      "fetched_at": "2026-08-29T07:14:41.431340+00:00"
-    },
-    {
-      "id": "ba12059f5121c33d",
-      "title": "America’s Oil Refineries Are Going All Out",
-      "url": "https://heatmap.news/energy/oil-refineries-iran",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-28T16:15:35+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 26,
-      "fetched_at": "2026-08-29T07:14:40.842328+00:00"
     }
   ]
 }
