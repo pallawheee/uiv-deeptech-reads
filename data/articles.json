@@ -1,6 +1,101 @@
 {
-  "last_updated": "2026-11-11T06:54:10.937272+00:00",
+  "last_updated": "2026-11-12T07:30:04.197993+00:00",
   "articles": [
+    {
+      "id": "2b5f528d3b67d19c",
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-11T13:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Six wild ideas for perpetuating your mind\nAs we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you will still be you. To preserve that elusive continuity of self, some far-thinking technologists are exploring ways to keep the brain going, even beyond death.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-11-12T07:29:38.231611+00:00"
+    },
+    {
+      "id": "163fb1bfb894fd4e",
+      "title": "What to know about this year’s UN climate talks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-11T17:00:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world. Turkey and Australia are cohosting this year’s talks, which are scheduled to wrap up on November 20.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-11-12T07:29:37.593373+00:00"
+    },
+    {
+      "id": "0bdcc125a47b2c40",
+      "title": "North America’s First SMR Project Is Running Late and Over Budget",
+      "url": "https://heatmap.news/am/canada-smr",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-11T12:24:55+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 33,
+      "fetched_at": "2026-11-12T07:29:35.758288+00:00"
+    },
+    {
+      "id": "bed2f10f3b7c18df",
+      "title": "Exclusive: Coreshell Raises $30 Million to Replace Chinese Graphite With American Silicon",
+      "url": "https://heatmap.news/climate-tech/coreshell-series-b",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-11T15:00:04+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "Semiconductors"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 33,
+      "fetched_at": "2026-11-12T07:29:34.854711+00:00"
+    },
+    {
+      "id": "f7e1134fa5d3638b",
+      "title": "Running a Smart Home Energy System Takes a Lot of Software",
+      "url": "https://heatmap.news/climate-tech/lunar-ev-charging",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-11T21:38:22+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 34,
+      "fetched_at": "2026-11-12T07:29:33.992350+00:00"
+    },
+    {
+      "id": "db894c26e3a121ec",
+      "title": "The Artificial Intelligence Muddle",
+      "url": "https://heatmap.news/daily/the-artificial-intelligence-muddle",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-12T00:15:34+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-11-12T07:29:33.352345+00:00"
+    },
     {
       "id": "577cd7f092efbdc5",
       "title": "NVIDIA Scandal & AI Selloff In the US: India’s Neocloud Boom Faces Twin Tests",
@@ -7695,99 +7790,6 @@
       "signal": "",
       "estimated_read_minutes": 6,
       "fetched_at": "2026-09-02T04:52:12.142695+00:00"
-    },
-    {
-      "id": "7ad6c276e7f3c62e",
-      "title": "How AI plotted an interstellar journey to Alpha Centauri",
-      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-01T19:10:36+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029. It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the spacecraft will follow a novel trajectory discovered by an AI system developed by Physical Superintelligence (PSI), an AI physics research lab.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-09-02T04:52:11.274931+00:00"
-    },
-    {
-      "id": "95693cb094e274af",
-      "title": "California’s New Gas Pipeline Alternative: Just Paying You",
-      "url": "https://heatmap.news/daily/california-gas-pipeline-bill",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-08-31T22:37:05+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 22,
-      "fetched_at": "2026-09-02T04:52:08.511245+00:00"
-    },
-    {
-      "id": "c38102ca8bc7ccb2",
-      "title": "Odyssey Energy Raises $74 Million to Supercharge Small-Scale Solar",
-      "url": "https://heatmap.news/climate-tech/odyssey-africa-solar",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-01T10:00:09+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 34,
-      "fetched_at": "2026-09-02T04:52:07.671661+00:00"
-    },
-    {
-      "id": "14ada4e3f9029411",
-      "title": "Trump Says Data Center Opponents ‘Want to End Up Being Backwards and Poor’",
-      "url": "https://heatmap.news/am/trump-data-centers-climate-superfund",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-01T13:04:22+00:00",
-      "sectors": [
-        "Defence",
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 32,
-      "fetched_at": "2026-09-02T04:52:06.822186+00:00"
-    },
-    {
-      "id": "4c51d04e32be025a",
-      "title": "‘Make Polluters Pay’ Might Not Be a Feasible Climate Strategy",
-      "url": "https://heatmap.news/daily/new-york-superfund",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-01T22:06:06+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 22,
-      "fetched_at": "2026-09-02T04:52:06.082247+00:00"
-    },
-    {
-      "id": "cde6d80f75518b2a",
-      "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
-      "url": "https://spectrum.ieee.org/europes-ai-drive",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-08-31T14:00:04+00:00",
-      "sectors": [
-        "AI Infrastructure",
-        "Semiconductors"
-      ],
-      "excerpt": "The European Union’s push for technological sovereignty faces an uncomfortable contradiction. rolls out AI factories, gigafactories, and new data centers, it is creating a surge in demand for the advanced semiconductors that underpin artificial intelligence. Yet Europe produces fewer than 10 percent of the world’s chips and remains heavily dependent on U.S.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-09-01T05:25:11.653812+00:00"
     }
   ]
 }
