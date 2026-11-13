@@ -1,6 +1,177 @@
 {
-  "last_updated": "2026-11-12T07:30:04.197993+00:00",
+  "last_updated": "2026-11-13T07:01:33.687296+00:00",
   "articles": [
+    {
+      "id": "7ff9f89b221e837a",
+      "title": "Jensen Huang Resigns As CEO Of Chipmaker NVIDIA",
+      "url": "https://inc42.com/buzz/jensen-huang-resigns-as-ceo-of-chipmaker-nvidia/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-11-12T14:22:22+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through 40+ expert-led sessions, 1:1 mentorship and a personalised growth strategy. It closes with an in-person convocation and investor pitching. view\nRetailX by Inc42 is a 6-month, invite-only brand residency for the next generation of India's manufacturing, distribution and trading families.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-11-13T07:01:31.700409+00:00"
+    },
+    {
+      "id": "a6466546701a442b",
+      "title": "Ola Electric Slides In Q2, NVIDIA CEO Quits & More",
+      "url": "https://inc42.com/buzz/ola-electric-slides-in-q2-nvidia-ceo-quits-more/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-11-13T02:30:14+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through 40+ expert-led sessions, 1:1 mentorship and a personalised growth strategy. It closes with an in-person convocation and investor pitching. view\nRetailX by Inc42 is a 6-month, invite-only brand residency for the next generation of India's manufacturing, distribution and trading families.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-11-13T07:01:21.121055+00:00"
+    },
+    {
+      "id": "9cb6acfe76d55647",
+      "title": "Its Time To Swim Upstream In The Electronics Value Chain",
+      "url": "https://3one4capital.com/blogs/its-time-to-swim-upstream-in-the-electronics-value-chain",
+      "source_name": "3one4 Capital",
+      "source_type": "blog",
+      "published_at": "2026-11-13T07:01:14.400592+00:00",
+      "sectors": [
+        "Semiconductors"
+      ],
+      "excerpt": "The PLI schemes brought in Apple's contract manufacturers and Samsung, and the country today runs one of the larger mobile assembly bases outside China, with electronics production around US$115bn in FY24 and still growing close to 25% a year (Avendus). That investment has created jobs, supplier networks, and logistics infrastructure on which the industry can expand. The next question is where India can capture more value.",
+      "signal": "",
+      "estimated_read_minutes": 9,
+      "fetched_at": "2026-11-13T07:01:14.401064+00:00"
+    },
+    {
+      "id": "eb869d57958bc22e",
+      "title": "The Download: COP31’s climate challenge and the quest for immortality",
+      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-12T13:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. What to know about this year’s UN climate talks\nThousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year’s negotiations are taking place against a particularly tense geopolitical backdrop, as the world falls further behind the Paris Agreement’s goals.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-11-13T07:01:06.691292+00:00"
+    },
+    {
+      "id": "eeb3027690b25fcf",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-12T20:16:24+00:00",
+      "sectors": [
+        "Defence",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.”\nFoster, a Democrat who serves on the Committee on Science, Space, and Technology, is a cosponsor of the act, which would introduce geotracking requirements to verify the location of advanced AI chips in order to prevent their smuggling to China. It is one of three chip-security bills under consideration for inclusion in the Senate’s National Defense Authorization Act, each of which is drawing renewed attention after Nvidia CEO Jensen Huang’s resignation and reported affair with an alleged Chinese spy. When the Chip Security Act was introduced, in May 2025, lawmakers said the technology to implement it existed, something Nvidia has not publicly confirmed.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-11-13T07:01:06.096980+00:00"
+    },
+    {
+      "id": "d8280fd7514cd28b",
+      "title": "Exxon Is Suing the EU Over Carbon Capture Rules",
+      "url": "https://heatmap.news/am/guterres-cop31",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-12T12:31:32+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-11-13T07:01:04.494056+00:00"
+    },
+    {
+      "id": "e1628cac66f4c118",
+      "title": "The U.S. Reactor Startup Going Head to Head With China for Singapore’s Business",
+      "url": "https://heatmap.news/energy/x-energy-singapore",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-12T15:44:04+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-11-13T07:01:03.891435+00:00"
+    },
+    {
+      "id": "c6da889f1cead54d",
+      "title": "Electricity Isn’t the Only Thing Getting More Expensive Because of AI",
+      "url": "https://heatmap.news/ideas/gas-customer-protection-pledge",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-12T17:58:04+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 21,
+      "fetched_at": "2026-11-13T07:01:03.288346+00:00"
+    },
+    {
+      "id": "9f4561f12834efd3",
+      "title": "The Deadliest Part of a Wildfire Might Not Be the Blaze",
+      "url": "https://heatmap.news/adaptation/indonesia-smoke",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-12T22:13:55+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 23,
+      "fetched_at": "2026-11-13T07:01:02.614877+00:00"
+    },
+    {
+      "id": "983035fe8c04b298",
+      "title": "Lots of Environmental Groups Oppose the Permitting Bill. This One Doesn’t.",
+      "url": "https://heatmap.news/podcast/shift-key-159-evergreen-baaja",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-12T23:52:04+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 61,
+      "fetched_at": "2026-11-13T07:01:01.947628+00:00"
+    },
+    {
+      "id": "3dd25e567b2a20d5",
+      "title": "Transcript: Lots of Environmental Groups Oppose the Permitting Bill. This One Doesn’t.",
+      "url": "https://heatmap.news/podcast/shift-key-159-evergreen-baaja-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-13T01:08:15+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 58,
+      "fetched_at": "2026-11-13T07:01:01.334296+00:00"
+    },
     {
       "id": "2b5f528d3b67d19c",
       "title": "The Download: preserving minds and weighing open AI risks",
@@ -7622,174 +7793,6 @@
       "signal": "",
       "estimated_read_minutes": 15,
       "fetched_at": "2026-09-04T04:52:51.728350+00:00"
-    },
-    {
-      "id": "ebdbf0f6db65b302",
-      "title": "AI, tools and transformation",
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "source_name": "Benedict Evans",
-      "source_type": "blog",
-      "published_at": "2026-09-03T21:26:04+00:00",
-      "sectors": [
-        "Semiconductors"
-      ],
-      "excerpt": "It has giant ‘big iron’ horizontal systems of record like SAP and Workday, it has hundreds of vertical SaaS applications, and then there are hundreds more workflows, scripts, automations and databases, right down to the 10 meg spreadsheet running a department. Very often, the company doesn’t even know quite how much it has, what’s actually being used, and what it’s paying for. And yet, with all this software, the company is full of boring, repetitive tasks.",
-      "signal": "",
-      "estimated_read_minutes": 12,
-      "fetched_at": "2026-09-04T04:52:50.386232+00:00"
-    },
-    {
-      "id": "98357abb9c8fa16f",
-      "title": "NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone",
-      "url": "https://spectrum.ieee.org/canadarm-ieee-300th-milestone",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-09-02T18:00:03+00:00",
-      "sectors": [
-        "Robotics"
-      ],
-      "excerpt": "The shuttles could launch like rockets, maneuver in Earth’s orbit, and land like airplanes. They also could carry large satellites to and from orbit. Like other types of transportation, machinery eventually breaks down, and parts need to be replaced or fixed.",
-      "signal": "",
-      "estimated_read_minutes": 8,
-      "fetched_at": "2026-09-03T04:50:04.787039+00:00"
-    },
-    {
-      "id": "4f54ea5fd732105e",
-      "title": "The Download: AI puzzles and a path to our nearest star system",
-      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-02T12:10:00+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. AI models flub these intelligence tests. Puzzles and games have always been central to AI development.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-09-03T04:50:03.443522+00:00"
-    },
-    {
-      "id": "ee9a63af36c00bff",
-      "title": "AI and Iran Are Creating a Tug of War for Renewables",
-      "url": "https://heatmap.news/economy/bond-selloff-renewables",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-01T22:16:26+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 58,
-      "fetched_at": "2026-09-03T04:50:01.316213+00:00"
-    },
-    {
-      "id": "13d44f7aa2f81b16",
-      "title": "How to Understand America’s Gigantic Natural Gas Buildout",
-      "url": "https://heatmap.news/podcast/shift-key-s3-e66-data-centers-natural-gas",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-02T09:10:09+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 55,
-      "fetched_at": "2026-09-03T04:50:00.489934+00:00"
-    },
-    {
-      "id": "89fc82d5d4a46b5a",
-      "title": "Transcript: How to Understand America’s Gigantic Natural Gas Buildout",
-      "url": "https://heatmap.news/podcast/shift-key-s3-e66-data-centers-natural-gas-transcript",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-02T09:10:09+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 55,
-      "fetched_at": "2026-09-03T04:49:59.868236+00:00"
-    },
-    {
-      "id": "e197906fb5717bdb",
-      "title": "Solar Surpasses Coal in China’s Overall Capacity",
-      "url": "https://heatmap.news/am/china-solar-coal",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-02T12:05:38+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 59,
-      "fetched_at": "2026-09-03T04:49:57.069165+00:00"
-    },
-    {
-      "id": "0464b9a24c927f3a",
-      "title": "Brace Yourselves for Snaptember",
-      "url": "https://heatmap.news/climate/snaptember-northwest-fires",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-02T17:31:22+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 58,
-      "fetched_at": "2026-09-03T04:49:56.412574+00:00"
-    },
-    {
-      "id": "3c0da82342b3b706",
-      "title": "IEEE President’s Note: Technology for Social Good",
-      "url": "https://spectrum.ieee.org/president-ieee-note-september-2026",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-09-01T18:00:04+00:00",
-      "sectors": [
-        "Robotics"
-      ],
-      "excerpt": "Our mission as a public charity—to advance technology for the benefit of humanity—is becoming an increasingly powerful differentiator. It is more than a statement of principle; it is a strategic advantage. When engineers and technologists serve with purpose and lead with heart, they strengthen the future of our profession and demonstrate why IEEE is uniquely positioned to lead at the intersection of technology and societal impact.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-09-02T04:52:14.350798+00:00"
-    },
-    {
-      "id": "356108f0247e50db",
-      "title": "How engineered microbes could help feed the world’s crops",
-      "url": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-01T09:00:00+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucial nitrogen to help it grow. This could help reduce the need for chemical fertilizer, production of which accounts for roughly 2% of global greenhouse-gas emissions.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-09-02T04:52:12.845628+00:00"
-    },
-    {
-      "id": "717bdf5b0bb75317",
-      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-      "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-01T12:10:00+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. How engineered microbes could help feed the world’s crops\nFertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help, by providing crucial nitrogen to help plants grow, potentially reducing the need for chemical fertilizer.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-09-02T04:52:12.142695+00:00"
     }
   ]
 }
