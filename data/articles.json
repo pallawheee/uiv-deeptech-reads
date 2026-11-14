@@ -1,6 +1,118 @@
 {
-  "last_updated": "2026-11-13T07:01:33.687296+00:00",
+  "last_updated": "2026-11-14T06:51:03.359939+00:00",
   "articles": [
+    {
+      "id": "de4c6c1437c7a801",
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-13T10:00:00+00:00",
+      "sectors": [
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "So why did it get the midterms so wrong? Tech executives traded their reputations as visionaries for short-term political gain. The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-11-14T06:50:42.959172+00:00"
+    },
+    {
+      "id": "4fecc29c6b20e50d",
+      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-13T10:00:00+00:00",
+      "sectors": [
+        "Robotics",
+        "MedTech"
+      ],
+      "excerpt": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.”\nThe people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their contributions, says Ian Burkhart, who had one implanted in his own brain back in 2014. He’s been working on a set of guidelines for researchers developing brain-computer interfaces (BCIs).",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-11-14T06:50:42.249642+00:00"
+    },
+    {
+      "id": "136644a5b7dab6b2",
+      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-13T13:10:00+00:00",
+      "sectors": [
+        "Robotics",
+        "MedTech",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-11-14T06:50:41.551454+00:00"
+    },
+    {
+      "id": "0a4e58d81812e4aa",
+      "title": "Jensen Huang’s Departure Throws the AI Boom into Fresh Chaos",
+      "url": "https://heatmap.news/am/nvidia-meta-sublime-stegra",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-13T12:49:34+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 64,
+      "fetched_at": "2026-11-14T06:50:39.873461+00:00"
+    },
+    {
+      "id": "d534f4447926f34c",
+      "title": "Where Rising Electricity Prices Showed Up in the Blue Wave",
+      "url": "https://heatmap.news/ideas/midterms-electricity-prices",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-13T18:04:41+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 63,
+      "fetched_at": "2026-11-14T06:50:39.238852+00:00"
+    },
+    {
+      "id": "442b5338db8c3acd",
+      "title": "Data Center Developers Can’t Pay People Enough to Accept Them",
+      "url": "https://heatmap.news/plus/the-fight/spotlight/data-center-dividend-poll",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-13T18:59:55+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-11-14T06:50:38.210975+00:00"
+    },
+    {
+      "id": "73cdca21889d0fed",
+      "title": "Weekly Dose of Optimism #219",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-219",
+      "source_name": "Not Boring",
+      "source_type": "substack",
+      "published_at": "2026-11-13T13:59:44+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "After two affairs emerged - one with an alleged Chinese spy and one with a direct report - Nvidia founder and CEO Jensen Huang resigned. Sources say the affairs are the tip of the iceberg and that heavier shoes will drop. But progress marches on, as evidenced by everything in this week’s Dose.",
+      "signal": "",
+      "estimated_read_minutes": 12,
+      "fetched_at": "2026-11-14T06:50:36.714683+00:00"
+    },
     {
       "id": "7ff9f89b221e837a",
       "title": "Jensen Huang Resigns As CEO Of Chipmaker NVIDIA",
@@ -7684,115 +7796,6 @@
       "signal": "",
       "estimated_read_minutes": 1,
       "fetched_at": "2026-09-04T04:53:09.863369+00:00"
-    },
-    {
-      "id": "874b7327e10a54cf",
-      "title": "Protecting Dynamic Industrial Robot Cable Carriers",
-      "url": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-09-03T12:18:21+00:00",
-      "sectors": [
-        "Robotics"
-      ],
-      "excerpt": "In modern automated manufacturing, six-axis articulated robots perform high-speed, multidirectional maneuvers under demanding operational cycles. However, as robot arms swivel, rotate, and extend, the electrical cables, fiber optics, and pneumatic hoses supplying them endure severe mechanical stress. Torsional twist, rapid acceleration, and repeated contact with machine structures often lead to premature conductor fatigue, insulation breakdown, and costly unplanned production halts.",
-      "signal": "",
-      "estimated_read_minutes": 4,
-      "fetched_at": "2026-09-04T04:52:57.362642+00:00"
-    },
-    {
-      "id": "b9b3df40714ba92a",
-      "title": "Agriculture relies on fossil fuels. It’s costing us.",
-      "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-03T10:00:00+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer prices have been on a roller coaster this year, kicked off in part by trade disruptions and high prices for natural gas, a key ingredient in fertilizer production.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-09-04T04:52:56.183438+00:00"
-    },
-    {
-      "id": "c69c41a1123b2bd8",
-      "title": "The Download: rethinking child safety and fossil-fueled farming",
-      "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-03T12:10:00+00:00",
-      "sectors": [
-        "Robotics",
-        "Climate",
-        "Semiconductors"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Child-monitoring apps might need a reboot\nDigital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails, and chats, issuing alerts whenever an algorithm flags something it deems dangerous.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-09-04T04:52:55.594206+00:00"
-    },
-    {
-      "id": "199eb872b4e252db",
-      "title": "American Energy Companies Are Scrambling into Venezuela",
-      "url": "https://heatmap.news/am/trump-venezuela-deals",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-03T12:09:25+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 58,
-      "fetched_at": "2026-09-04T04:52:54.177998+00:00"
-    },
-    {
-      "id": "7df677e6b9f3d31c",
-      "title": "Is the Subaru Trailseeker Subaru Enough?",
-      "url": "https://heatmap.news/electric-vehicles/subaru-trailseeker-toyota",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-03T17:06:08+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 23,
-      "fetched_at": "2026-09-04T04:52:53.278977+00:00"
-    },
-    {
-      "id": "77f07fcf3fe04e79",
-      "title": "How to Get Data Centers to Fund the Grid of the Future",
-      "url": "https://heatmap.news/daily/large-load-tariff-data-centers",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-03T21:02:05+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 21,
-      "fetched_at": "2026-09-04T04:52:52.653336+00:00"
-    },
-    {
-      "id": "b1c6cc813b9e6f99",
-      "title": "How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part III",
-      "url": "https://www.construction-physics.com/p/how-will-the-21st-century-road-to-21c",
-      "source_name": "Construction Physics",
-      "source_type": "substack",
-      "published_at": "2026-09-03T19:20:13+00:00",
-      "sectors": [
-        "Defence"
-      ],
-      "excerpt": "As I’ve noted in my previous two essays, this is a sprawling piece of legislation, with 59 sections spread across 12 different “titles.” So far we’ve looked at Titles I, II, and III, which together contain 24 individual sections. In this post, I’ll look at the remaining nine titles of the package. There are a lot of sections (35!), but many of them don’t apply to housing at all, and as with earlier titles the major potential impacts are concentrated in a small number of sections (chiefly sections 501, 502, 1001, and possibly 504).",
-      "signal": "",
-      "estimated_read_minutes": 15,
-      "fetched_at": "2026-09-04T04:52:51.728350+00:00"
     }
   ]
 }
