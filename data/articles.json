@@ -1,6 +1,51 @@
 {
-  "last_updated": "2026-11-14T06:51:03.359939+00:00",
+  "last_updated": "2026-11-15T06:56:00.054446+00:00",
   "articles": [
+    {
+      "id": "e102fe921326561c",
+      "title": "Jensen Huang’s Exit: How Deep Does NVIDIA’s AI Ecosystem Run In India?",
+      "url": "https://inc42.com/features/jensen-huangs-exit-how-deep-does-nvidias-ai-ecosystem-run-in-india/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-11-14T14:57:02+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through 40+ expert-led sessions, 1:1 mentorship and a personalised growth strategy. It closes with an in-person convocation and investor pitching. view\nRetailX by Inc42 is a 6-month, invite-only brand residency for the next generation of India's manufacturing, distribution and trading families.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-11-15T06:55:51.413537+00:00"
+    },
+    {
+      "id": "36f711918ba7f7e7",
+      "title": "Why Were Backing Neufin Energy A Better Way For Indian Businesses To Buy Energy",
+      "url": "https://3one4capital.com/blogs/why-were-backing-neufin-energy-a-better-way-for-indian-businesses-to-buy-energy",
+      "source_name": "3one4 Capital",
+      "source_type": "blog",
+      "published_at": "2026-11-15T06:55:46.947386+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "In FY25, industrial and commercial users accounted for approximately 790 billion units, close to half of India's total electricity consumption, according to the Bureau of Energy Efficiency. At an illustrative value of ₹8 per unit, that is more than ₹6 lakh crore of electricity consumed in a single year. The actual cost varies by business, state and source of power, but the scale is difficult to ignore.",
+      "signal": "",
+      "estimated_read_minutes": 10,
+      "fetched_at": "2026-11-15T06:55:46.947978+00:00"
+    },
+    {
+      "id": "a1b8ca3cea6a8353",
+      "title": "Reading List 11/14/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-11142026",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-11-14T16:09:38+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "This week we look at a Brooklyn building collapse, BAAJA’s odds of passing, reusing old memory in new phones, a nationwide aircraft ground stop, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber. Housing and Cities\nA 3 story building in New York partially collapsed into an adjacent construction site that was being excavated, killing 8 people and injuring 18.",
+      "signal": "",
+      "estimated_read_minutes": 3,
+      "fetched_at": "2026-11-15T06:55:36.305811+00:00"
+    },
     {
       "id": "de4c6c1437c7a801",
       "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
@@ -7749,53 +7794,6 @@
       "signal": "",
       "estimated_read_minutes": 21,
       "fetched_at": "2026-09-05T04:45:41.226261+00:00"
-    },
-    {
-      "id": "cf8464d6c45f4ecd",
-      "title": "These 5 States Are Primed for a Data Center Pause",
-      "url": "https://heatmap.news/plus/the-fight/spotlight/next-data-center-moratorium-states",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-04T15:48:18+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 13,
-      "fetched_at": "2026-09-05T04:45:40.594738+00:00"
-    },
-    {
-      "id": "252ab654e512a559",
-      "title": "The Solar Farm-to-Data Center Switcheroo Hits a Snag",
-      "url": "https://heatmap.news/plus/the-fight/hotspots/townsite-2-nevada",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-04T15:48:34+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 13,
-      "fetched_at": "2026-09-05T04:45:40.009900+00:00"
-    },
-    {
-      "id": "7d523e8bad58231e",
-      "title": "Ultrahuman Bags $70 Mn To Build An Integrated Healthtech Platform",
-      "url": "https://inc42.com/buzz/ultrahuman-bags-70-mn-to-build-an-integrated-healthtech-platform/",
-      "source_name": "Inc42",
-      "source_type": "publication",
-      "published_at": "2026-09-03T18:00:17+00:00",
-      "sectors": [
-        "MedTech"
-      ],
-      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
-      "signal": "",
-      "estimated_read_minutes": 1,
-      "fetched_at": "2026-09-04T04:53:09.863369+00:00"
     }
   ]
 }
