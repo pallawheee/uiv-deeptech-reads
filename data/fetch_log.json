@@ -2,11 +2,6 @@
   {
     "source": "Stellaris",
     "reason": "scrape_index_returned_no_links",
-    "timestamp": "2026-09-08T04:58:04.148820+00:00"
-  },
-  {
-    "source": "Stellaris",
-    "reason": "scrape_index_returned_no_links",
     "timestamp": "2026-09-09T04:58:02.398434+00:00"
   },
   {
@@ -529,5 +524,10 @@
     "source": "Stellaris",
     "reason": "scrape_index_returned_no_links",
     "timestamp": "2026-11-15T06:55:48.396481+00:00"
+  },
+  {
+    "source": "Stellaris",
+    "reason": "scrape_index_returned_no_links",
+    "timestamp": "2026-11-16T07:00:16.433190+00:00"
   }
 ]

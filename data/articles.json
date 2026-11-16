@@ -1,6 +1,21 @@
 {
-  "last_updated": "2026-11-15T06:56:00.054446+00:00",
+  "last_updated": "2026-11-16T07:00:30.977581+00:00",
   "articles": [
+    {
+      "id": "8003a0bb20aedecd",
+      "title": "The NVIDIA Fallout, Weekly Funding Rundown & More",
+      "url": "https://inc42.com/buzz/the-nvidia-fallout-weekly-funding-rundown-more/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-11-16T02:30:41+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through 40+ expert-led sessions, 1:1 mentorship and a personalised growth strategy. It closes with an in-person convocation and investor pitching. view\nRetailX by Inc42 is a 6-month, invite-only brand residency for the next generation of India's manufacturing, distribution and trading families.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-11-16T07:00:23.026765+00:00"
+    },
     {
       "id": "e102fe921326561c",
       "title": "Jensen Huang’s Exit: How Deep Does NVIDIA’s AI Ecosystem Run In India?",
@@ -7779,21 +7794,6 @@
       "signal": "",
       "estimated_read_minutes": 12,
       "fetched_at": "2026-09-05T04:45:41.845212+00:00"
-    },
-    {
-      "id": "36c28bb39252c685",
-      "title": "China’s Carbon Emissions Drop on Shrinking Oil Demand",
-      "url": "https://heatmap.news/am/china-oil-emissions-hyundai",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-04T14:48:45+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 21,
-      "fetched_at": "2026-09-05T04:45:41.226261+00:00"
     }
   ]
 }
