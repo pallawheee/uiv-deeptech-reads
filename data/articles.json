@@ -1,6 +1,207 @@
 {
-  "last_updated": "2026-11-17T08:15:13.668280+00:00",
+  "last_updated": "2026-11-18T07:48:46.075410+00:00",
   "articles": [
+    {
+      "id": "0835b711e48dffc3",
+      "title": "Understand How Satellite Links Shape IoT Device Design and Testing",
+      "url": "https://content.knowledgehub.wiley.com/5g-nr-ntn-design-and-test-challenges-for-satellite-connected-iot/",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-11-17T11:00:04+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "This White Paper explains how satellite access in 5G changes the design and testing of IoT devices. It shows why realistic satellite conditions are essential for reliable field performance. What you will learn about:\n- How 3GPP Releases 15, 16, and 17 brought satellite access into 5G NR, NB-IoT, and eMTC.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-11-18T07:48:25.439165+00:00"
+    },
+    {
+      "id": "ed013ff432dcf481",
+      "title": "AI Is Giving Optical Computing Another Shot",
+      "url": "https://spectrum.ieee.org/optical-computing-ai",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-11-17T14:00:03+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Over the past few years, though, optical computing has emerged as a fast-growing industry: Market valuation of companies in this sector now totals US $2.22 billion, up from $0.4 billion in 2022. One projection suggests that the market will continue to grow exponentially in the coming years. The reason for this sudden surge will surprise no one: AI.",
+      "signal": "",
+      "estimated_read_minutes": 19,
+      "fetched_at": "2026-11-18T07:48:23.501295+00:00"
+    },
+    {
+      "id": "b8dbef498ec857d0",
+      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+      "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-17T13:10:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. The open-source movement wants Jensen Huang back\nA petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon Musk, but comb through the names, and you’ll notice a significant number come from a particular slice of the tech world: open-source AI. Huang had become a sort of ringleader for open source, but his credibility as an advocate is now under threat.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-11-18T07:48:21.836230+00:00"
+    },
+    {
+      "id": "a598c269f36b6542",
+      "title": "Research Reports",
+      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-17T14:39:46+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Deep Dive\nArtificial intelligence\nDon’t be fooled—LLMs don’t reason\nTen years after AlphaGo’s match against Go champion Lee Sedol, today’s AI still isn’t tapping into the machinery that made that win possible. “We were looking at it wrong”: The explosive claim that’s upended the AI world\nAn exclusive interview with Nick Cammarata, the researcher whose 26,000-word viral blog post has AI safety folks celebrating. Don’t be fooled by this summer of AI hype\nBreathless claims about AGI and new capabilities fall apart pretty quickly under scrutiny.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-11-18T07:48:21.259312+00:00"
+    },
+    {
+      "id": "11e12ce775565920",
+      "title": "Hydropower hit record lows in the US Southwest this summer",
+      "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-17T17:52:10+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released through turbines, generating electricity on demand.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-11-18T07:48:20.691136+00:00"
+    },
+    {
+      "id": "665d8227159904d7",
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-17T18:46:47+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "Available only for MIT Technology Review subscribers. Listen to the session or watch below\nIn an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to keep your mind going, including gradual brain replacement and uploading our memories to the cloud.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-11-18T07:48:20.112590+00:00"
+    },
+    {
+      "id": "f24a12f02e49894b",
+      "title": "Transcript: How Tribes Became Power Players on Permitting Reform",
+      "url": "https://heatmap.news/podcast/shift-key-160-baaja-noisecat-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-17T10:00:06+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 63,
+      "fetched_at": "2026-11-18T07:48:18.687492+00:00"
+    },
+    {
+      "id": "71f34173bd5372f8",
+      "title": "How Tribes Became Power Players on Permitting Reform",
+      "url": "https://heatmap.news/podcast/shift-key-160-baaja-noisecat",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-17T10:10:06+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 63,
+      "fetched_at": "2026-11-18T07:48:17.556830+00:00"
+    },
+    {
+      "id": "d0eb0c7ee5c891c5",
+      "title": "Trump Issues 7th Order Keeping Michigan Coal Plant Alive",
+      "url": "https://heatmap.news/am/jh-campbell-baaja-polling",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-17T13:26:22+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 45,
+      "fetched_at": "2026-11-18T07:48:16.951550+00:00"
+    },
+    {
+      "id": "788e46df5842ff16",
+      "title": "General Flash Emerges From Stealth With $128 Million for Domestic Refining",
+      "url": "https://heatmap.news/climate-tech/general-flash-stealth",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-17T14:00:05+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "Semiconductors"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 61,
+      "fetched_at": "2026-11-18T07:48:16.332349+00:00"
+    },
+    {
+      "id": "448fe2362a51ed3b",
+      "title": "Introducing Load Bearing with Allison Clements",
+      "url": "https://heatmap.news/podcast/load-bearing-allison-clements",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-17T14:51:01+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 44,
+      "fetched_at": "2026-11-18T07:48:15.719774+00:00"
+    },
+    {
+      "id": "3693937e27e08bc3",
+      "title": "Transcript: Whac-a-Mole",
+      "url": "https://heatmap.news/podcast/load-bearing-transcript-whac-a-mole",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-17T15:24:09+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 44,
+      "fetched_at": "2026-11-18T07:48:15.056314+00:00"
+    },
+    {
+      "id": "824328aadcdb388e",
+      "title": "There Are Suddenly a Lot of Climate Movies",
+      "url": "https://heatmap.news/climate/climate-movies-2026",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-17T17:00:05+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 46,
+      "fetched_at": "2026-11-18T07:48:14.437003+00:00"
+    },
     {
       "id": "45e64a68c4ad39fc",
       "title": "Platform And Program",
@@ -7594,210 +7795,6 @@
       "signal": "",
       "estimated_read_minutes": 60,
       "fetched_at": "2026-09-10T05:00:34.142149+00:00"
-    },
-    {
-      "id": "86a65197477b7af4",
-      "title": "5 Big Questions About the Rest of 2026",
-      "url": "https://heatmap.news/daily/5-big-questions-about-the-rest-of-2026",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-09T22:40:34+00:00",
-      "sectors": [
-        "Defence",
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 62,
-      "fetched_at": "2026-09-10T05:00:33.533164+00:00"
-    },
-    {
-      "id": "7e956203c22a45f3",
-      "title": "3 Ideas to Rein in Costs From California’s Wildfires",
-      "url": "https://heatmap.news/adaptation/california-wildfires-utilties",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-10T04:01:03+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 25,
-      "fetched_at": "2026-09-10T05:00:32.916808+00:00"
-    },
-    {
-      "id": "bf826fd4bf3c1499",
-      "title": "PM Modi Urges Fintechs To Step Up Cybersecurity, Consumer Protection",
-      "url": "https://inc42.com/buzz/pm-modi-urges-fintechs-to-step-up-cybersecurity-consumer-protection/",
-      "source_name": "Inc42",
-      "source_type": "publication",
-      "published_at": "2026-09-08T15:59:14+00:00",
-      "sectors": [
-        "Cybersecurity"
-      ],
-      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
-      "signal": "",
-      "estimated_read_minutes": 1,
-      "fetched_at": "2026-09-09T04:58:10.131086+00:00"
-    },
-    {
-      "id": "9f0f50f58fdc277b",
-      "title": "Quantum Cybersecurity Startup QNu Labs Nets ₹200 Cr To Scale R&D",
-      "url": "https://inc42.com/buzz/quantum-cybersecurity-startup-qnu-labs-nets-%e2%82%b9200-cr-to-scale-rd/",
-      "source_name": "Inc42",
-      "source_type": "publication",
-      "published_at": "2026-09-09T00:30:35+00:00",
-      "sectors": [
-        "Cybersecurity"
-      ],
-      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
-      "signal": "",
-      "estimated_read_minutes": 1,
-      "fetched_at": "2026-09-09T04:58:06.163185+00:00"
-    },
-    {
-      "id": "8a013453e2c4bb4a",
-      "title": "The Growing Proof That Autonomous Cars Save Lives",
-      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-09-08T12:59:04+00:00",
-      "sectors": [
-        "Robotics"
-      ],
-      "excerpt": "Some experts and policymakers have cautioned that AVs won’t necessarily make roads safer. When it comes to partial or full autonomy, the picture isn’t entirely clear, in part because there aren’t enough self-driving cars to make meaningful apples-to-apples comparisons. Yet mounting research suggests that self-driving cars crash significantly less often than people, and with far fewer injuries.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-09-09T04:57:55.302584+00:00"
-    },
-    {
-      "id": "31bb370b2d74de69",
-      "title": "Rivian’s Gambit for Full Autonomy",
-      "url": "https://spectrum.ieee.org/rivian-self-driving",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-09-08T13:00:04+00:00",
-      "sectors": [
-        "Robotics",
-        "Semiconductors"
-      ],
-      "excerpt": "We cruise near the landmark HP Garage, the one-car workshop where Hewlett-Packard, and, arguably, Silicon Valley, was founded in 1939. I skirt Stanford University, where a team led by computer science professor Sebastian Thrun won a US $2 million DARPA Grand Challenge in 2005. The team’s Volkswagen SUV, named Stanley, became the world’s first vehicle to navigate a grueling 212-kilometer Mojave Desert course with no human intervention.",
-      "signal": "",
-      "estimated_read_minutes": 18,
-      "fetched_at": "2026-09-09T04:57:54.710910+00:00"
-    },
-    {
-      "id": "2da3d71a361a273f",
-      "title": "This geneticist’s age-reversal tech could help restore sight",
-      "url": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-08T10:32:00+00:00",
-      "sectors": [
-        "MedTech"
-      ],
-      "excerpt": "Yuancheng (Ryan) Lu is obsessed with aging. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related blindness runs in his family.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-09-09T04:57:53.850430+00:00"
-    },
-    {
-      "id": "49c3a3166ba8cc4b",
-      "title": "This founder is making cheaper, cleaner steel",
-      "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-08T10:33:00+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt solid iron ore at dizzyingly high temperatures inside blast furnaces, where the material reacts with gases to trigger chemical reactions that remove oxygen.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-09-09T04:57:53.266917+00:00"
-    },
-    {
-      "id": "16673d70457dfb8b",
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-08T10:34:00+00:00",
-      "sectors": [
-        "Robotics"
-      ],
-      "excerpt": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-09-09T04:57:52.608172+00:00"
-    },
-    {
-      "id": "7a9120172ffe7d32",
-      "title": "This founder is teaching chips how to recycle (their energy)",
-      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-08T10:36:00+00:00",
-      "sectors": [
-        "Defence",
-        "AI Infrastructure",
-        "Semiconductors"
-      ],
-      "excerpt": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually thrown away as heat—a strategy known as reversible computing.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-09-09T04:57:52.029778+00:00"
-    },
-    {
-      "id": "34c1f3afcb3c850d",
-      "title": "The Download: our 35 Innovators Under 35 this year",
-      "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-08T12:10:00+00:00",
-      "sectors": [
-        "Robotics",
-        "Climate",
-        "MedTech",
-        "AI Infrastructure"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026\nWhat will the next generation of science and technology look like? Our latest Innovators Under 35 list offers a glimpse.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-09-09T04:57:51.425316+00:00"
-    },
-    {
-      "id": "2d7799d2afaa0059",
-      "title": "How Building Transmission Could Lower Electricity Costs",
-      "url": "https://heatmap.news/plus/the-fight/qa/how-building-transmission-could-lower-electricity-costs",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-04T15:48:36+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 13,
-      "fetched_at": "2026-09-09T04:57:49.663294+00:00"
-    },
-    {
-      "id": "e260dc40aaa2a113",
-      "title": "Labor Day Gas Prices Hit a Record High",
-      "url": "https://heatmap.news/am/labor-day-gas-prices",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-08T13:00:06+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 25,
-      "fetched_at": "2026-09-09T04:57:48.791284+00:00"
     }
   ]
 }
