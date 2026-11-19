@@ -1,15 +1,5 @@
 [
   {
-    "source": "Stellaris",
-    "reason": "scrape_index_returned_no_links",
-    "timestamp": "2026-09-13T05:06:44.942951+00:00"
-  },
-  {
-    "source": "Stellaris",
-    "reason": "scrape_index_returned_no_links",
-    "timestamp": "2026-09-14T05:14:53.910794+00:00"
-  },
-  {
     "url": "https://webinars.on24.com/wileyevents/ResponsibleAI",
     "source": "IEEE Spectrum",
     "reason": "scrape_failed",
@@ -531,5 +521,16 @@
     "source": "Stellaris",
     "reason": "scrape_index_returned_no_links",
     "timestamp": "2026-11-18T07:48:31.906285+00:00"
+  },
+  {
+    "url": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
+    "source": "IEEE Spectrum",
+    "reason": "scrape_failed",
+    "timestamp": "2026-11-19T07:43:54.486544+00:00"
+  },
+  {
+    "source": "Stellaris",
+    "reason": "scrape_index_returned_no_links",
+    "timestamp": "2026-11-19T07:44:00.237007+00:00"
   }
 ]

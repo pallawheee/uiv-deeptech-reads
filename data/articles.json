@@ -1,6 +1,132 @@
 {
-  "last_updated": "2026-11-18T07:48:46.075410+00:00",
+  "last_updated": "2026-11-19T07:44:14.580891+00:00",
   "articles": [
+    {
+      "id": "25180b685b073933",
+      "title": "Botsync Raises $11 Mn To Connect Robots And Machines On Factory Floors",
+      "url": "https://inc42.com/buzz/botsync-raises-11-mn-to-connect-robots-and-machines-on-factory-floors/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-11-18T15:25:49+00:00",
+      "sectors": [
+        "Robotics"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through 40+ expert-led sessions, 1:1 mentorship and a personalised growth strategy. It closes with an in-person convocation and investor pitching. view\nRetailX by Inc42 is a 6-month, invite-only brand residency for the next generation of India's manufacturing, distribution and trading families.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-11-19T07:44:14.080569+00:00"
+    },
+    {
+      "id": "0443a0c6c8ceb7b9",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-18T10:20:30+00:00",
+      "sectors": [
+        "MedTech",
+        "AI Infrastructure"
+      ],
+      "excerpt": "But are medical diagnostics and threat detection a sniff too far? In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation model for smell.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-11-19T07:43:53.207744+00:00"
+    },
+    {
+      "id": "34287111874105b8",
+      "title": "The Download: AI learns to smell and hydropower struggles",
+      "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-18T13:10:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. This smell startup says its AI nose is as good as a human’s\nIn a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with chemical analyses to train what AI startup Osmo calls the world’s first foundation model for smell.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-11-19T07:43:52.619886+00:00"
+    },
+    {
+      "id": "76a160b2736ec6d0",
+      "title": "The AI Hype Index: AI is everywhere",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-18T14:42:44+00:00",
+      "sectors": [
+        "Robotics",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and perhaps you’ll slip on a pool of melted ice cream congealing on the floor thanks to an AI-assisted cyberattack.",
+      "signal": "",
+      "estimated_read_minutes": 2,
+      "fetched_at": "2026-11-19T07:43:52.034824+00:00"
+    },
+    {
+      "id": "ff39cfbe475f68e0",
+      "title": "How Tribal Rights Became Central to the Permitting Debate",
+      "url": "https://heatmap.news/politics/nhpa-permitting-bill",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-17T21:22:56+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 30,
+      "fetched_at": "2026-11-19T07:43:50.345323+00:00"
+    },
+    {
+      "id": "eb551de06d1ec97e",
+      "title": "Nvidia Earnings Double, Signaling Healthy AI Demand",
+      "url": "https://heatmap.news/am/nvidia-earnings",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-18T12:45:59+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 30,
+      "fetched_at": "2026-11-19T07:43:49.769745+00:00"
+    },
+    {
+      "id": "ae7a2fe4e65ece68",
+      "title": "Exclusive: Nuclear Recycling Startup Project Omega to File for License",
+      "url": "https://heatmap.news/energy/project-omega-nrc",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-18T21:07:52+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 30,
+      "fetched_at": "2026-11-19T07:43:49.177789+00:00"
+    },
+    {
+      "id": "1e30032893c782a6",
+      "title": "The Surprising Senate Votes in the Bipartisan Permitting Bill",
+      "url": "https://heatmap.news/daily/senate-vote-permitting-bil",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-19T00:27:52+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 27,
+      "fetched_at": "2026-11-19T07:43:48.593309+00:00"
+    },
     {
       "id": "0835b711e48dffc3",
       "title": "Understand How Satellite Links Shape IoT Device Design and Testing",
@@ -7670,131 +7796,6 @@
       "signal": "",
       "estimated_read_minutes": 30,
       "fetched_at": "2026-09-11T04:57:16.474702+00:00"
-    },
-    {
-      "id": "0d27ffdaf873f012",
-      "title": "Why ‘Clean Is Cheap, Cheap Is Clean’ Isn’t Breaking Through",
-      "url": "https://heatmap.news/energy/renewables-cost-convincing",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-10T18:42:45+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 30,
-      "fetched_at": "2026-09-11T04:57:15.861885+00:00"
-    },
-    {
-      "id": "f7d6a5ef8c366368",
-      "title": "Why Saying ‘Climate Crisis’ Falls Flat",
-      "url": "https://heatmap.news/daily/why-saying-climate-crisis-falls-flat",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-10T21:35:47+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 27,
-      "fetched_at": "2026-09-11T04:57:15.237247+00:00"
-    },
-    {
-      "id": "5fe74b08a2bd5d44",
-      "title": "Understanding the thermal ceiling in portable power",
-      "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-09T08:18:13+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "Provided byAnker\nPlug a phone into a modern charger and the first 10 minutes are impressive. It’s the connected device protecting itself. As temperature rises during charging, a smartphone's battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces battery capacity.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-09-10T05:00:38.660968+00:00"
-    },
-    {
-      "id": "361603d092d911ac",
-      "title": "Batteries just broke another record in the US",
-      "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-09T09:00:00+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes.",
-      "signal": "",
-      "estimated_read_minutes": 3,
-      "fetched_at": "2026-09-10T05:00:38.099930+00:00"
-    },
-    {
-      "id": "b641462453db06c3",
-      "title": "The Download: OpenAI’s turning point for math and a battery record",
-      "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-09T12:10:00+00:00",
-      "sectors": [
-        "Defence",
-        "Robotics",
-        "Climate",
-        "MedTech"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math\nOpenAI says its agents have solved one of the most important open problems in mathematics. Under normal circumstances, that would be a huge milestone.",
-      "signal": "",
-      "estimated_read_minutes": 8,
-      "fetched_at": "2026-09-10T05:00:37.541387+00:00"
-    },
-    {
-      "id": "797dd0c8d8030cb8",
-      "title": "Shift Key Classic Transcript: What Is a Watt?",
-      "url": "https://heatmap.news/podcast/shift-key-s3-e-67-what-is-a-watt-transcript",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-09T09:00:08+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 60,
-      "fetched_at": "2026-09-10T05:00:35.369299+00:00"
-    },
-    {
-      "id": "9cedfd90f4f07517",
-      "title": "Shift Key Classic: What Is a Watt?",
-      "url": "https://heatmap.news/podcast/shift-key-s3-e-67-what-is-a-watt",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-09T09:10:10+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 62,
-      "fetched_at": "2026-09-10T05:00:34.753887+00:00"
-    },
-    {
-      "id": "ed2af9e60155c631",
-      "title": "A Third of U.S. Reservoirs Are Filling with Sediment Instead of Water",
-      "url": "https://heatmap.news/am/us-reservoir-sediment",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-09T11:54:27+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 60,
-      "fetched_at": "2026-09-10T05:00:34.142149+00:00"
     }
   ]
 }
