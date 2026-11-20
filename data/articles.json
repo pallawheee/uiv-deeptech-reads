@@ -1,6 +1,133 @@
 {
-  "last_updated": "2026-11-19T07:44:14.580891+00:00",
+  "last_updated": "2026-11-20T07:35:46.020309+00:00",
   "articles": [
+    {
+      "id": "3685f7cce830fbdd",
+      "title": "Community-Focused Academic Brings AI Tools to Colorado Farmers",
+      "url": "https://spectrum.ieee.org/ai-tools-for-rural-communities",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-11-19T19:00:02+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Dong, an IEEE senior member, is an extension regional specialist with the Colorado State University Extension, CSU’s outreach arm. She works in Logan County and serves a 10-county farming area in Colorado’s northeast corner. Her job is to turn university research into practical help for the people who live there.",
+      "signal": "",
+      "estimated_read_minutes": 10,
+      "fetched_at": "2026-11-20T07:35:30.257213+00:00"
+    },
+    {
+      "id": "1c5087d4a04ce5e3",
+      "title": "What a billion-dollar deal says about the US battery market",
+      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-19T11:00:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "Semiconductors"
+      ],
+      "excerpt": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than $1 billion over time.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-11-20T07:35:28.914835+00:00"
+    },
+    {
+      "id": "cab673f80ff98398",
+      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-19T13:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks\nResearchers in Australia claim they’ve kept a human liver alive on life support outside the body for seven weeks, smashing the previous record of about two weeks. They achieved the feat by connecting a donated liver to a system of automated pumps and sensors that fed the organ nutrients, supplied it with blood, and whisked away waste.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-11-20T07:35:28.179698+00:00"
+    },
+    {
+      "id": "fb79d33472555a74",
+      "title": "Transcript: What Happens to U.S. Climate Policy After the Midterms?",
+      "url": "https://heatmap.news/podcast/shift-key-161-midterms-roundtable-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-19T10:00:04+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 58,
+      "fetched_at": "2026-11-20T07:35:26.208940+00:00"
+    },
+    {
+      "id": "190edaa93c4f70d9",
+      "title": "What Happens to U.S. Climate Policy After the Midterms?",
+      "url": "https://heatmap.news/podcast/shift-key-161-midterms-roundtable",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-19T10:10:06+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-11-20T07:35:25.401783+00:00"
+    },
+    {
+      "id": "b88fdbd433506a05",
+      "title": "Anthropic Makes History as the First AI Lab to Go Public",
+      "url": "https://heatmap.news/am/anthropic-ipo",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-19T12:54:29+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 59,
+      "fetched_at": "2026-11-20T07:35:24.605932+00:00"
+    },
+    {
+      "id": "3b3b46beeb4a9d86",
+      "title": "Meta Joins the Clean Materials Race",
+      "url": "https://heatmap.news/climate-tech/meta-stegra-sublime-fortera",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-19T21:32:07+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 26,
+      "fetched_at": "2026-11-20T07:35:24.009713+00:00"
+    },
+    {
+      "id": "6df6530e33b243fd",
+      "title": "What GTA and the IEA Teach Us About the Future of Energy",
+      "url": "https://heatmap.news/daily/iea-meet-gta",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-19T23:48:47+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
+      "signal": "",
+      "estimated_read_minutes": 25,
+      "fetched_at": "2026-11-20T07:35:23.438652+00:00"
+    },
     {
       "id": "25180b685b073933",
       "title": "Botsync Raises $11 Mn To Connect Robots And Machines On Factory Floors",
@@ -7672,130 +7799,6 @@
       "signal": "",
       "estimated_read_minutes": 20,
       "fetched_at": "2026-09-12T04:49:40.763676+00:00"
-    },
-    {
-      "id": "9addcc1c3d7c5cf4",
-      "title": "Where Has Construction Automation Been Successful?",
-      "url": "https://www.construction-physics.com/p/where-has-construction-automation",
-      "source_name": "Construction Physics",
-      "source_type": "substack",
-      "published_at": "2026-09-11T12:04:09+00:00",
-      "sectors": [
-        "Robotics"
-      ],
-      "excerpt": "Unsurprisingly, there’s long been interest in automating the construction process to reduce the amount of labor required, and therefore the cost of housing. The earliest attempt at automating construction I’m aware of dates to 1853, with a plastering machine invented by Isaac Hussey, and since then there have been numerous other attempts. I wanted to get a better sense of what the arc of construction automation looks like over time: what things had been tried when?",
-      "signal": "",
-      "estimated_read_minutes": 16,
-      "fetched_at": "2026-09-12T04:49:39.986105+00:00"
-    },
-    {
-      "id": "fe21ecd742cbf248",
-      "title": "Codeveloper of Ethernet Predecessor Dies at 91",
-      "url": "https://spectrum.ieee.org/codeveloper-of-ethernet-predecessor-dies",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-09-10T20:00:04+00:00",
-      "sectors": [
-        "Defence"
-      ],
-      "excerpt": "The system went online in 1971 and represented the first public demonstration of a wireless packet data network. It was an inspiration for Robert Metcalfe’s development of Ethernet a couple of years later. In 2020 ALOHAnet was designated as an IEEE Milestone.",
-      "signal": "",
-      "estimated_read_minutes": 9,
-      "fetched_at": "2026-09-11T04:57:22.261537+00:00"
-    },
-    {
-      "id": "7b78e94d885bee4f",
-      "title": "Healthcare AI’s next test is integration",
-      "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-10T08:58:01+00:00",
-      "sectors": [
-        "Robotics",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Provided byEnsemble\nThe entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting complex terminology, comparing documentation against evidence and generating coherent summaries from large volumes of information. For clinicians, operators, and administrative teams who spend significant time searching through fragmented data, these advances are helping reduce cognitive burden and make high-value information easier to access.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-09-11T04:57:21.158023+00:00"
-    },
-    {
-      "id": "1efb32d546200845",
-      "title": "Can the US battery market untangle from China?",
-      "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-10T10:00:00+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Energy storage is currently booming, largely thanks to cheap Chinese cells. The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar.",
-      "signal": "",
-      "estimated_read_minutes": 5,
-      "fetched_at": "2026-09-11T04:57:20.429296+00:00"
-    },
-    {
-      "id": "8ee5cc2f7cec548a",
-      "title": "This road map could help us decide whether to deploy solar geoengineering",
-      "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-10T11:00:00+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possibility that we could counteract climate change by releasing reflective particles into the stratosphere, mimicking the cooling effects of volcanic eruptions. But even after at least hundreds of studies on the concept, known as stratospheric aerosol injection (SAI), big gaps remain in the scientific understanding of how well it would work and what else it might do—and there has been no systematic plan for clearing up that uncertainty.",
-      "signal": "",
-      "estimated_read_minutes": 11,
-      "fetched_at": "2026-09-11T04:57:19.805043+00:00"
-    },
-    {
-      "id": "321672b4ff708a9d",
-      "title": "Powering AI is an architecture problem",
-      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-10T11:00:00+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Provided byON.energy\nOn July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world's largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No one could anticipate so much uniform load responding to grid faults the same way, at the same time.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-09-11T04:57:19.205527+00:00"
-    },
-    {
-      "id": "022e3eb5160edd0a",
-      "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-      "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-10T12:10:00+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. According to Eli and his wife, Kaitlyn, He told them to get married, buy a house, and start having kids.",
-      "signal": "",
-      "estimated_read_minutes": 8,
-      "fetched_at": "2026-09-11T04:57:18.586053+00:00"
-    },
-    {
-      "id": "d885a20dc3074d25",
-      "title": "Google Cements Its Place as Nuclear’s Salvager",
-      "url": "https://heatmap.news/am/google-nuclear-fortum",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-10T12:20:24+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 30,
-      "fetched_at": "2026-09-11T04:57:16.474702+00:00"
     }
   ]
 }
