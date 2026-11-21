@@ -1,6 +1,117 @@
 {
-  "last_updated": "2026-11-20T07:35:46.020309+00:00",
+  "last_updated": "2026-11-21T07:31:38.833834+00:00",
   "articles": [
+    {
+      "id": "f227f31f7b751244",
+      "title": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
+      "url": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-11-20T14:00:03+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "An Iranian news agency had aired a week-old video of what appeared to be a U.S.-made Tomahawk missile hitting a school. News reports claimed that the strike killed more than 175 people, most of them children. president and military denied responsibility.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-11-21T07:31:23.759028+00:00"
+    },
+    {
+      "id": "e94e07951c191203",
+      "title": "The Download: inside the quest to make our minds immortal",
+      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-20T13:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal\nTo preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond death. In their quest for cognitive immortality, these “mind savers” are exploring everything from head transplants and brain freezing to conscious software avatars.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-11-21T07:31:22.686142+00:00"
+    },
+    {
+      "id": "91c3fa5547fa06c1",
+      "title": "The Senate Just Passed Permitting Reform",
+      "url": "https://heatmap.news/am/permitting-reform-iea",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-20T13:31:28+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "The Senate passes permitting reform\nThe Senate passed the bipartisan permitting reform bill Thursday night on a 62-33 vote. Every Republican except Missouri’s Josh Hawley and South Dakota’s Mike Rounds, critics of the legislation’s provisions for transmission lines, joined more than a dozen Democrats to pass the Bipartisan American Affordability and Jobs Act. The bill passed without an 11th-hour amendment designed to address the concerns of some tribal groups, which was blocked by Oregon Senator Jeff Merkley, who objected that the body was not voting on his separate amendment to ban data centers on federal lands.",
+      "signal": "",
+      "estimated_read_minutes": 10,
+      "fetched_at": "2026-11-21T07:31:20.080438+00:00"
+    },
+    {
+      "id": "469d96c0bd40e605",
+      "title": "The Deadly Shipwreck Threatening Offshore Wind",
+      "url": "https://heatmap.news/plus/the-fight/hotspots/the-deadly-shipwreck-threatening-offshore-wind",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-20T21:31:55+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "The following conversation was lightly edited for clarity. How would you distill the problem in the relationship between data center developers and the communities they’re in conflict with? The lack of community engagement, involvement or its voice being reflected in what’s coming into their communities.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-11-21T07:31:19.402489+00:00"
+    },
+    {
+      "id": "aa0b40b8ce2238d2",
+      "title": "What a Biden Environmental Justice Official Wants Data Center Developers to Know",
+      "url": "https://heatmap.news/plus/the-fight/qa/natasha-dejarnett-data-centers",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-20T21:33:33+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "After the 2026 midterm elections it’s safe to say data centers are the new political punching bag – but an irony in this is how fights over these projects closely resemble the very same environmental justice conversations that were front and center under Biden. Like many of us in energy and environment professions, DeJarnett didn’t expect to be working on data centers, until she started being invited to communities fighting these projects to provide her perspective and public health expertise. She’s since become one of the go-to voices from the previous administration when it comes to data center conflicts and community relationships.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-11-21T07:31:18.726910+00:00"
+    },
+    {
+      "id": "dcde8db0adcee67e",
+      "title": "The Freakout Over the Data Center Loophole That Wasn’t",
+      "url": "https://heatmap.news/plus/the-fight/spotlight/internet-access-senate-permitting-bill-data-centers",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-20T21:34:01+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "The following conversation was lightly edited for clarity. How would you distill the problem in the relationship between data center developers and the communities they’re in conflict with? The lack of community engagement, involvement or its voice being reflected in what’s coming into their communities.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-11-21T07:31:18.138147+00:00"
+    },
+    {
+      "id": "df518072ef5589bb",
+      "title": "Weekly Dose of Optimism #220",
+      "url": "https://www.notboring.co/p/weekly-dose-of-optimism-220",
+      "source_name": "Not Boring",
+      "source_type": "substack",
+      "published_at": "2026-11-20T13:52:45+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Since we spoke last Friday, GTA 6 is finally out, Anthropic is public, Starships are reusable, leukemia may not be as deadly, we may be able to live on the open seas, and… there’s just so much more. I think we might have both the highest density of great things in the Main Dose and the longest section of Extra Doses to date (there are 10 down there, including Anthropic and new Google models). Almost everything in Extra Dose would have made the top 5 even like 3 months ago.",
+      "signal": "",
+      "estimated_read_minutes": 10,
+      "fetched_at": "2026-11-21T07:31:16.376561+00:00"
+    },
     {
       "id": "3685f7cce830fbdd",
       "title": "Community-Focused Academic Brings AI Tools to Colorado Farmers",
@@ -7687,118 +7798,6 @@
       "signal": "",
       "estimated_read_minutes": 4,
       "fetched_at": "2026-09-12T04:49:45.833070+00:00"
-    },
-    {
-      "id": "c992676ad12d1a3c",
-      "title": "The Download: biotech’s future and cheaper, cleaner steel",
-      "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-11T12:10:00+00:00",
-      "sectors": [
-        "Defence",
-        "Robotics",
-        "Climate",
-        "MedTech"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Meet the under-35s shaping the future of biotech\nEvery year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the brightest and best young minds working across science and technology. This year’s honorees include nine people transforming biotech, whose work spans everything from lifesaving innovations to groundbreaking longevity tech.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-09-12T04:49:45.269782+00:00"
-    },
-    {
-      "id": "70d2b5e1fab497fa",
-      "title": "Roundtables: AI’s apocalypse crisis",
-      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-11T20:05:06+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "Employees at the world's leading AI labs are saying there's a real possibility that advanced AI could destroy humanity. Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction fears: where they come from, whether they hold any water, and, if so, what we should do.",
-      "signal": "",
-      "estimated_read_minutes": 2,
-      "fetched_at": "2026-09-12T04:49:44.705617+00:00"
-    },
-    {
-      "id": "be609d31fbd4d557",
-      "title": "Oil Prices Spike After Houthis Blitz",
-      "url": "https://heatmap.news/am/houthis-oil-prices",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-11T12:38:46+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 27,
-      "fetched_at": "2026-09-12T04:49:43.146105+00:00"
-    },
-    {
-      "id": "cd1e3d239830f753",
-      "title": "The Top 5 Midterm Races of the Data Center Backlash",
-      "url": "https://heatmap.news/plus/the-fight/spotlight/data-center-midterms",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-11T19:31:41+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 16,
-      "fetched_at": "2026-09-12T04:49:42.549630+00:00"
-    },
-    {
-      "id": "56ca2dfd3b5cc334",
-      "title": "All the Data Center News That’s Fit to Print",
-      "url": "https://heatmap.news/plus/the-fight/hotspots/arkansas-newspaper-entergy",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-11T19:36:47+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-09-12T04:49:41.964462+00:00"
-    },
-    {
-      "id": "5acd58cbf7e921be",
-      "title": "Why a Climate Law Expert Sees ‘Small Glimmers of Hope’",
-      "url": "https://heatmap.news/plus/the-fight/qa/renewables-restrictions-romany-webb",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-11T19:48:09+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-09-12T04:49:41.363585+00:00"
-    },
-    {
-      "id": "b8bc9c07ab5cd615",
-      "title": "New Englanders Will Pay Through the Nose to Stay Warm This Winter",
-      "url": "https://heatmap.news/energy/new-england-heating-oil",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-11T20:54:14+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-09-12T04:49:40.763676+00:00"
     }
   ]
 }
