@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-11-21T07:31:38.833834+00:00",
+  "last_updated": "2026-11-22T07:12:59.293104+00:00",
   "articles": [
+    {
+      "id": "9adb1d81ba3f6682",
+      "title": "Reading List 11/21/2026",
+      "url": "https://www.construction-physics.com/p/reading-list-11212026",
+      "source_name": "Construction Physics",
+      "source_type": "substack",
+      "published_at": "2026-11-21T13:04:03+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "Semiconductors"
+      ],
+      "excerpt": "This week we look at BAAJA, rayon for missiles, US gas consumption, Cyberarmageddon, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber. No essay this week, but I’m working on a long follow up to my technological search essay that should be out next week.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-11-22T07:12:36.142583+00:00"
+    },
     {
       "id": "f227f31f7b751244",
       "title": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
@@ -7783,21 +7800,6 @@
       "signal": "",
       "estimated_read_minutes": 1,
       "fetched_at": "2026-09-12T04:49:58.508755+00:00"
-    },
-    {
-      "id": "3dc010003e50a9df",
-      "title": "Meet the under-35s shaping the future of biotech",
-      "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-11T09:00:00+00:00",
-      "sectors": [
-        "MedTech"
-      ],
-      "excerpt": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includes nine people who are transforming biotech.",
-      "signal": "",
-      "estimated_read_minutes": 4,
-      "fetched_at": "2026-09-12T04:49:45.833070+00:00"
     }
   ]
 }
