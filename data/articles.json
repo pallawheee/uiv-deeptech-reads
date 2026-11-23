@@ -1,6 +1,21 @@
 {
-  "last_updated": "2026-11-22T07:12:59.293104+00:00",
+  "last_updated": "2026-11-23T07:58:14.978924+00:00",
   "articles": [
+    {
+      "id": "09dba235f167026c",
+      "title": "[Update] WazirX, ZebPay Among Platforms Impacted By MoEngage Data Breach",
+      "url": "https://inc42.com/buzz/now-moengage-suffers-cybersecurity-attack-due-to-compromised-third-party-vendor/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-11-23T05:32:01+00:00",
+      "sectors": [
+        "Cybersecurity"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through 40+ expert-led sessions, 1:1 mentorship and a personalised growth strategy. It closes with an in-person convocation and investor pitching. view\nRetailX by Inc42 is a 6-month, invite-only brand residency for the next generation of India's manufacturing, distribution and trading families.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-11-23T07:58:09.013824+00:00"
+    },
     {
       "id": "9adb1d81ba3f6682",
       "title": "Reading List 11/21/2026",
@@ -7785,21 +7800,6 @@
       "signal": "",
       "estimated_read_minutes": 4,
       "fetched_at": "2026-09-13T05:06:34.477960+00:00"
-    },
-    {
-      "id": "9c58c11785cb1a8c",
-      "title": "Mitti Labs Enters Deal With Google For 1 Mn Carbon Credits",
-      "url": "https://inc42.com/buzz/mitti-labs-enters-deal-with-google-for-1-mn-carbon-credits/",
-      "source_name": "Inc42",
-      "source_type": "publication",
-      "published_at": "2026-09-11T16:27:05+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
-      "signal": "",
-      "estimated_read_minutes": 1,
-      "fetched_at": "2026-09-12T04:49:58.508755+00:00"
     }
   ]
 }
