@@ -1,6 +1,152 @@
 {
-  "last_updated": "2026-11-23T07:58:14.978924+00:00",
+  "last_updated": "2026-11-24T10:12:38.323593+00:00",
   "articles": [
+    {
+      "id": "6558f891f88ab5a4",
+      "title": "NVIDIA Reinstates Jensen Huang As President & CEO",
+      "url": "https://inc42.com/buzz/nvidia-reinstates-jensen-huang-as-president-ceo/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-11-23T15:02:28+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through 40+ expert-led sessions, 1:1 mentorship and a personalised growth strategy. It closes with an in-person convocation and investor pitching. view\nRetailX by Inc42 is a 6-month, invite-only brand residency for the next generation of India's manufacturing, distribution and trading families.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-11-24T10:12:37.823324+00:00"
+    },
+    {
+      "id": "82cbb51768979670",
+      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-23T11:00:00+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models have found that this approach, known as enhanced rock weathering (ERW), could eventually remove 3 billion to 8 billion metric tons of carbon dioxide per year, helping to slow or one day even reverse global warming.",
+      "signal": "",
+      "estimated_read_minutes": 11,
+      "fetched_at": "2026-11-24T10:12:16.090316+00:00"
+    },
+    {
+      "id": "74abad025fa947f7",
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-23T13:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. The most misunderstood graph in AI just got a major update\nA new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good at tasks that require judgment as they are at coding. The report updates METR’s widely shared time horizon plot, which tested models on a large suite of tasks.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-11-24T10:12:15.507995+00:00"
+    },
+    {
+      "id": "7c1b7fa479f1c733",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-23T17:36:08+00:00",
+      "sectors": [
+        "Semiconductors"
+      ],
+      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-11-24T10:12:14.909538+00:00"
+    },
+    {
+      "id": "b51551917328ef27",
+      "title": "The Dark Cloud Hanging Over COP31",
+      "url": "https://heatmap.news/adaptation/cop31-adaptation-finance",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-21T16:24:02+00:00",
+      "sectors": [
+        "Defence",
+        "Climate"
+      ],
+      "excerpt": "But it seems that negotiators at COP31, which is set to wrap up in Antalya, Turkey this weekend, are struggling to make even incremental progress. One of the major outcomes of last year’s gathering was an agreement to “at least triple adaptation finance by 2035,” referring to grants, loans, and other assistance from developed to developing countries to help them adapt to climate changes they mostly did not cause. The goal was somewhat meaningless, however, because negotiators did not specify what the baseline annual number was — a tripling of what?",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-11-24T10:12:12.602875+00:00"
+    },
+    {
+      "id": "29ab5376df602f10",
+      "title": "Transcript: How AI Ate the American Economy",
+      "url": "https://heatmap.news/podcast/shift-key-162-load-bearing-transcript",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-23T10:00:07+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Subscribe to “Shift Key” and find this episode on Apple Podcasts, Spotify, Amazon, YouTube, or wherever you get your podcasts. You can also add the show’s RSS feed to your podcast app to follow us directly. Robinson Meyer:\nHello, it’s Monday, November 23.",
+      "signal": "",
+      "estimated_read_minutes": 30,
+      "fetched_at": "2026-11-24T10:12:11.936833+00:00"
+    },
+    {
+      "id": "773aa23f87a31a6f",
+      "title": "How AI Ate the American Economy",
+      "url": "https://heatmap.news/podcast/shift-key-162-load-bearing",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-23T10:10:06+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Robinson Meyer:\nHello, it’s Monday, November 23. You know, longtime listeners will remember that back in the spring of 2024, I think it was April, and it was the 10th episode of this show ever, we did an interview with the AI, energy and computing expert Jonathan Koomey. But my takeaway from that conversation was that there were still back then lots of reasons, very rational reasons to be skeptical that AI was about to explode as a major new energy user in the economy.",
+      "signal": "",
+      "estimated_read_minutes": 30,
+      "fetched_at": "2026-11-24T10:12:11.353758+00:00"
+    },
+    {
+      "id": "1874da811cbff849",
+      "title": "Climate Talks Collapse",
+      "url": "https://heatmap.news/am/cop31-breakdown-pjm",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-23T12:26:37+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Robinson Meyer:\nHello, it’s Monday, November 23. You know, longtime listeners will remember that back in the spring of 2024, I think it was April, and it was the 10th episode of this show ever, we did an interview with the AI, energy and computing expert Jonathan Koomey. But my takeaway from that conversation was that there were still back then lots of reasons, very rational reasons to be skeptical that AI was about to explode as a major new energy user in the economy.",
+      "signal": "",
+      "estimated_read_minutes": 30,
+      "fetched_at": "2026-11-24T10:12:10.776946+00:00"
+    },
+    {
+      "id": "8cc9de85a47a9277",
+      "title": "What the CEO of America’s Second-Richest Fusion Company Wants from the Next Congress",
+      "url": "https://heatmap.news/climate-tech/helion-congress-timeline",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-23T14:02:03+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "Robinson Meyer:\nHello, it’s Monday, November 23. You know, longtime listeners will remember that back in the spring of 2024, I think it was April, and it was the 10th episode of this show ever, we did an interview with the AI, energy and computing expert Jonathan Koomey. But my takeaway from that conversation was that there were still back then lots of reasons, very rational reasons to be skeptical that AI was about to explode as a major new energy user in the economy.",
+      "signal": "",
+      "estimated_read_minutes": 30,
+      "fetched_at": "2026-11-24T10:12:10.098626+00:00"
+    },
     {
       "id": "09dba235f167026c",
       "title": "[Update] WazirX, ZebPay Among Platforms Impacted By MoEngage Data Breach",
@@ -7662,144 +7808,6 @@
       "signal": "",
       "estimated_read_minutes": 20,
       "fetched_at": "2026-09-16T05:02:22.252880+00:00"
-    },
-    {
-      "id": "13e357d545a212b6",
-      "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
-      "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-14T12:10:00+00:00",
-      "sectors": [
-        "Robotics",
-        "Climate",
-        "MedTech"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world's leading AI labs are saying there's a real possibility that advanced AI could destroy humanity.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-09-15T05:07:10.683380+00:00"
-    },
-    {
-      "id": "8e0691407ddabe94",
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-14T16:00:00+00:00",
-      "sectors": [
-        "Defence"
-      ],
-      "excerpt": "New research from Google DeepMind suggests that peer pressure could keep them in line. A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in line.",
-      "signal": "",
-      "estimated_read_minutes": 8,
-      "fetched_at": "2026-09-15T05:07:10.120820+00:00"
-    },
-    {
-      "id": "74aac96083eac257",
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-14T17:54:22+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "In the aftermath of a cyberattack carried out by a swarm of OpenAI agents, the heads of top labs agree they need to slow down. This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-09-15T05:07:09.457020+00:00"
-    },
-    {
-      "id": "6af73d0250a5934e",
-      "title": "Court Strikes Down Trump’s Coal Plant ‘Emergency’ Order",
-      "url": "https://heatmap.news/am/trump-coal-order",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-14T12:06:02+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 17,
-      "fetched_at": "2026-09-15T05:07:07.795871+00:00"
-    },
-    {
-      "id": "5970d908fc7d8c93",
-      "title": "Americans Still Love the Environment",
-      "url": "https://heatmap.news/politics/new-environmental-movement",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-14T15:42:27+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 24,
-      "fetched_at": "2026-09-15T05:07:07.203452+00:00"
-    },
-    {
-      "id": "2fe08e934bc3a1c7",
-      "title": "The EPA’s Abdication",
-      "url": "https://heatmap.news/daily/epa-clean-air-act-plant",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-14T23:37:38+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 25,
-      "fetched_at": "2026-09-15T05:07:06.608542+00:00"
-    },
-    {
-      "id": "f9b6016ce039164d",
-      "title": "5 Takeaways From House Democrats’ New Climate Policy Agenda",
-      "url": "https://heatmap.news/politics/democrats-climate-policy",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-15T04:00:01+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 29,
-      "fetched_at": "2026-09-15T05:07:06.015510+00:00"
-    },
-    {
-      "id": "ce4567e06f8c12ff",
-      "title": "Even Democrats Don’t Talk About ‘Climate Change’ Anymore",
-      "url": "https://heatmap.news/politics/democrats-climate-change",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-15T04:00:01+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 29,
-      "fetched_at": "2026-09-15T05:07:05.417996+00:00"
-    },
-    {
-      "id": "d849300357d6c7ad",
-      "title": "Reading List — 09/12/2026",
-      "url": "https://www.construction-physics.com/p/reading-list-09122026",
-      "source_name": "Construction Physics",
-      "source_type": "substack",
-      "published_at": "2026-09-12T12:32:46+00:00",
-      "sectors": [
-        "Climate",
-        "Semiconductors"
-      ],
-      "excerpt": "This week we look at city permitting speeds, more efficient ground source heat pump drilling, an Amazon Air crash in Miami, cooling paint, and more. Roughly 2/3rds of the reading list is paywalled, so for full access become a paid subscriber. Housing and Cities\nEconomists Evan Soltas and Leonardo D’Amico have a new paper looking at permitting and construction speeds for housing in various cities in the US.",
-      "signal": "",
-      "estimated_read_minutes": 4,
-      "fetched_at": "2026-09-13T05:06:34.477960+00:00"
     }
   ]
 }
