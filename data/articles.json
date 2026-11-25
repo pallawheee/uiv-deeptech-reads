@@ -1,6 +1,132 @@
 {
-  "last_updated": "2026-11-24T10:12:38.323593+00:00",
+  "last_updated": "2026-11-25T08:57:25.749058+00:00",
   "articles": [
+    {
+      "id": "6c395f66a1b1b6e8",
+      "title": "Mitsubishi Electric Research Lab CEO on How He Reached the C-Suite",
+      "url": "https://spectrum.ieee.org/mitsubishi-electric-research-lab-ceo",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-11-24T19:00:01+00:00",
+      "sectors": [
+        "Defence"
+      ],
+      "excerpt": "It took Anthony Vetro nearly 30 years to climb the corporate ladder at Mitsubishi Electric Research Laboratories, in Cambridge, Mass. He joined MERL in 1996, right out of college, and he has worked there ever since. Vetro probably is best known for his research in multimedia signal processing, focusing on video compression.",
+      "signal": "",
+      "estimated_read_minutes": 8,
+      "fetched_at": "2026-11-25T08:57:02.972227+00:00"
+    },
+    {
+      "id": "c39cb76d54051a56",
+      "title": "Data centers are getting their own natural gas power plants",
+      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-24T11:00:00+00:00",
+      "sectors": [
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom. xAI’s Memphis campus has famously used dozens of natural gas turbines, some of them without permits, as far back as 2024.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-11-25T08:57:01.931168+00:00"
+    },
+    {
+      "id": "97c06055604e20bd",
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-24T13:10:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Data centers are getting their own natural gas power plants\nOne of the biggest obstacles to building a data center is getting approval to connect to the grid, a wait that could last as long as a decade. Some developers won’t wait and are instead building their own off-grid gas power plants to fuel the AI boom.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-11-25T08:57:01.318775+00:00"
+    },
+    {
+      "id": "039cb2fb34774760",
+      "title": "The Permitting Bill’s Next Battleground",
+      "url": "https://heatmap.news/politics/baaja-house",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-20T21:57:05+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "On's medium voltage AI uninterruptible power system is the only UPS proven to meet ERCOT's interconnection requirements. Allison Clements:\nIt's been validated at a Department of Energy lab and has three gigawatts deploying across four hyperscale campuses. The solution combines energy storage and power conditioning into a single technology, making it better than a BESS.",
+      "signal": "",
+      "estimated_read_minutes": 35,
+      "fetched_at": "2026-11-25T08:56:59.147900+00:00"
+    },
+    {
+      "id": "b2af7ab49198cb3d",
+      "title": "Congo Bans Cobalt Exports for Second Time in 2 Years",
+      "url": "https://heatmap.news/am/nvidia-drc-cobalt",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-24T12:17:11+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "AI Infrastructure",
+        "Semiconductors"
+      ],
+      "excerpt": "Jensen Huang’s return boosts energy stocks\nFollowing a pressure campaign reportedly involving President Donald Trump himself, Nvidia’s board of directors reinstated Jensen Huang as the chip designer’s chief executive Monday morning, just 11 days after the billionaire founder resigned in disgrace after admitting to extramarital affairs with at least two employees and a Chinese spy. His return to the helm of the company widely viewed as a barometer of the strength of the artificial intelligence boom bolstered stocks in the energy sector whose fates are closely tied to the continued growth of electricity demand for data centers. Those include next-generation geothermal startup Fervo Energy, which surged 8%; nuclear reactor startup X-energy, up nearly 13%; and heavy indebted data center developer CoreWeave, up nearly 23%.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-11-25T08:56:58.496824+00:00"
+    },
+    {
+      "id": "188c7b078bb17b96",
+      "title": "How a Data Center Comes to Town",
+      "url": "https://heatmap.news/podcast/load-bearing-chris-crosby-compass-datacenters",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-24T14:34:07+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "On's medium voltage AI uninterruptible power system is the only UPS proven to meet ERCOT's interconnection requirements. Allison Clements:\nIt's been validated at a Department of Energy lab and has three gigawatts deploying across four hyperscale campuses. The solution combines energy storage and power conditioning into a single technology, making it better than a BESS.",
+      "signal": "",
+      "estimated_read_minutes": 35,
+      "fetched_at": "2026-11-25T08:56:57.908698+00:00"
+    },
+    {
+      "id": "b83c74dfc588b00c",
+      "title": "Transcript: How a Data Center Comes to Town",
+      "url": "https://heatmap.news/podcast/transcript-load-bearing-chris-crosby-compass-datacenters",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-24T14:39:48+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "On's medium voltage AI uninterruptible power system is the only UPS proven to meet ERCOT's interconnection requirements. Allison Clements:\nIt's been validated at a Department of Energy lab and has three gigawatts deploying across four hyperscale campuses. The solution combines energy storage and power conditioning into a single technology, making it better than a BESS.",
+      "signal": "",
+      "estimated_read_minutes": 35,
+      "fetched_at": "2026-11-25T08:56:56.919851+00:00"
+    },
+    {
+      "id": "c4243dc67d207a46",
+      "title": "The People Who Want Data Centers … in Space!",
+      "url": "https://heatmap.news/climate-tech/space-data-centers",
+      "source_name": "Heatmap News",
+      "source_type": "newsletter",
+      "published_at": "2026-11-24T23:16:05+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "On's medium voltage AI uninterruptible power system is the only UPS proven to meet ERCOT's interconnection requirements. Allison Clements:\nIt's been validated at a Department of Energy lab and has three gigawatts deploying across four hyperscale campuses. The solution combines energy storage and power conditioning into a single technology, making it better than a BESS.",
+      "signal": "",
+      "estimated_read_minutes": 35,
+      "fetched_at": "2026-11-25T08:56:56.237132+00:00"
+    },
     {
       "id": "6558f891f88ab5a4",
       "title": "NVIDIA Reinstates Jensen Huang As President & CEO",
@@ -7687,127 +7813,6 @@
       "signal": "",
       "estimated_read_minutes": 19,
       "fetched_at": "2026-09-16T05:02:28.743749+00:00"
-    },
-    {
-      "id": "9f43cb396b8141f5",
-      "title": "The AI Inference Revolution Is Here",
-      "url": "https://spectrum.ieee.org/inference-hardware-revolution",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-09-15T13:00:05+00:00",
-      "sectors": [
-        "AI Infrastructure",
-        "Semiconductors"
-      ],
-      "excerpt": "Large language models (LLMs) ballooned from millions of parameters to trillions. This proved effective: The largest version of OpenAI’s GPT-3, released in 2020, correctly answered just 43.9 percent of questions on a popular knowledge-and-reasoning benchmark. Just four years later, GPT-4o reached a score of 88.7 percent on the same exam, effectively matching those of human experts.",
-      "signal": "",
-      "estimated_read_minutes": 17,
-      "fetched_at": "2026-09-16T05:02:28.169021+00:00"
-    },
-    {
-      "id": "78db0f3b5384c1fe",
-      "title": "What’s at stake in AI’s trillion-dollar gamble",
-      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-15T10:00:00+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "Can they make enough money to sustain the infrastructure boom? When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called hyperscalers are investing huge amounts of money to build AI data centers.",
-      "signal": "",
-      "estimated_read_minutes": 18,
-      "fetched_at": "2026-09-16T05:02:27.192992+00:00"
-    },
-    {
-      "id": "a672109cd79bf2ae",
-      "title": "AI models need more data about biology, and OpenAI is paying to create it",
-      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-15T12:00:00+00:00",
-      "sectors": [
-        "MedTech"
-      ],
-      "excerpt": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She called these documents “biotech’s lost archive” and said they could be used to help train AIs that would act as powerful copilots in the often opaque drug approval process.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-09-16T05:02:26.625486+00:00"
-    },
-    {
-      "id": "1689c67e49a0a24d",
-      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-      "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-15T12:10:00+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. The AI industry has taken a doomer turn. AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs aren’t safe and everyone needs to figure out what to do about it.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-09-16T05:02:26.031071+00:00"
-    },
-    {
-      "id": "c460cc0ebc3195ab",
-      "title": "Roundtables: Could AI really kill us all?",
-      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-15T17:47:51+00:00",
-      "sectors": [
-        "AI Infrastructure"
-      ],
-      "excerpt": "Watch a subscriber-only conversation unpacking AI extinction fears. Listen to the session or watch below\nEmployees at the world's leading AI labs are saying there's a real possibility that advanced AI could destroy humanity. Or is this more scaremongering and hype?",
-      "signal": "",
-      "estimated_read_minutes": 2,
-      "fetched_at": "2026-09-16T05:02:25.463884+00:00"
-    },
-    {
-      "id": "cb47d9f30ef04917",
-      "title": "Grain Trains Pained by Diesel Strain",
-      "url": "https://heatmap.news/am/grain-diesel-prices",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-15T12:12:49+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 26,
-      "fetched_at": "2026-09-16T05:02:23.567809+00:00"
-    },
-    {
-      "id": "e2680590590f7a23",
-      "title": "It’s Electric to Install 700 Curbside EV Chargers in New York City",
-      "url": "https://heatmap.news/electric-vehicles/its-electric-new-york",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-15T13:00:07+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 26,
-      "fetched_at": "2026-09-16T05:02:22.968398+00:00"
-    },
-    {
-      "id": "35bef02686d10adb",
-      "title": "A Fantastic New Way to Browse U.S Electricity and Energy Data",
-      "url": "https://heatmap.news/daily/us-energy-data-platfom",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-15T22:36:51+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-09-16T05:02:22.252880+00:00"
     }
   ]
 }
