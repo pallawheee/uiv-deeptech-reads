@@ -1,6 +1,68 @@
 {
-  "last_updated": "2026-11-26T08:43:40.585737+00:00",
+  "last_updated": "2026-11-27T08:54:33.966777+00:00",
   "articles": [
+    {
+      "id": "68a2a8a97ef57fa1",
+      "title": "GEF Capital Partners Announces First Close Of India Climate Fund IV At $615 Mn",
+      "url": "https://inc42.com/buzz/gef-capital-partners-announces-first-close-of-india-climate-fund-iv-at-615-mn/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-11-26T16:47:45+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through 40+ expert-led sessions, 1:1 mentorship and a personalised growth strategy. It closes with an in-person convocation and investor pitching. view\nRetailX by Inc42 is a 6-month, invite-only brand residency for the next generation of India's manufacturing, distribution and trading families.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-11-27T08:54:32.092238+00:00"
+    },
+    {
+      "id": "70e8e2eb0b4ce4d8",
+      "title": "CERT-In Flags High-Severity Vulnerability In e-Governance Platform DIGIT",
+      "url": "https://inc42.com/buzz/cert-in-flags-high-severity-vulnerability-in-e-governance-platform-digit/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-11-26T18:50:10+00:00",
+      "sectors": [
+        "Cybersecurity"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through 40+ expert-led sessions, 1:1 mentorship and a personalised growth strategy. It closes with an in-person convocation and investor pitching. view\nRetailX by Inc42 is a 6-month, invite-only brand residency for the next generation of India's manufacturing, distribution and trading families.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-11-27T08:54:31.288838+00:00"
+    },
+    {
+      "id": "6404fe4f3137aa0f",
+      "title": "The next generation of bionic hands is here—and they can feel",
+      "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-26T09:59:00+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to feel pressure.",
+      "signal": "",
+      "estimated_read_minutes": 10,
+      "fetched_at": "2026-11-27T08:54:14.106651+00:00"
+    },
+    {
+      "id": "feeb9fd3109e665a",
+      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-26T13:10:00+00:00",
+      "sectors": [
+        "Climate",
+        "MedTech",
+        "AI Infrastructure"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. The next generation of bionic hands is here—and they can feel\nAvi Davidson lost his left hand as a teenager. Since then, he's cycled through a few prosthetics.",
+      "signal": "",
+      "estimated_read_minutes": 5,
+      "fetched_at": "2026-11-27T08:54:13.484082+00:00"
+    },
     {
       "id": "8d9b8360a1a982c0",
       "title": "Green Aero Raises $14 Mn To Build Jet Engines, Combat Drones",
@@ -7743,71 +7805,6 @@
       "signal": "",
       "estimated_read_minutes": 19,
       "fetched_at": "2026-09-18T04:57:38.691382+00:00"
-    },
-    {
-      "id": "179e7734a40f2008",
-      "title": "Semiconductor Chips Have An Elemental Problem And Discovered Materials Wants It Fixed",
-      "url": "https://inc42.com/startups/semiconductor-chips-have-an-elemental-problem-and-discovered-materials-wants-it-fixed/",
-      "source_name": "Inc42",
-      "source_type": "publication",
-      "published_at": "2026-09-16T10:19:54+00:00",
-      "sectors": [
-        "Semiconductors"
-      ],
-      "excerpt": "Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view\nManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view\nD2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably.",
-      "signal": "",
-      "estimated_read_minutes": 1,
-      "fetched_at": "2026-09-17T05:05:50.387154+00:00"
-    },
-    {
-      "id": "23a9a051e1511ade",
-      "title": "3One4 Capital Portfolio Companies Win At The Economic Times Supply Chain Awards 2026",
-      "url": "https://3one4capital.com/blogs/3one4-capital-portfolio-companies-win-at-the-economic-times-supply-chain-awards-2026",
-      "source_name": "3one4 Capital",
-      "source_type": "blog",
-      "published_at": "2026-09-17T05:05:30.492272+00:00",
-      "sectors": [
-        "Robotics",
-        "AI Infrastructure"
-      ],
-      "excerpt": "At 3one4 Capital, our investment conviction remains anchored in backing category creators who combine deep technical innovation with operating discipline. The evolution of global commerce demands a fundamental transformation of physical logistics infrastructure. While software innovation has accelerated front-end consumer experiences, the back-end fulfillment floor, chemical supply network, and cold-chain distribution channels require hard-tech engineering to scale efficiently.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-09-17T05:05:30.492789+00:00"
-    },
-    {
-      "id": "0732e90fcdeaf797",
-      "title": "Rethinking Robot Safety in the Age of AI",
-      "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
-      "source_name": "IEEE Spectrum",
-      "source_type": "publication",
-      "published_at": "2026-09-16T16:51:02+00:00",
-      "sectors": [
-        "Robotics",
-        "AI Infrastructure",
-        "Cybersecurity"
-      ],
-      "excerpt": "Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker changes what it sees, decides, or does even when nothing appears to have failed? As AI and robotics continue to advance at an unprecedented pace, modern robots perceive through multimodal sensors, interpret context using AI models, and translate those interpretations into physical action.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-09-17T05:05:24.834746+00:00"
-    },
-    {
-      "id": "88d344bab70703ae",
-      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-16T12:10:00+00:00",
-      "sectors": [
-        "MedTech",
-        "AI Infrastructure",
-        "Semiconductors"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble\nWhen Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of uncertainties. So she started with a “remarkable fact” that is not in question: a handful of so-called hyperscalers are investing huge amounts of money to build AI data centers.",
-      "signal": "",
-      "estimated_read_minutes": 7,
-      "fetched_at": "2026-09-17T05:05:23.688736+00:00"
     }
   ]
 }
