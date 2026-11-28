@@ -1,6 +1,100 @@
 {
-  "last_updated": "2026-11-27T08:54:33.966777+00:00",
+  "last_updated": "2026-11-28T08:14:19.842264+00:00",
   "articles": [
+    {
+      "id": "5ac618fc91151524",
+      "title": "CERT-In Flags Five Cybersecurity Vulnerabilities In WhatsApp, Warns Of Data Exposure",
+      "url": "https://inc42.com/buzz/cert-in-flags-five-cybersecurity-vulnerabilities-in-whatsapp-warns-of-data-exposure/",
+      "source_name": "Inc42",
+      "source_type": "publication",
+      "published_at": "2026-11-27T15:16:11+00:00",
+      "sectors": [
+        "Cybersecurity"
+      ],
+      "excerpt": "Learn from India's top 1% D2C founders and experts through 40+ expert-led sessions, 1:1 mentorship and a personalised growth strategy. It closes with an in-person convocation and investor pitching. view\nRetailX by Inc42 is a 6-month, invite-only brand residency for the next generation of India's manufacturing, distribution and trading families.",
+      "signal": "",
+      "estimated_read_minutes": 1,
+      "fetched_at": "2026-11-28T08:14:13.685054+00:00"
+    },
+    {
+      "id": "b2fd01d6667aff9e",
+      "title": "How Engineers Designed a Mission to One of Jupiter’s Icy Moons",
+      "url": "https://spectrum.ieee.org/jupiter-europa-clipper-mission-jpl",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-11-26T14:00:02+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "The Europa Clipper is designed to investigate Jupiter’s enigmatic moon Europa and look for places that could support life in the ocean beneath the moon’s thick shell of ice. Tim Larson is the project manager for the mission at the Jet Propulsion Laboratory, and he spoke to IEEE Spectrum about designing and flying the Europa Clipper. Tim Larson\nTim Larson is the project manager for NASA’s Europa Clipper mission.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-11-28T08:13:56.670503+00:00"
+    },
+    {
+      "id": "a046ba0d9cacb338",
+      "title": "This ER Doctor Became a Hospital’s First Clinical AI Engineer",
+      "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+      "source_name": "IEEE Spectrum",
+      "source_type": "publication",
+      "published_at": "2026-11-27T14:00:01+00:00",
+      "sectors": [
+        "AI Infrastructure"
+      ],
+      "excerpt": "At the time, prompt engineering was being touted as one of the hot new jobs created by generative AI. Companies wanted people who knew how to coax the best answers from large language models (LLMs) by carefully wording instructions, supplying examples, and giving the systems personas or other context. Dinesh Rai\nEmployer:\nBoston Children’s Hospital\nOccupation:\nClinical AI Engineer\nEducation:\nBachelor’s degree in supply-chain management and marketing sciences, Rutgers Business School; Doctor of Medicine, Albert Einstein College of Medicine\nIt was an unusual role for a hospital, but Rai had an unusual résumé.",
+      "signal": "",
+      "estimated_read_minutes": 7,
+      "fetched_at": "2026-11-28T08:13:56.098084+00:00"
+    },
+    {
+      "id": "aa051562f5bb5948",
+      "title": "How cutting-edge prosthetics can help probe the human mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-27T10:00:00+00:00",
+      "sectors": [
+        "MedTech"
+      ],
+      "excerpt": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand.",
+      "signal": "",
+      "estimated_read_minutes": 4,
+      "fetched_at": "2026-11-28T08:13:55.116924+00:00"
+    },
+    {
+      "id": "4561993d088024e5",
+      "title": "Our 2027 Innovators Under 35 competition is now open",
+      "url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-27T10:48:47+00:00",
+      "sectors": [
+        "Climate"
+      ],
+      "excerpt": "Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today, our 2027 competition is officially open for nominations. We’re on the hunt for researchers and founders who are engineering solutions to some of the most formidable problems society faces, including human disease and climate change.",
+      "signal": "",
+      "estimated_read_minutes": 3,
+      "fetched_at": "2026-11-28T08:13:54.555349+00:00"
+    },
+    {
+      "id": "333aea681f20594a",
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "source_name": "MIT Technology Review",
+      "source_type": "publication",
+      "published_at": "2026-11-27T13:00:00+00:00",
+      "sectors": [
+        "Defence",
+        "Climate",
+        "MedTech",
+        "AI Infrastructure",
+        "Cybersecurity"
+      ],
+      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Our 2027 Innovators Under 35 competition is now open\nEvery year, MIT Technology Review honors 35 of the world's brightest young scientists, entrepreneurs, and inventors in our Innovators Under 35 list. And starting today, our 2027 competition is officially open for nominations.",
+      "signal": "",
+      "estimated_read_minutes": 6,
+      "fetched_at": "2026-11-28T08:13:53.971579+00:00"
+    },
     {
       "id": "68a2a8a97ef57fa1",
       "title": "GEF Capital Partners Announces First Close Of India Climate Fund IV At $615 Mn",
@@ -7712,99 +7806,6 @@
       "signal": "",
       "estimated_read_minutes": 5,
       "fetched_at": "2026-09-18T04:57:43.408089+00:00"
-    },
-    {
-      "id": "f2ae2ce9adbcb4d7",
-      "title": "The Download: mice with part-human brains and climate tech innovators",
-      "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
-      "source_name": "MIT Technology Review",
-      "source_type": "publication",
-      "published_at": "2026-09-17T12:10:00+00:00",
-      "sectors": [
-        "Climate",
-        "AI Infrastructure"
-      ],
-      "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells\nMultiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.",
-      "signal": "",
-      "estimated_read_minutes": 6,
-      "fetched_at": "2026-09-18T04:57:42.828031+00:00"
-    },
-    {
-      "id": "fad169e5397ae721",
-      "title": "Exclusive: Power Equipment Startup CorePower Magnetics Raises $10.6 Million",
-      "url": "https://heatmap.news/climate-tech/corepower-magnetics",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-17T11:00:07+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-09-18T04:57:41.336512+00:00"
-    },
-    {
-      "id": "93bd80e0c0862348",
-      "title": "Trump Is Gutting the Endangered Species Act",
-      "url": "https://heatmap.news/am/trump-endangered-species-2677870599",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-17T11:47:09+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 20,
-      "fetched_at": "2026-09-18T04:57:40.765385+00:00"
-    },
-    {
-      "id": "11bddb242dd927e7",
-      "title": "The Next Evolution of Renewable Energy Certificates",
-      "url": "https://heatmap.news/energy/cleancounts-recs",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-17T13:00:06+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 21,
-      "fetched_at": "2026-09-18T04:57:40.192097+00:00"
-    },
-    {
-      "id": "04ccd89533d36e2f",
-      "title": "Trump Keeps Wind Farms Waiting Despite Court Ruling",
-      "url": "https://heatmap.news/plus/the-fight/spotlight/wind-freeze-defense",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-17T15:54:25+00:00",
-      "sectors": [
-        "Defence",
-        "Climate"
-      ],
-      "excerpt": "Log in\nTo continue reading, log in to your account. Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap.",
-      "signal": "",
-      "estimated_read_minutes": 21,
-      "fetched_at": "2026-09-18T04:57:39.264954+00:00"
-    },
-    {
-      "id": "c4c2b5a845f133f6",
-      "title": "The Iran War’s New Fallout: Falling Emissions",
-      "url": "https://heatmap.news/daily/emissions-fall-iran-war",
-      "source_name": "Heatmap News",
-      "source_type": "newsletter",
-      "published_at": "2026-09-17T22:32:25+00:00",
-      "sectors": [
-        "Climate"
-      ],
-      "excerpt": "Create a Free Account\nTo unlock more free articles, please create a free account. By continuing, you agree to the Terms of Service and acknowledge our Privacy Policy\nWelcome to Heatmap\nThank you for registering with Heatmap. Climate change is one of the greatest challenges of our lives, a force reshaping our economy, our politics, and our culture.",
-      "signal": "",
-      "estimated_read_minutes": 19,
-      "fetched_at": "2026-09-18T04:57:38.691382+00:00"
     }
   ]
 }
